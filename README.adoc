@@ -1,0 +1,12 @@
+== ISO/TC 204 Geolexica Glossarist database
+
+This repository contains the latest snapshot of ISO/TC 204 Geolexica glossary in YAML format.
+
+This repository is managed by Glossarist desktop app and is built into
+https://github.com/geolexica/isotc204.geolexica.org[ISO/TC 204 Geolexica website],
+availabe at https://geolexica.org/.
+
+NOTE: The YAML data in this repository is not yet an authoritative data source.
+Currently, data stored in this structure is imported from the latest published
+ISO/TC 204 Multi-Lingual Glossary of Terms spreadsheets.
+In the future, all data will be managed through the Glossarist desktop application.
