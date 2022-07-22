@@ -16,7 +16,7 @@ jobs:
       - name: Trigger dependent repositories
         uses: peter-evans/repository-dispatch@v1
         with:
-          token: ${{ secrets.PAT_TOKEN }}
+          token: ${{ secrets.GLOSSARIST_CI_PAT_TOKEN }}
           repository: ISO-TC211/schemas.isotc211.org
           event-type: deploy
           client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
