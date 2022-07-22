@@ -6,17 +6,14 @@ on:
 
 jobs:
   trigger-deploy:
-    name: Trigger master deploy
+    name: Trigger deploy
     runs-on: ubuntu-latest
     steps:
-      - name: Build event type
-        id: event_type
-        run: |
-          echo "##[set-output name=value;]deploy_${GITHUB_REF##*/}"
-      - name: Trigger dependent repositories
-        uses: peter-evans/repository-dispatch@v1
-        with:
-          token: ${{ secrets.GLOSSARIST_CI_PAT_TOKEN }}
-          repository: ISO-TC211/schemas.isotc211.org
-          event-type: deploy
-          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
+
+    - name: Trigger downstream repositories
+      uses: peter-evans/repository-dispatch@v1
+      with:
+        token: ${{ secrets.GLOSSARIST_CI_PAT_TOKEN }}
+        repository: geolexica/isotc211.geolexica.org
+        event-type: deploy
+        client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
