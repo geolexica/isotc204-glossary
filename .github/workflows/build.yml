@@ -17,7 +17,7 @@ jobs:
 
   trigger-deploy:
     name: Trigger downstream repositories
-    require: build-release
+    needs: build-release
     uses: geolexica/ci/.github/workflows/glossary-trigger.yml@main
     with:
       repository: geolexica/isotc211.geolexica.org
