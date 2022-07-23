@@ -23,3 +23,8 @@ eng:
       between the _management_ {{management entity,entity}} and the application entity.
   examples: []
   language_code: eng
+  authoritative_source:
+    ref: 'ISO/TS 14812:2022'
+    clause: 3.1.5.1
+    link: 'https://www.iso.org/standard/79779.html'
+

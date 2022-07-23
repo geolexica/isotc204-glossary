@@ -20,3 +20,8 @@ eng:
   - content: A smartphone connected to a vehicle (via USB or Bluetooth) to provide
       {{driver}} navigation on the vehicle's large screen display
   language_code: eng
+  authoritative_source:
+    ref: 'ISO/TS 14812:2022'
+    clause: 3.7.1.6
+    link: 'https://www.iso.org/standard/79779.html'
+

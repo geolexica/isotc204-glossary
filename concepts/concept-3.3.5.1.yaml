@@ -16,3 +16,8 @@ eng:
   - content: The identification is generally a name or number.
   examples: []
   language_code: eng
+  authoritative_source:
+    ref: 'ISO/TS 14812:2022'
+    clause: 3.3.5.1
+    link: 'https://www.iso.org/standard/79779.html'
+

@@ -13,3 +13,8 @@ eng:
   - content: A business purchasing monthly {{public transport}} passes for its employees.
   - content: A commercial entity using a commercial courier service for package delivery.
   language_code: eng
+  authoritative_source:
+    ref: 'ISO/TS 14812:2022'
+    clause: 3.5.7.2
+    link: 'https://www.iso.org/standard/79779.html'
+

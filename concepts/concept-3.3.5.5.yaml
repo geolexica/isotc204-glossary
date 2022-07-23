@@ -13,3 +13,8 @@ eng:
   - content: A link can be curvilinear and can have various attributes such as width.
   examples: []
   language_code: eng
+  authoritative_source:
+    ref: 'ISO/TS 14812:2022'
+    clause: 3.3.5.5
+    link: 'https://www.iso.org/standard/79779.html'
+

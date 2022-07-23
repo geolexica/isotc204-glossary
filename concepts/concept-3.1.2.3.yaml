@@ -31,3 +31,8 @@ eng:
       unless explicitly specified otherwise.
   examples: []
   language_code: eng
+  authoritative_source:
+    ref: 'ISO/TS 14812:2022'
+    clause: 3.1.2.3
+    link: 'https://www.iso.org/standard/79779.html'
+

@@ -24,3 +24,8 @@ eng:
       ref: ref_5,clause 3.3.18
     modification: term changed to from "object class" to "class" and Notes to entry
       added.
+  authoritative_source:
+    ref: 'ISO/TS 14812:2022'
+    clause: 3.1.11.2
+    link: 'https://www.iso.org/standard/79779.html'
+

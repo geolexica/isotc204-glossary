@@ -17,3 +17,8 @@ eng:
       a university bus {{system}} can restrict access to students and faculty.
   examples: []
   language_code: eng
+  authoritative_source:
+    ref: 'ISO/TS 14812:2022'
+    clause: 3.5.8.8
+    link: 'https://www.iso.org/standard/79779.html'
+

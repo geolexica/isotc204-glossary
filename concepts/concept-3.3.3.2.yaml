@@ -18,3 +18,8 @@ eng:
       horseback riders, etc.
   examples: []
   language_code: eng
+  authoritative_source:
+    ref: 'ISO/TS 14812:2022'
+    clause: 3.3.3.2
+    link: 'https://www.iso.org/standard/79779.html'
+

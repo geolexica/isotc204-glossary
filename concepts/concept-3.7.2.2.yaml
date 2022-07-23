@@ -19,3 +19,8 @@ eng:
       to design speed.
   examples: []
   language_code: eng
+  authoritative_source:
+    ref: 'ISO/TS 14812:2022'
+    clause: 3.7.2.2
+    link: 'https://www.iso.org/standard/79779.html'
+

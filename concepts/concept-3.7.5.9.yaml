@@ -16,3 +16,8 @@ eng:
   - content: "<<SAE_J3194,SAE J3194>> associates this with a top speed in the range
       of 32 km/h to 48 km/h."
   language_code: eng
+  authoritative_source:
+    ref: 'ISO/TS 14812:2022'
+    clause: 3.7.5.9
+    link: 'https://www.iso.org/standard/79779.html'
+

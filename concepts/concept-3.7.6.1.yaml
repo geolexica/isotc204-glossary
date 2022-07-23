@@ -17,3 +17,8 @@ eng:
       For example, a bicycle is a "road vehicle" when the "road" is a {{cycleway}}.
   examples: []
   language_code: eng
+  authoritative_source:
+    ref: 'ISO/TS 14812:2022'
+    clause: 3.7.6.1
+    link: 'https://www.iso.org/standard/79779.html'
+

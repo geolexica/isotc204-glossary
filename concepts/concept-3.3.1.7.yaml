@@ -25,3 +25,8 @@ eng:
   - content: The term "undivided highway" is the equivalent American English term.
   examples: []
   language_code: eng
+  authoritative_source:
+    ref: 'ISO/TS 14812:2022'
+    clause: 3.3.1.7
+    link: 'https://www.iso.org/standard/79779.html'
+

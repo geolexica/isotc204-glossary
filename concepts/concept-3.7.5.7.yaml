@@ -15,3 +15,8 @@ eng:
   - content: "<<SAE_J3194,SAE J3194>> associates this with a top speed of less than
       13 km/h."
   language_code: eng
+  authoritative_source:
+    ref: 'ISO/TS 14812:2022'
+    clause: 3.7.5.7
+    link: 'https://www.iso.org/standard/79779.html'
+

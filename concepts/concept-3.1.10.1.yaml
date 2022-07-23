@@ -19,3 +19,8 @@ eng:
       that references the data concept or associated with the data themselves.
   examples: []
   language_code: eng
+  authoritative_source:
+    ref: 'ISO/TS 14812:2022'
+    clause: 3.1.10.1
+    link: 'https://www.iso.org/standard/79779.html'
+

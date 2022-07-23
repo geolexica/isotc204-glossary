@@ -14,3 +14,8 @@ eng:
       and/or good is received, transported and/or delivered.
   examples: []
   language_code: eng
+  authoritative_source:
+    ref: 'ISO/TS 14812:2022'
+    clause: 3.5.9.1
+    link: 'https://www.iso.org/standard/79779.html'
+

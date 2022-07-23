@@ -16,3 +16,8 @@ eng:
   - content: The term "maneuver" is the American English spelling.
   examples: []
   language_code: eng
+  authoritative_source:
+    ref: 'ISO/TS 14812:2022'
+    clause: 3.3.6.7
+    link: 'https://www.iso.org/standard/79779.html'
+
