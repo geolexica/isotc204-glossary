@@ -27,7 +27,7 @@ eng:
       ref: ref_14,clause 3.1.2
     modification: Note 1 to entry and deprecated term added.
   authoritative_source:
-    ref: 'ISO/TS 14812:2022'
+    ref: ISO/TS 14812:2022
     clause: 3.4.2.6
-    link: 'https://www.iso.org/standard/79779.html'
-
+    link: https://www.iso.org/standard/79779.html
+entry_status: valid

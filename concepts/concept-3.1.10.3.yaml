@@ -19,7 +19,7 @@ eng:
     modification: '"collection of data dictionary entries..." replaced with "collection
       of data concepts...".'
   authoritative_source:
-    ref: 'ISO/TS 14812:2022'
+    ref: ISO/TS 14812:2022
     clause: 3.1.10.3
-    link: 'https://www.iso.org/standard/79779.html'
-
+    link: https://www.iso.org/standard/79779.html
+entry_status: valid

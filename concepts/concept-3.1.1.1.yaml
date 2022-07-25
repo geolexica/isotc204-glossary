@@ -14,7 +14,7 @@ eng:
   - content: "{{person,Person}}, object, event, idea, process, etc."
   language_code: eng
   authoritative_source:
-    ref: 'ISO/TS 14812:2022'
+    ref: ISO/TS 14812:2022
     clause: 3.1.1.1
-    link: 'https://www.iso.org/standard/79779.html'
-
+    link: https://www.iso.org/standard/79779.html
+entry_status: valid

@@ -17,7 +17,7 @@ eng:
       ref: ref_13,clause 4.1.17
     modification: Note 1 to entry removed.
   authoritative_source:
-    ref: 'ISO/TS 14812:2022'
+    ref: ISO/TS 14812:2022
     clause: 3.1.13.1
-    link: 'https://www.iso.org/standard/79779.html'
-
+    link: https://www.iso.org/standard/79779.html
+entry_status: valid
