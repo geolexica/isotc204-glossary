@@ -12,7 +12,7 @@ eng:
   examples: []
   language_code: eng
   authoritative_source:
-    ref: 'ISO/TS 14812:2022'
+    ref: ISO/TS 14812:2022
     clause: 3.4.1.3
-    link: 'https://www.iso.org/standard/79779.html'
-
+    link: https://www.iso.org/standard/79779.html
+entry_status: valid
