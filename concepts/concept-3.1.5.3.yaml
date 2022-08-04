@@ -15,6 +15,8 @@ eng:
       reference architecture,ITS station reference architecture}} containing the OSI
       physical and data link layer protocols for ITS communications"
   notes:
+  - content: Within the Internet Engineering Task Force (IETF), the term "link layer"
+      is used to describe the same functionality as the ITS-S access layer.
   - content: Within the US, the NTCIP standards use the term "subnet layer" to describe
       the same functionality as the ITS-S access layer.
   examples: []

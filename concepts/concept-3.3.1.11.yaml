@@ -10,6 +10,9 @@ eng:
   - content: unpaved part of the {{urn:iso:std:iso:14812:3.3.1.10,roadside}} designed
       for travel safety purposes
   notes:
+  - content: A verge can separate two {{urn:iso:std:iso:14812:3.3.1.13,lane,lanes}}
+      of different modes, separate a {{urn:iso:std:iso:14812:3.3.1.13,traffic lane}}
+      from a ditch, or separate a lane from another safety hazard.
   - content: Roadside, {{urn:iso:std:iso:14812:3.3.1.18,shoulder}} and verge define
       similar but slightly different concepts.
   examples: []

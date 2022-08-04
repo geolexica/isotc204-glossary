@@ -10,6 +10,9 @@ eng:
   - content: "{{urn:iso:std:iso:14812:3.3.6.2,junction}} with at least one {{urn:iso:std:iso:14812:3.3.6.10,grade
       separated manoeuvre}}"
   notes:
+  - content: The term "interchange" typically refers to the facilities that enable
+      all available manoeuvres at the grade separated {{urn:iso:std:iso:14812:3.3.6.1,intersection}},
+      which typically includes multiple junctions.
   - content: The grade separation allows {{urn:iso:std:iso:14812:3.6.1.1,traveller,travellers}}
       on the {{urn:iso:std:iso:14812:3.3.5.5,link}} to pass unimpeded through the
       interchange when congestion is not present.

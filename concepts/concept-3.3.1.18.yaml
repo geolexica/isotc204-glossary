@@ -10,6 +10,8 @@ eng:
   - content: either a {{urn:iso:std:iso:14812:3.3.1.19,hard shoulder}} or a {{urn:iso:std:iso:14812:3.3.1.20,soft
       shoulder}}
   notes:
+  - content: In some jurisdictions, a shoulder can be used for emergency stops and/or
+      other purposes in addition to providing a clear zone for safety purposes.
   - content: "{{urn:iso:std:iso:14812:3.3.1.10,roadside,Roadside}}, shoulder, and
       {{urn:iso:std:iso:14812:3.3.1.11,verge}} define similar but slightly different
       concepts"

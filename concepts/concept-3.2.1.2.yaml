@@ -15,6 +15,10 @@ eng:
       located outside of a data centre that is designed to provide local processing
       or routing services while stationary
   notes:
+  - content: Typically, field systems are located along the {{urn:iso:std:iso:14812:3.3.1.10,roadside}}.
+  - content: Typically, the operation of a field system is governed by management
+      functions running in a centre system.
+  - content: Field systems can be permanently installed or transportable.
   - content: The term “roadside system” is typically used to describe field systems
       along a roadside but can also be used to refer to kiosks.
   examples:

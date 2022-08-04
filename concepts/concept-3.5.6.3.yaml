@@ -13,6 +13,8 @@ eng:
       where the transport user has the primary responsibility for the operation of
       the vehicle"
   notes:
+  - content: As there should only be one operator of a vehicle at any time, a shared
+      vehicle service should use a sequential operational model.
   - content: This term can be specialized by replacing "vehicle" with any defined
       vehicle type (e.g. "automated vehicle sharing").
   examples: []

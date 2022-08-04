@@ -10,6 +10,12 @@ eng:
   - content: part of the {{urn:iso:std:iso:14812:3.3.1.3,roadway}} that is currently
       intended for transport purposes
   notes:
+  - content: The travelled way does not include {{urn:iso:std:iso:14812:3.3.1.19,hard
+      shoulder,hard shoulders}}, {{urn:iso:std:iso:14812:3.3.1.17,hardstanding}},
+      or other areas that are not currently intended for normal operational use. In
+      other words, while these other areas are "designed" for transport purposes,
+      they are not "intended" for normal transport purposes (at present); rather these
+      extra areas exist for safety and other exceptional use conditions.
   - content: While the limits of the roadway are defined by the design of the physical
       infrastructure and are generally static; the limits of the travelled way can
       be dynamic, such as in the case of a {{urn:iso:std:iso:14812:3.3.4.1,hard shoulder

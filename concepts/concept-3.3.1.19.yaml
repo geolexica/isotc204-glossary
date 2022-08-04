@@ -10,6 +10,8 @@ eng:
   - content: part of the paved {{urn:iso:std:iso:14812:3.3.1.5,carriageway}} designed
       to support traffic loads but not normally intended for driving
   notes:
+  - content: A hard shoulder can be narrow or wide enough for a {{urn:iso:std:iso:14812:3.3.1.13,traffic
+      lane}}.
   - content: A hard shoulder can have a surface that discourages usage as a driving
       surface in some countries.
   examples: []

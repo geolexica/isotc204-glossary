@@ -14,6 +14,7 @@ eng:
   - content: A traffic lane may be reserved permanently or under certain conditions
       or times.
   examples:
+  - content: Bus lane.
   - content: High-occupancy vehicle lane.
   language_code: eng
   entry_status: valid

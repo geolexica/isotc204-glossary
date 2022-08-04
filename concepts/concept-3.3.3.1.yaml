@@ -10,6 +10,10 @@ eng:
   - content: "{{urn:iso:std:iso:14812:3.3.1.13,lane}} designed for the through movement
       of cycles"
   notes:
+  - content: Cycle lanes are typically much narrower than {{urn:iso:std:iso:14812:3.3.1.13,traffic
+      lane,traffic lanes}}.
+  - content: Cycle lanes are typically part of either a {{urn:iso:std:iso:14812:3.3.1.15,usable
+      width,carriageway}} or a {{urn:iso:std:iso:14812:3.3.3.2,cycleway}}.
   - content: Cycle lanes could also allow and be designed for {{urn:iso:std:iso:14812:3.7.6.2,motorized
       vehicle,motorized vehicles}} (e.g. e-scooters, mopeds, etc.) with similar performance
       characteristics as human-powered cycles, subject to local regulations.

@@ -11,6 +11,7 @@ eng:
       not belonging to the {{urn:iso:std:iso:14812:3.3.1.5,carriageway}} but providing
       lateral support to it
   notes:
+  - content: Soft shoulders are not normally intended for driving.
   - content: Soft shoulders often have a grass or gravel surface.
   examples: []
   language_code: eng

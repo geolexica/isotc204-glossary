@@ -13,6 +13,8 @@ eng:
       that can be carried into, or in near proximity of, a {{urn:iso:std:iso:14812:3.7.1.1,vehicle}}
       and {{urn:iso:std:iso:14812:3.2.3.6,connected}} as desired"
   notes:
+  - content: NDs are often more closely associated with a {{urn:iso:std:iso:14812:3.1.1.6,person}}
+      than they are with the vehicle.
   - content: Nomadic input devices do not require a maintenance operation to connect
       or disconnect.
   examples:

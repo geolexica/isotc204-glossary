@@ -10,6 +10,7 @@ eng:
   - content: rate of change of a {{urn:iso:std:iso:14812:3.1.1.3,material entity,material
       entity's}} position with respect to a frame of reference
   notes:
+  - content: Speed is a function of time.
   - content: Speed is the scalar absolute value (magnitude) of velocity.
   examples: []
   language_code: eng
