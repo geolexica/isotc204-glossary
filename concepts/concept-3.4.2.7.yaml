@@ -9,20 +9,17 @@ eng:
   - type: expression
     designation: "*location table*"
   definition:
-  - content: register of {{spatial reference,spatial references}} of one or more {{location}}
-      sub-types containing some information regarding position
+  - content: register of {{urn:iso:std:iso:14812:3.4.2.2,spatial reference,spatial
+      references}} of one or more {{urn:iso:std:iso:14812:3.4.1.1,location}} sub-types
+      containing some information regarding position
   notes:
   - content: The positional information need not be coordinates but could be descriptive.
   examples: []
   language_code: eng
+  entry_status: valid
   sources:
   - type: authoritative
     origin:
-      ref: ref_14,clause 3.1.1
-    modification: '"register of location instances..." changed to "register of spatial
-      references..." in order to fit the relevant concept model.'
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.4.2.7
-    link: https://www.iso.org/standard/79779.html
-  entry_status: valid
+      ref: ISO/TS 14812:2022
+      clause: 3.4.2.7
+      link: https://www.iso.org/standard/79779.html

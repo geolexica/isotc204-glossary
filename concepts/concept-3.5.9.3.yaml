@@ -7,13 +7,16 @@ eng:
     normative_status: preferred
     designation: concurrent
   definition:
-  - content: "{{operational model}} where {{service,services}} can be provided to
-      multiple {{user,users}} at any one time"
+  - content: "{{urn:iso:std:iso:14812:3.5.9.1,operational model}} where {{urn:iso:std:iso:14812:3.5.2.1,service,services}}
+      can be provided to multiple {{urn:iso:std:iso:14812:3.5.3.4,user,users}} at
+      any one time"
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.5.9.3
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.9.3
+      link: https://www.iso.org/standard/79779.html

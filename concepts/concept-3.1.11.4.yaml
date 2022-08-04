@@ -7,16 +7,17 @@ eng:
     normative_status: preferred
     designation: data frame
   definition:
-  - content: specific grouping of {{data element,data elements}} that describes information
-      of interest through a useful grouping of more atomic properties about one or
-      more {{class,classes}}
+  - content: specific grouping of {{urn:iso:std:iso:14812:3.1.11.1,data element,data
+      elements}} that describes information of interest through a useful grouping
+      of more atomic properties about one or more {{class,classes}}
   notes:
-  - content: The grouping can be a set, sequence or a choice.
   - content: A data frame can contain other data frames.
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.1.11.4
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.1.11.4
+      link: https://www.iso.org/standard/79779.html

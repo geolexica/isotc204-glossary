@@ -7,14 +7,16 @@ eng:
     normative_status: preferred
     designation: corporate customer model
   definition:
-  - content: "{{contractual model}} where the {{user}} is a {{commercial}} {{entity}}"
+  - content: "{{contractual model}} where the {{urn:iso:std:iso:14812:3.5.3.4,user}}
+      is a {{urn:iso:std:iso:14812:3.5.8.2,commercial}} {{urn:iso:std:iso:14812:3.1.1.1,entity}}"
   notes: []
   examples:
-  - content: A business purchasing monthly {{public transport}} passes for its employees.
   - content: A commercial entity using a commercial courier service for package delivery.
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.5.7.2
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.7.2
+      link: https://www.iso.org/standard/79779.html

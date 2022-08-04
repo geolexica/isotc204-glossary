@@ -7,19 +7,15 @@ eng:
     normative_status: preferred
     designation: data dictionary
   definition:
-  - content: collection of {{data concept,data concepts}} that allows lookup by {{entity}}
-      identifier
+  - content: collection of {{urn:iso:std:iso:14812:3.1.10.1,data concept,data concepts}}
+      that allows lookup by {{urn:iso:std:iso:14812:3.1.1.1,entity}} identifier
   notes: []
   examples: []
   language_code: eng
+  entry_status: valid
   sources:
   - type: authoritative
     origin:
-      ref: ref_17,ISO 22745-2:2010,B.2.16
-    modification: '"collection of data dictionary entries..." replaced with "collection
-      of data concepts...".'
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.1.10.3
-    link: https://www.iso.org/standard/79779.html
-  entry_status: valid
+      ref: ISO/TS 14812:2022
+      clause: 3.1.10.3
+      link: https://www.iso.org/standard/79779.html

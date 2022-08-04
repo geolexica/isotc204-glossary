@@ -9,18 +9,20 @@ eng:
   - type: expression
     designation: easement
   definition:
-  - content: area legally reserved for {{road}} transport purposes and support
+  - content: area legally reserved for {{urn:iso:std:iso:14812:3.3.5.1,road}} transport
+      purposes and support
   notes:
-  - content: Support includes physical equipment such as safety devices, signage and
-      controller cabinets as well as access by maintenance vehicles and personnel.
-  - content: The road reservation includes all {{carriageway,carriageways}} as well
-      as width to allow for {{roadside}} devices, {{shoulder,shoulders}}, {{verge,verges}},
-      {{footway,footways}}, drainage facilities, sound walls, slopes, embankments,
-      etc.
+  - content: The road reservation includes all {{urn:iso:std:iso:14812:3.3.1.5,carriageway,carriageways}}
+      as well as width to allow for {{urn:iso:std:iso:14812:3.3.1.10,roadside}} devices,
+      {{urn:iso:std:iso:14812:3.3.1.18,shoulder,shoulders}}, {{urn:iso:std:iso:14812:3.3.1.11,verge,verges}},
+      {{urn:iso:std:iso:14812:3.3.3.3,footway,footways}}, drainage facilities, sound
+      walls, slopes, embankments, etc.
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.3.1.2
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.3.1.2
+      link: https://www.iso.org/standard/79779.html

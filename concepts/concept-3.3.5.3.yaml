@@ -7,16 +7,19 @@ eng:
     normative_status: preferred
     designation: road model
   definition:
-  - content: representation of a {{road network}}
+  - content: representation of a {{urn:iso:std:iso:14812:3.3.5.2,road network}}
   notes:
-  - content: Road models for different {{system,systems}} will often define different
-      models. For example, a public {{transport system}} can define {{road link,road
-      links}} based on the {{location}} of bus stops while a traffic system can define
-      road links based on the location of {{junction,junctions}}.
+  - content: Road models for different {{urn:iso:std:iso:14812:3.1.2.1,system,systems}}
+      will often define different models. For example, a public {{urn:iso:std:iso:14812:3.1.2.2,transport
+      system}} can define {{urn:iso:std:iso:14812:3.3.5.6,road link,road links}} based
+      on the {{urn:iso:std:iso:14812:3.4.1.1,location}} of bus stops while a traffic
+      system can define road links based on the location of {{urn:iso:std:iso:14812:3.3.6.2,junction,junctions}}.
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.3.5.3
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.3.5.3
+      link: https://www.iso.org/standard/79779.html

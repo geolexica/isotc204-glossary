@@ -11,16 +11,19 @@ eng:
   - type: expression
     designation: "*top speed*"
   definition:
-  - content: "<vehicle> maximum {{speed}} at which a {{vehicle}} is intended to operate
-      for a sustained period of time"
+  - content: "<vehicle> maximum {{urn:iso:std:iso:14812:3.7.2.1,speed}} at which a
+      {{urn:iso:std:iso:14812:3.7.1.1,vehicle}} is intended to operate for a sustained
+      period of time"
   notes:
   - content: The term "top speed" is defined in <<SAE_J3194,SAE J3194>> in relation
       to powered micromobility vehicles and is considered to be semantically equivalent
       to design speed.
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.7.2.2
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.7.2.2
+      link: https://www.iso.org/standard/79779.html

@@ -11,20 +11,19 @@ eng:
   - type: expression
     designation: roadside system
   definition:
-  - content: infrastructure-based {{ITS component}} located outside of a data centre
-      that is designed to provide local processing or routing services while stationary
+  - content: infrastructure-based {{urn:iso:std:iso:14812:3.1.8.2,ITS component}}
+      located outside of a data centre that is designed to provide local processing
+      or routing services while stationary
   notes:
-  - content: Typically, field systems are located along the {{roadside}}.
-  - content: Typically, the operation of a field system is governed by management
-      functions running in a centre system.
-  - content: Field systems can be permanently installed or transportable.
   - content: The term “roadside system” is typically used to describe field systems
       along a roadside but can also be used to refer to kiosks.
   examples:
   - content: Traffic detector, camera, signal controller, message sign, tolling station.
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.2.1.2
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.2.1.2
+      link: https://www.iso.org/standard/79779.html

@@ -11,15 +11,19 @@ eng:
   - type: expression
     designation: need
   definition:
-  - content: "{{user need,need}} of an {{entity}} external to the {{intelligent transport
-      system}} for a {{surface transport system}} benefit that can be met with the
-      use of information, communication, sensor, and/or control technologies"
+  - content: "{{urn:iso:std:iso:14812:3.5.1.4,user need,need}} of an {{urn:iso:std:iso:14812:3.1.1.1,entity}}
+      external to the {{urn:iso:std:iso:14812:3.1.2.4,intelligent transport system}}
+      for a {{urn:iso:std:iso:14812:3.1.2.3,surface transport system}} benefit that
+      can be met with the use of information, communication, sensor, and/or control
+      technologies"
   notes: []
   examples:
   - content: Increasing safety, sustainability, efficiency and/or comfort.
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.5.3.4
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.3.4
+      link: https://www.iso.org/standard/79779.html

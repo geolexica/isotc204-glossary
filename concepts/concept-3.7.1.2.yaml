@@ -9,12 +9,15 @@ eng:
   - type: expression
     designation: "*engine*"
   definition:
-  - content: "{{material entity}} that converts energy into mechanical motion"
+  - content: "{{urn:iso:std:iso:14812:3.1.1.3,material entity}} that converts energy
+      into mechanical motion"
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.7.1.2
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.7.1.2
+      link: https://www.iso.org/standard/79779.html

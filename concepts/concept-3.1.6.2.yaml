@@ -9,14 +9,17 @@ eng:
   - type: expression
     designation: enterprise view resource
   definition:
-  - content: "<enterprise view> {{element}} that represents an {{entity}} that is
-      managed, operated, referenced and/or used to develop and provide {{intelligent
+  - content: "<enterprise view> {{urn:iso:std:iso:14812:3.1.3.10,element}} that represents
+      an {{urn:iso:std:iso:14812:3.1.1.1,entity}} that is managed, operated, referenced
+      and/or used to develop and provide {{urn:iso:std:iso:14812:3.1.2.4,intelligent
       transport system,ITS}}"
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.1.6.2
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.1.6.2
+      link: https://www.iso.org/standard/79779.html

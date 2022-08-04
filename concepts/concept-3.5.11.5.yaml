@@ -7,13 +7,15 @@ eng:
     normative_status: preferred
     designation: ridesourced service
   definition:
-  - content: "{{commercial}}, {{peer-to-peer}} {{shared transport service}} that transports
-      {{passenger,passengers}}"
+  - content: "{{urn:iso:std:iso:14812:3.5.8.2,commercial}}, {{urn:iso:std:iso:14812:3.5.7.5,peer-to-peer}}
+      {{urn:iso:std:iso:14812:3.5.6.2,shared transport service}} that transports {{urn:iso:std:iso:14812:3.6.2.1,passenger,passengers}}"
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.5.11.5
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.11.5
+      link: https://www.iso.org/standard/79779.html

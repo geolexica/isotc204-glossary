@@ -9,15 +9,18 @@ eng:
   - type: expression
     designation: "*pedestrian-speed vehicle*"
   definition:
-  - content: "{{vehicle}} with a {{design speed}} that does not exceed {{ultra-low
-      vehicle speed,ultra-low vehicle speeds}}"
+  - content: "{{urn:iso:std:iso:14812:3.7.1.1,vehicle}} with a {{urn:iso:std:iso:14812:3.7.2.2,design
+      speed}} that does not exceed {{urn:iso:std:iso:14812:3.7.5.7,ultra-low vehicle
+      speed,ultra-low vehicle speeds}}"
   notes:
   - content: The term "pedestrian speed vehicle" is allowed but the preferred term
       follows a logical progression of levels.
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.7.5.1
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.7.5.1
+      link: https://www.iso.org/standard/79779.html

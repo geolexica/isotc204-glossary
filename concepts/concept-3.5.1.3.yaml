@@ -9,14 +9,17 @@ eng:
   - type: expression
     designation: consumer
   definition:
-  - content: "{{entity}} that has a {{user need,need}} to be fulfilled"
+  - content: "{{urn:iso:std:iso:14812:3.1.1.1,entity}} that has a {{urn:iso:std:iso:14812:3.5.1.4,user
+      need,need}} to be fulfilled"
   notes:
   - content: The term "consumer" can be used when fulfilling the need results in the
-      consumption of a {{resource}}.
+      consumption of a {{urn:iso:std:iso:14812:3.1.6.2,resource}}.
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.5.1.3
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.1.3
+      link: https://www.iso.org/standard/79779.html

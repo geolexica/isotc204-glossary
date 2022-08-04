@@ -9,17 +9,20 @@ eng:
   - type: expression
     designation: ITS connected
   definition:
-  - content: characteristic of a {{material entity}} that is equipped with enabled
-      (i.e. on) and operational electronic communication technologies to support {{ITS
-      service,ITS services}}, including the means to send and receive data to and
-      from other connected entities
+  - content: characteristic of a {{urn:iso:std:iso:14812:3.1.1.3,material entity}}
+      that is equipped with enabled (i.e. on) and operational electronic communication
+      technologies to support {{urn:iso:std:iso:14812:3.5.3.1,ITS service,ITS services}},
+      including the means to send and receive data to and from other connected entities
   notes:
   - content: The term "connected" does not imply support for any specific communications
-      interface or _ITS-S application_ {{ITS-S application process,process}}.
+      interface or _ITS-S application_ {{urn:iso:std:iso:14812:3.2.9.2,ITS-S application
+      process,process}}.
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.2.3.6
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.2.3.6
+      link: https://www.iso.org/standard/79779.html

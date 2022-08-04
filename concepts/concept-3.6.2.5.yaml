@@ -7,16 +7,19 @@ eng:
     normative_status: preferred
     designation: remote driver
   definition:
-  - content: "{{driver}} that performs the {{dynamic driving task}} without using
-      the {{vehicle,vehicle's}} {{built-in vehicle input device,built-in input devices}}
-      to control the longitudinal and lateral movement of the vehicle"
+  - content: "{{urn:iso:std:iso:14812:3.6.2.3,driver}} that performs the {{urn:iso:std:iso:14812:3.7.3.1,dynamic
+      driving task}} without using the {{urn:iso:std:iso:14812:3.7.1.1,vehicle,vehicle's}}
+      {{urn:iso:std:iso:14812:3.7.1.5,built-in vehicle input device,built-in input
+      devices}} to control the longitudinal and lateral movement of the vehicle"
   notes:
   - content: A remote driver can use a variety of physical input devices, but none
       that are built into the vehicle.
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.6.2.5
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.6.2.5
+      link: https://www.iso.org/standard/79779.html

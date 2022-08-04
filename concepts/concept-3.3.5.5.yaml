@@ -7,14 +7,16 @@ eng:
     normative_status: preferred
     designation: link
   definition:
-  - content: "<road network> component of a {{road model}} that represents a connection
-      between two {{node,nodes}}"
+  - content: "<road network> component of a {{urn:iso:std:iso:14812:3.3.5.3,road model}}
+      that represents a connection between two {{urn:iso:std:iso:14812:3.3.5.4,node,nodes}}"
   notes:
   - content: A link can be curvilinear and can have various attributes such as width.
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.3.5.5
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.3.5.5
+      link: https://www.iso.org/standard/79779.html

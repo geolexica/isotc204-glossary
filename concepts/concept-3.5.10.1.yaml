@@ -7,13 +7,15 @@ eng:
     normative_status: preferred
     designation: network model
   definition:
-  - content: infrastructure framework for the agreement between a {{service provider}}
-      and a {{user}}
+  - content: infrastructure framework for the agreement between a {{urn:iso:std:iso:14812:3.5.1.2,service
+      provider}} and a {{urn:iso:std:iso:14812:3.5.3.4,user}}
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.5.10.1
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.10.1
+      link: https://www.iso.org/standard/79779.html

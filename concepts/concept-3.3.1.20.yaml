@@ -7,15 +7,17 @@ eng:
     normative_status: preferred
     designation: soft shoulder
   definition:
-  - content: unpaved part of the {{road reservation}} not belonging to the {{carriageway}}
-      but providing lateral support to it
+  - content: unpaved part of the {{urn:iso:std:iso:14812:3.3.1.2,road reservation}}
+      not belonging to the {{urn:iso:std:iso:14812:3.3.1.5,carriageway}} but providing
+      lateral support to it
   notes:
-  - content: Soft shoulders are not normally intended for driving.
   - content: Soft shoulders often have a grass or gravel surface.
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.3.1.20
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.3.1.20
+      link: https://www.iso.org/standard/79779.html

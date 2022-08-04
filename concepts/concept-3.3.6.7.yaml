@@ -11,13 +11,16 @@ eng:
   - type: expression
     designation: "*maneuver*"
   definition:
-  - content: "<junction> movement from an {{ingress lane}} to an {{egress lane}}"
+  - content: "<junction> movement from an {{urn:iso:std:iso:14812:3.3.6.3,ingress
+      lane}} to an {{urn:iso:std:iso:14812:3.3.6.5,egress lane}}"
   notes:
   - content: The term "maneuver" is the American English spelling.
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.3.6.7
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.3.6.7
+      link: https://www.iso.org/standard/79779.html

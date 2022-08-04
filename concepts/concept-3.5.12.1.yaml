@@ -9,14 +9,17 @@ eng:
   - type: expression
     designation: "*bicycle sharing service*"
   definition:
-  - content: "{{shared vehicle service}} that shares bicycles"
+  - content: "{{urn:iso:std:iso:14812:3.5.6.3,shared vehicle service}} that shares
+      bicycles"
   notes:
   - content: The term "bicycle sharing service" is admitted, but "bikesharing service"
       is preferred as it has fewer syllables.
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.5.12.1
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.12.1
+      link: https://www.iso.org/standard/79779.html

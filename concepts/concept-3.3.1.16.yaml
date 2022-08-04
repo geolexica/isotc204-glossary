@@ -7,16 +7,19 @@ eng:
     normative_status: preferred
     designation: lay-by
   definition:
-  - content: short length of paved {{carriageway}} at its edge designed to allow a
-      {{vehicle}} to draw out of the {{traffic lane,traffic lanes}} and stop temporarily
+  - content: short length of paved {{urn:iso:std:iso:14812:3.3.1.5,carriageway}} at
+      its edge designed to allow a {{urn:iso:std:iso:14812:3.7.1.1,vehicle}} to draw
+      out of the {{urn:iso:std:iso:14812:3.3.1.13,traffic lane,traffic lanes}} and
+      stop temporarily
   notes:
-  - content: Lay-bys are not part of a {{hard shoulder}}.
   - content: Lay-bys can be used for emergency situations, picking up/dropping off
-      {{passenger,passengers}}, etc.
+      {{urn:iso:std:iso:14812:3.6.2.1,passenger,passengers}}, etc.
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.3.1.16
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.3.1.16
+      link: https://www.iso.org/standard/79779.html

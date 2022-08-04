@@ -7,13 +7,15 @@ eng:
     normative_status: preferred
     designation: data flow
   definition:
-  - content: representation of data flowing between two {{process,processes}} or between
-      a process and a {{terminator}}
+  - content: representation of data flowing between two {{urn:iso:std:iso:14812:3.1.7.2,process,processes}}
+      or between a process and a {{urn:iso:std:iso:14812:3.1.8.3,terminator}}
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.1.7.1
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.1.7.1
+      link: https://www.iso.org/standard/79779.html

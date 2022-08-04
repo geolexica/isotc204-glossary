@@ -11,13 +11,16 @@ eng:
   - type: expression
     designation: traveller system
   definition:
-  - content: "{{ITS component}}, other than a {{vehicle system}}, that is used by
-      a {{person}} in relation to a past, current or upcoming journey"
+  - content: "{{urn:iso:std:iso:14812:3.1.8.2,ITS component}}, other than a {{urn:iso:std:iso:14812:3.2.1.5,vehicle
+      system}}, that is used by a {{urn:iso:std:iso:14812:3.1.1.6,person}} in relation
+      to a past, current or upcoming journey"
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.2.1.3
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.2.1.3
+      link: https://www.iso.org/standard/79779.html

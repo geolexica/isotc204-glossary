@@ -11,13 +11,15 @@ eng:
   - type: expression
     designation: provider
   definition:
-  - content: "<transport> {{entity}} that delivers one or more {{transport service,transport
-      services}}"
+  - content: "<transport> {{urn:iso:std:iso:14812:3.1.1.1,entity}} that delivers one
+      or more {{urn:iso:std:iso:14812:3.5.2.1,transport service,transport services}}"
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.5.2.2
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.2.2
+      link: https://www.iso.org/standard/79779.html

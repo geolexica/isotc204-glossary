@@ -7,13 +7,15 @@ eng:
     normative_status: preferred
     designation: ITS-S application installation
   definition:
-  - content: "{{ITS-S application process installation}} within the {{application
-      entity}}"
+  - content: "{{urn:iso:std:iso:14812:3.2.9.5,ITS-S application process installation}}
+      within the {{urn:iso:std:iso:14812:3.1.5.1,application entity}}"
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.2.9.6
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.2.9.6
+      link: https://www.iso.org/standard/79779.html

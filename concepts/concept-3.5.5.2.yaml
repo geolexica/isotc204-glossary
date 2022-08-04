@@ -9,14 +9,16 @@ eng:
   - type: expression
     designation: communication service
   definition:
-  - content: "<ITS-S> performance of one or more tasks to fulfil an {{ITS-S communications
-      need,ITS-S communication need}} for an {{ITS-S communications user,ITS-S communication
-      user}}"
+  - content: "<ITS-S> performance of one or more tasks to fulfil an {{urn:iso:std:iso:14812:3.5.5.4,ITS-S
+      communications need,ITS-S communication need}} for an {{urn:iso:std:iso:14812:3.5.5.3,ITS-S
+      communications user,ITS-S communication user}}"
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.5.5.2
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.5.2
+      link: https://www.iso.org/standard/79779.html

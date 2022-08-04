@@ -7,13 +7,16 @@ eng:
     normative_status: preferred
     designation: traffic regulation central system
   definition:
-  - content: "{{central system,centre system}} that officially records traffic regulations
-      in electronic form so that they can be distributed to other systems"
+  - content: "{{urn:iso:std:iso:14812:3.2.1.1,central system,centre system}} that
+      officially records traffic regulations in electronic form so that they can be
+      distributed to other systems"
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.2.2.7
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.2.2.7
+      link: https://www.iso.org/standard/79779.html

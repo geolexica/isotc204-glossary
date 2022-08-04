@@ -7,15 +7,16 @@ eng:
     normative_status: preferred
     designation: speed
   definition:
-  - content: rate of change of a {{material entity,material entity's}} position with
-      respect to a frame of reference
+  - content: rate of change of a {{urn:iso:std:iso:14812:3.1.1.3,material entity,material
+      entity's}} position with respect to a frame of reference
   notes:
-  - content: Speed is a function of time.
   - content: Speed is the scalar absolute value (magnitude) of velocity.
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.7.2.1
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.7.2.1
+      link: https://www.iso.org/standard/79779.html

@@ -7,12 +7,15 @@ eng:
     normative_status: preferred
     designation: ITS-S application
   definition:
-  - content: "{{ITS-S application process}} residing in the {{application entity}}"
+  - content: "{{urn:iso:std:iso:14812:3.2.9.2,ITS-S application process}} residing
+      in the {{urn:iso:std:iso:14812:3.1.5.1,application entity}}"
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.2.9.3
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.2.9.3
+      link: https://www.iso.org/standard/79779.html

@@ -7,12 +7,15 @@ eng:
     normative_status: preferred
     designation: egress lane
   definition:
-  - content: "{{traffic lane}} designed for exiting a {{junction}}"
+  - content: "{{urn:iso:std:iso:14812:3.3.1.13,traffic lane}} designed for exiting
+      a {{urn:iso:std:iso:14812:3.3.6.2,junction}}"
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.3.6.5
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.3.6.5
+      link: https://www.iso.org/standard/79779.html

@@ -9,13 +9,15 @@ eng:
   - type: expression
     designation: communication user
   definition:
-  - content: "<ITS-S> {{entity}} that has an {{ITS-S communications need,ITS-S communication
-      need}} to be fulfilled"
+  - content: "<ITS-S> {{urn:iso:std:iso:14812:3.1.1.1,entity}} that has an {{urn:iso:std:iso:14812:3.5.5.4,ITS-S
+      communications need,ITS-S communication need}} to be fulfilled"
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.5.5.3
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.5.3
+      link: https://www.iso.org/standard/79779.html

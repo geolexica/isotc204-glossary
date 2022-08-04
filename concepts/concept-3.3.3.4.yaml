@@ -7,12 +7,14 @@ eng:
     normative_status: preferred
     designation: sidewalk
   definition:
-  - content: "{{footway}} along a {{roadside}}"
+  - content: "{{urn:iso:std:iso:14812:3.3.3.3,footway}} along a {{urn:iso:std:iso:14812:3.3.1.10,roadside}}"
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.3.3.4
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.3.3.4
+      link: https://www.iso.org/standard/79779.html

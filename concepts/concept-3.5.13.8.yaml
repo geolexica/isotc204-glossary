@@ -7,13 +7,15 @@ eng:
     normative_status: preferred
     designation: taxi hailing app
   definition:
-  - content: "{{mobility app}} that assists a {{transport user}} in electronically
-      requesting a taxi"
+  - content: "{{urn:iso:std:iso:14812:3.5.13.1,mobility app}} that assists a {{urn:iso:std:iso:14812:3.5.2.3,transport
+      user}} in electronically requesting a taxi"
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.5.13.8
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.13.8
+      link: https://www.iso.org/standard/79779.html

@@ -9,17 +9,17 @@ eng:
   - type: expression
     designation: ITS spatial location
   definition:
-  - content: "{{location}} within three-dimensional space"
+  - content: "{{urn:iso:std:iso:14812:3.4.1.1,location}} within three-dimensional
+      space"
   notes:
-  - content: The "location" could be a point (consuming no space) or could consume
-      space in one, two, or three dimensions. In any case, the location is identified
-      within a larger space.
   - content: Within ITS, locations are typically locations on or near the surface
       of the earth.
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.4.1.2
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.4.1.2
+      link: https://www.iso.org/standard/79779.html

@@ -11,18 +11,18 @@ eng:
   - type: expression
     designation: "*subnet layer*"
   definition:
-  - content: "<ITS-S> protocol layer in the {{ITS-S reference architecture,ITS station
-      reference architecture}} containing the OSI physical and data link layer protocols
-      for ITS communications"
+  - content: "<ITS-S> protocol layer in the {{urn:iso:std:iso:14812:3.1.9.4,ITS-S
+      reference architecture,ITS station reference architecture}} containing the OSI
+      physical and data link layer protocols for ITS communications"
   notes:
-  - content: Within the Internet Engineering Task Force (IETF), the term "link layer"
-      is used to describe the same functionality as the ITS-S access layer.
   - content: Within the US, the NTCIP standards use the term "subnet layer" to describe
       the same functionality as the ITS-S access layer.
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.1.5.3
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.1.5.3
+      link: https://www.iso.org/standard/79779.html

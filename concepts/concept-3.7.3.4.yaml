@@ -9,15 +9,18 @@ eng:
   - type: expression
     designation: DDT fallback-ready user
   definition:
-  - content: "<driving automation> {{person}} who is able to operate the {{vehicle}}
-      if the Level 3 {{level 3 ADS,ADS}} issues a request to intervene or if that
-      person otherwise identifies a condition that requires intervention to perform
-      the {{dynamic driving task,DDT}}"
+  - content: "<driving automation> {{urn:iso:std:iso:14812:3.1.1.6,person}} who is
+      able to operate the {{urn:iso:std:iso:14812:3.7.1.1,vehicle}} if the Level 3
+      {{urn:iso:std:iso:14812:3.7.3.11,level 3 ADS,ADS}} issues a request to intervene
+      or if that person otherwise identifies a condition that requires intervention
+      to perform the {{urn:iso:std:iso:14812:3.7.3.1,dynamic driving task,DDT}}"
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.7.3.4
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.7.3.4
+      link: https://www.iso.org/standard/79779.html

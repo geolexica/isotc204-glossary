@@ -7,14 +7,17 @@ eng:
     normative_status: preferred
     designation: private
   definition:
-  - content: "<transport service> {{financial model}} where {{service,services}} are
-      provided to members of the owning organization without usage fees"
+  - content: "<transport service> {{urn:iso:std:iso:14812:3.5.8.1,financial model}}
+      where {{urn:iso:std:iso:14812:3.5.2.1,service,services}} are provided to members
+      of the owning organization without usage fees"
   notes: []
   examples:
   - content: Fleet vehicles of an employer.
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.5.8.7
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.8.7
+      link: https://www.iso.org/standard/79779.html

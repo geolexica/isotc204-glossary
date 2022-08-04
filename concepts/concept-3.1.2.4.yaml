@@ -11,20 +11,20 @@ eng:
   - type: expression
     designation: "*intelligent transportation system*"
   definition:
-  - content: "{{system}} comprised of information, communication, sensor and control
-      technologies and that is designed to benefit a {{surface transport system}}"
+  - content: "{{urn:iso:std:iso:14812:3.1.2.1,system}} comprised of information, communication,
+      sensor and control technologies and that is designed to benefit a {{urn:iso:std:iso:14812:3.1.2.3,surface
+      transport system}}"
   notes:
-  - content: '"Intelligent transportation system" is the American English equivalent.'
-  - content: Benefits potentially include, but are not limited to, increased safety,
-      sustainability, efficiency and comfort.
   - content: The full term (i.e. "intelligent transport system") is often used when
       the noun is used as a subject, whereas the abbreviation (i.e. "ITS") is often
       used to modify another noun (e.g. "Intelligent transport systems provide ITS
       services.").
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.1.2.4
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.1.2.4
+      link: https://www.iso.org/standard/79779.html

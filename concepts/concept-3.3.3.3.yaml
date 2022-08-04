@@ -11,15 +11,18 @@ eng:
   - type: expression
     designation: "*pavement*"
   definition:
-  - content: "{{lane}} primarily designed for the movement of {{pedestrian,pedestrians}}"
+  - content: "{{urn:iso:std:iso:14812:3.3.1.13,lane}} primarily designed for the movement
+      of {{urn:iso:std:iso:14812:3.6.1.3,pedestrian,pedestrians}}"
   notes:
-  - content: A paved footway is called a "pavement" in British English.
   - content: Regulations typically allow footways to be used by other ultra-low speed
-      {{user,users}}, such as the users of wheelchairs and strollers.
+      {{urn:iso:std:iso:14812:3.5.3.4,user,users}}, such as the users of wheelchairs
+      and strollers.
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.3.3.3
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.3.3.3
+      link: https://www.iso.org/standard/79779.html

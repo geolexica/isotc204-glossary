@@ -9,18 +9,18 @@ eng:
   - type: expression
     designation: built-in input device
   definition:
-  - content: "{{vehicle input device,input device}} designed to be physically {{connected}}
-      to a {{vehicle}} and to remain connected even when the vehicle is not in use"
+  - content: "{{urn:iso:std:iso:14812:3.7.1.4,vehicle input device,input device}}
+      designed to be physically {{urn:iso:std:iso:14812:3.2.3.6,connected}} to a {{urn:iso:std:iso:14812:3.7.1.1,vehicle}}
+      and to remain connected even when the vehicle is not in use"
   notes:
-  - content: Built-in input devices include devices that can be temporarily {{disconnected}}
-      for security reasons (e.g. some radios are equipped with detachable front panels).
-  - content: Built-in input devices are typically considered to be a part of the vehicle.
   - content: Built-in input devices require a maintenance operation to connect or
       disconnect.
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.7.1.5
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.7.1.5
+      link: https://www.iso.org/standard/79779.html
