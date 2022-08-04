@@ -12,6 +12,8 @@ eng:
   - content: area legally reserved for {{urn:iso:std:iso:14812:3.3.5.1,road}} transport
       purposes and support
   notes:
+  - content: Support includes physical equipment such as safety devices, signage and
+      controller cabinets as well as access by maintenance vehicles and personnel.
   - content: The road reservation includes all {{urn:iso:std:iso:14812:3.3.1.5,carriageway,carriageways}}
       as well as width to allow for {{urn:iso:std:iso:14812:3.3.1.10,roadside}} devices,
       {{urn:iso:std:iso:14812:3.3.1.18,shoulder,shoulders}}, {{urn:iso:std:iso:14812:3.3.1.11,verge,verges}},

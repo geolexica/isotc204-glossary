@@ -12,6 +12,7 @@ eng:
       vehicle speeds}}"
   notes: []
   examples:
+  - content: Racing car.
   - content: High-speed train
   language_code: eng
   entry_status: valid

@@ -13,6 +13,10 @@ eng:
       intended to accommodate a single line of moving {{urn:iso:std:iso:14812:3.1.1.3,material
       entity,material entities}} along its length"
   notes:
+  - content: "{{urn:iso:std:iso:14812:3.3.1.13,lane,Lanes}} are often bounded by lane
+      markings."
+  - content: Lanes may be significantly wider than the normal vehicle width to allow
+      variance in lane position of the vehicle as well as for various vehicle dimensions.
   - content: The "lane" nomenclature typically refers to {{urn:iso:std:iso:14812:3.7.6.3,motor
       vehicle}} usage, but can also refer to other purposes, such as {{urn:iso:std:iso:14812:3.3.3.4,sidewalk,sidewalks}}.
   examples:

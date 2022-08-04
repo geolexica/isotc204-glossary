@@ -15,6 +15,9 @@ eng:
       sensor and control technologies and that is designed to benefit a {{urn:iso:std:iso:14812:3.1.2.3,surface
       transport system}}"
   notes:
+  - content: '"Intelligent transportation system" is the American English equivalent.'
+  - content: Benefits potentially include, but are not limited to, increased safety,
+      sustainability, efficiency and comfort.
   - content: The full term (i.e. "intelligent transport system") is often used when
       the noun is used as a subject, whereas the abbreviation (i.e. "ITS") is often
       used to modify another noun (e.g. "Intelligent transport systems provide ITS

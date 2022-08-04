@@ -11,6 +11,9 @@ eng:
       are provided by an administrative authority in an attempt to better serve societal
       interests
   notes:
+  - content: The {{urn:iso:std:iso:14812:3.5.2.1,transport service}} is typically
+      offered to the transport consumer for less than the full capital and operating
+      cost of providing the service, but this is not a requirement.
   - content: Typically, the administrative authority is a local government agency;
       but it could be another administrative authority, such as the national government
       or a {{urn:iso:std:iso:14812:3.5.8.2,commercial}} {{urn:iso:std:iso:14812:3.1.1.1,entity}}

@@ -13,6 +13,10 @@ eng:
       accommodate a single line of moving {{urn:iso:std:iso:14812:3.7.6.1,road vehicle,road
       vehicles}}
   notes:
+  - content: The term "lane" is often used to refer to a "traffic lane" when the context
+      is known to be "traffic".
+  - content: A traffic lane can be bi-directional, such as a single lane {{urn:iso:std:iso:14812:3.3.5.1,road}},
+      a two-way turn/overtaking lane, or a reversible flow lane.
   - content: Some jurisdictions allow supplemental uses of a traffic lane, such as
       multiple motorcycles sharing the width of a traffic lane or allowing a bicycle
       to use the edge of a lane.

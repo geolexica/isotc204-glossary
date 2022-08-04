@@ -12,6 +12,7 @@ eng:
       out of the {{urn:iso:std:iso:14812:3.3.1.13,traffic lane,traffic lanes}} and
       stop temporarily
   notes:
+  - content: Lay-bys are not part of a {{urn:iso:std:iso:14812:3.3.1.19,hard shoulder}}.
   - content: Lay-bys can be used for emergency situations, picking up/dropping off
       {{urn:iso:std:iso:14812:3.6.2.1,passenger,passengers}}, etc.
   examples: []

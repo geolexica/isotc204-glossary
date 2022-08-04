@@ -11,6 +11,7 @@ eng:
       elements}} that describes information of interest through a useful grouping
       of more atomic properties about one or more {{class,classes}}
   notes:
+  - content: The grouping can be a set, sequence or a choice.
   - content: A data frame can contain other data frames.
   examples: []
   language_code: eng
