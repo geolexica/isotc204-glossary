@@ -9,13 +9,15 @@ eng:
   - type: expression
     designation: "*dynamic location reference*"
   definition:
-  - content: "{{spatial reference}} generated on-the-fly based on geographic properties
-      in a digital map database"
+  - content: "{{urn:iso:std:iso:14812:3.4.2.2,spatial reference}} generated on-the-fly
+      based on geographic properties in a digital map database"
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.4.2.3
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.4.2.3
+      link: https://www.iso.org/standard/79779.html

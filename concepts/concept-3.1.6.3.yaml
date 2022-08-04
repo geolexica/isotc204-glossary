@@ -14,13 +14,10 @@ eng:
   examples:
   - content: A report, specification, manual or book, in printed or electronic form.
   language_code: eng
+  entry_status: valid
   sources:
   - type: authoritative
     origin:
-      ref: ref_11,clause 3.1.10
-    modification: ''
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.1.6.3
-    link: https://www.iso.org/standard/79779.html
-  entry_status: valid
+      ref: ISO/TS 14812:2022
+      clause: 3.1.6.3
+      link: https://www.iso.org/standard/79779.html

@@ -9,15 +9,19 @@ eng:
   - type: expression
     designation: enterprise view formal coordination
   definition:
-  - content: "<enterprise view> {{interaction}} between two {{enterprise object,enterprise
-      objects}} governed by a documented agreement"
+  - content: "<enterprise view> {{urn:iso:std:iso:14812:3.1.6.4,interaction}} between
+      two {{urn:iso:std:iso:14812:3.1.6.1,enterprise object,enterprise objects}} governed
+      by a documented agreement"
   notes: []
   examples:
   - content: A road operator can enter into formal agreement(s) with the owner of
-      a {{road}} and the owner(s) of the associated {{roadside}} equipment.
+      a {{urn:iso:std:iso:14812:3.3.5.1,road}} and the owner(s) of the associated
+      {{urn:iso:std:iso:14812:3.3.1.10,roadside}} equipment.
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.1.6.5
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.1.6.5
+      link: https://www.iso.org/standard/79779.html

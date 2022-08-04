@@ -7,15 +7,18 @@ eng:
     normative_status: preferred
     designation: paired on-demand
   definition:
-  - content: "<transport service> {{concurrent}} operation where the {{transport provider}}
-      may choose to divert from its path to service a new request from another {{transport
+  - content: "<transport service> {{urn:iso:std:iso:14812:3.5.9.3,concurrent}} operation
+      where the {{urn:iso:std:iso:14812:3.5.2.2,transport provider}} may choose to
+      divert from its path to service a new request from another {{urn:iso:std:iso:14812:3.5.2.3,transport
       user,transport users}} while servicing an earlier transport user"
   notes: []
   examples:
   - content: Ridesplitting.
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.5.9.6
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.9.6
+      link: https://www.iso.org/standard/79779.html

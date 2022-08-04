@@ -7,13 +7,15 @@ eng:
     normative_status: preferred
     designation: traffic management central system
   definition:
-  - content: "{{central system,centre system}} that monitors and controls traffic
-      and the {{road network}}"
+  - content: "{{urn:iso:std:iso:14812:3.2.1.1,central system,centre system}} that
+      monitors and controls traffic and the {{urn:iso:std:iso:14812:3.3.5.2,road network}}"
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.2.2.6
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.2.2.6
+      link: https://www.iso.org/standard/79779.html

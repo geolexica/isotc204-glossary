@@ -11,13 +11,15 @@ eng:
   - type: expression
     designation: need
   definition:
-  - content: "<ITS-S> {{user need,need}} for processing within a {{bounded secured
-      managed domain,bounded, secure, managed domain}}"
+  - content: "<ITS-S> {{urn:iso:std:iso:14812:3.5.1.4,user need,need}} for processing
+      within a {{bounded secured managed domain,bounded, secure, managed domain}}"
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.5.4.4
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.4.4
+      link: https://www.iso.org/standard/79779.html

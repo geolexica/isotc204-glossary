@@ -8,12 +8,15 @@ eng:
     designation: service
   definition:
   - content: provision of one or more capabilities, functionalities or facilities
-      to enable one or more tasks to fulfil a {{user need,need}}
+      to enable one or more tasks to fulfil a {{urn:iso:std:iso:14812:3.5.1.4,user
+      need,need}}
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.5.1.1
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.1.1
+      link: https://www.iso.org/standard/79779.html

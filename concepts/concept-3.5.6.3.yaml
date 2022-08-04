@@ -7,19 +7,20 @@ eng:
     normative_status: preferred
     designation: shared vehicle service
   definition:
-  - content: "{{transport service}} that {{sequential,sequentially}} provides the
-      same {{vehicle,vehicles}} to multiple unrelated {{transport user,transport users}}
-      and where the transport user has the primary responsibility for the operation
-      of the vehicle"
+  - content: "{{urn:iso:std:iso:14812:3.5.2.1,transport service}} that {{urn:iso:std:iso:14812:3.5.9.2,sequential,sequentially}}
+      provides the same {{urn:iso:std:iso:14812:3.7.1.1,vehicle,vehicles}} to multiple
+      unrelated {{urn:iso:std:iso:14812:3.5.2.3,transport user,transport users}} and
+      where the transport user has the primary responsibility for the operation of
+      the vehicle"
   notes:
-  - content: As there should only be one operator of a vehicle at any time, a shared
-      vehicle service should use a sequential operational model.
   - content: This term can be specialized by replacing "vehicle" with any defined
       vehicle type (e.g. "automated vehicle sharing").
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.5.6.3
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.6.3
+      link: https://www.iso.org/standard/79779.html

@@ -9,14 +9,17 @@ eng:
   - type: expression
     designation: ITS nomadic device
   definition:
-  - content: "{{personal information device}} that is taken with and can be accessed
-      by the {{traveller}} during a journey"
+  - content: "{{urn:iso:std:iso:14812:3.2.4.2,personal information device}} that is
+      taken with and can be accessed by the {{urn:iso:std:iso:14812:3.6.1.1,traveller}}
+      during a journey"
   notes: []
   examples:
   - content: Smartphone.
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.2.4.3
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.2.4.3
+      link: https://www.iso.org/standard/79779.html

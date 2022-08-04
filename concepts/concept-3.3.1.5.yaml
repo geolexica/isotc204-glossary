@@ -7,18 +7,18 @@ eng:
     normative_status: preferred
     designation: carriageway
   definition:
-  - content: contiguous area of {{roadway}} along a {{road segment}}
+  - content: contiguous area of {{urn:iso:std:iso:14812:3.3.1.3,roadway}} along a
+      {{urn:iso:std:iso:14812:3.3.5.8,road segment}}
   notes:
-  - content: A carriageway is comprised of one or more traffic {{traffic lane,lanes}}
-      [i.e. the {{usable width}}] and could include {{shoulder,shoulders}} and {{lay-by,lay-bys}}.
-  - content: Carriageways are separated by {{physical traffic separator,physical traffic
-      separators}}.
-  - content: When looking at a {{cross-section}} of the {{road reservation}}, the
-      roadway consists of all of the carriageways.
+  - content: When looking at a {{urn:iso:std:iso:14812:3.3.1.1,cross-section}} of
+      the {{urn:iso:std:iso:14812:3.3.1.2,road reservation}}, the roadway consists
+      of all of the carriageways.
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.3.1.5
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.3.1.5
+      link: https://www.iso.org/standard/79779.html

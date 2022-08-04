@@ -7,12 +7,14 @@ eng:
     normative_status: preferred
     designation: road network
   definition:
-  - content: interconnected collection of {{road,roads}}
+  - content: interconnected collection of {{urn:iso:std:iso:14812:3.3.5.1,road,roads}}
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.3.5.2
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.3.5.2
+      link: https://www.iso.org/standard/79779.html

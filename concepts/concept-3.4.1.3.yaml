@@ -7,12 +7,15 @@ eng:
     normative_status: preferred
     designation: point location
   definition:
-  - content: "{{spatial location}} with no length in any of the spatial dimensions"
+  - content: "{{urn:iso:std:iso:14812:3.4.1.2,spatial location}} with no length in
+      any of the spatial dimensions"
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.4.1.3
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.4.1.3
+      link: https://www.iso.org/standard/79779.html

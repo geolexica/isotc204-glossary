@@ -9,16 +9,19 @@ eng:
   - type: expression
     designation: Automated Driving System
   definition:
-  - content: "{{driving automation system}} that is able to perform the entire {{dynamic
-      driving task,DDT}} on a sustained basis"
+  - content: "{{urn:iso:std:iso:14812:3.7.3.6,driving automation system}} that is
+      able to perform the entire {{urn:iso:std:iso:14812:3.7.3.1,dynamic driving task,DDT}}
+      on a sustained basis"
   notes:
   - content: The abbreviated form ("ADS") is the most preferred form and the alternative
       form ("Automated Driving System") uses initial capitals to avoid confusion with
       the more general "driving automation system".
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.7.3.10
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.7.3.10
+      link: https://www.iso.org/standard/79779.html

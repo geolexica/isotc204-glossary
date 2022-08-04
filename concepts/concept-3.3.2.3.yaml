@@ -12,7 +12,7 @@ eng:
     designation: "*concrete barrier*"
   definition:
   - content: |-
-      {{physical traffic separator}} that consists of a wall with a wide, sloped base designed to divert {{vehicle,vehicles}} back into their {{traffic lane}}
+      {{urn:iso:std:iso:14812:3.3.2.1,physical traffic separator}} that consists of a wall with a wide, sloped base designed to divert {{urn:iso:std:iso:14812:3.7.1.1,vehicle,vehicles}} back into their {{urn:iso:std:iso:14812:3.3.1.13,traffic lane}}
 
 
 
@@ -31,8 +31,10 @@ eng:
       or sand.
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.3.2.3
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.3.2.3
+      link: https://www.iso.org/standard/79779.html

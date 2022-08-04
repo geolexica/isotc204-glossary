@@ -11,13 +11,15 @@ eng:
   - type: expression
     designation: "*grade junction*"
   definition:
-  - content: "{{junction}} without any {{grade separated manoeuvre,grade separated
-      manoeuvres}}"
+  - content: "{{urn:iso:std:iso:14812:3.3.6.2,junction}} without any {{urn:iso:std:iso:14812:3.3.6.10,grade
+      separated manoeuvre,grade separated manoeuvres}}"
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.3.6.8
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.3.6.8
+      link: https://www.iso.org/standard/79779.html

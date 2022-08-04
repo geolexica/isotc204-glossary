@@ -9,14 +9,16 @@ eng:
   - type: expression
     designation: driving automation dual-mode vehicle
   definition:
-  - content: "<driving automation> {{ADS-equipped vehicle}} designed for both driverless
-      operation and operation by a {{in-vehicle driver,conventional driver}} for complete
-      _trips_"
+  - content: "<driving automation> {{urn:iso:std:iso:14812:3.7.3.15,ADS-equipped vehicle}}
+      designed for both driverless operation and operation by a {{urn:iso:std:iso:14812:3.6.2.4,in-vehicle
+      driver,conventional driver}} for complete _trips_"
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.7.3.16
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.7.3.16
+      link: https://www.iso.org/standard/79779.html

@@ -7,16 +7,18 @@ eng:
     normative_status: preferred
     designation: ITS deployment
   definition:
-  - content: installation capable of performing one or more {{ITS application,ITS
-      applications}}
+  - content: installation capable of performing one or more {{urn:iso:std:iso:14812:3.2.8.1,ITS
+      application,ITS applications}}
   notes:
   - content: An ITS deployment typically refers to the support, central and roadside
       ITS stations coupled with a tacit acknowledgement of the mobile ITS stations
       that will communicate with the support, central or roadside ITS stations.
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.2.8.6
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.2.8.6
+      link: https://www.iso.org/standard/79779.html

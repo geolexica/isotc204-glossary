@@ -9,18 +9,15 @@ eng:
   - type: expression
     designation: use case scenario
   definition:
-  - content: "<use case> description of the sequence of events from the {{user,user's}}
+  - content: "<use case> description of the sequence of events from the {{urn:iso:std:iso:14812:3.5.3.4,user,user's}}
       perspective to perform a task in a specified context"
   notes: []
   examples: []
   language_code: eng
+  entry_status: valid
   sources:
   - type: authoritative
     origin:
-      ref: ref_20,ISO/IEC 25062:2006,A.17
-    modification: ''
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.1.12.2
-    link: https://www.iso.org/standard/79779.html
-  entry_status: valid
+      ref: ISO/TS 14812:2022
+      clause: 3.1.12.2
+      link: https://www.iso.org/standard/79779.html

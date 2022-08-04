@@ -7,19 +7,18 @@ eng:
     normative_status: preferred
     designation: ITS implementation
   definition:
-  - content: integration of each {{physical object}} necessary to implement one or
-      more {{ITS application,ITS applications}}
+  - content: integration of each {{urn:iso:std:iso:14812:3.1.8.1,physical object}}
+      necessary to implement one or more {{urn:iso:std:iso:14812:3.2.8.1,ITS application,ITS
+      applications}}
   notes:
-  - content: An ITS application typically requires multiple components (e.g. an ITS-S
-      acting as a user and another ITS-S acting as a provider). An ITS implementation
-      includes a sample of each component necessary for the service but often does
-      not represent a complete deployment.
   - content: An ITS implementation is typically used for a laboratory or other experimental
-      {{environment}} prior to a full-scale deployment.
+      {{urn:iso:std:iso:14812:3.1.3.11,environment}} prior to a full-scale deployment.
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.2.8.5
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.2.8.5
+      link: https://www.iso.org/standard/79779.html

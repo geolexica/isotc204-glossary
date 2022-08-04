@@ -7,15 +7,17 @@ eng:
     normative_status: preferred
     designation: interoperability design
   definition:
-  - content: characteristics necessary to fully define how various {{physical object,physical
-      objects}} interoperate to provide a {{service}}
+  - content: characteristics necessary to fully define how various {{urn:iso:std:iso:14812:3.1.8.1,physical
+      object,physical objects}} interoperate to provide a {{urn:iso:std:iso:14812:3.5.2.1,service}}
   notes:
   - content: Characteristics often include but are not limited to functional, performance
       and interface requirements.
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.2.8.2
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.2.8.2
+      link: https://www.iso.org/standard/79779.html

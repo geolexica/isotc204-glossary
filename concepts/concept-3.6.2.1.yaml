@@ -7,13 +7,16 @@ eng:
     normative_status: preferred
     designation: passenger
   definition:
-  - content: "{{person}} who has a reservation to travel or is travelling in a {{vehicle}}
-      except for any crew, staff or {{driver,drivers}}"
+  - content: "{{urn:iso:std:iso:14812:3.1.1.6,person}} who has a reservation to travel
+      or is travelling in a {{urn:iso:std:iso:14812:3.7.1.1,vehicle}} except for any
+      crew, staff or {{urn:iso:std:iso:14812:3.6.2.3,driver,drivers}}"
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.6.2.1
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.6.2.1
+      link: https://www.iso.org/standard/79779.html

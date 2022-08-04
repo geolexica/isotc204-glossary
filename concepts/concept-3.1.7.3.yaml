@@ -13,11 +13,13 @@ eng:
       object to achieve a goal"
   notes:
   - content: A function transforms inputs into outputs that may include the creation,
-      modification, monitoring or destruction of {{element,elements}}.
+      modification, monitoring or destruction of {{urn:iso:std:iso:14812:3.1.3.10,element,elements}}.
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.1.7.3
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.1.7.3
+      link: https://www.iso.org/standard/79779.html

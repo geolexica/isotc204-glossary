@@ -7,18 +7,15 @@ eng:
     normative_status: preferred
     designation: use case
   definition:
-  - content: description of the behavioural requirements of a {{system}} and its {{interaction}}
-      with a {{user}}
+  - content: description of the behavioural requirements of a {{urn:iso:std:iso:14812:3.1.2.1,system}}
+      and its {{urn:iso:std:iso:14812:3.1.6.4,interaction}} with a {{urn:iso:std:iso:14812:3.5.3.4,user}}
   notes: []
   examples: []
   language_code: eng
+  entry_status: valid
   sources:
   - type: authoritative
     origin:
-      ref: ref_21,clause 3.15
-    modification: Note 1 to entry removed.
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.1.12.1
-    link: https://www.iso.org/standard/79779.html
-  entry_status: valid
+      ref: ISO/TS 14812:2022
+      clause: 3.1.12.1
+      link: https://www.iso.org/standard/79779.html

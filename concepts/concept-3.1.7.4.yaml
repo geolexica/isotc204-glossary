@@ -7,12 +7,15 @@ eng:
     normative_status: preferred
     designation: process specification
   definition:
-  - content: "{{document}} that defines a lowest-level {{process}}"
+  - content: "{{urn:iso:std:iso:14812:3.1.6.3,document}} that defines a lowest-level
+      {{urn:iso:std:iso:14812:3.1.7.2,process}}"
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.1.7.4
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.1.7.4
+      link: https://www.iso.org/standard/79779.html

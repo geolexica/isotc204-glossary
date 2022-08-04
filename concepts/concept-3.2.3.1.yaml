@@ -9,13 +9,16 @@ eng:
   - type: expression
     designation: ITS field support equipment
   definition:
-  - content: portable {{field system}} used by field personnel to locally troubleshoot,
-      initialize, reprogram and test infrastructure equipment
+  - content: portable {{urn:iso:std:iso:14812:3.2.1.2,field system}} used by field
+      personnel to locally troubleshoot, initialize, reprogram and test infrastructure
+      equipment
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.2.3.1
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.2.3.1
+      link: https://www.iso.org/standard/79779.html

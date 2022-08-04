@@ -9,8 +9,8 @@ eng:
   - type: expression
     designation: ITS area location
   definition:
-  - content: "{{spatial location}} enclosed within a two-dimensional boundary or boundaries
-      across a defined surface"
+  - content: "{{urn:iso:std:iso:14812:3.4.1.2,spatial location}} enclosed within a
+      two-dimensional boundary or boundaries across a defined surface"
   notes:
   - content: The boundary can consist of a single curvilinear line (e.g. a circle)
       or multiple curvilinear lines (e.g. the boundaries of city limits) and can consist
@@ -18,8 +18,10 @@ eng:
   examples:
   - content: The British Isles.
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.4.1.6
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.4.1.6
+      link: https://www.iso.org/standard/79779.html

@@ -7,15 +7,17 @@ eng:
     normative_status: preferred
     designation: road cycle
   definition:
-  - content: "{{vehicle}} meeting the legal requirements to operate in {{cycle lane,cycle
-      lanes}} and {{cycleway,cycleways}}"
+  - content: "{{urn:iso:std:iso:14812:3.7.1.1,vehicle}} meeting the legal requirements
+      to operate in {{urn:iso:std:iso:14812:3.3.3.1,cycle lane,cycle lanes}} and {{urn:iso:std:iso:14812:3.3.3.2,cycleway,cycleways}}"
   notes:
-  - content: In some countries, other special {{lane,lanes}} could also be open to
-      road cycles, such as bus lanes.
+  - content: In some countries, other special {{urn:iso:std:iso:14812:3.3.1.13,lane,lanes}}
+      could also be open to road cycles, such as bus lanes.
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.7.6.5
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.7.6.5
+      link: https://www.iso.org/standard/79779.html

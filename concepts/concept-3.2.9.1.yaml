@@ -7,14 +7,16 @@ eng:
     normative_status: preferred
     designation: ITS application role
   definition:
-  - content: "{{ITS-S user need}} expressed as a formal set of interoperability requirements
-      that need to be fulfilled to satisfy a portion of functionality of an {{ITS
-      application}}"
+  - content: "{{urn:iso:std:iso:14812:3.5.4.4,ITS-S user need}} expressed as a formal
+      set of interoperability requirements that need to be fulfilled to satisfy a
+      portion of functionality of an {{urn:iso:std:iso:14812:3.2.8.1,ITS application}}"
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.2.9.1
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.2.9.1
+      link: https://www.iso.org/standard/79779.html

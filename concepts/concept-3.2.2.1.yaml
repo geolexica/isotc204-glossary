@@ -7,13 +7,16 @@ eng:
     normative_status: preferred
     designation: emergency management central system
   definition:
-  - content: "{{central system,centre system}} that allows an {{entity}} to manage
-      and respond to crashes, events, disasters, evacuation orders and other incidents"
+  - content: "{{urn:iso:std:iso:14812:3.2.1.1,central system,centre system}} that
+      allows an {{urn:iso:std:iso:14812:3.1.1.1,entity}} to manage and respond to
+      crashes, events, disasters, evacuation orders and other incidents"
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.2.2.1
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.2.2.1
+      link: https://www.iso.org/standard/79779.html

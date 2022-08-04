@@ -9,20 +9,21 @@ eng:
   - type: expression
     designation: ITS roadway equipment
   definition:
-  - content: "{{field system}} that performs localized {{ITS service,ITS services}}"
+  - content: "{{urn:iso:std:iso:14812:3.2.1.2,field system}} that performs localized
+      {{urn:iso:std:iso:14812:3.5.3.1,ITS service,ITS services}}"
   notes:
-  - content: ITS services that can be performed by ITS roadside equipment include
-      surveillance, traffic control, information provision, payment transaction services,
-      and/or enforcement
   - content: '"ITS roadway equipment" is used within the current version of the Architecture
       Reference for Cooperative and Intelligent Transportation (ARC-IT; see Reference
-      <<ref_25>>). The term {{roadway}} has been revised to reflect that the equipment
-      is typically along the roadway rather than a part of the roadway.'
+      <<ref_25>>). The term {{urn:iso:std:iso:14812:3.3.1.3,roadway}} has been revised
+      to reflect that the equipment is typically along the roadway rather than a part
+      of the roadway.'
   examples:
   - content: traffic signal controller, variable message sign, vehicle detection
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.2.3.2
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.2.3.2
+      link: https://www.iso.org/standard/79779.html

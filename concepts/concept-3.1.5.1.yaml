@@ -14,17 +14,20 @@ eng:
 
 
 
-      <ITS-S> part of the {{ITS-S reference architecture,ITS station reference architecture}} that is responsible for providing ITS-related functionality
+      <ITS-S> part of the {{urn:iso:std:iso:14812:3.1.9.4,ITS-S reference architecture,ITS station reference architecture}} that is responsible for providing ITS-related functionality
   notes:
   - content: Within the US, the National Transportation Communications for ITS Protocol
       (NTCIP) standards identify an "information layer" on top of the traditional
       OSI stack. However, the purpose of this layer includes both information configuration
       and functionality. The ITS-S reference architecture separates these two roles
-      between the _management_ {{management entity,entity}} and the application entity.
+      between the _management_ {{urn:iso:std:iso:14812:3.1.5.6,management entity,entity}}
+      and the application entity.
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.1.5.1
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.1.5.1
+      link: https://www.iso.org/standard/79779.html

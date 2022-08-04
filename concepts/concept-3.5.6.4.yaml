@@ -7,12 +7,14 @@ eng:
     normative_status: preferred
     designation: transport sharing
   definition:
-  - content: using a {{shared transport service}}
+  - content: using a {{urn:iso:std:iso:14812:3.5.6.2,shared transport service}}
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.5.6.4
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.6.4
+      link: https://www.iso.org/standard/79779.html

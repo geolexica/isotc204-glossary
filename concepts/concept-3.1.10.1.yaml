@@ -7,20 +7,24 @@ eng:
     normative_status: preferred
     designation: data concept
   definition:
-  - content: "{{data element}}, {{class}}, {{value domain}}, {{data frame}}, {{message}}
-      or {{interface dialogue}} defined, at a minimum, with an unambiguous identifier
-      and a definition"
+  - content: "{{urn:iso:std:iso:14812:3.1.11.1,data element}}, {{class}}, {{urn:iso:std:iso:14812:3.1.11.3,value
+      domain}}, {{urn:iso:std:iso:14812:3.1.11.4,data frame}}, {{urn:iso:std:iso:14812:3.1.11.5,message}}
+      or {{urn:iso:std:iso:14812:3.1.11.6,interface dialogue}} defined, at a minimum,
+      with an unambiguous identifier and a definition"
   notes:
   - content: In order to exchange a value corresponding to a data concept, more information
       than an identifier, a name and a definition can be needed. For a property, a
       data type is needed. Depending on the kind of property, other data elements
       such as unit of measure, and language, can be needed as well. The additional
-      information can be given in the {{data dictionary}}, in a data specification
-      that references the data concept or associated with the data themselves.
+      information can be given in the {{urn:iso:std:iso:14812:3.1.10.3,data dictionary}},
+      in a data specification that references the data concept or associated with
+      the data themselves.
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.1.10.1
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.1.10.1
+      link: https://www.iso.org/standard/79779.html

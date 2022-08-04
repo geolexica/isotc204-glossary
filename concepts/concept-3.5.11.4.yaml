@@ -7,13 +7,16 @@ eng:
     normative_status: preferred
     designation: rideshare service
   definition:
-  - content: "{{cooperative}} {{shared transport service}} that transports {{passenger,passengers}}
-      {{concurrent,concurrently}}"
+  - content: "{{urn:iso:std:iso:14812:3.5.8.4,cooperative}} {{urn:iso:std:iso:14812:3.5.6.2,shared
+      transport service}} that transports {{urn:iso:std:iso:14812:3.6.2.1,passenger,passengers}}
+      {{urn:iso:std:iso:14812:3.5.9.3,concurrent,concurrently}}"
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.5.11.4
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.11.4
+      link: https://www.iso.org/standard/79779.html

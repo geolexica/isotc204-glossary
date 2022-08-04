@@ -7,14 +7,18 @@ eng:
     normative_status: preferred
     designation: road user
   definition:
-  - content: mobile {{material entity}} within the {{road reservation}}
+  - content: mobile {{urn:iso:std:iso:14812:3.1.1.3,material entity}} within the {{urn:iso:std:iso:14812:3.3.1.2,road
+      reservation}}
   notes: []
   examples:
-  - content: "{{pedestrian,Pedestrians}}, road work personnel, {{vehicle occupant,vehicle
-      occupants}}, occupied and unoccupied vehicles, horses, etc."
+  - content: "{{urn:iso:std:iso:14812:3.6.1.3,pedestrian,Pedestrians}}, road work
+      personnel, {{urn:iso:std:iso:14812:3.6.2.2,vehicle occupant,vehicle occupants}},
+      occupied and unoccupied vehicles, horses, etc."
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.6.1.2
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.6.1.2
+      link: https://www.iso.org/standard/79779.html

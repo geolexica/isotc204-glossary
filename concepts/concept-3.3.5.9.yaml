@@ -7,17 +7,17 @@ eng:
     normative_status: preferred
     designation: lane link
   definition:
-  - content: "{{link}} that represents a {{lane}} of a {{road link}}"
+  - content: "{{urn:iso:std:iso:14812:3.3.5.5,link}} that represents a {{urn:iso:std:iso:14812:3.3.1.13,lane}}
+      of a {{urn:iso:std:iso:14812:3.3.5.6,road link}}"
   notes:
-  - content: A {{lane segment}} can start or end at {{location,locations}} other than
-      the start or end of the corresponding {{road segment}} (e.g. a lane can start
-      mid-block).
-  - content: A lane segment only includes the{{sequential}} lane links, it does not
-      include lane links from adjacent lanes.
+  - content: A lane segment only includes the{{urn:iso:std:iso:14812:3.5.9.2,sequential}}
+      lane links, it does not include lane links from adjacent lanes.
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.3.5.9
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.3.5.9
+      link: https://www.iso.org/standard/79779.html

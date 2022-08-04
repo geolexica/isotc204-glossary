@@ -7,13 +7,16 @@ eng:
     normative_status: preferred
     designation: ITS application specification
   definition:
-  - content: one or more {{document,documents}} that detail the {{interoperability
-      design}} for an {{ITS application}}
+  - content: one or more {{urn:iso:std:iso:14812:3.1.6.3,document,documents}} that
+      detail the {{urn:iso:std:iso:14812:3.2.8.2,interoperability design}} for an
+      {{urn:iso:std:iso:14812:3.2.8.1,ITS application}}
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.2.8.3
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.2.8.3
+      link: https://www.iso.org/standard/79779.html

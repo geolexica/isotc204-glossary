@@ -9,13 +9,16 @@ eng:
   - type: expression
     designation: enterprise view role
   definition:
-  - content: "<enterprise view> {{element}} that represents the specified responsibilities
-      between an {{enterprise object}} and another {{enterprise view}} element"
+  - content: "<enterprise view> {{urn:iso:std:iso:14812:3.1.3.10,element}} that represents
+      the specified responsibilities between an {{urn:iso:std:iso:14812:3.1.6.1,enterprise
+      object}} and another {{urn:iso:std:iso:14812:3.1.4.3,enterprise view}} element"
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.1.6.7
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.1.6.7
+      link: https://www.iso.org/standard/79779.html

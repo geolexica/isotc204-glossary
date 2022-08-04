@@ -9,14 +9,16 @@ eng:
   - type: expression
     designation: enterprise view include
   definition:
-  - content: "<enterprise view> {{relationship}} where one {{resource}} contains another
-      resource"
+  - content: "<enterprise view> {{urn:iso:std:iso:14812:3.1.6.8,relationship}} where
+      one {{urn:iso:std:iso:14812:3.1.6.2,resource}} contains another resource"
   notes: []
   examples:
-  - content: Every ITS component includes one or more {{module,modules}}.
+  - content: Every ITS component includes one or more {{urn:iso:std:iso:14812:3.1.8.7,module,modules}}.
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.1.6.9
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.1.6.9
+      link: https://www.iso.org/standard/79779.html

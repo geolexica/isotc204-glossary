@@ -7,13 +7,15 @@ eng:
     normative_status: preferred
     designation: link location
   definition:
-  - content: "{{pre-coded spatial reference}} defined within the {{road network}}
-      database"
+  - content: "{{urn:iso:std:iso:14812:3.4.2.4,pre-coded spatial reference}} defined
+      within the {{urn:iso:std:iso:14812:3.3.5.2,road network}} database"
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.4.2.5
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.4.2.5
+      link: https://www.iso.org/standard/79779.html

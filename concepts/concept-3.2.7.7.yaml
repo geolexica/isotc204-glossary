@@ -7,14 +7,16 @@ eng:
     normative_status: preferred
     designation: ITS-S router
   definition:
-  - content: "{{ITS station,ITS-S}} functionalities in an {{ITS-S node}} that enable
-      connecting two networks and forwarding packets not explicitly addressed to the
-      ITS-S node"
+  - content: "{{urn:iso:std:iso:14812:3.2.7.3,ITS station,ITS-S}} functionalities
+      in an {{urn:iso:std:iso:14812:3.2.7.8,ITS-S node}} that enable connecting two
+      networks and forwarding packets not explicitly addressed to the ITS-S node"
   notes: []
   examples: []
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.2.7.7
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.2.7.7
+      link: https://www.iso.org/standard/79779.html

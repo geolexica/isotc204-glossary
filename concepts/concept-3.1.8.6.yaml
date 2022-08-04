@@ -9,8 +9,9 @@ eng:
   - type: expression
     designation: ITS functional object
   definition:
-  - content: set of related {{process,processes}} that are performed by a {{physical
-      object}} to fulfil aspects of an {{ITS service}}
+  - content: set of related {{urn:iso:std:iso:14812:3.1.7.2,process,processes}} that
+      are performed by a {{urn:iso:std:iso:14812:3.1.8.1,physical object}} to fulfil
+      aspects of an {{urn:iso:std:iso:14812:3.5.3.1,ITS service}}
   notes:
   - content: The term "module" is used by the European FRAME architecture while the
       Architecture Reference for Cooperative and Intelligent Transportation (ARC-IT)
@@ -18,8 +19,10 @@ eng:
   examples:
   - content: A vehicle OBE can include a "vehicle basic safety" functional object.
   language_code: eng
-  authoritative_source:
-    ref: ISO/TS 14812:2022
-    clause: 3.1.8.6
-    link: https://www.iso.org/standard/79779.html
   entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.1.8.6
+      link: https://www.iso.org/standard/79779.html
