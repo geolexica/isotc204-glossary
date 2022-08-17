@@ -5,7 +5,7 @@ eng:
   terms:
   - type: expression
     normative_status: preferred
-    designation: 'class '
+    designation: class
   - type: expression
     normative_status: admitted
     designation: object class
