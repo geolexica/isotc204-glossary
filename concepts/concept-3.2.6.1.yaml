@@ -11,7 +11,8 @@ eng:
   - type: expression
     designation: OBE
   - type: expression
-    designation: "*onboard equipment*"
+    normative_status: admitted
+    designation: onboard equipment
   definition:
   - content: "{{urn:iso:std:iso:14812:3.2.1.5,vehicle system}} that provides all ITS
       functionality on-board the {{urn:iso:std:iso:14812:3.7.1.1,vehicle}}"

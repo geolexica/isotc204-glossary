@@ -7,9 +7,11 @@ eng:
     normative_status: preferred
     designation: ADS-equipped vehicle
   - type: expression
-    designation: "*automated vehicle*"
+    normative_status: admitted
+    designation: automated vehicle
   - type: expression
-    designation: "*AV*"
+    normative_status: admitted
+    designation: AV
   definition:
   - content: |-
       deprecated:[autonomous vehicle]

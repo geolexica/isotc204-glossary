@@ -9,7 +9,8 @@ eng:
   - type: expression
     designation: at-grade intersection
   - type: expression
-    designation: "*grade junction*"
+    normative_status: admitted
+    designation: grade junction
   definition:
   - content: "{{urn:iso:std:iso:14812:3.3.6.2,junction}} without any {{urn:iso:std:iso:14812:3.3.6.10,grade
       separated manoeuvre,grade separated manoeuvres}}"

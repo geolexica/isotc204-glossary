@@ -7,7 +7,8 @@ eng:
     normative_status: preferred
     designation: 'class '
   - type: expression
-    designation: "*object class*"
+    normative_status: admitted
+    designation: object class
   definition:
   - content: set of ideas, abstractions or things in the real world that are identified
       with explicit boundaries and meaning and whose properties and behaviour follow

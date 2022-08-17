@@ -7,7 +7,8 @@ eng:
     normative_status: preferred
     designation: dynamic spatial reference
   - type: expression
-    designation: "*dynamic location reference*"
+    normative_status: admitted
+    designation: dynamic location reference
   definition:
   - content: "{{urn:iso:std:iso:14812:3.4.2.2,spatial reference}} generated on-the-fly
       based on geographic properties in a digital map database"

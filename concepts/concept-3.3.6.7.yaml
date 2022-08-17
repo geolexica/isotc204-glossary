@@ -9,7 +9,8 @@ eng:
   - type: expression
     designation: manoeuvre
   - type: expression
-    designation: "*maneuver*"
+    normative_status: admitted
+    designation: maneuver
   definition:
   - content: "<junction> movement from an {{urn:iso:std:iso:14812:3.3.6.3,ingress
       lane}} to an {{urn:iso:std:iso:14812:3.3.6.5,egress lane}}"

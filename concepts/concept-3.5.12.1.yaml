@@ -7,7 +7,8 @@ eng:
     normative_status: preferred
     designation: bikesharing service
   - type: expression
-    designation: "*bicycle sharing service*"
+    normative_status: admitted
+    designation: bicycle sharing service
   definition:
   - content: "{{urn:iso:std:iso:14812:3.5.6.3,shared vehicle service}} that shares
       bicycles"

@@ -11,7 +11,8 @@ eng:
   - type: expression
     designation: RSE
   - type: expression
-    designation: "*connected vehicle roadside equipment*"
+    normative_status: admitted
+    designation: connected vehicle roadside equipment
   definition:
   - content: ITS {{urn:iso:std:iso:14812:3.2.3.2,ITS roadside equipment,roadside equipment}}
       that perform {{urn:iso:std:iso:14812:3.5.3.1,ITS service,ITS services}} by exchanging

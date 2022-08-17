@@ -7,7 +7,8 @@ eng:
     normative_status: preferred
     designation: geographic point location
   - type: expression
-    designation: "*geolocation*"
+    normative_status: admitted
+    designation: geolocation
   definition:
   - content: well defined geographic place described by one coordinate tuple
   notes:

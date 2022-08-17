@@ -9,7 +9,8 @@ eng:
   - type: expression
     designation: ITS spatial reference
   - type: expression
-    designation: "*location reference*"
+    normative_status: admitted
+    designation: location reference
   definition:
   - content: description of a {{urn:iso:std:iso:14812:3.4.1.2,spatial location}} in
       the real world according to a defined reference system
