@@ -7,7 +7,8 @@ eng:
     normative_status: preferred
     designation: ultra-low-speed vehicle
   - type: expression
-    designation: "*pedestrian-speed vehicle*"
+    normative_status: admitted
+    designation: pedestrian-speed vehicle
   definition:
   - content: "{{urn:iso:std:iso:14812:3.7.1.1,vehicle}} with a {{urn:iso:std:iso:14812:3.7.2.2,design
       speed}} that does not exceed {{urn:iso:std:iso:14812:3.7.5.7,ultra-low vehicle

@@ -7,9 +7,11 @@ eng:
     normative_status: preferred
     designation: interface dialogue
   - type: expression
-    designation: "*dialog*"
+    normative_status: admitted
+    designation: dialog
   - type: expression
-    designation: "*dialogue*"
+    normative_status: admitted
+    designation: dialogue
   definition:
   - content: bi-directional communication sequence between two parties in accordance
       with predetermined protocols

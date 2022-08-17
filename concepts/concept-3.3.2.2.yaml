@@ -7,11 +7,14 @@ eng:
     normative_status: preferred
     designation: central reservation
   - type: expression
-    designation: "*median*"
+    normative_status: admitted
+    designation: median
   - type: expression
-    designation: "*median strip*"
+    normative_status: admitted
+    designation: median strip
   - type: expression
-    designation: "*neutral ground*"
+    normative_status: admitted
+    designation: neutral ground
   definition:
   - content: part of the {{urn:iso:std:iso:14812:3.3.1.2,road reservation}} between
       {{urn:iso:std:iso:14812:3.3.1.5,carriageway,carriageways}} designed for travel

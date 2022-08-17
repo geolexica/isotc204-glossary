@@ -9,7 +9,8 @@ eng:
   - type: expression
     designation: vehicle design speed
   - type: expression
-    designation: "*top speed*"
+    normative_status: admitted
+    designation: top speed
   definition:
   - content: "<vehicle> maximum {{urn:iso:std:iso:14812:3.7.2.1,speed}} at which a
       {{urn:iso:std:iso:14812:3.7.1.1,vehicle}} is intended to operate for a sustained

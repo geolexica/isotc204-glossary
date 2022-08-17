@@ -11,7 +11,8 @@ eng:
   - type: expression
     designation: OBU
   - type: expression
-    designation: "*onboard unit*"
+    normative_status: admitted
+    designation: onboard unit
   definition:
   - content: part of {{urn:iso:std:iso:14812:3.2.6.1,ITS on-board equipment,on-board
       equipment}} that provides wireless connectivity to other {{urn:iso:std:iso:14812:3.1.8.2,ITS
