@@ -8,13 +8,13 @@ eng:
     designation: application entity
   - type: expression
     designation: ITS-S application entity
+  - type: expression
+    normative_status: deprecated
+    designation: information layer
   definition:
-  - content: |-
-      deprecated:[information layer]
-
-
-
-      <ITS-S> part of the {{urn:iso:std:iso:14812:3.1.9.4,ITS-S reference architecture,ITS station reference architecture}} that is responsible for providing ITS-related functionality
+  - content: "<ITS-S> part of the {{urn:iso:std:iso:14812:3.1.9.4,ITS-S reference
+      architecture,ITS station reference architecture}} that is responsible for providing
+      ITS-related functionality"
   notes:
   - content: Within the US, the National Transportation Communications for ITS Protocol
       (NTCIP) standards identify an "information layer" on top of the traditional

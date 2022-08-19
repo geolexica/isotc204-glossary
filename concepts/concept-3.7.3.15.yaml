@@ -12,13 +12,11 @@ eng:
   - type: expression
     normative_status: admitted
     designation: AV
+  - type: expression
+    normative_status: deprecated
+    designation: autonomous vehicle
   definition:
-  - content: |-
-      deprecated:[autonomous vehicle]
-
-
-
-      {{urn:iso:std:iso:14812:3.7.1.1,vehicle}} integrated with an {{urn:iso:std:iso:14812:3.7.3.10,ADS}}
+  - content: "{{urn:iso:std:iso:14812:3.7.1.1,vehicle}} integrated with an {{urn:iso:std:iso:14812:3.7.3.10,ADS}}"
   notes:
   - content: The terms "automated vehicle" and "AV" are often used in a colloquial
       form. However, these terms can be used to mean either an "ADS-equipped vehicle"
