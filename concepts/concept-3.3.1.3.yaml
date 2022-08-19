@@ -13,11 +13,10 @@ eng:
   notes:
   - content: A roadway is characterized using a {{urn:iso:std:iso:14812:3.3.1.1,cross-section}}
       of a road facility as the roadway characteristics often change along the length
-      of the road. See "__road__" ({{road,3.3.5.1,options="noref,noital,linkmention"}}),
-      "__road section__" ({{road section,3.3.5.7,options="noref,noital,linkmention"}}),
-      "__road segment__" ({{road segment,3.3.5.8,options="noref,noital,linkmention"}}),
-      and "__road link__" ({{road link,3.3.5.6,options="noref,noital,linkmention"}})
-      for different types of stretches of roadway.
+      of the road. See "__road__" ({{urn:iso:std:iso:14812:3.3.5.1,road}}), "__road
+      section__" ({{urn:iso:std:iso:14812:3.3.5.7,road section}}), "__road segment__"
+      ({{urn:iso:std:iso:14812:3.3.5.8,road segment}}), and "__road link__" ({{urn:iso:std:iso:14812:3.3.5.6,road
+      link}}) for different types of stretches of roadway.
   - content: In practice, the roadway design considers a variety of issues, which
       can result in suboptimal road segments that violate normal design guidelines.
       Such {{urn:iso:std:iso:14812:3.4.1.1,location,locations}} are typically posted

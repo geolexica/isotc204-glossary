@@ -17,10 +17,9 @@ eng:
       driving task,DDT}}"
   notes:
   - content: Other driving automation levels include "__level 2 driving automation__"
-      ({{level 2 driving automation,3.7.3.9,options="noref,noital,linkmention"}}),
-      "__level 3 ADS__" ({{level 3 ADS,3.7.3.11,options="noref,noital,linkmention"}}),
-      "__level 4 ADS__" ({{level 4 ADS,3.7.3.12,options="noref,noital,linkmention"}}),
-      and "__level 5 ADS__" ({{level 5 ADS,3.7.3.13,options="noref,noital,linkmention"}}).
+      ({{urn:iso:std:iso:14812:3.7.3.9,level 2 driving automation}}), "__level 3 ADS__"
+      ({{urn:iso:std:iso:14812:3.7.3.11,level 3 ADS}}), "__level 4 ADS__" ({{urn:iso:std:iso:14812:3.7.3.12,level
+      4 ADS}}), and "__level 5 ADS__" ({{urn:iso:std:iso:14812:3.7.3.13,level 5 ADS}}).
   examples: []
   language_code: eng
   entry_status: valid

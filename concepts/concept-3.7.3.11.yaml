@@ -18,10 +18,10 @@ eng:
   - content: Level 3 ADSs are restricted to operating within a specific {{urn:iso:std:iso:14812:3.7.3.2,operational
       design domain,ODD}}.
   - content: Other driving automation levels include "__level 1 driving automation__"
-      ({{level 1 driving automation,3.7.3.8,options="noref,noital,linkmention"}}),
-      "__level 2 driving automation__" ({{level 2 driving automation,3.7.3.9,options="noref,noital,linkmention"}}),
-      "__level 4 ADS__" ({{level 4 ADS,3.7.3.12,options="noref,noital,linkmention"}}),
-      and "__level 5 ADS__" ({{level 5 ADS,3.7.3.13,options="noref,noital,linkmention"}}).
+      ({{urn:iso:std:iso:14812:3.7.3.8,level 1 driving automation}}), "__level 2 driving
+      automation__" ({{urn:iso:std:iso:14812:3.7.3.9,level 2 driving automation}}),
+      "__level 4 ADS__" ({{urn:iso:std:iso:14812:3.7.3.12,level 4 ADS}}), and "__level
+      5 ADS__" ({{urn:iso:std:iso:14812:3.7.3.13,level 5 ADS}}).
   - content: The user can intervene due to an ADS-issued request, a {{urn:iso:std:iso:14812:3.7.3.1,dynamic
       driving task,DDT}} performance-relevant system failure, or other reasons.
   examples: []
