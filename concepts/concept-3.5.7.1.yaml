@@ -1,11 +1,11 @@
 ---
 termid: 3.5.7.1
-term: 'contractual model '
+term: contractual model
 eng:
   terms:
   - type: expression
     normative_status: preferred
-    designation: 'contractual model '
+    designation: contractual model
   - type: expression
     designation: shared mobility contract model
   definition:
