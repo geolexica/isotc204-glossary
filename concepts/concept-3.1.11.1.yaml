@@ -7,7 +7,7 @@ eng:
     normative_status: preferred
     designation: data element
   definition:
-  - content: unit of data that is considered in a given context to be indivisible
+  - content: unit of data that is considered in a given context to be indivisible
       and which includes an unambiguous representational form
   notes:
   - content: This definition states that a data element is “indivisible” in a given
