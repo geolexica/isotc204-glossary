@@ -15,10 +15,11 @@ eng:
       design domain}} with the expectation that a {{urn:iso:std:iso:14812:3.6.2.4,in-vehicle
       driver,conventional driver}} completes the object and event detection and response"
   notes:
-  - content: Other driving automation levels include "__level 1 driving automation__"
-      ({{urn:iso:std:iso:14812:3.7.3.8,level 1 driving automation}}), "__level 3 ADS__"
-      ({{urn:iso:std:iso:14812:3.7.3.11,level 3 ADS}}), "__level 4 ADS__" ({{urn:iso:std:iso:14812:3.7.3.12,level
-      4 ADS}}), and "__level 5 ADS__" ({{urn:iso:std:iso:14812:3.7.3.13,level 5 ADS}}).
+  - content: Other driving automation levels include
+      "{{urn:iso:std:iso:14812:3.7.3.8,level 1 driving automation}}",
+      "{{urn:iso:std:iso:14812:3.7.3.11,level 3 ADS}}",
+      "{{urn:iso:std:iso:14812:3.7.3.12,level 4 ADS}}", and
+      "{{urn:iso:std:iso:14812:3.7.3.13,level 5 ADS}}".
   examples: []
   language_code: eng
   entry_status: valid

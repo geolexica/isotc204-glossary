@@ -20,7 +20,7 @@ eng:
       (NTCIP) standards identify an "information layer" on top of the traditional
       OSI stack. However, the purpose of this layer includes both information configuration
       and functionality. The ITS-S reference architecture separates these two roles
-      between the _management_ {{urn:iso:std:iso:14812:3.1.5.6,management entity,entity}}
+      between the {{urn:iso:std:iso:14812:3.1.5.6,management entity}}
       and the application entity.
   examples: []
   language_code: eng

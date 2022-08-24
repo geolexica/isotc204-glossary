@@ -17,11 +17,11 @@ eng:
       without any expectation that a human {{urn:iso:std:iso:14812:3.6.2.3,driver}}
       will respond to a request to intervene"
   notes:
-  - content: Other driving automation levels include "__level 1 driving automation__"
-      ({{urn:iso:std:iso:14812:3.7.3.8,level 1 driving automation}}), "__level 2 driving
-      automation__" ({{urn:iso:std:iso:14812:3.7.3.9,level 2 driving automation}}),
-      "__level 3 ADS__" ({{urn:iso:std:iso:14812:3.7.3.11,level 3 ADS}}) and "__level
-      4 ADS__" ({{urn:iso:std:iso:14812:3.7.3.12,level 4 ADS}}).
+  - content: Other driving automation levels include
+      "{{urn:iso:std:iso:14812:3.7.3.8,level 1 driving automation}}",
+      "{{urn:iso:std:iso:14812:3.7.3.9,level 2 driving automation}}",
+      "{{urn:iso:std:iso:14812:3.7.3.11,level 3 ADS}}" and
+      "{{urn:iso:std:iso:14812:3.7.3.12,level 4 ADS}}".
   examples: []
   language_code: eng
   entry_status: valid

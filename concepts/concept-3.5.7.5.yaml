@@ -7,9 +7,8 @@ eng:
     normative_status: preferred
     designation: peer-to-peer
   definition:
-  - content: "<transport service> _private customer_ {{urn:iso:std:iso:14812:3.5.7.3,private
-      customer model,model}} where the {{urn:iso:std:iso:14812:3.5.1.2,service provider}}
-      is an individual"
+  - content: <transport service> {{urn:iso:std:iso:14812:3.5.7.3,private customer model}}
+      where the {{urn:iso:std:iso:14812:3.5.1.2,service provider}} is an individual
   notes:
   - content: The customer and provider can connect and/or contract through a third-party
       {{urn:iso:std:iso:14812:3.5.2.1,service}}.

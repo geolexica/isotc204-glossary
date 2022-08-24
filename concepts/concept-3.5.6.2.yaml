@@ -9,7 +9,7 @@ eng:
   definition:
   - content: "{{urn:iso:std:iso:14812:3.5.2.1,transport service}} that relies upon
       the same {{urn:iso:std:iso:14812:3.1.6.2,resource,resources}} to fulfil the
-      _transport_ {{urn:iso:std:iso:14812:3.5.2.4,transport need,needs}} of multiple
+      {{urn:iso:std:iso:14812:3.5.2.4,transport need,transport needs}} of multiple
       unrelated {{urn:iso:std:iso:14812:3.5.2.3,transport user,transport users}} and
       where the {{urn:iso:std:iso:14812:3.5.2.2,transport provider}} has the primary
       responsibility for the operation of the transport mode"
