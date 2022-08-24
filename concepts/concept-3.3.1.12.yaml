@@ -8,10 +8,11 @@ eng:
     designation: lane
   - type: expression
     designation: generic lane
+  domain: generic
   definition:
-  - content: "<generic> portion of {{urn:iso:std:iso:14812:3.3.1.2,road reservation}}
-      intended to accommodate a single line of moving {{urn:iso:std:iso:14812:3.1.1.3,material
-      entity,material entities}} along its length"
+  - content: portion of {{urn:iso:std:iso:14812:3.3.1.2,road reservation}} intended
+      to accommodate a single line of moving {{urn:iso:std:iso:14812:3.1.1.3,material
+      entity,material entities}} along its length
   notes:
   - content: "{{urn:iso:std:iso:14812:3.3.1.13,lane,Lanes}} are often bounded by lane
       markings."

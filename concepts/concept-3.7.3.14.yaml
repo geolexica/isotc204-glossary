@@ -8,10 +8,10 @@ eng:
     designation: conventional vehicle
   - type: expression
     designation: automation-equipped conventional vehicle
+  domain: driving automation
   definition:
-  - content: "<driving automation> {{urn:iso:std:iso:14812:3.7.1.1,vehicle}} designed
-      to be operated by a {{urn:iso:std:iso:14812:3.1.1.6,person}} during part or
-      all of every _trip_."
+  - content: "{{urn:iso:std:iso:14812:3.7.1.1,vehicle}} designed to be operated by
+      a {{urn:iso:std:iso:14812:3.1.1.6,person}} during part or all of every _trip_."
   notes: []
   examples: []
   language_code: eng

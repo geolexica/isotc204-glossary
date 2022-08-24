@@ -10,9 +10,10 @@ eng:
     designation: service provider
   - type: expression
     designation: provider
+  domain: transport
   definition:
-  - content: "<transport> {{urn:iso:std:iso:14812:3.1.1.1,entity}} that delivers one
-      or more {{urn:iso:std:iso:14812:3.5.2.1,transport service,transport services}}"
+  - content: "{{urn:iso:std:iso:14812:3.1.1.1,entity}} that delivers one or more {{urn:iso:std:iso:14812:3.5.2.1,transport
+      service,transport services}}"
   notes: []
   examples: []
   language_code: eng

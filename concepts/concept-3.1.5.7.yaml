@@ -8,11 +8,11 @@ eng:
     designation: security entity
   - type: expression
     designation: ITS-S security entity
+  domain: ITS-S
   definition:
-  - content: "<ITS-S> part of the {{urn:iso:std:iso:14812:3.1.9.4,ITS-S reference
-      architecture,ITS station reference architecture}} that is responsible for providing
-      privacy, communication security and {{urn:iso:std:iso:14812:3.1.2.1,system}}
-      security"
+  - content: part of the {{urn:iso:std:iso:14812:3.1.9.4,ITS-S reference architecture,ITS
+      station reference architecture}} that is responsible for providing privacy,
+      communication security and {{urn:iso:std:iso:14812:3.1.2.1,system}} security
   notes: []
   examples: []
   language_code: eng

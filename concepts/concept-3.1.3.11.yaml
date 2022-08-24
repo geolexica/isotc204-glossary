@@ -8,9 +8,10 @@ eng:
     designation: environment
   - type: expression
     designation: system environment
+  domain: system
   definition:
-  - content: "<system> context determining the setting and circumstances of all influences
-      upon a {{urn:iso:std:iso:14812:3.1.2.1,system}}"
+  - content: context determining the setting and circumstances of all influences upon
+      a {{urn:iso:std:iso:14812:3.1.2.1,system}}
   notes:
   - content: The environment of a system includes developmental, technological, business,
       operational, organizational, political, economic, legal, regulatory, ecological

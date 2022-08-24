@@ -10,10 +10,11 @@ eng:
     designation: ITS-S networking and transport layer
   - type: expression
     designation: networking and transport layer
+  domain: ITS-S
   definition:
-  - content: "<ITS-S> protocol layer in the {{urn:iso:std:iso:14812:3.1.9.4,ITS-S
-      reference architecture,ITS station reference architecture}} containing the OSI
-      network and transport layer protocols"
+  - content: protocol layer in the {{urn:iso:std:iso:14812:3.1.9.4,ITS-S reference
+      architecture,ITS station reference architecture}} containing the OSI network
+      and transport layer protocols
   notes:
   - content: The full name of this layer is the networking and transport layer, but
       the term transnet layer provides a more concise name.

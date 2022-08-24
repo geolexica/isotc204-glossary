@@ -16,10 +16,9 @@ eng:
       {{urn:iso:std:iso:14812:3.3.1.5,carriageway,carriageways}}"
   notes:
   - content: The PIARC term is "multiple carriageway road" and is recognized as a
-      preferred term. As per the definitions provided in this document,
-      "{{urn:iso:std:iso:14812:3.3.1.8,dual carriageway road segment}}"
-      is more accurate and is the most preferred term. The term "dual carriageway"
-      by itself is not preferred but admitted.
+      preferred term. As per the definitions provided in this document, "{{urn:iso:std:iso:14812:3.3.1.8,dual
+      carriageway road segment}}" is more accurate and is the most preferred term.
+      The term "dual carriageway" by itself is not preferred but admitted.
   - content: The separate carriageways are typically designed for separate traffic
       for (often multiple) specific operational reasons, such as direction of travel,
       category of vehicle (e.g. high occupancy vehicle), local versus through travel,

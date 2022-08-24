@@ -11,10 +11,11 @@ eng:
   - type: expression
     normative_status: deprecated
     designation: application layer
+  domain: ITS-S
   definition:
-  - content: "<ITS-S> protocol layer in the {{urn:iso:std:iso:14812:3.1.9.4,ITS-S
-      reference architecture,ITS station reference architecture}} containing the OSI
-      session, presentation and application layer protocols"
+  - content: protocol layer in the {{urn:iso:std:iso:14812:3.1.9.4,ITS-S reference
+      architecture,ITS station reference architecture}} containing the OSI session,
+      presentation and application layer protocols
   notes:
   - content: Within the US, the NTCIP standards call the facilities layer the "application
       layer". However, as this term is easily confused with both the OSI application

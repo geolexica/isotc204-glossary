@@ -6,10 +6,11 @@ eng:
   - type: expression
     normative_status: preferred
     designation: fixed route
+  domain: transport service
   definition:
-  - content: "<transport service> {{urn:iso:std:iso:14812:3.5.9.3,concurrent}} operation
-      where transported items can only be received or delivered at stopping points
-      contained in a pre-defined sequence"
+  - content: "{{urn:iso:std:iso:14812:3.5.9.3,concurrent}} operation where transported
+      items can only be received or delivered at stopping points contained in a pre-defined
+      sequence"
   notes: []
   examples:
   - content: Traditional fixed-route bus line.

@@ -8,9 +8,10 @@ eng:
     designation: scenario
   - type: expression
     designation: use case scenario
+  domain: use case
   definition:
-  - content: "<use case> description of the sequence of events from the {{urn:iso:std:iso:14812:3.5.3.4,user,user's}}
-      perspective to perform a task in a specified context"
+  - content: description of the sequence of events from the {{urn:iso:std:iso:14812:3.5.3.4,user,user's}}
+      perspective to perform a task in a specified context
   notes: []
   examples: []
   language_code: eng

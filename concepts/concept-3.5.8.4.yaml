@@ -7,9 +7,8 @@ eng:
     normative_status: preferred
     designation: cooperative
   definition:
-  - content: type of{{urn:iso:std:iso:14812:3.5.8.1,financial model}} where
-      {{urn:iso:std:iso:14812:3.5.3.4,user,users}} partner to defray the costs of
-      {{urn:iso:std:iso:14812:3.5.2.1,service,services}}
+  - content: type of{{urn:iso:std:iso:14812:3.5.8.1,financial model}} where {{urn:iso:std:iso:14812:3.5.3.4,user,users}}
+      partner to defray the costs of {{urn:iso:std:iso:14812:3.5.2.1,service,services}}
   notes:
   - content: Cooperative models are exclusive {{urn:iso:std:iso:14812:3.5.8.2,commercial}}
       and {{urn:iso:std:iso:14812:3.5.8.3,public}} models.

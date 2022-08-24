@@ -6,10 +6,10 @@ eng:
   - type: expression
     normative_status: preferred
     designation: private
+  domain: transport service
   definition:
-  - content: "<transport service> {{urn:iso:std:iso:14812:3.5.8.1,financial model}}
-      where {{urn:iso:std:iso:14812:3.5.2.1,service,services}} are provided to members
-      of the owning organization without usage fees"
+  - content: "{{urn:iso:std:iso:14812:3.5.8.1,financial model}} where {{urn:iso:std:iso:14812:3.5.2.1,service,services}}
+      are provided to members of the owning organization without usage fees"
   notes: []
   examples:
   - content: Fleet vehicles of an employer.

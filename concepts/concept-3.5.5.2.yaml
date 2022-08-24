@@ -8,10 +8,11 @@ eng:
     designation: ITS-S communications service
   - type: expression
     designation: communication service
+  domain: ITS-S
   definition:
-  - content: "<ITS-S> performance of one or more tasks to fulfil an {{urn:iso:std:iso:14812:3.5.5.4,ITS-S
+  - content: performance of one or more tasks to fulfil an {{urn:iso:std:iso:14812:3.5.5.4,ITS-S
       communications need,ITS-S communication need}} for an {{urn:iso:std:iso:14812:3.5.5.3,ITS-S
-      communications user,ITS-S communication user}}"
+      communications user,ITS-S communication user}}
   notes: []
   examples: []
   language_code: eng
