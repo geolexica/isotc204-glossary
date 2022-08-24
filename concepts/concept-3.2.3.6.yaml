@@ -15,8 +15,7 @@ eng:
       including the means to send and receive data to and from other connected entities
   notes:
   - content: The term "connected" does not imply support for any specific communications
-      interface or _ITS-S application_ {{urn:iso:std:iso:14812:3.2.9.2,ITS-S application
-      process,process}}.
+      interface or {{urn:iso:std:iso:14812:3.2.9.2,ITS-S application process}}.
   examples: []
   language_code: eng
   entry_status: valid

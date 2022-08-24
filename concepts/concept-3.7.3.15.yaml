@@ -32,8 +32,7 @@ eng:
   - content: This term can be, and when possible should be, refined by identifying
       the level of automation. For example, the terms "level 5 ADS-equipped vehicle"
       and "level 5 automated vehicle" should be interpreted as "ADS-equipped vehicle
-      where the ADS is a _level 5 ADS_." ({{urn:iso:std:iso:14812:3.7.3.13,level 5
-      ADS}}).
+      where the ADS is a {{urn:iso:std:iso:14812:3.7.3.13,level 5 ADS}}".
   - content: This term only describes the capabilities of the vehicle, not its operational
       state. In other words, the term applies as long as the ADS is {{urn:iso:std:iso:14812:3.2.3.6,connected}}
       to the vehicle, whether the {{urn:iso:std:iso:14812:3.7.3.1,dynamic driving

@@ -13,19 +13,20 @@ eng:
   notes:
   - content: A roadway is characterized using a {{urn:iso:std:iso:14812:3.3.1.1,cross-section}}
       of a road facility as the roadway characteristics often change along the length
-      of the road. See "__road__" ({{urn:iso:std:iso:14812:3.3.5.1,road}}), "__road
-      section__" ({{urn:iso:std:iso:14812:3.3.5.7,road section}}), "__road segment__"
-      ({{urn:iso:std:iso:14812:3.3.5.8,road segment}}), and "__road link__" ({{urn:iso:std:iso:14812:3.3.5.6,road
-      link}}) for different types of stretches of roadway.
+      of the road. See "{{urn:iso:std:iso:14812:3.3.5.1,road}}",
+      "{{urn:iso:std:iso:14812:3.3.5.7,road section}}",
+      "{{urn:iso:std:iso:14812:3.3.5.8,road segment}}", and
+      "{{urn:iso:std:iso:14812:3.3.5.6,road link,road links}}" for different types
+      of stretches of roadway.
   - content: In practice, the roadway design considers a variety of issues, which
       can result in suboptimal road segments that violate normal design guidelines.
       Such {{urn:iso:std:iso:14812:3.4.1.1,location,locations}} are typically posted
       with warning signs, but they are still designed for the movement of vehicles.
   - content: While the roadway is designed with certain vehicle characteristics in
       mind, local regulations typically allow a wider set of vehicles to use the roadway.
-  - content: The roadway includes any contiguous _hard_ {{urn:iso:std:iso:14812:3.3.1.19,hard
-      shoulder,shoulders}}, {{urn:iso:std:iso:14812:3.3.1.17,hardstanding}} and reserved
-      {{urn:iso:std:iso:14812:3.3.1.14,reserved lane,lanes}}.
+  - content: The roadway includes any contiguous {{urn:iso:std:iso:14812:3.3.1.19,hard
+      shoulder}}, {{urn:iso:std:iso:14812:3.3.1.17,hardstanding}} and
+      {{urn:iso:std:iso:14812:3.3.1.14,reserved lane,reserved lanes}}.
   examples: []
   language_code: eng
   entry_status: valid

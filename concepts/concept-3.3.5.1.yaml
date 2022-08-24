@@ -12,7 +12,8 @@ eng:
   notes:
   - content: A length of the {{urn:iso:std:iso:14812:3.3.5.2,road network}} may be
       referenced by multiple designators (e.g. Main Street and Route 7). In this case,
-      there would be two "roads" that share the same set of "__carriageways__" ({{urn:iso:std:iso:14812:3.3.1.5,carriageway}}).
+      there would be two "roads" that share the same set of
+      "{{urn:iso:std:iso:14812:3.3.1.5,carriageway,carriageways}}".
   - content: A road can change directions at a {{urn:iso:std:iso:14812:3.3.6.2,junction}}.
   - content: The identification is generally a name or number.
   examples: []
