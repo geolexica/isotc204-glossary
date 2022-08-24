@@ -10,10 +10,11 @@ eng:
     designation: user need
   - type: expression
     designation: need
+  domain: ITS-S
   definition:
-  - content: "<ITS-S> {{urn:iso:std:iso:14812:3.5.1.4,user need,need}} for processing
-      within a {{urn:iso:std:iso:14812:3.2.7.1,bounded secured managed domain,bounded,
-      secure, managed domain}}"
+  - content: "{{urn:iso:std:iso:14812:3.5.1.4,user need,need}} for processing within
+      a {{urn:iso:std:iso:14812:3.2.7.1,bounded secured managed domain,bounded, secure,
+      managed domain}}"
   notes: []
   examples: []
   language_code: eng

@@ -8,9 +8,10 @@ eng:
     designation: process
   - type: expression
     designation: functional view process
+  domain: functional view
   definition:
-  - content: "<functional view> series of one or more {{urn:iso:std:iso:14812:3.1.7.3,function,functions}}
-      in support of an {{urn:iso:std:iso:14812:3.5.3.1,ITS service}}"
+  - content: series of one or more {{urn:iso:std:iso:14812:3.1.7.3,function,functions}}
+      in support of an {{urn:iso:std:iso:14812:3.5.3.1,ITS service}}
   notes: []
   examples: []
   language_code: eng

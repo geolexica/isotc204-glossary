@@ -12,10 +12,11 @@ eng:
   - type: expression
     normative_status: admitted
     designation: subnet layer
+  domain: ITS-S
   definition:
-  - content: "<ITS-S> protocol layer in the {{urn:iso:std:iso:14812:3.1.9.4,ITS-S
-      reference architecture,ITS station reference architecture}} containing the OSI
-      physical and data link layer protocols for ITS communications"
+  - content: protocol layer in the {{urn:iso:std:iso:14812:3.1.9.4,ITS-S reference
+      architecture,ITS station reference architecture}} containing the OSI physical
+      and data link layer protocols for ITS communications
   notes:
   - content: Within the Internet Engineering Task Force (IETF), the term "link layer"
       is used to describe the same functionality as the ITS-S access layer.

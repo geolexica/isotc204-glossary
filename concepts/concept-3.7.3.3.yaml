@@ -8,13 +8,14 @@ eng:
     designation: fallback
   - type: expression
     designation: driving automation fallback
+  domain: driving automation
   definition:
-  - content: "<driving automation> response by a {{urn:iso:std:iso:14812:3.1.1.6,person}}
-      to perform the {{urn:iso:std:iso:14812:3.7.3.1,dynamic driving task,DDT}} or
-      by an {{urn:iso:std:iso:14812:3.7.3.10,ADS}} to achieve a minimal risk condition
-      when the response is triggered upon violation of the defined {{urn:iso:std:iso:14812:3.7.3.2,operational
-      design domain}} constraints or in response to a DDT performance-relevant {{urn:iso:std:iso:14812:3.7.3.6,driving
-      automation system}} failure"
+  - content: response by a {{urn:iso:std:iso:14812:3.1.1.6,person}} to perform the
+      {{urn:iso:std:iso:14812:3.7.3.1,dynamic driving task,DDT}} or by an {{urn:iso:std:iso:14812:3.7.3.10,ADS}}
+      to achieve a minimal risk condition when the response is triggered upon violation
+      of the defined {{urn:iso:std:iso:14812:3.7.3.2,operational design domain}} constraints
+      or in response to a DDT performance-relevant {{urn:iso:std:iso:14812:3.7.3.6,driving
+      automation system}} failure
   notes:
   - content: This term includes the response of a person to perform the DDT in a manner
       to quickly achieve a minimal risk condition.

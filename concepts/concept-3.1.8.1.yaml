@@ -8,10 +8,11 @@ eng:
     designation: physical object
   - type: expression
     designation: ITS physical object
+  domain: physical view
   definition:
-  - content: "<physical view> abstraction of a {{urn:iso:std:iso:14812:3.1.1.3,material
-      entity}} that interacts with other abstract material entities in the provision
-      of {{urn:iso:std:iso:14812:3.5.3.1,ITS service,ITS services}}"
+  - content: abstraction of a {{urn:iso:std:iso:14812:3.1.1.3,material entity}} that
+      interacts with other abstract material entities in the provision of {{urn:iso:std:iso:14812:3.5.3.1,ITS
+      service,ITS services}}
   notes:
   - content: Physical objects are represented as {{urn:iso:std:iso:14812:3.1.3.10,element,elements}}
       within the {{urn:iso:std:iso:14812:3.1.4.7,physical view}} and perform a role.

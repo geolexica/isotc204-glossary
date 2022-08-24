@@ -8,10 +8,10 @@ eng:
     designation: resource
   - type: expression
     designation: enterprise view resource
+  domain: enterprise view
   definition:
-  - content: "<enterprise view> {{urn:iso:std:iso:14812:3.1.3.10,element}} that represents
-      an {{urn:iso:std:iso:14812:3.1.1.1,entity}} that is managed, operated, referenced
-      and/or used to develop and provide {{urn:iso:std:iso:14812:3.1.2.4,intelligent
+  - content: "{{urn:iso:std:iso:14812:3.1.3.10,element}} that represents an {{urn:iso:std:iso:14812:3.1.1.1,entity}}
+      that is managed, operated, referenced and/or used to develop and provide {{urn:iso:std:iso:14812:3.1.2.4,intelligent
       transport system,ITS}}"
   notes: []
   examples: []

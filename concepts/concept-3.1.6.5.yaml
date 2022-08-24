@@ -8,10 +8,10 @@ eng:
     designation: formal coordination
   - type: expression
     designation: enterprise view formal coordination
+  domain: enterprise view
   definition:
-  - content: "<enterprise view> {{urn:iso:std:iso:14812:3.1.6.4,interaction}} between
-      two {{urn:iso:std:iso:14812:3.1.6.1,enterprise object,enterprise objects}} governed
-      by a documented agreement"
+  - content: "{{urn:iso:std:iso:14812:3.1.6.4,interaction}} between two {{urn:iso:std:iso:14812:3.1.6.1,enterprise
+      object,enterprise objects}} governed by a documented agreement"
   notes: []
   examples:
   - content: A road operator can enter into formal agreement(s) with the owner of

@@ -8,10 +8,11 @@ eng:
     designation: node
   - type: expression
     designation: road network node
+  domain: road network
   definition:
-  - content: "<road network> component of a {{urn:iso:std:iso:14812:3.3.5.3,road model}}
-      representing a {{urn:iso:std:iso:14812:3.4.1.3,point location}} of the {{urn:iso:std:iso:14812:3.3.5.2,road
-      network}} graph"
+  - content: component of a {{urn:iso:std:iso:14812:3.3.5.3,road model}} representing
+      a {{urn:iso:std:iso:14812:3.4.1.3,point location}} of the {{urn:iso:std:iso:14812:3.3.5.2,road
+      network}} graph
   notes:
   - content: The point location typically represents a point along the {{urn:iso:std:iso:14812:3.3.5.1,road}}
       which can be used to designate the {{urn:iso:std:iso:14812:3.4.1.1,location}}

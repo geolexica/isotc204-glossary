@@ -10,10 +10,11 @@ eng:
     designation: user need
   - type: expression
     designation: need
+  domain: transport
   definition:
-  - content: "<transport> {{urn:iso:std:iso:14812:3.5.1.4,user need,need}} to transport
-      one or more {{urn:iso:std:iso:14812:3.1.1.3,material entity,material entities}}
-      to a different {{urn:iso:std:iso:14812:3.4.1.1,location}}"
+  - content: "{{urn:iso:std:iso:14812:3.5.1.4,user need,need}} to transport one or
+      more {{urn:iso:std:iso:14812:3.1.1.3,material entity,material entities}} to
+      a different {{urn:iso:std:iso:14812:3.4.1.1,location}}"
   notes: []
   examples: []
   language_code: eng

@@ -10,8 +10,9 @@ eng:
     designation: user
   - type: expression
     designation: consumer
+  domain: transport
   definition:
-  - content: "<transport> {{urn:iso:std:iso:14812:3.1.1.1,entity}} that has a {{urn:iso:std:iso:14812:3.5.2.4,transport
+  - content: "{{urn:iso:std:iso:14812:3.1.1.1,entity}} that has a {{urn:iso:std:iso:14812:3.5.2.4,transport
       need}} to be fulfilled"
   notes: []
   examples: []
