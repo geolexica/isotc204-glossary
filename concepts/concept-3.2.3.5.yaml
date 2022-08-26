@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: connected unit
   - type: expression
+    normative_status: preferred
     designation: ITS connected unit
   definition:
   - content: electronic device that is {{urn:iso:std:iso:14812:3.2.3.6,connected}}

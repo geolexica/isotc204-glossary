@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: support system
   - type: expression
+    normative_status: preferred
     designation: ITS support system
   definition:
   - content: "{{urn:iso:std:iso:14812:3.1.8.2,ITS component}} that provides services

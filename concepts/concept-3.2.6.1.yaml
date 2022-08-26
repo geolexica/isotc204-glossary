@@ -7,8 +7,10 @@ eng:
     normative_status: preferred
     designation: ITS on-board equipment
   - type: expression
+    normative_status: preferred
     designation: on-board equipment
   - type: expression
+    normative_status: preferred
     designation: OBE
   - type: expression
     normative_status: admitted

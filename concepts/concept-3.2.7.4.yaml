@@ -7,8 +7,10 @@ eng:
     normative_status: preferred
     designation: ITS-S unit
   - type: expression
+    normative_status: preferred
     designation: ITS station unit
   - type: expression
+    normative_status: preferred
     designation: ITS-SU
   definition:
   - content: instantiation of an {{urn:iso:std:iso:14812:3.2.7.3,ITS station}}

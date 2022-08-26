@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: fallback-ready user
   - type: expression
+    normative_status: preferred
     designation: DDT fallback-ready user
   domain: driving automation
   definition:

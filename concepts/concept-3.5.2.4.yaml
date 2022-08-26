@@ -7,8 +7,10 @@ eng:
     normative_status: preferred
     designation: transport need
   - type: expression
+    normative_status: preferred
     designation: user need
   - type: expression
+    normative_status: preferred
     designation: need
   domain: transport
   definition:

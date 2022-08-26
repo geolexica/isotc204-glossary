@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: relationship
   - type: expression
+    normative_status: preferred
     designation: enterprise view relationship
   domain: enterprise view
   definition:

@@ -7,8 +7,10 @@ eng:
     normative_status: preferred
     designation: personal system
   - type: expression
+    normative_status: preferred
     designation: ITS personal system
   - type: expression
+    normative_status: preferred
     designation: traveller system
   definition:
   - content: "{{urn:iso:std:iso:14812:3.1.8.2,ITS component}}, other than a {{urn:iso:std:iso:14812:3.2.1.5,vehicle

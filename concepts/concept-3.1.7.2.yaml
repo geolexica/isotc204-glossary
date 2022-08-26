@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: process
   - type: expression
+    normative_status: preferred
     designation: functional view process
   domain: functional view
   definition:

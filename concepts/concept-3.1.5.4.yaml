@@ -7,8 +7,10 @@ eng:
     normative_status: preferred
     designation: transnet layer
   - type: expression
+    normative_status: preferred
     designation: ITS-S networking and transport layer
   - type: expression
+    normative_status: preferred
     designation: networking and transport layer
   domain: ITS-S
   definition:

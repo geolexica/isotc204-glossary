@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: terminator
   - type: expression
+    normative_status: preferred
     designation: ITS terminator
   definition:
   - content: "{{urn:iso:std:iso:14812:3.1.1.1,entity}} that is external to the {{urn:iso:std:iso:14812:3.5.3.1,ITS

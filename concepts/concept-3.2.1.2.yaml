@@ -7,8 +7,10 @@ eng:
     normative_status: preferred
     designation: field system
   - type: expression
+    normative_status: preferred
     designation: ITS field system
   - type: expression
+    normative_status: preferred
     designation: roadside system
   definition:
   - content: infrastructure-based {{urn:iso:std:iso:14812:3.1.8.2,ITS component}}

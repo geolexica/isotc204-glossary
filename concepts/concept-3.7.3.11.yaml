@@ -7,8 +7,10 @@ eng:
     normative_status: preferred
     designation: level 3 ADS
   - type: expression
+    normative_status: preferred
     designation: conditional driving automation
   - type: expression
+    normative_status: preferred
     designation: level 3 Automated Driving System
   definition:
   - content: "{{urn:iso:std:iso:14812:3.7.3.10,ADS}} designed with the expectation

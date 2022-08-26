@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: cooperative ITS credentials management system
   - type: expression
+    normative_status: preferred
     designation: CCMS
   definition:
   - content: "{{urn:iso:std:iso:14812:3.2.1.4,support system}} that enables trusted

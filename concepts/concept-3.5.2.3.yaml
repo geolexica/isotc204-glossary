@@ -7,8 +7,10 @@ eng:
     normative_status: preferred
     designation: transport user
   - type: expression
+    normative_status: preferred
     designation: user
   - type: expression
+    normative_status: preferred
     designation: consumer
   domain: transport
   definition:

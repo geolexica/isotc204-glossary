@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: functional object
   - type: expression
+    normative_status: preferred
     designation: ITS functional object
   definition:
   - content: set of related {{urn:iso:std:iso:14812:3.1.7.2,process,processes}} that

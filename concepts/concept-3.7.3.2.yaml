@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: operational design domain
   - type: expression
+    normative_status: preferred
     designation: ODD
   definition:
   - content: set of operating conditions under which a given {{urn:iso:std:iso:14812:3.7.3.6,driving

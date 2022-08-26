@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: field support equipment
   - type: expression
+    normative_status: preferred
     designation: ITS field support equipment
   definition:
   - content: portable {{urn:iso:std:iso:14812:3.2.1.2,field system}} used by field

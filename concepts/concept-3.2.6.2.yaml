@@ -7,8 +7,10 @@ eng:
     normative_status: preferred
     designation: ITS on-board unit
   - type: expression
+    normative_status: preferred
     designation: on-board unit
   - type: expression
+    normative_status: preferred
     designation: OBU
   - type: expression
     normative_status: admitted

@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: ITS-S communications process
   - type: expression
+    normative_status: preferred
     designation: communication process
   domain: ITS-S
   definition:

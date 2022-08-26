@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: interaction
   - type: expression
+    normative_status: preferred
     designation: enterprise view interaction
   domain: enterprise view
   definition:

@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: level 1 driving automation
   - type: expression
+    normative_status: preferred
     designation: driver assistance
   definition:
   - content: "{{urn:iso:std:iso:14812:3.7.3.7,driver support system}} that provides

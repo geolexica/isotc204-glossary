@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: ADS
   - type: expression
+    normative_status: preferred
     designation: Automated Driving System
   definition:
   - content: "{{urn:iso:std:iso:14812:3.7.3.6,driving automation system}} that is
