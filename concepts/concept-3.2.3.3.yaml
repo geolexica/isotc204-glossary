@@ -7,8 +7,10 @@ eng:
     normative_status: preferred
     designation: connected roadside equipment
   - type: expression
+    normative_status: preferred
     designation: ITS connected roadside equipment
   - type: expression
+    normative_status: preferred
     designation: RSE
   - type: expression
     normative_status: admitted

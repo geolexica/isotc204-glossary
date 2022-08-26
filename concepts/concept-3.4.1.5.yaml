@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: linear location
   - type: expression
+    normative_status: preferred
     designation: ITS linear location
   definition:
   - content: "{{urn:iso:std:iso:14812:3.4.1.2,spatial location}} that extends between

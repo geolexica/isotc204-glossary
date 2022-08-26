@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: ITS-S communications need
   - type: expression
+    normative_status: preferred
     designation: communication need
   domain: ITS-S
   definition:

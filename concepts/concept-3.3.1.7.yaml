@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: single carriageway road segment
   - type: expression
+    normative_status: preferred
     designation: single carriageway road
   - type: expression
     normative_status: admitted

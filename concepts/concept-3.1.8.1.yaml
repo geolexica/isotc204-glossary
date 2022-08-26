@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: physical object
   - type: expression
+    normative_status: preferred
     designation: ITS physical object
   domain: physical view
   definition:

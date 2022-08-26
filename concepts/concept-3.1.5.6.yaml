@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: management entity
   - type: expression
+    normative_status: preferred
     designation: ITS-S management entity
   domain: ITS-S
   definition:

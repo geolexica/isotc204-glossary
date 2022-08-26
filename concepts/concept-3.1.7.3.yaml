@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: function
   - type: expression
+    normative_status: preferred
     designation: functional view function
   domain: functional view
   definition:

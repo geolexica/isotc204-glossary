@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: include
   - type: expression
+    normative_status: preferred
     designation: enterprise view include
   domain: enterprise view
   definition:

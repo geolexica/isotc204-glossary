@@ -7,8 +7,10 @@ eng:
     normative_status: preferred
     designation: transport provider
   - type: expression
+    normative_status: preferred
     designation: service provider
   - type: expression
+    normative_status: preferred
     designation: provider
   domain: transport
   definition:

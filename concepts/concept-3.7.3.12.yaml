@@ -7,8 +7,10 @@ eng:
     normative_status: preferred
     designation: level 4 ADS
   - type: expression
+    normative_status: preferred
     designation: high driving automation
   - type: expression
+    normative_status: preferred
     designation: level 4 Automated Driving System
   definition:
   - content: "{{urn:iso:std:iso:14812:3.7.3.10,ADS}} that is capable of operating

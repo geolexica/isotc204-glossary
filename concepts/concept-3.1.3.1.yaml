@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: architecture
   - type: expression
+    normative_status: preferred
     designation: system architecture
   domain: system
   definition:

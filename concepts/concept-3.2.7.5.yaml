@@ -7,8 +7,10 @@ eng:
     normative_status: preferred
     designation: ITS-S communication unit
   - type: expression
+    normative_status: preferred
     designation: ITS station communication unit
   - type: expression
+    normative_status: preferred
     designation: ITS-SCU
   definition:
   - content: physical unit in an {{urn:iso:std:iso:14812:3.2.7.4,ITS-S unit}} containing

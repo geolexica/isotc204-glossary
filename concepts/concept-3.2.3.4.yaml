@@ -7,8 +7,10 @@ eng:
     normative_status: preferred
     designation: roadside unit
   - type: expression
+    normative_status: preferred
     designation: ITS roadside unit
   - type: expression
+    normative_status: preferred
     designation: RSU
   definition:
   - content: part of {{urn:iso:std:iso:14812:3.2.3.3,connected roadside equipment}}

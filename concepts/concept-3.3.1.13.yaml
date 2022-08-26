@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: traffic lane
   - type: expression
+    normative_status: preferred
     designation: lane
   definition:
   - content: portion of {{urn:iso:std:iso:14812:3.3.1.5,carriageway}} designed to

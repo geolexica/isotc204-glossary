@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: scenario
   - type: expression
+    normative_status: preferred
     designation: use case scenario
   domain: use case
   definition:

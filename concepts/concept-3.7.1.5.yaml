@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: built-in vehicle input device
   - type: expression
+    normative_status: preferred
     designation: built-in input device
   definition:
   - content: "{{urn:iso:std:iso:14812:3.7.1.4,vehicle input device,input device}}

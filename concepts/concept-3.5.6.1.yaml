@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: public transport
   - type: expression
+    normative_status: preferred
     designation: public transport service
   definition:
   - content: "{{urn:iso:std:iso:14812:3.5.2.1,transport service}} that is publicly

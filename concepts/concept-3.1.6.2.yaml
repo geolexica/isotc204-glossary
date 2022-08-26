@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: resource
   - type: expression
+    normative_status: preferred
     designation: enterprise view resource
   domain: enterprise view
   definition:

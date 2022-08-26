@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: role
   - type: expression
+    normative_status: preferred
     designation: enterprise view role
   domain: enterprise view
   definition:

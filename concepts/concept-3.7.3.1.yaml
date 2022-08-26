@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: dynamic driving task
   - type: expression
+    normative_status: preferred
     designation: DDT
   definition:
   - content: all real-time operational and tactical functions required to operate

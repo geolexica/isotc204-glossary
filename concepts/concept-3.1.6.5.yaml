@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: formal coordination
   - type: expression
+    normative_status: preferred
     designation: enterprise view formal coordination
   domain: enterprise view
   definition:

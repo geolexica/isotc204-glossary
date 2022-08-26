@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: footway
   - type: expression
+    normative_status: preferred
     designation: footpath
   - type: expression
     normative_status: admitted

@@ -7,8 +7,10 @@ eng:
     normative_status: preferred
     designation: ITS user need
   - type: expression
+    normative_status: preferred
     designation: user
   - type: expression
+    normative_status: preferred
     designation: need
   definition:
   - content: "{{urn:iso:std:iso:14812:3.5.1.4,user need,need}} of an {{urn:iso:std:iso:14812:3.1.1.1,entity}}

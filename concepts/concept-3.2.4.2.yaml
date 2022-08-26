@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: personal information device
   - type: expression
+    normative_status: preferred
     designation: ITS personal information device
   definition:
   - content: "{{urn:iso:std:iso:14812:3.2.1.3,personal system}} that enables personal

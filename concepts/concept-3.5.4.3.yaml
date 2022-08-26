@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: ITS-S user
   - type: expression
+    normative_status: preferred
     designation: user
   domain: ITS-S
   definition:

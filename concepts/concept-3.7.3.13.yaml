@@ -7,8 +7,10 @@ eng:
     normative_status: preferred
     designation: level 5 ADS
   - type: expression
+    normative_status: preferred
     designation: full driving automation
   - type: expression
+    normative_status: preferred
     designation: level 5 Automated Driving System
   definition:
   - content: "{{urn:iso:std:iso:14812:3.7.3.10,ADS}} that is capable of unconditional

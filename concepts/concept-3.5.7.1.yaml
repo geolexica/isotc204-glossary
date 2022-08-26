@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: contractual model
   - type: expression
+    normative_status: preferred
     designation: shared mobility contract model
   definition:
   - content: legal framework for the agreement between a {{urn:iso:std:iso:14812:3.5.1.2,service

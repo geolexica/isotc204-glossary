@@ -7,6 +7,7 @@ eng:
     normative_status: preferred
     designation: user need
   - type: expression
+    normative_status: preferred
     designation: need
   definition:
   - content: factor or condition necessary to achieve desired results within a specified
