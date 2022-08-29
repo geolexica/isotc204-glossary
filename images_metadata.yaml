@@ -1,0 +1,167 @@
+---
+fig_A.1:
+  caption: "Entity terms"
+  source: ISO 14812, Figure A.1
+fig_A.2:
+  caption: "General system terms"
+  source: ISO 14812, Figure A.2
+fig_A.3:
+  caption: "General architecture terms"
+  source: ISO 14812, Figure A.3
+fig_A.4:
+  caption: "Architecture view terms"
+  source: ISO 14812, Figure A.4
+fig_A.5:
+  caption: "Architecture — Communication view terms"
+  source: ISO 14812, Figure A.5
+fig_A.6:
+  caption: "Architecture — Enterprise view terms"
+  source: ISO 14812, Figure A.6
+fig_A.7:
+  caption: "Architecture — Functional view terms"
+  source: ISO 14812, Figure A.7
+fig_A.8:
+  caption: "Architecture — Physical view terms"
+  source: ISO 14812, Figure A.8
+fig_A.9:
+  caption: "Architecture type terms"
+  source: ISO 14812, Figure A.9
+fig_A.10:
+  caption: "Data concept management terms"
+  source: ISO 14812, Figure A.10
+fig_A.11:
+  caption: "Data concept type terms"
+  source: ISO 14812, Figure A.11
+fig_A.12:
+  caption: "System engineering terms"
+  source: ISO 14812, Figure A.12
+fig_A.13:
+  caption: "Time terms"
+  source: ISO 14812, Figure A.13
+fig_A.14:
+  caption: "Top-level physical object terms"
+  source: ISO 14812, Figure A.14
+fig_A.15:
+  caption: "Centre physical object terms"
+  source: ISO 14812, Figure A.15
+fig_A.16:
+  caption: "Field physical object terms"
+  source: ISO 14812, Figure A.16
+fig_A.17:
+  caption: "Personal physical object terms"
+  source: ISO 14812, Figure A.17
+fig_A.18:
+  caption: "Support physical object terms"
+  source: ISO 14812, Figure A.18
+fig_A.19:
+  caption: "Vehicle physical object terms"
+  source: ISO 14812, Figure A.19
+fig_A.20:
+  caption: "ITS station terms"
+  source: ISO 14812, Figure A.20
+fig_A.21:
+  caption: "ITS application terms"
+  source: ISO 14812, Figure A.21
+fig_A.22:
+  caption: "ITS-S application process terms"
+  source: ISO 14812, Figure A.22
+fig_A.23:
+  caption: "Road reservation component graphic"
+  source: ISO 14812, Figure A.23
+  note: Image taken from Google Maps, https://maps.google.com, showing the interchange
+    of M4 and M32 motorways northeast of Bristol, UK.
+fig_A.24:
+  caption: "Hardstanding"
+  source: ISO 14812, Figure A.24
+  note: Image taken from Google Maps, https://maps.google.com, showing the interchange
+    of M4 and M32 motorways northeast of Bristol, UK.
+fig_A.25:
+  caption: "Road reservation component terms"
+  source: ISO 14812, Figure A.25
+fig_A.26:
+  caption: "Physical traffic separators"
+  source: ISO 14812, Figure A.26
+fig_A.27:
+  caption: "Alternate mode graphic"
+  source: ISO 14812, Figure A.27
+fig_A.28:
+  caption: "Alternate mode infrastructure component terms"
+  source: ISO 14812, Figure A.28
+fig_A.29:
+  caption: "Infrastructure operating mode terms"
+  source: ISO 14812, Figure A.29
+fig_A.30:
+  caption: "Road network terms"
+  source: ISO 14812, Figure A.30
+fig_A.31:
+  caption: "Junction terms"
+  source: ISO 14812, Figure A.31
+fig_A.32:
+  caption: "Location type terms"
+  source: ISO 14812, Figure A.32
+fig_A.33:
+  caption: "Location referencing terms"
+  source: ISO 14812, Figure A.33
+fig_A.34:
+  caption: "Generic service terms"
+  source: ISO 14812, Figure A.34
+fig_A.35:
+  caption: "Transport service terms"
+  source: ISO 14812, Figure A.35
+fig_A.36:
+  caption: "ITS service terms"
+  source: ISO 14812, Figure A.36
+fig_A.37:
+  caption: "ITS-S service terms"
+  source: ISO 14812, Figure A.37
+fig_A.38:
+  caption: "ITS-S communication service terms"
+  source: ISO 14812, Figure A.38
+fig_A.39:
+  caption: "Transport-related sharing terms"
+  source: ISO 14812, Figure A.39
+fig_A.40:
+  caption: "Contractual model terms"
+  source: ISO 14812, Figure A.40
+fig_A.41:
+  caption: "Financial model terms"
+  source: ISO 14812, Figure A.41
+fig_A.42:
+  caption: "Operational model terms"
+  source: ISO 14812, Figure A.42
+fig_A.43:
+  caption: "Network model terms"
+  source: ISO 14812, Figure A.43
+fig_A.44:
+  caption: "Shared transport service terms"
+  source: ISO 14812, Figure A.44
+fig_A.45:
+  caption: "Shared vehicle terms"
+  source: ISO 14812, Figure A.45
+fig_A.46:
+  caption: "Transport service application terms"
+  source: ISO 14812, Figure A.46
+fig_A.47:
+  caption: "Traveller terms"
+  source: ISO 14812, Figure A.47
+fig_A.48:
+  caption: "Vehicle occupant terms"
+  source: ISO 14812, Figure A.48
+fig_A.49:
+  caption: "Vehicle component terms"
+  source: ISO 14812, Figure A.49
+fig_A.50:
+  caption: "Vehicle attribute terms"
+  source: ISO 14812, Figure A.50
+fig_A.51:
+  caption: "Vehicle automation terms"
+  source: ISO 14812, Figure A.51
+fig_A.52:
+  caption: "Vehicle connectivity terms"
+  source: ISO 14812, Figure A.52
+fig_A.53:
+  caption: "Vehicle speed terms"
+  source: ISO 14812, Figure A.53
+fig_A.54:
+  caption: "Vehicle type - environment terms"
+  source: ISO 14812, Figure A.54
