@@ -1,0 +1,107 @@
+---
+ref_1:
+  reference: ISO 704
+  title: Terminology work — Principles and methods
+ref_2:
+  reference: ISO 10241-1
+  title: 'Terminological entries in standards — Part 1: General requirements and examples
+    of presentation'
+ref_3:
+  reference: ISO/IEC 10746-1
+  title: 'Information technology — Open Distributed Processing — Reference model:
+    Overview — Part 1:'
+ref_4:
+  reference: ISO/IEC 10746-3
+  title: 'Information technology — Open distributed processing — Reference model:
+    Architecture — Part 3:'
+ref_5:
+  reference: ISO/IEC 11179-1:2015
+  title: 'Information technology — Metadata registries (MDR) — Part 1: Framework'
+ref_6:
+  reference: ISO 12353-1
+  title: 'Road vehicles — Traffic accident analysis — Part 1: Vocabulary'
+ref_7:
+  reference: ISO 13537
+  title: Space data and information transfer systems — Reference architecture for
+    space data systems
+ref_8:
+  reference: ISO/IEC 14662
+  title: Information technology — Open-edi reference model
+ref_9:
+  reference: ISO 14817-1
+  title: 'Intelligent transport systems — ITS central data dictionaries — Part 1:
+    Requirements for ITS data definitions'
+ref_12:
+  reference: ISO 17185-1
+  title: 'Intelligent transport systems — Public transport user information — Part
+    1: Standards framework for public information systems'
+ref_13:
+  reference: ISO 19108:2002
+  title: Geographic information — Temporal schema
+ref_14:
+  reference: ISO 19112:2019
+  title: Geographic information — Spatial referencing by geographic identifiers
+ref_15:
+  reference: ISO 19145:2013
+  title: Geographic information — Registry of representations of geographic point
+    location
+ref_16:
+  reference: ISO 21217
+  title: Intelligent transport systems — Station and communication architecture
+ref_17:
+  reference: ISO 22745-2:2010
+  title: 'Industrial automation systems and integration — Open technical dictionaries
+    and their application to master data – Part 2: Vocabulary'
+ref_18:
+  reference: ISO 24156-1
+  title: 'Graphic notations for concept modelling in terminology work and its relationship
+    with UML — Part 1: Guidelines for using UML notation in terminology work'
+ref_19:
+  reference: ISO/IEC TR 25060:2010
+  title: 'Systems and software engineering — Systems and software product Quality
+    Requirements and Evaluation (SQuaRE) — Common Industry Format (CIF) for usability:
+    General framework for usability-related information'
+ref_20:
+  reference: ISO/IEC 25062:2006
+  title: Software engineering — Software product Quality Requirements and Evaluation
+    (SQuaRE) — Common Industry Format (CIF) for usability test reports
+ref_23:
+  reference: UNECE TRANS/WP29/1045
+  title: 'UNECE TRANS/WP29/1045, _Concerning the common definitions of vehicle categories,
+    masses and dimensions (S.R. 1)_. 15 Sept 2005 [online]. Available from: https://www.unece.org/fileadmin/DAM/trans/doc/2005/wp29/TRANS-WP29-1045e.pdf'
+ref_25:
+  reference: ARC-IT
+  title: 'United States Department of Transportation_Architecture Reference for Cooperative
+    and Intelligent Transportation, ARC-IT. _4 February 2022 [online]. Available from:
+    https://www.arc-it.net'
+ref_26:
+  reference: HTG 7
+  title: 'HTG 7_Harmonized Architecture Reference for Technical Standards. _4 February
+    2022 [online]. Available from: http://htg7.org'
+iso_std_iso_15704_en:
+  reference: ISO 15704
+iso_std_iso_iec_10746_en:
+  reference: ISO/IEC 10746 (all parts)
+ISO_11179_1:
+  reference: ISO 11179-1
+ISO19505_2_2012:
+  reference: ISO 19505-2:2012
+SAE_J3194:
+  reference: SAE J3194
+ISO_SAE_22736:
+  reference: ISO/SAE 22736
+SAE_J3016:
+  reference: SAE J3016
+ISO_IEC_11179_3_2013:
+  reference: ISO/IEC 11179-3:2013
+ref_10:
+  reference: ISO/IEC/IEEE 15288:2015
+ref_11:
+  reference: ISO/IEC/IEEE 15289:2019
+ref_21:
+  reference: ISO/IEC/IEEE 26515:2018
+ref_22:
+  reference: ISO/IEC/IEEE 42010:2011
+ref_24:
+  reference: CCSDS 311.0-M-1:2008
+  title: Reference Architecture for Space Data Systems
