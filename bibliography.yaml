@@ -69,15 +69,18 @@ ref_23:
   reference: UNECE TRANS/WP29/1045
   title: 'UNECE TRANS/WP29/1045, _Concerning the common definitions of vehicle categories,
     masses and dimensions (S.R. 1)_. 15 Sept 2005 [online]. Available from: https://www.unece.org/fileadmin/DAM/trans/doc/2005/wp29/TRANS-WP29-1045e.pdf'
+  link: https://www.unece.org/fileadmin/DAM/trans/doc/2005/wp29/TRANS-WP29-1045e.pdf
 ref_25:
   reference: ARC-IT
   title: 'United States Department of Transportation_Architecture Reference for Cooperative
     and Intelligent Transportation, ARC-IT. _4 February 2022 [online]. Available from:
     https://www.arc-it.net'
+  link: https://www.arc-it.net
 ref_26:
   reference: HTG 7
   title: 'HTG 7_Harmonized Architecture Reference for Technical Standards. _4 February
     2022 [online]. Available from: http://htg7.org'
+  link: http://htg7.org
 iso_std_iso_15704_en:
   reference: ISO 15704
 iso_std_iso_iec_10746_en:
