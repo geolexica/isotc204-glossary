@@ -7,8 +7,8 @@ eng:
     normative_status: preferred
     designation: real-time traveller information app
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.5.13.1,mobility app}} that provides information
-      about current travel conditions to a {{urn:iso:std:iso:14812:3.5.2.3,transport
+  - content: "{{<<urn:iso:std:iso:14812:3.5.13.1>>,mobility app}} that provides information
+      about current travel conditions to a {{<<urn:iso:std:iso:14812:3.5.2.3>>,transport
       user}}"
   notes: []
   examples: []

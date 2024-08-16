@@ -7,7 +7,7 @@ eng:
     normative_status: preferred
     designation: commercial
   definition:
-  - content: type of{{urn:iso:std:iso:14812:3.5.8.1,financial model}} where {{urn:iso:std:iso:14812:3.5.2.1,service,services}}
+  - content: type of{{<<urn:iso:std:iso:14812:3.5.8.1>>,financial model}} where {{<<urn:iso:std:iso:14812:3.5.2.1>>,service,services}}
       are provided with a profit motive
   notes: []
   examples: []

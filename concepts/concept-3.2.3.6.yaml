@@ -10,13 +10,13 @@ eng:
     normative_status: preferred
     designation: ITS connected
   definition:
-  - content: characteristic of a {{urn:iso:std:iso:14812:3.1.1.3,material entity}}
+  - content: characteristic of a {{<<urn:iso:std:iso:14812:3.1.1.3>>,material entity}}
       that is equipped with enabled (i.e. on) and operational electronic communication
-      technologies to support {{urn:iso:std:iso:14812:3.5.3.1,ITS service,ITS services}},
+      technologies to support {{<<urn:iso:std:iso:14812:3.5.3.1>>,ITS service,ITS services}},
       including the means to send and receive data to and from other connected entities
   notes:
   - content: The term "connected" does not imply support for any specific communications
-      interface or {{urn:iso:std:iso:14812:3.2.9.2,ITS-S application process}}.
+      interface or {{<<urn:iso:std:iso:14812:3.2.9.2>>,ITS-S application process}}.
   examples: []
   language_code: eng
   entry_status: valid

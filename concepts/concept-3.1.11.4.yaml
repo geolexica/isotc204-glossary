@@ -7,9 +7,9 @@ eng:
     normative_status: preferred
     designation: data frame
   definition:
-  - content: specific grouping of {{urn:iso:std:iso:14812:3.1.11.1,data element,data
+  - content: specific grouping of {{<<urn:iso:std:iso:14812:3.1.11.1>>,data element,data
       elements}} that describes information of interest through a useful grouping
-      of more atomic properties about one or more {{urn:iso:std:iso:14812:3.1.11.2,class,classes}}
+      of more atomic properties about one or more {{<<urn:iso:std:iso:14812:3.1.11.2>>,class,classes}}
   notes:
   - content: The grouping can be a set, sequence or a choice.
   - content: A data frame can contain other data frames.

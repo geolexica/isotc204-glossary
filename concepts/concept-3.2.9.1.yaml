@@ -7,9 +7,9 @@ eng:
     normative_status: preferred
     designation: ITS application role
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.5.4.4,ITS-S user need}} expressed as a formal
+  - content: "{{<<urn:iso:std:iso:14812:3.5.4.4>>,ITS-S user need}} expressed as a formal
       set of interoperability requirements that need to be fulfilled to satisfy a
-      portion of functionality of an {{urn:iso:std:iso:14812:3.2.8.1,ITS application}}"
+      portion of functionality of an {{<<urn:iso:std:iso:14812:3.2.8.1>>,ITS application}}"
   notes: []
   examples: []
   language_code: eng

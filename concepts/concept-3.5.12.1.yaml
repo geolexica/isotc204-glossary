@@ -10,7 +10,7 @@ eng:
     normative_status: admitted
     designation: bicycle sharing service
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.5.6.3,shared vehicle service}} that shares
+  - content: "{{<<urn:iso:std:iso:14812:3.5.6.3>>,shared vehicle service}} that shares
       bicycles"
   notes:
   - content: The term "bicycle sharing service" is admitted, but "bikesharing service"

@@ -10,7 +10,7 @@ eng:
     normative_status: preferred
     designation: ITS connected unit
   definition:
-  - content: electronic device that is {{urn:iso:std:iso:14812:3.2.3.6,connected}}
+  - content: electronic device that is {{<<urn:iso:std:iso:14812:3.2.3.6>>,connected}}
       using one or more communication media
   notes: []
   examples: []

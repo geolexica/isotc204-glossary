@@ -7,9 +7,9 @@ eng:
     normative_status: preferred
     designation: ITS application specification
   definition:
-  - content: one or more {{urn:iso:std:iso:14812:3.1.6.3,document,documents}} that
-      detail the {{urn:iso:std:iso:14812:3.2.8.2,interoperability design}} for an
-      {{urn:iso:std:iso:14812:3.2.8.1,ITS application}}
+  - content: one or more {{<<urn:iso:std:iso:14812:3.1.6.3>>,document,documents}} that
+      detail the {{<<urn:iso:std:iso:14812:3.2.8.2>>,interoperability design}} for an
+      {{<<urn:iso:std:iso:14812:3.2.8.1>>,ITS application}}
   notes: []
   examples: []
   language_code: eng

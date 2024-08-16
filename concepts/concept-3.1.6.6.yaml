@@ -11,7 +11,7 @@ eng:
     designation: enterprise view informal coordination
   domain: enterprise view
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.1.6.4,interaction}} between two {{urn:iso:std:iso:14812:3.1.6.1,enterprise
+  - content: "{{<<urn:iso:std:iso:14812:3.1.6.4>>,interaction}} between two {{<<urn:iso:std:iso:14812:3.1.6.1>>,enterprise
       object,enterprise objects}} governed by an understanding that is not documented
       in a formal agreement between the two parties"
   notes: []

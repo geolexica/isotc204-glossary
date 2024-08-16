@@ -7,9 +7,9 @@ eng:
     normative_status: preferred
     designation: motor vehicle
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.7.6.2,motorized vehicle,motorized}} {{urn:iso:std:iso:14812:3.7.6.1,road
-      vehicle}} allowed to operate in the same {{urn:iso:std:iso:14812:3.3.1.4,driving
-      space,driving spaces}} as motorized {{urn:iso:std:iso:14812:3.6.2.1,passenger}}
+  - content: "{{<<urn:iso:std:iso:14812:3.7.6.2>>,motorized vehicle,motorized}} {{<<urn:iso:std:iso:14812:3.7.6.1>>,road
+      vehicle}} allowed to operate in the same {{<<urn:iso:std:iso:14812:3.3.1.4>>,driving
+      space,driving spaces}} as motorized {{<<urn:iso:std:iso:14812:3.6.2.1>>,passenger}}
       cars"
   notes: []
   examples: []

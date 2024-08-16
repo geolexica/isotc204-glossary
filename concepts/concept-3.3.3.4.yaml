@@ -7,7 +7,7 @@ eng:
     normative_status: preferred
     designation: sidewalk
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.3.3.3,footway}} along a {{urn:iso:std:iso:14812:3.3.1.10,roadside}}"
+  - content: "{{<<urn:iso:std:iso:14812:3.3.3.3>>,footway}} along a {{<<urn:iso:std:iso:14812:3.3.1.10>>,roadside}}"
   notes: []
   examples: []
   language_code: eng

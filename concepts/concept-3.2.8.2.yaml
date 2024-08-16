@@ -7,8 +7,8 @@ eng:
     normative_status: preferred
     designation: interoperability design
   definition:
-  - content: characteristics necessary to fully define how various {{urn:iso:std:iso:14812:3.1.8.1,physical
-      object,physical objects}} interoperate to provide a {{urn:iso:std:iso:14812:3.5.2.1,service}}
+  - content: characteristics necessary to fully define how various {{<<urn:iso:std:iso:14812:3.1.8.1>>,physical
+      object,physical objects}} interoperate to provide a {{<<urn:iso:std:iso:14812:3.5.2.1>>,service}}
   notes:
   - content: Characteristics often include but are not limited to functional, performance
       and interface requirements.

@@ -14,7 +14,7 @@ eng:
     designation: information layer
   domain: ITS-S
   definition:
-  - content: part of the {{urn:iso:std:iso:14812:3.1.9.4,ITS-S reference architecture,ITS
+  - content: part of the {{<<urn:iso:std:iso:14812:3.1.9.4>>,ITS-S reference architecture,ITS
       station reference architecture}} that is responsible for providing ITS-related
       functionality
   notes:
@@ -22,7 +22,7 @@ eng:
       (NTCIP) standards identify an "information layer" on top of the traditional
       OSI stack. However, the purpose of this layer includes both information configuration
       and functionality. The ITS-S reference architecture separates these two roles
-      between the {{urn:iso:std:iso:14812:3.1.5.6,management entity}} and the application
+      between the {{<<urn:iso:std:iso:14812:3.1.5.6>>,management entity}} and the application
       entity.
   examples: []
   language_code: eng

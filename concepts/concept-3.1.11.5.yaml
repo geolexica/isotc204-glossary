@@ -7,8 +7,8 @@ eng:
     normative_status: preferred
     designation: message
   definition:
-  - content: grouping of {{urn:iso:std:iso:14812:3.1.11.1,data element,data elements}},
-      {{urn:iso:std:iso:14812:3.1.11.4,data frame,data frames}}, or data elements
+  - content: grouping of {{<<urn:iso:std:iso:14812:3.1.11.1>>,data element,data elements}},
+      {{<<urn:iso:std:iso:14812:3.1.11.4>>,data frame,data frames}}, or data elements
       and data frames that is used to convey information
   notes: []
   examples: []

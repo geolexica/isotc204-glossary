@@ -11,8 +11,8 @@ eng:
     designation: system stakeholder
   domain: system
   definition:
-  - content: individual, team, organization, or {{urn:iso:std:iso:14812:3.1.12.2,scenario,classes}}
-      thereof, having an interest in a {{urn:iso:std:iso:14812:3.1.2.1,system}}
+  - content: individual, team, organization, or {{<<urn:iso:std:iso:14812:3.1.12.2>>,scenario,classes}}
+      thereof, having an interest in a {{<<urn:iso:std:iso:14812:3.1.2.1>>,system}}
   notes: []
   examples: []
   language_code: eng

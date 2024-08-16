@@ -8,9 +8,9 @@ eng:
     designation: fractional ownership
   domain: transport service
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.5.8.4,cooperative}} {{urn:iso:std:iso:14812:3.5.8.1,financial
-      model}} where {{urn:iso:std:iso:14812:3.5.3.4,user,users}} partner to support
-      the purchase, maintenance and overhead costs associated with a {{urn:iso:std:iso:14812:3.5.2.1,service}}"
+  - content: "{{<<urn:iso:std:iso:14812:3.5.8.4>>,cooperative}} {{<<urn:iso:std:iso:14812:3.5.8.1>>,financial
+      model}} where {{<<urn:iso:std:iso:14812:3.5.3.4>>,user,users}} partner to support
+      the purchase, maintenance and overhead costs associated with a {{<<urn:iso:std:iso:14812:3.5.2.1>>,service}}"
   notes: []
   examples: []
   language_code: eng

@@ -7,16 +7,16 @@ eng:
     normative_status: preferred
     designation: carriageway
   definition:
-  - content: contiguous area of {{urn:iso:std:iso:14812:3.3.1.3,roadway}} along a
-      {{urn:iso:std:iso:14812:3.3.5.8,road segment}}
+  - content: contiguous area of {{<<urn:iso:std:iso:14812:3.3.1.3>>,roadway}} along a
+      {{<<urn:iso:std:iso:14812:3.3.5.8>>,road segment}}
   notes:
-  - content: A carriageway is comprised of one or more traffic {{urn:iso:std:iso:14812:3.3.1.13,traffic
-      lane,lanes}} [i.e. the {{urn:iso:std:iso:14812:3.3.1.15,usable width}}] and
-      could include {{urn:iso:std:iso:14812:3.3.1.18,shoulder,shoulders}} and {{urn:iso:std:iso:14812:3.3.1.16,lay-by,lay-bys}}.
-  - content: Carriageways are separated by {{urn:iso:std:iso:14812:3.3.2.1,physical
+  - content: A carriageway is comprised of one or more traffic {{<<urn:iso:std:iso:14812:3.3.1.13>>,traffic
+      lane,lanes}} [i.e. the {{<<urn:iso:std:iso:14812:3.3.1.15>>,usable width}}] and
+      could include {{<<urn:iso:std:iso:14812:3.3.1.18>>,shoulder,shoulders}} and {{<<urn:iso:std:iso:14812:3.3.1.16>>,lay-by,lay-bys}}.
+  - content: Carriageways are separated by {{<<urn:iso:std:iso:14812:3.3.2.1>>,physical
       traffic separator,physical traffic separators}}.
-  - content: When looking at a {{urn:iso:std:iso:14812:3.3.1.1,cross-section}} of
-      the {{urn:iso:std:iso:14812:3.3.1.2,road reservation}}, the roadway consists
+  - content: When looking at a {{<<urn:iso:std:iso:14812:3.3.1.1>>,cross-section}} of
+      the {{<<urn:iso:std:iso:14812:3.3.1.2>>,road reservation}}, the roadway consists
       of all of the carriageways.
   examples: []
   language_code: eng

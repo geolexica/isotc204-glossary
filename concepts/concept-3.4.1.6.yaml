@@ -10,7 +10,7 @@ eng:
     normative_status: preferred
     designation: ITS area location
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.4.1.2,spatial location}} enclosed within a
+  - content: "{{<<urn:iso:std:iso:14812:3.4.1.2>>,spatial location}} enclosed within a
       two-dimensional boundary or boundaries across a defined surface"
   notes:
   - content: The boundary can consist of a single curvilinear line (e.g. a circle)

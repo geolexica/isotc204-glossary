@@ -7,8 +7,8 @@ eng:
     normative_status: preferred
     designation: process specification
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.1.6.3,document}} that defines a lowest-level
-      {{urn:iso:std:iso:14812:3.1.7.2,process}}"
+  - content: "{{<<urn:iso:std:iso:14812:3.1.6.3>>,document}} that defines a lowest-level
+      {{<<urn:iso:std:iso:14812:3.1.7.2>>,process}}"
   notes: []
   examples: []
   language_code: eng

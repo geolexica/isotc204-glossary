@@ -7,13 +7,13 @@ eng:
     normative_status: preferred
     designation: ITS component
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.1.8.1,physical object}} that has been assigned
-      one or more {{urn:iso:std:iso:14812:3.1.8.6,functional object,functional objects}}
-      in the provision of one or more {{urn:iso:std:iso:14812:3.5.3.1,ITS service,ITS
+  - content: "{{<<urn:iso:std:iso:14812:3.1.8.1>>,physical object}} that has been assigned
+      one or more {{<<urn:iso:std:iso:14812:3.1.8.6>>,functional object,functional objects}}
+      in the provision of one or more {{<<urn:iso:std:iso:14812:3.5.3.1>>,ITS service,ITS
       services}}"
   notes:
   - content: Physical objects are ITS components if they are an integral part of the
-      {{urn:iso:std:iso:14812:3.1.2.1,system}}; otherwise they are {{urn:iso:std:iso:14812:3.1.8.3,terminator,terminators}}.
+      {{<<urn:iso:std:iso:14812:3.1.2.1>>,system}}; otherwise they are {{<<urn:iso:std:iso:14812:3.1.8.3>>,terminator,terminators}}.
   examples: []
   language_code: eng
   entry_status: valid

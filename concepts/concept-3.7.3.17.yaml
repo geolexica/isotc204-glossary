@@ -7,7 +7,7 @@ eng:
     normative_status: preferred
     designation: ADS-dedicated vehicle
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.7.3.15,ADS-equipped vehicle}} designed for
+  - content: "{{<<urn:iso:std:iso:14812:3.7.3.15>>,ADS-equipped vehicle}} designed for
       only driverless operation for complete trips"
   notes: []
   examples: []

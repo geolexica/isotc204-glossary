@@ -11,9 +11,9 @@ eng:
     designation: ITS-S management entity
   domain: ITS-S
   definition:
-  - content: part of the {{urn:iso:std:iso:14812:3.1.9.4,ITS-S reference architecture,ITS
+  - content: part of the {{<<urn:iso:std:iso:14812:3.1.9.4>>,ITS-S reference architecture,ITS
       station reference architecture}} that is responsible for management of communications
-      and configuration information for the local {{urn:iso:std:iso:14812:3.1.8.1,physical
+      and configuration information for the local {{<<urn:iso:std:iso:14812:3.1.8.1>>,physical
       object}} and possibly remote physical objects
   notes: []
   examples: []

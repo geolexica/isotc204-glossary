@@ -11,11 +11,11 @@ eng:
     designation: enterprise view include
   domain: enterprise view
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.1.6.8,relationship}} where one {{urn:iso:std:iso:14812:3.1.6.2,resource}}
+  - content: "{{<<urn:iso:std:iso:14812:3.1.6.8>>,relationship}} where one {{<<urn:iso:std:iso:14812:3.1.6.2>>,resource}}
       contains another resource"
   notes: []
   examples:
-  - content: Every ITS component includes one or more {{urn:iso:std:iso:14812:3.1.8.7,module,modules}}.
+  - content: Every ITS component includes one or more {{<<urn:iso:std:iso:14812:3.1.8.7>>,module,modules}}.
   language_code: eng
   entry_status: valid
   sources:

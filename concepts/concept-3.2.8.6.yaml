@@ -7,7 +7,7 @@ eng:
     normative_status: preferred
     designation: ITS deployment
   definition:
-  - content: installation capable of performing one or more {{urn:iso:std:iso:14812:3.2.8.1,ITS
+  - content: installation capable of performing one or more {{<<urn:iso:std:iso:14812:3.2.8.1>>,ITS
       application,ITS applications}}
   notes:
   - content: An ITS deployment typically refers to the support, central and roadside

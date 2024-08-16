@@ -7,11 +7,11 @@ eng:
     normative_status: preferred
     designation: road section
   definition:
-  - content: aggregation of one or more {{urn:iso:std:iso:14812:3.3.5.6,road link,road
-      links}} that represents a contiguous length of a {{urn:iso:std:iso:14812:3.3.5.1,road}}
+  - content: aggregation of one or more {{<<urn:iso:std:iso:14812:3.3.5.6>>,road link,road
+      links}} that represents a contiguous length of a {{<<urn:iso:std:iso:14812:3.3.5.1>>,road}}
       that shares the same management and operational strategies
   notes:
-  - content: Different {{urn:iso:std:iso:14812:3.3.5.3,road model,road models}} can
+  - content: Different {{<<urn:iso:std:iso:14812:3.3.5.3>>,road model,road models}} can
       divide the same road into different road sections.
   examples:
   - content: A traffic signal timing plan is applied to one road section.

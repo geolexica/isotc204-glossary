@@ -7,8 +7,8 @@ eng:
     normative_status: preferred
     designation: mutual benefit
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.5.8.4,cooperative}} {{urn:iso:std:iso:14812:3.5.8.1,financial
-      model}} where {{urn:iso:std:iso:14812:3.5.3.4,user,users}} partner on a per-use
+  - content: "{{<<urn:iso:std:iso:14812:3.5.8.4>>,cooperative}} {{<<urn:iso:std:iso:14812:3.5.8.1>>,financial
+      model}} where {{<<urn:iso:std:iso:14812:3.5.3.4>>,user,users}} partner on a per-use
       basis"
   notes: []
   examples: []

@@ -12,7 +12,7 @@ eng:
   notes:
   - content: This definition states that a data element is “indivisible” in a given
       context. This means it is possible for a data element considered indivisible
-      in one context [e.g. {{urn:iso:std:iso:14812:3.4.1.1,location}}] to be divisible
+      in one context [e.g. {{<<urn:iso:std:iso:14812:3.4.1.1>>,location}}] to be divisible
       in another context (e.g. latitude, longitude, and elevation).
   examples: []
   language_code: eng

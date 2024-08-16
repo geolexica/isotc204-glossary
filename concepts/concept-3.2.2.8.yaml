@@ -7,7 +7,7 @@ eng:
     normative_status: preferred
     designation: transport information central system
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.2.1.1,central system,centre system}} that
+  - content: "{{<<urn:iso:std:iso:14812:3.2.1.1>>,central system,centre system}} that
       provides information of interest to the travelling public"
   notes: []
   examples: []

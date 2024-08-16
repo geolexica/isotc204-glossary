@@ -8,7 +8,7 @@ eng:
     designation: service
   definition:
   - content: provision of one or more capabilities, functionalities or facilities
-      to enable one or more tasks to fulfil a {{urn:iso:std:iso:14812:3.5.1.4,user
+      to enable one or more tasks to fulfil a {{<<urn:iso:std:iso:14812:3.5.1.4>>,user
       need,need}}
   notes: []
   examples: []

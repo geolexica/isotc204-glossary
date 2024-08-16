@@ -7,7 +7,7 @@ eng:
     normative_status: preferred
     designation: pedestrian
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.1.1.6,person}} who is travelling on foot"
+  - content: "{{<<urn:iso:std:iso:14812:3.1.1.6>>,person}} who is travelling on foot"
   notes: []
   examples: []
   language_code: eng

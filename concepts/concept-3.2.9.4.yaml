@@ -7,8 +7,8 @@ eng:
     normative_status: preferred
     designation: ITS-S application implementation
   definition:
-  - content: implementation of an {{urn:iso:std:iso:14812:3.2.9.2,ITS-S application
-      process}} within the {{urn:iso:std:iso:14812:3.1.5.1,application entity}}
+  - content: implementation of an {{<<urn:iso:std:iso:14812:3.2.9.2>>,ITS-S application
+      process}} within the {{<<urn:iso:std:iso:14812:3.1.5.1>>,application entity}}
   notes:
   - content: An implementation is typically associated with an implementation name,
       a version and release number.

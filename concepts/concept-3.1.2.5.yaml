@@ -10,9 +10,9 @@ eng:
     normative_status: preferred
     designation: C-ITS
   definition:
-  - content: subset of {{urn:iso:std:iso:14812:3.1.2.4,intelligent transport system,ITS}}
-      where information is shared among {{urn:iso:std:iso:14812:3.2.7.3,ITS station,ITS
-      stations}} in a manner that enables its use by multiple {{urn:iso:std:iso:14812:3.5.3.1,ITS
+  - content: subset of {{<<urn:iso:std:iso:14812:3.1.2.4>>,intelligent transport system,ITS}}
+      where information is shared among {{<<urn:iso:std:iso:14812:3.2.7.3>>,ITS station,ITS
+      stations}} in a manner that enables its use by multiple {{<<urn:iso:std:iso:14812:3.5.3.1>>,ITS
       service,ITS services}}
   notes: []
   examples: []

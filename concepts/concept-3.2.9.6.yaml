@@ -7,8 +7,8 @@ eng:
     normative_status: preferred
     designation: ITS-S application installation
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.2.9.5,ITS-S application process installation}}
-      within the {{urn:iso:std:iso:14812:3.1.5.1,application entity}}"
+  - content: "{{<<urn:iso:std:iso:14812:3.2.9.5>>,ITS-S application process installation}}
+      within the {{<<urn:iso:std:iso:14812:3.1.5.1>>,application entity}}"
   notes: []
   examples: []
   language_code: eng

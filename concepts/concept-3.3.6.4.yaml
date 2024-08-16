@@ -7,8 +7,8 @@ eng:
     normative_status: preferred
     designation: ingress link
   definition:
-  - content: all {{urn:iso:std:iso:14812:3.3.6.3,ingress lane,ingress lanes}} on a
-      {{urn:iso:std:iso:14812:3.3.5.6,road link}}
+  - content: all {{<<urn:iso:std:iso:14812:3.3.6.3>>,ingress lane,ingress lanes}} on a
+      {{<<urn:iso:std:iso:14812:3.3.5.6>>,road link}}
   notes: []
   examples: []
   language_code: eng

@@ -7,16 +7,16 @@ eng:
     normative_status: preferred
     designation: data concept
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.1.11.1,data element}}, {{urn:iso:std:iso:14812:3.1.11.2,class}},
-      {{urn:iso:std:iso:14812:3.1.11.3,value domain}}, {{urn:iso:std:iso:14812:3.1.11.4,data
-      frame}}, {{urn:iso:std:iso:14812:3.1.11.5,message}} or {{urn:iso:std:iso:14812:3.1.11.6,interface
+  - content: "{{<<urn:iso:std:iso:14812:3.1.11.1>>,data element}}, {{<<urn:iso:std:iso:14812:3.1.11.2>>,class}},
+      {{<<urn:iso:std:iso:14812:3.1.11.3>>,value domain}}, {{<<urn:iso:std:iso:14812:3.1.11.4>>,data
+      frame}}, {{<<urn:iso:std:iso:14812:3.1.11.5>>,message}} or {{<<urn:iso:std:iso:14812:3.1.11.6>>,interface
       dialogue}} defined, at a minimum, with an unambiguous identifier and a definition"
   notes:
   - content: In order to exchange a value corresponding to a data concept, more information
       than an identifier, a name and a definition can be needed. For a property, a
       data type is needed. Depending on the kind of property, other data elements
       such as unit of measure, and language, can be needed as well. The additional
-      information can be given in the {{urn:iso:std:iso:14812:3.1.10.3,data dictionary}},
+      information can be given in the {{<<urn:iso:std:iso:14812:3.1.10.3>>,data dictionary}},
       in a data specification that references the data concept or associated with
       the data themselves.
   examples: []

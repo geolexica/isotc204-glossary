@@ -7,8 +7,8 @@ eng:
     normative_status: preferred
     designation: B2C mobility sharing app
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.5.13.1,mobility app}} that assists a {{urn:iso:std:iso:14812:3.5.2.3,transport
-      user}} in acquiring a {{urn:iso:std:iso:14812:3.5.2.1,transport service}} from
+  - content: "{{<<urn:iso:std:iso:14812:3.5.13.1>>,mobility app}} that assists a {{<<urn:iso:std:iso:14812:3.5.2.3>>,transport
+      user}} in acquiring a {{<<urn:iso:std:iso:14812:3.5.2.1>>,transport service}} from
       a specific business"
   notes: []
   examples: []

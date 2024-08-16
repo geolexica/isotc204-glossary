@@ -7,7 +7,7 @@ eng:
     normative_status: preferred
     designation: grade separated manoeuvre
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.3.6.7,intersection manoeuvre,manoeuvre}} that
+  - content: "{{<<urn:iso:std:iso:14812:3.3.6.7>>,intersection manoeuvre,manoeuvre}} that
       is vertically separated from one or more manoeuvres that cross its two-dimensional
       path"
   notes: []

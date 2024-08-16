@@ -10,12 +10,12 @@ eng:
     normative_status: preferred
     designation: ITS support system
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.1.8.2,ITS component}} that provides services
+  - content: "{{<<urn:iso:std:iso:14812:3.1.8.2>>,ITS component}} that provides services
       in support of one or more other ITS components"
   notes: []
   examples:
-  - content: Data distribution {{urn:iso:std:iso:14812:3.1.2.1,system}}, network time
-      source, {{urn:iso:std:iso:14812:3.1.2.5,cooperative ITS}} credentials management
+  - content: Data distribution {{<<urn:iso:std:iso:14812:3.1.2.1>>,system}}, network time
+      source, {{<<urn:iso:std:iso:14812:3.1.2.5>>,cooperative ITS}} credentials management
       system.
   language_code: eng
   entry_status: valid

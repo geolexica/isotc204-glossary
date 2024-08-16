@@ -10,7 +10,7 @@ eng:
     normative_status: admitted
     designation: dynamic location reference
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.4.2.2,spatial reference}} generated on-the-fly
+  - content: "{{<<urn:iso:std:iso:14812:3.4.2.2>>,spatial reference}} generated on-the-fly
       based on geographic properties in a digital map database"
   notes: []
   examples: []

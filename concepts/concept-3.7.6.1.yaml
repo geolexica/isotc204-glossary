@@ -7,14 +7,14 @@ eng:
     normative_status: preferred
     designation: road vehicle
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.7.1.1,vehicle}} meeting the requirements to
-      operate within the {{urn:iso:std:iso:14812:3.3.1.4,driving space}} of a {{urn:iso:std:iso:14812:3.3.5.1,road}}"
+  - content: "{{<<urn:iso:std:iso:14812:3.7.1.1>>,vehicle}} meeting the requirements to
+      operate within the {{<<urn:iso:std:iso:14812:3.3.1.4>>,driving space}} of a {{<<urn:iso:std:iso:14812:3.3.5.1>>,road}}"
   notes:
   - content: Unless indicated otherwise, the term typically refers to vehicles that
-      are allowed to operate in the same driving spaces as motorized {{urn:iso:std:iso:14812:3.6.2.1,passenger}}
-      cars, according to the legal requirements of the local jurisdictional {{urn:iso:std:iso:14812:3.1.1.1,entity}}.
-      However, the term can be contextualized for other {{urn:iso:std:iso:14812:3.1.3.11,environment,environments}}.
-      For example, a bicycle is a "road vehicle" when the "road" is a {{urn:iso:std:iso:14812:3.3.3.2,cycleway}}.
+      are allowed to operate in the same driving spaces as motorized {{<<urn:iso:std:iso:14812:3.6.2.1>>,passenger}}
+      cars, according to the legal requirements of the local jurisdictional {{<<urn:iso:std:iso:14812:3.1.1.1>>,entity}}.
+      However, the term can be contextualized for other {{<<urn:iso:std:iso:14812:3.1.3.11>>,environment,environments}}.
+      For example, a bicycle is a "road vehicle" when the "road" is a {{<<urn:iso:std:iso:14812:3.3.3.2>>,cycleway}}.
   examples: []
   language_code: eng
   entry_status: valid

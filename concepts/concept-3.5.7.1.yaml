@@ -10,11 +10,11 @@ eng:
     normative_status: preferred
     designation: shared mobility contract model
   definition:
-  - content: legal framework for the agreement between a {{urn:iso:std:iso:14812:3.5.1.2,service
-      provider}} and a {{urn:iso:std:iso:14812:3.5.3.4,user}}
+  - content: legal framework for the agreement between a {{<<urn:iso:std:iso:14812:3.5.1.2>>,service
+      provider}} and a {{<<urn:iso:std:iso:14812:3.5.3.4>>,user}}
   notes:
   - content: Contracts can be via a third party, implied or verbal, especially in
-      the case of {{urn:iso:std:iso:14812:3.5.7.5,peer-to-peer}}.
+      the case of {{<<urn:iso:std:iso:14812:3.5.7.5>>,peer-to-peer}}.
   examples: []
   language_code: eng
   entry_status: valid

@@ -14,8 +14,8 @@ eng:
     designation: maneuver
   domain: junction
   definition:
-  - content: movement from an {{urn:iso:std:iso:14812:3.3.6.3,ingress lane}} to an
-      {{urn:iso:std:iso:14812:3.3.6.5,egress lane}}
+  - content: movement from an {{<<urn:iso:std:iso:14812:3.3.6.3>>,ingress lane}} to an
+      {{<<urn:iso:std:iso:14812:3.3.6.5>>,egress lane}}
   notes:
   - content: The term "maneuver" is the American English spelling.
   examples: []

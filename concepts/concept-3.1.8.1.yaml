@@ -11,16 +11,16 @@ eng:
     designation: ITS physical object
   domain: physical view
   definition:
-  - content: abstraction of a {{urn:iso:std:iso:14812:3.1.1.3,material entity}} that
-      interacts with other abstract material entities in the provision of {{urn:iso:std:iso:14812:3.5.3.1,ITS
+  - content: abstraction of a {{<<urn:iso:std:iso:14812:3.1.1.3>>,material entity}} that
+      interacts with other abstract material entities in the provision of {{<<urn:iso:std:iso:14812:3.5.3.1>>,ITS
       service,ITS services}}
   notes:
-  - content: Physical objects are represented as {{urn:iso:std:iso:14812:3.1.3.10,element,elements}}
-      within the {{urn:iso:std:iso:14812:3.1.4.7,physical view}} and perform a role.
-      Physical objects can be implemented as cloud-based {{urn:iso:std:iso:14812:3.1.2.1,system,systems}}.
-  - content: 'Within many {{urn:iso:std:iso:14812:3.1.9.5,ITS reference architecture,ITS
+  - content: Physical objects are represented as {{<<urn:iso:std:iso:14812:3.1.3.10>>,element,elements}}
+      within the {{<<urn:iso:std:iso:14812:3.1.4.7>>,physical view}} and perform a role.
+      Physical objects can be implemented as cloud-based {{<<urn:iso:std:iso:14812:3.1.2.1>>,system,systems}}.
+  - content: 'Within many {{<<urn:iso:std:iso:14812:3.1.9.5>>,ITS reference architecture,ITS
       reference architectures}}, physical objects are placed into one of five categories:
-      centre, support, field, vehicle or {{urn:iso:std:iso:14812:3.6.1.1,traveller}}.'
+      centre, support, field, vehicle or {{<<urn:iso:std:iso:14812:3.6.1.1>>,traveller}}.'
   examples: []
   language_code: eng
   entry_status: valid

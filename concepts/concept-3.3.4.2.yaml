@@ -8,10 +8,10 @@ eng:
     designation: hard shoulder running
   definition:
   - content: |-
-      operating mode of a {{urn:iso:std:iso:14812:3.3.1.19,hard shoulder}} that
+      operating mode of a {{<<urn:iso:std:iso:14812:3.3.1.19>>,hard shoulder}} that
       allows operation of general-purpose
-      {{urn:iso:std:iso:14812:3.7.6.3,motor vehicle,motor vehicles}} as an extra
-      {{urn:iso:std:iso:14812:3.3.1.13,lane}}
+      {{<<urn:iso:std:iso:14812:3.7.6.3>>,motor vehicle,motor vehicles}} as an extra
+      {{<<urn:iso:std:iso:14812:3.3.1.13>>,lane}}
   notes: []
   examples: []
   language_code: eng

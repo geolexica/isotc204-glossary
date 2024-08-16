@@ -13,8 +13,8 @@ eng:
     normative_status: admitted
     designation: intelligent transportation system
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.1.2.1,system}} comprised of information, communication,
-      sensor and control technologies and that is designed to benefit a {{urn:iso:std:iso:14812:3.1.2.3,surface
+  - content: "{{<<urn:iso:std:iso:14812:3.1.2.1>>,system}} comprised of information, communication,
+      sensor and control technologies and that is designed to benefit a {{<<urn:iso:std:iso:14812:3.1.2.3>>,surface
       transport system}}"
   notes:
   - content: '"Intelligent transportation system" is the American English equivalent.'

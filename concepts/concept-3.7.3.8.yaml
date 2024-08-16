@@ -10,16 +10,16 @@ eng:
     normative_status: preferred
     designation: driver assistance
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.7.3.7,driver support system}} that provides
-      either sustained lateral or sustained longitudinal {{urn:iso:std:iso:14812:3.7.1.1,vehicle}}
-      motion control within a specific {{urn:iso:std:iso:14812:3.7.3.2,operational
-      design domain}} with the expectation that a {{urn:iso:std:iso:14812:3.6.2.4,in-vehicle
-      driver,conventional driver}} completes the {{urn:iso:std:iso:14812:3.7.3.1,dynamic
+  - content: "{{<<urn:iso:std:iso:14812:3.7.3.7>>,driver support system}} that provides
+      either sustained lateral or sustained longitudinal {{<<urn:iso:std:iso:14812:3.7.1.1>>,vehicle}}
+      motion control within a specific {{<<urn:iso:std:iso:14812:3.7.3.2>>,operational
+      design domain}} with the expectation that a {{<<urn:iso:std:iso:14812:3.6.2.4>>,in-vehicle
+      driver,conventional driver}} completes the {{<<urn:iso:std:iso:14812:3.7.3.1>>,dynamic
       driving task,DDT}}"
   notes:
-  - content: Other driving automation levels include "{{urn:iso:std:iso:14812:3.7.3.9,level
-      2 driving automation}}", "{{urn:iso:std:iso:14812:3.7.3.11,level 3 ADS}}", "{{urn:iso:std:iso:14812:3.7.3.12,level
-      4 ADS}}", and "{{urn:iso:std:iso:14812:3.7.3.13,level 5 ADS}}".
+  - content: Other driving automation levels include "{{<<urn:iso:std:iso:14812:3.7.3.9>>,level
+      2 driving automation}}", "{{<<urn:iso:std:iso:14812:3.7.3.11>>,level 3 ADS}}", "{{<<urn:iso:std:iso:14812:3.7.3.12>>,level
+      4 ADS}}", and "{{<<urn:iso:std:iso:14812:3.7.3.13>>,level 5 ADS}}".
   examples: []
   language_code: eng
   entry_status: valid

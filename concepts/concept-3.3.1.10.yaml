@@ -7,11 +7,11 @@ eng:
     normative_status: preferred
     designation: roadside
   definition:
-  - content: portion of the {{urn:iso:std:iso:14812:3.3.1.2,road reservation}} excluding
-      all {{urn:iso:std:iso:14812:3.3.1.3,roadway}} and {{urn:iso:std:iso:14812:3.3.1.4,driving
+  - content: portion of the {{<<urn:iso:std:iso:14812:3.3.1.2>>,road reservation}} excluding
+      all {{<<urn:iso:std:iso:14812:3.3.1.3>>,roadway}} and {{<<urn:iso:std:iso:14812:3.3.1.4>>,driving
       space,driving space(s)}}
   notes:
-  - content: Roadside, {{urn:iso:std:iso:14812:3.3.1.18,shoulder}} and {{urn:iso:std:iso:14812:3.3.1.11,verge}}
+  - content: Roadside, {{<<urn:iso:std:iso:14812:3.3.1.18>>,shoulder}} and {{<<urn:iso:std:iso:14812:3.3.1.11>>,verge}}
       define similar but slightly different concepts
   examples: []
   language_code: eng

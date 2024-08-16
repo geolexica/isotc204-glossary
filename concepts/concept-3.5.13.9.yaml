@@ -7,11 +7,11 @@ eng:
     normative_status: preferred
     designation: trip aggregator app
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.5.13.1,mobility app}} that assists a {{urn:iso:std:iso:14812:3.5.2.3,transport
-      user}} in planning trips that may span multiple vehicle modes or {{urn:iso:std:iso:14812:3.5.2.2,transport
+  - content: "{{<<urn:iso:std:iso:14812:3.5.13.1>>,mobility app}} that assists a {{<<urn:iso:std:iso:14812:3.5.2.3>>,transport
+      user}} in planning trips that may span multiple vehicle modes or {{<<urn:iso:std:iso:14812:3.5.2.2>>,transport
       provider,transport providers}}"
   notes:
-  - content: The assistance can include reservations, ticketing and similar {{urn:iso:std:iso:14812:3.5.2.1,service,services}}.
+  - content: The assistance can include reservations, ticketing and similar {{<<urn:iso:std:iso:14812:3.5.2.1>>,service,services}}.
   examples: []
   language_code: eng
   entry_status: valid
