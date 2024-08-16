@@ -13,9 +13,9 @@ eng:
     normative_status: preferred
     designation: RSU
   definition:
-  - content: part of {{urn:iso:std:iso:14812:3.2.3.3,connected roadside equipment}}
-      that provides wireless connectivity to {{urn:iso:std:iso:14812:3.2.1.5,vehicle
-      system,vehicle systems}} and/or {{urn:iso:std:iso:14812:3.2.1.3,personal system,personal
+  - content: part of {{<<urn:iso:std:iso:14812:3.2.3.3>>,connected roadside equipment}}
+      that provides wireless connectivity to {{<<urn:iso:std:iso:14812:3.2.1.5>>,vehicle
+      system,vehicle systems}} and/or {{<<urn:iso:std:iso:14812:3.2.1.3>>,personal system,personal
       systems}}
   notes: []
   examples: []

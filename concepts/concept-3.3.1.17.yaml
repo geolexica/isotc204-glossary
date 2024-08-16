@@ -7,12 +7,12 @@ eng:
     normative_status: preferred
     designation: hardstanding
   definition:
-  - content: part of a paved {{urn:iso:std:iso:14812:3.3.1.5,carriageway}} that is
-      not a {{urn:iso:std:iso:14812:3.3.1.13,traffic lane}}, {{urn:iso:std:iso:14812:3.3.1.19,hard
-      shoulder}}, or {{urn:iso:std:iso:14812:3.3.1.16,lay-by}}.
+  - content: part of a paved {{<<urn:iso:std:iso:14812:3.3.1.5>>,carriageway}} that is
+      not a {{<<urn:iso:std:iso:14812:3.3.1.13>>,traffic lane}}, {{<<urn:iso:std:iso:14812:3.3.1.19>>,hard
+      shoulder}}, or {{<<urn:iso:std:iso:14812:3.3.1.16>>,lay-by}}.
   notes:
   - content: Hardstanding can include edges of a hard shoulder outside of designated
-      lane markings, slips for future connector {{urn:iso:std:iso:14812:3.3.5.1,road,roads}},
+      lane markings, slips for future connector {{<<urn:iso:std:iso:14812:3.3.5.1>>,road,roads}},
       etc.
   examples:
   - content: See <<fig_A.23>>.

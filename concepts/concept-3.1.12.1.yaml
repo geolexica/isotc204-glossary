@@ -7,8 +7,8 @@ eng:
     normative_status: preferred
     designation: use case
   definition:
-  - content: description of the behavioural requirements of a {{urn:iso:std:iso:14812:3.1.2.1,system}}
-      and its {{urn:iso:std:iso:14812:3.1.6.4,interaction}} with a {{urn:iso:std:iso:14812:3.5.3.4,user}}
+  - content: description of the behavioural requirements of a {{<<urn:iso:std:iso:14812:3.1.2.1>>,system}}
+      and its {{<<urn:iso:std:iso:14812:3.1.6.4>>,interaction}} with a {{<<urn:iso:std:iso:14812:3.5.3.4>>,user}}
   notes: []
   examples: []
   language_code: eng

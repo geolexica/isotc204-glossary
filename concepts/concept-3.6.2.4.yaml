@@ -10,9 +10,9 @@ eng:
     normative_status: preferred
     designation: conventional driver
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.6.2.3,driver}} that performs the {{urn:iso:std:iso:14812:3.7.3.1,dynamic
-      driving task}} using the {{urn:iso:std:iso:14812:3.7.1.1,vehicle,vehicle's}}
-      {{urn:iso:std:iso:14812:3.7.1.5,built-in vehicle input device,built-in input
+  - content: "{{<<urn:iso:std:iso:14812:3.6.2.3>>,driver}} that performs the {{<<urn:iso:std:iso:14812:3.7.3.1>>,dynamic
+      driving task}} using the {{<<urn:iso:std:iso:14812:3.7.1.1>>,vehicle,vehicle's}}
+      {{<<urn:iso:std:iso:14812:3.7.1.5>>,built-in vehicle input device,built-in input
       devices}} to control the longitudinal and lateral movement of the vehicle"
   notes: []
   examples: []

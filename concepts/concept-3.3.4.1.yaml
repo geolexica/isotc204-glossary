@@ -7,9 +7,9 @@ eng:
     normative_status: preferred
     designation: hard shoulder for emergency use
   definition:
-  - content: operating mode of a {{urn:iso:std:iso:14812:3.3.1.19,hard shoulder}}
+  - content: operating mode of a {{<<urn:iso:std:iso:14812:3.3.1.19>>,hard shoulder}}
       that allows operation of emergency, construction, maintenance, or other special
-      use {{urn:iso:std:iso:14812:3.7.1.1,vehicle,vehicles}} or for emergency stopping
+      use {{<<urn:iso:std:iso:14812:3.7.1.1>>,vehicle,vehicles}} or for emergency stopping
       and is prohibited for other vehicle usage
   notes: []
   examples: []

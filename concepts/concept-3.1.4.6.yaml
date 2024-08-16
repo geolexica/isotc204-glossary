@@ -7,10 +7,10 @@ eng:
     normative_status: preferred
     designation: functional viewpoint
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.1.3.6,architecture viewpoint}} used to frame
-      {{urn:iso:std:iso:14812:3.1.3.5,concern,concerns}} related to the definition
-      of {{urn:iso:std:iso:14812:3.1.7.2,process,processes}} that perform surface
-      transport functions and {{urn:iso:std:iso:14812:3.1.7.1,data flow,data flows}}
+  - content: "{{<<urn:iso:std:iso:14812:3.1.3.6>>,architecture viewpoint}} used to frame
+      {{<<urn:iso:std:iso:14812:3.1.3.5>>,concern,concerns}} related to the definition
+      of {{<<urn:iso:std:iso:14812:3.1.7.2>>,process,processes}} that perform surface
+      transport functions and {{<<urn:iso:std:iso:14812:3.1.7.1>>,data flow,data flows}}
       shared between these processes"
   notes: []
   examples: []

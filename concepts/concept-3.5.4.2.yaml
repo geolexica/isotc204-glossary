@@ -11,8 +11,8 @@ eng:
     designation: service provider
   domain: ITS-S
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.2.7.3,ITS station,ITS-S}} that delivers one
-      or more {{urn:iso:std:iso:14812:3.5.4.1,ITS-S service,ITS-S services}}"
+  - content: "{{<<urn:iso:std:iso:14812:3.2.7.3>>,ITS station,ITS-S}} that delivers one
+      or more {{<<urn:iso:std:iso:14812:3.5.4.1>>,ITS-S service,ITS-S services}}"
   notes: []
   examples: []
   language_code: eng

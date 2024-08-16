@@ -7,7 +7,7 @@ eng:
     normative_status: preferred
     designation: point location
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.4.1.2,spatial location}} with no length in
+  - content: "{{<<urn:iso:std:iso:14812:3.4.1.2>>,spatial location}} with no length in
       any of the spatial dimensions"
   notes: []
   examples: []

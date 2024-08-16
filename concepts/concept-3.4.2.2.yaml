@@ -13,7 +13,7 @@ eng:
     normative_status: admitted
     designation: location reference
   definition:
-  - content: description of a {{urn:iso:std:iso:14812:3.4.1.2,spatial location}} in
+  - content: description of a {{<<urn:iso:std:iso:14812:3.4.1.2>>,spatial location}} in
       the real world according to a defined reference system
   notes:
   - content: It is not necessary for the rules be formal coordinates but they could

@@ -7,7 +7,7 @@ eng:
     normative_status: preferred
     designation: moderately-low vehicle speed
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.7.2.1,speed}} of a {{urn:iso:std:iso:14812:3.7.1.1,vehicle}}
+  - content: "{{<<urn:iso:std:iso:14812:3.7.2.1>>,speed}} of a {{<<urn:iso:std:iso:14812:3.7.1.1>>,vehicle}}
       that exceeds speeds typical of pedal cycles but can be reached on performance
       pedal cycles in short bursts or by performance riders"
   notes:

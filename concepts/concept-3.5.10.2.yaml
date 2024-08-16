@@ -8,9 +8,9 @@ eng:
     designation: station-based roundtrip
   domain: transport service
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.5.9.1,operational model,operational mode}}
-      where the {{urn:iso:std:iso:14812:3.5.2.1,transport service}} is initiated and
-      terminated at the same facility managed by the {{urn:iso:std:iso:14812:3.5.2.2,transport
+  - content: "{{<<urn:iso:std:iso:14812:3.5.9.1>>,operational model,operational mode}}
+      where the {{<<urn:iso:std:iso:14812:3.5.2.1>>,transport service}} is initiated and
+      terminated at the same facility managed by the {{<<urn:iso:std:iso:14812:3.5.2.2>>,transport
       provider}}"
   notes: []
   examples: []

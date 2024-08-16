@@ -10,9 +10,9 @@ eng:
     normative_status: preferred
     designation: ITS central system
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.1.8.2,ITS component}} that provides application,
-      management, and/or administrative functions from a centralized{{urn:iso:std:iso:14812:3.4.1.1,location}},
-      i.e. not at the {{urn:iso:std:iso:14812:3.3.1.10,roadside}}"
+  - content: "{{<<urn:iso:std:iso:14812:3.1.8.2>>,ITS component}} that provides application,
+      management, and/or administrative functions from a centralized{{<<urn:iso:std:iso:14812:3.4.1.1>>,location}},
+      i.e. not at the {{<<urn:iso:std:iso:14812:3.3.1.10>>,roadside}}"
   notes: []
   examples: []
   language_code: eng

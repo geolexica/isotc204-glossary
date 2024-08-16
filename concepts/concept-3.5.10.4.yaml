@@ -8,8 +8,8 @@ eng:
     designation: free-floating
   domain: transport service
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.5.10.1,network model}} where the {{urn:iso:std:iso:14812:3.5.2.1,transport
-      service}} may be initiated and terminated at any {{urn:iso:std:iso:14812:3.4.1.1,location}}
+  - content: "{{<<urn:iso:std:iso:14812:3.5.10.1>>,network model}} where the {{<<urn:iso:std:iso:14812:3.5.2.1>>,transport
+      service}} may be initiated and terminated at any {{<<urn:iso:std:iso:14812:3.4.1.1>>,location}}
       meeting basic criteria"
   notes:
   - content: The basic criteria typically include geographic limits and requirements

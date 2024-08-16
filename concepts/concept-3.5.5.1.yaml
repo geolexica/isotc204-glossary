@@ -11,7 +11,7 @@ eng:
     designation: communication process
   domain: ITS-S
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.1.1.1,entity}} that delivers one or more {{urn:iso:std:iso:14812:3.5.5.2,ITS-S
+  - content: "{{<<urn:iso:std:iso:14812:3.1.1.1>>,entity}} that delivers one or more {{<<urn:iso:std:iso:14812:3.5.5.2>>,ITS-S
       communications service,ITS-S communication services}}"
   notes: []
   examples: []

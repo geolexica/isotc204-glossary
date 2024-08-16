@@ -7,8 +7,8 @@ eng:
     normative_status: preferred
     designation: link location
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.4.2.4,pre-coded spatial reference}} defined
-      within the {{urn:iso:std:iso:14812:3.3.5.2,road network}} database"
+  - content: "{{<<urn:iso:std:iso:14812:3.4.2.4>>,pre-coded spatial reference}} defined
+      within the {{<<urn:iso:std:iso:14812:3.3.5.2>>,road network}} database"
   notes: []
   examples: []
   language_code: eng

@@ -10,8 +10,8 @@ eng:
     normative_status: admitted
     designation: location table
   definition:
-  - content: register of {{urn:iso:std:iso:14812:3.4.2.2,spatial reference,spatial
-      references}} of one or more {{urn:iso:std:iso:14812:3.4.1.1,location}} sub-types
+  - content: register of {{<<urn:iso:std:iso:14812:3.4.2.2>>,spatial reference,spatial
+      references}} of one or more {{<<urn:iso:std:iso:14812:3.4.1.1>>,location}} sub-types
       containing some information regarding position
   notes:
   - content: The positional information need not be coordinates but could be descriptive.

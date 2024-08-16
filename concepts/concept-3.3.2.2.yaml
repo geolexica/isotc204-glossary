@@ -16,8 +16,8 @@ eng:
     normative_status: admitted
     designation: neutral ground
   definition:
-  - content: part of the {{urn:iso:std:iso:14812:3.3.1.2,road reservation}} between
-      {{urn:iso:std:iso:14812:3.3.1.5,carriageway,carriageways}} designed for travel
+  - content: part of the {{<<urn:iso:std:iso:14812:3.3.1.2>>,road reservation}} between
+      {{<<urn:iso:std:iso:14812:3.3.1.5>>,carriageway,carriageways}} designed for travel
       safety purposes
   notes:
   - content: A central reservation can be paved or unpaved and can be equipped with

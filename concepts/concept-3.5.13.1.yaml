@@ -7,7 +7,7 @@ eng:
     normative_status: preferred
     designation: mobility app
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.2.9.4,ITS-S application implementation}} designed
+  - content: "{{<<urn:iso:std:iso:14812:3.2.9.4>>,ITS-S application implementation}} designed
       to assist an individual transport consumer in understanding transport-related
       information, making decisions, and/or acting upon decisions"
   notes: []

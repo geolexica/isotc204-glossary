@@ -13,9 +13,9 @@ eng:
     normative_status: preferred
     designation: need
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.5.1.4,user need,need}} of an {{urn:iso:std:iso:14812:3.1.1.1,entity}}
-      external to the {{urn:iso:std:iso:14812:3.1.2.4,intelligent transport system}}
-      for a {{urn:iso:std:iso:14812:3.1.2.3,surface transport system}} benefit that
+  - content: "{{<<urn:iso:std:iso:14812:3.5.1.4>>,user need,need}} of an {{<<urn:iso:std:iso:14812:3.1.1.1>>,entity}}
+      external to the {{<<urn:iso:std:iso:14812:3.1.2.4>>,intelligent transport system}}
+      for a {{<<urn:iso:std:iso:14812:3.1.2.3>>,surface transport system}} benefit that
       can be met with the use of information, communication, sensor, and/or control
       technologies"
   notes: []

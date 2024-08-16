@@ -7,10 +7,10 @@ eng:
     normative_status: preferred
     designation: sequential
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.5.9.1,operational model}} where {{urn:iso:std:iso:14812:3.5.2.1,service,services}}
-      are provided to a single {{urn:iso:std:iso:14812:3.5.3.4,user}} at any one time"
+  - content: "{{<<urn:iso:std:iso:14812:3.5.9.1>>,operational model}} where {{<<urn:iso:std:iso:14812:3.5.2.1>>,service,services}}
+      are provided to a single {{<<urn:iso:std:iso:14812:3.5.3.4>>,user}} at any one time"
   notes:
-  - content: A single transport consumer can request the transport of multiple {{urn:iso:std:iso:14812:3.6.2.1,passenger,passengers}}.
+  - content: A single transport consumer can request the transport of multiple {{<<urn:iso:std:iso:14812:3.6.2.1>>,passenger,passengers}}.
   examples:
   - content: Traditional taxi service.
   language_code: eng

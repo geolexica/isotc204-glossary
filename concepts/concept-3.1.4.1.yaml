@@ -7,11 +7,11 @@ eng:
     normative_status: preferred
     designation: communications view
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.1.3.7,architecture view}} from the {{urn:iso:std:iso:14812:3.1.4.2,communications
+  - content: "{{<<urn:iso:std:iso:14812:3.1.3.7>>,architecture view}} from the {{<<urn:iso:std:iso:14812:3.1.4.2>>,communications
       viewpoint}}"
   notes:
   - content: Within ITS, the preferred model for describing the communications view
-      is based on the {{urn:iso:std:iso:14812:3.1.9.4,ITS-S reference architecture}}.
+      is based on the {{<<urn:iso:std:iso:14812:3.1.9.4>>,ITS-S reference architecture}}.
   examples: []
   language_code: eng
   entry_status: valid

@@ -10,7 +10,7 @@ eng:
     normative_status: preferred
     designation: service
   definition:
-  - content: functionality that fulfils one or more {{urn:iso:std:iso:14812:3.5.3.4,ITS
+  - content: functionality that fulfils one or more {{<<urn:iso:std:iso:14812:3.5.3.4>>,ITS
       user need}}
   notes: []
   examples: []

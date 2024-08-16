@@ -11,9 +11,9 @@ eng:
     designation: ITS-S security entity
   domain: ITS-S
   definition:
-  - content: part of the {{urn:iso:std:iso:14812:3.1.9.4,ITS-S reference architecture,ITS
+  - content: part of the {{<<urn:iso:std:iso:14812:3.1.9.4>>,ITS-S reference architecture,ITS
       station reference architecture}} that is responsible for providing privacy,
-      communication security and {{urn:iso:std:iso:14812:3.1.2.1,system}} security
+      communication security and {{<<urn:iso:std:iso:14812:3.1.2.1>>,system}} security
   notes: []
   examples: []
   language_code: eng

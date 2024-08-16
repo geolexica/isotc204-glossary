@@ -10,11 +10,11 @@ eng:
     normative_status: admitted
     designation: transport system
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.1.2.2,transport system}} designed to move
-      {{urn:iso:std:iso:14812:3.1.1.3,material entity,material entities}} across the
+  - content: "{{<<urn:iso:std:iso:14812:3.1.2.2>>,transport system}} designed to move
+      {{<<urn:iso:std:iso:14812:3.1.1.3>>,material entity,material entities}} across the
       surface or near-surface of the Earth"
   notes:
-  - content: A surface transport system can include tunnels, bridges and similar {{urn:iso:std:iso:14812:3.1.3.10,element,elements}}.
+  - content: A surface transport system can include tunnels, bridges and similar {{<<urn:iso:std:iso:14812:3.1.3.10>>,element,elements}}.
   - content: There is not complete agreement on the precise limitations of a "surface
       transport system" within the ITS community. Currently, the term is almost exclusively
       applied to ground-based travel of goods and people over significant distances.

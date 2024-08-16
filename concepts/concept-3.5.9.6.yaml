@@ -8,9 +8,9 @@ eng:
     designation: paired on-demand
   domain: transport service
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.5.9.3,concurrent}} operation where the {{urn:iso:std:iso:14812:3.5.2.2,transport
+  - content: "{{<<urn:iso:std:iso:14812:3.5.9.3>>,concurrent}} operation where the {{<<urn:iso:std:iso:14812:3.5.2.2>>,transport
       provider}} may choose to divert from its path to service a new request from
-      another {{urn:iso:std:iso:14812:3.5.2.3,transport user,transport users}} while
+      another {{<<urn:iso:std:iso:14812:3.5.2.3>>,transport user,transport users}} while
       servicing an earlier transport user"
   notes: []
   examples:
