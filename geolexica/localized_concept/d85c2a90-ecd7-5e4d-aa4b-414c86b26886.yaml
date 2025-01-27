@@ -1,0 +1,30 @@
+---
+data:
+  dates: []
+  definition:
+  - content: movement from an {{urn:iso:std:iso:14812:3.3.6.3,ingress lane}} to an
+      {{urn:iso:std:iso:14812:3.3.6.5,egress lane}}
+  examples: []
+  notes:
+  - content: The term "maneuver" is the American English spelling.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.3.6.7
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intersection manoeuvre
+  - type: expression
+    normative_status: preferred
+    designation: manoeuvre
+  - type: expression
+    normative_status: admitted
+    designation: maneuver
+  domain: junction
+  language_code: eng
+  entry_status: valid
+status: valid
+id: d85c2a90-ecd7-5e4d-aa4b-414c86b26886

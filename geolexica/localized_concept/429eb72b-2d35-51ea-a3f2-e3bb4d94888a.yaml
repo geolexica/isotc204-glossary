@@ -1,0 +1,27 @@
+---
+data:
+  dates: []
+  definition:
+  - content: either a {{urn:iso:std:iso:14812:3.3.1.19,hard shoulder}} or a {{urn:iso:std:iso:14812:3.3.1.20,soft
+      shoulder}}
+  examples: []
+  notes:
+  - content: In some jurisdictions, a shoulder can be used for emergency stops and/or
+      other purposes in addition to providing a clear zone for safety purposes.
+  - content: "{{urn:iso:std:iso:14812:3.3.1.10,roadside,Roadside}}, shoulder, and
+      {{urn:iso:std:iso:14812:3.3.1.11,verge}} define similar but slightly different
+      concepts"
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.3.1.18
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: shoulder
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 429eb72b-2d35-51ea-a3f2-e3bb4d94888a

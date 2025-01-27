@@ -1,0 +1,26 @@
+---
+data:
+  dates: []
+  definition:
+  - content: series of one or more {{urn:iso:std:iso:14812:3.1.7.3,function,functions}}
+      in support of an {{urn:iso:std:iso:14812:3.5.3.1,ITS service}}
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.1.7.2
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: process
+  - type: expression
+    normative_status: preferred
+    designation: functional view process
+  domain: functional view
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 7e886f55-9277-570d-9998-63b3a342e540

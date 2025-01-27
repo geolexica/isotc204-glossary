@@ -1,0 +1,27 @@
+---
+data:
+  dates: []
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.2.4.2,personal information device}} that is
+      taken with and can be accessed by the {{urn:iso:std:iso:14812:3.6.1.1,traveller}}
+      during a journey"
+  examples:
+  - content: Smartphone.
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.2.4.3
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nomadic device
+  - type: expression
+    normative_status: preferred
+    designation: ITS nomadic device
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 57a7e53f-13dd-52bc-864b-b44f0e2e327b

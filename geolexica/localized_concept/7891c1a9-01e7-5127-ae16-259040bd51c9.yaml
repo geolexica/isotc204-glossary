@@ -1,0 +1,26 @@
+---
+data:
+  dates: []
+  definition:
+  - content: component member of an {{urn:iso:std:iso:14812:3.1.3.9,architecture model}}
+      included in an {{urn:iso:std:iso:14812:3.1.3.7,architecture view}}
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.1.3.10
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: element
+  - type: expression
+    normative_status: preferred
+    designation: architecture element
+  domain: architecture
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 7891c1a9-01e7-5127-ae16-259040bd51c9

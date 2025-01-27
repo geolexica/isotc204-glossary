@@ -1,0 +1,21 @@
+---
+data:
+  dates: []
+  definition:
+  - content: time between two {{urn:iso:std:iso:14812:3.1.13.1,instant,instants}}
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.1.13.2
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: duration
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 72ef7953-8ebd-5326-bd15-170592a5fbaa

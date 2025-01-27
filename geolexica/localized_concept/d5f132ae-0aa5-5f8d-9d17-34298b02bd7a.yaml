@@ -1,0 +1,34 @@
+---
+data:
+  dates: []
+  definition:
+  - content: protocol layer in the {{urn:iso:std:iso:14812:3.1.9.4,ITS-S reference
+      architecture,ITS station reference architecture}} containing the OSI physical
+      and data link layer protocols for ITS communications
+  examples: []
+  notes:
+  - content: Within the Internet Engineering Task Force (IETF), the term "link layer"
+      is used to describe the same functionality as the ITS-S access layer.
+  - content: Within the US, the NTCIP standards use the term "subnet layer" to describe
+      the same functionality as the ITS-S access layer.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.1.5.3
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S access layer
+  - type: expression
+    normative_status: admitted
+    designation: link layer
+  - type: expression
+    normative_status: admitted
+    designation: subnet layer
+  domain: ITS-S
+  language_code: eng
+  entry_status: valid
+status: valid
+id: d5f132ae-0aa5-5f8d-9d17-34298b02bd7a

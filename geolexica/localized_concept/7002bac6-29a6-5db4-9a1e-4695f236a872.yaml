@@ -1,0 +1,31 @@
+---
+data:
+  dates: []
+  definition:
+  - content: type of{{urn:iso:std:iso:14812:3.5.8.1,financial model}} where {{urn:iso:std:iso:14812:3.5.2.1,service,services}}
+      are provided by an administrative authority in an attempt to better serve societal
+      interests
+  examples: []
+  notes:
+  - content: The {{urn:iso:std:iso:14812:3.5.2.1,transport service}} is typically
+      offered to the transport consumer for less than the full capital and operating
+      cost of providing the service, but this is not a requirement.
+  - content: Typically, the administrative authority is a local government agency;
+      but it could be another administrative authority, such as the national government
+      or a {{urn:iso:std:iso:14812:3.5.8.2,commercial}} {{urn:iso:std:iso:14812:3.1.1.1,entity}}
+      managing {{urn:iso:std:iso:14812:3.5.2.4,transport need,transport needs}} on
+      their campus.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.8.3
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: public
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 7002bac6-29a6-5db4-9a1e-4695f236a872

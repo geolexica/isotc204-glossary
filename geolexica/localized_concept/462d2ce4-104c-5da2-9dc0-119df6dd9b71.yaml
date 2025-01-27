@@ -1,0 +1,24 @@
+---
+data:
+  dates: []
+  definition:
+  - content: implementation of an {{urn:iso:std:iso:14812:3.2.9.2,ITS-S application
+      process}} within the {{urn:iso:std:iso:14812:3.1.5.1,application entity}}
+  examples: []
+  notes:
+  - content: An implementation is typically associated with an implementation name,
+      a version and release number.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.2.9.4
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S application implementation
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 462d2ce4-104c-5da2-9dc0-119df6dd9b71

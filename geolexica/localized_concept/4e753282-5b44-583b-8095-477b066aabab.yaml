@@ -1,0 +1,24 @@
+---
+data:
+  dates: []
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.5.13.1,mobility app}} that assists a {{urn:iso:std:iso:14812:3.5.2.3,transport
+      user}} in planning trips that may span multiple vehicle modes or {{urn:iso:std:iso:14812:3.5.2.2,transport
+      provider,transport providers}}"
+  examples: []
+  notes:
+  - content: The assistance can include reservations, ticketing and similar {{urn:iso:std:iso:14812:3.5.2.1,service,services}}.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.13.9
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: trip aggregator app
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 4e753282-5b44-583b-8095-477b066aabab

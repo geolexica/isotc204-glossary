@@ -1,0 +1,22 @@
+---
+data:
+  dates: []
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.5.11.5,ridesourced service}} that serves {{urn:iso:std:iso:14812:3.6.2.1,passenger,passengers}}
+      {{urn:iso:std:iso:14812:3.5.9.3,concurrent,concurrently}}"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.11.6
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ridesplit service
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 98b1dbb8-caca-5354-bad3-5574073f6e02

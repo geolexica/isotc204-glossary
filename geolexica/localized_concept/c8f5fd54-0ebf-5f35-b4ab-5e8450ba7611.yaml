@@ -1,0 +1,21 @@
+---
+data:
+  dates: []
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.1.1.6,person}} who is headed to a destination"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.6.1.1
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: traveller
+  language_code: eng
+  entry_status: valid
+status: valid
+id: c8f5fd54-0ebf-5f35-b4ab-5e8450ba7611

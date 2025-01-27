@@ -1,0 +1,22 @@
+---
+data:
+  dates: []
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.1.9.3,deployment architecture}} for one or
+      more {{urn:iso:std:iso:14812:3.5.3.1,ITS service,ITS services}}"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.1.9.7
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS deployment architecture
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 6cee2890-3bd4-54a8-aa0d-1d45ece85f4c

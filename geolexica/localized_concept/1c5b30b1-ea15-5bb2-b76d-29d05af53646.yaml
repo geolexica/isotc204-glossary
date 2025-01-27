@@ -1,0 +1,32 @@
+---
+data:
+  dates: []
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.3.2.1,physical traffic separator}} that consists
+      of a wall with a wide, sloped base designed to divert {{urn:iso:std:iso:14812:3.7.1.1,vehicle,vehicles}}
+      back into their {{urn:iso:std:iso:14812:3.3.1.13,traffic lane}}"
+  examples: []
+  notes:
+  - content: Jersey barriers are typically modular. They are typically made of concrete
+      but can also be made with other materials such as plastic filled with water
+      or sand.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.3.2.3
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Jersey barrier
+  - type: expression
+    normative_status: admitted
+    designation: city block
+  - type: expression
+    normative_status: admitted
+    designation: concrete barrier
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 1c5b30b1-ea15-5bb2-b76d-29d05af53646

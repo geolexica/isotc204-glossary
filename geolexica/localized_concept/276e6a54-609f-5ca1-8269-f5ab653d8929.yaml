@@ -1,0 +1,23 @@
+---
+data:
+  dates: []
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.2.9.4,ITS-S application implementation}} designed
+      to assist an individual transport consumer in understanding transport-related
+      information, making decisions, and/or acting upon decisions"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.13.1
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mobility app
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 276e6a54-609f-5ca1-8269-f5ab653d8929

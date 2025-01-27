@@ -1,0 +1,27 @@
+---
+data:
+  dates: []
+  definition:
+  - content: performance of one or more tasks to fulfil an {{urn:iso:std:iso:14812:3.5.5.4,ITS-S
+      communications need,ITS-S communication need}} for an {{urn:iso:std:iso:14812:3.5.5.3,ITS-S
+      communications user,ITS-S communication user}}
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.5.2
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S communications service
+  - type: expression
+    normative_status: preferred
+    designation: communication service
+  domain: ITS-S
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 52ec20cc-91d8-53dd-ad24-2b1299032d2f

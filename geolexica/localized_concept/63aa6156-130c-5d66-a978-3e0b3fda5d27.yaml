@@ -1,0 +1,25 @@
+---
+data:
+  dates: []
+  definition:
+  - content: defined annotated outline for an {{urn:iso:std:iso:14812:3.2.8.3,ITS
+      application specification}}
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.2.8.4
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: application template
+  - type: expression
+    normative_status: preferred
+    designation: ITS application template
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 63aa6156-130c-5d66-a978-3e0b3fda5d27

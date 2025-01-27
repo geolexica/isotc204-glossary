@@ -1,0 +1,32 @@
+---
+data:
+  dates: []
+  definition:
+  - content: response by a {{urn:iso:std:iso:14812:3.1.1.6,person}} to perform the
+      {{urn:iso:std:iso:14812:3.7.3.1,dynamic driving task,DDT}} or by an {{urn:iso:std:iso:14812:3.7.3.10,ADS}}
+      to achieve a minimal risk condition when the response is triggered upon violation
+      of the defined {{urn:iso:std:iso:14812:3.7.3.2,operational design domain}} constraints
+      or in response to a DDT performance-relevant {{urn:iso:std:iso:14812:3.7.3.6,driving
+      automation system}} failure
+  examples: []
+  notes:
+  - content: This term includes the response of a person to perform the DDT in a manner
+      to quickly achieve a minimal risk condition.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.7.3.3
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fallback
+  - type: expression
+    normative_status: preferred
+    designation: driving automation fallback
+  domain: driving automation
+  language_code: eng
+  entry_status: valid
+status: valid
+id: af2bccf5-35ee-5c20-bbd0-05ff1a7a6b0b

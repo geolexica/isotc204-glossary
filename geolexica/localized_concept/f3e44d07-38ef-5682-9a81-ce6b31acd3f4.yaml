@@ -1,0 +1,27 @@
+---
+data:
+  dates: []
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.3.1.13,traffic lane}} restricted to a specific
+      subset of {{urn:iso:std:iso:14812:3.7.6.1,road vehicle,road vehicles}} or {{urn:iso:std:iso:14812:3.5.3.4,user}}
+      categories"
+  examples:
+  - content: Bus lane.
+  - content: High-occupancy vehicle lane.
+  notes:
+  - content: A traffic lane may be reserved permanently or under certain conditions
+      or times.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.3.1.14
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reserved lane
+  language_code: eng
+  entry_status: valid
+status: valid
+id: f3e44d07-38ef-5682-9a81-ce6b31acd3f4

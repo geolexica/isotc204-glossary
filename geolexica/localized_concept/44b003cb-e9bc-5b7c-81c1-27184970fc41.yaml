@@ -1,0 +1,23 @@
+---
+data:
+  dates: []
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.5.4.4,ITS-S user need}} expressed as a formal
+      set of interoperability requirements that need to be fulfilled to satisfy a
+      portion of functionality of an {{urn:iso:std:iso:14812:3.2.8.1,ITS application}}"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.2.9.1
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS application role
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 44b003cb-e9bc-5b7c-81c1-27184970fc41

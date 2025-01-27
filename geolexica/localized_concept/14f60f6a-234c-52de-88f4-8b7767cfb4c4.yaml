@@ -1,0 +1,24 @@
+---
+data:
+  dates: []
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.1.9.1,reference architecture}} for handling
+      communications within a {{urn:iso:std:iso:14812:3.1.8.1,physical object}} as
+      defined in <<ref_16,ISO 21217>>"
+  examples: []
+  notes:
+  - content: The ITS-S reference architecture provides a model for describing communication.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.1.9.4
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S reference architecture
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 14f60f6a-234c-52de-88f4-8b7767cfb4c4

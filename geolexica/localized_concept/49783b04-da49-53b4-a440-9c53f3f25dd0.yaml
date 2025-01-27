@@ -1,0 +1,26 @@
+---
+data:
+  dates: []
+  definition:
+  - content: part of the paved {{urn:iso:std:iso:14812:3.3.1.5,carriageway}} designed
+      to support traffic loads but not normally intended for driving
+  examples: []
+  notes:
+  - content: A hard shoulder can be narrow or wide enough for a {{urn:iso:std:iso:14812:3.3.1.13,traffic
+      lane}}.
+  - content: A hard shoulder can have a surface that discourages usage as a driving
+      surface in some countries.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.3.1.19
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hard shoulder
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 49783b04-da49-53b4-a440-9c53f3f25dd0

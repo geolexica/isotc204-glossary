@@ -1,0 +1,23 @@
+---
+data:
+  dates: []
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.5.8.4,cooperative}} {{urn:iso:std:iso:14812:3.5.8.1,financial
+      model}} where {{urn:iso:std:iso:14812:3.5.3.4,user,users}} partner on a per-use
+      basis"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.8.5
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mutual benefit
+  language_code: eng
+  entry_status: valid
+status: valid
+id: ab0825f9-1ee4-54a9-9e5c-500ac43e4cb7

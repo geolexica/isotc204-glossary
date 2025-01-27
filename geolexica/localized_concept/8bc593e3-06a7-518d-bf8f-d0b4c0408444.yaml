@@ -1,0 +1,22 @@
+---
+data:
+  dates: []
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.1.9.2,planning architecture}} for one or more
+      {{urn:iso:std:iso:14812:3.5.3.1,ITS service,ITS services}}"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.1.9.6
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS planning architecture
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 8bc593e3-06a7-518d-bf8f-d0b4c0408444

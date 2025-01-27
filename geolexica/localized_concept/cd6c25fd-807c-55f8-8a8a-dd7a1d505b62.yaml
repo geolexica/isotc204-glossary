@@ -1,0 +1,37 @@
+---
+data:
+  dates: []
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.3.1.3,roadway}} comprised of exactly two {{urn:iso:std:iso:14812:3.3.1.5,carriageway,carriageways}}"
+  examples: []
+  notes:
+  - content: The PIARC term is "dual carriageway road" and is recognized as a preferred
+      term. As per the definitions provided in this document, "dual carriageway road
+      segment" is more accurate and is the most preferred term. The term "dual carriageway"
+      by itself is not preferred but admitted.
+  - content: The term "divided highway" is the equivalent American English term and
+      equates to two or more carriageways.
+  - content: The two carriageways are typically designed for travel in opposite directions.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.3.1.8
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dual carriageway road segment
+  - type: expression
+    normative_status: preferred
+    designation: dual carriageway road
+  - type: expression
+    normative_status: admitted
+    designation: divided highway
+  - type: expression
+    normative_status: admitted
+    designation: dual carriageway
+  language_code: eng
+  entry_status: valid
+status: valid
+id: cd6c25fd-807c-55f8-8a8a-dd7a1d505b62

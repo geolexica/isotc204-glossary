@@ -1,0 +1,23 @@
+---
+data:
+  dates: []
+  definition:
+  - content: realization of an {{urn:iso:std:iso:14812:3.5.3.1,ITS service}} that
+      involves an association of two or more complementary {{urn:iso:std:iso:14812:3.2.9.2,ITS-S
+      application process,ITS-S application processes}}
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.2.8.1
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS application
+  language_code: eng
+  entry_status: valid
+status: valid
+id: b0d1bd88-66b6-538c-baf7-d163a0d60002

@@ -1,0 +1,30 @@
+---
+data:
+  dates: []
+  definition:
+  - content: bi-directional communication sequence between two parties in accordance
+      with predetermined protocols
+  examples: []
+  notes:
+  - content: The term "dialog" represents the American English spelling.
+  - content: The term "dialogue" can be used when the interface context is known.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.1.11.6
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: interface dialogue
+  - type: expression
+    normative_status: admitted
+    designation: dialog
+  - type: expression
+    normative_status: admitted
+    designation: dialogue
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 73c601ed-98fa-5c25-a752-835c18c71820

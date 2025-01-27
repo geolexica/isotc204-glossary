@@ -1,0 +1,22 @@
+---
+data:
+  dates: []
+  definition:
+  - content: combination of interacting {{urn:iso:std:iso:14812:3.1.3.10,element,elements}}
+      organized to achieve one or more stated purposes
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.1.2.1
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: system
+  language_code: eng
+  entry_status: valid
+status: valid
+id: a4c945e3-6089-5a9f-83f8-d3756460021d
