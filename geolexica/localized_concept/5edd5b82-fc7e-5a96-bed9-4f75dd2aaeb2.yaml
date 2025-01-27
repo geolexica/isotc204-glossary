@@ -1,0 +1,27 @@
+---
+data:
+  dates: []
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.1.3.10,element}} that represents the specified
+      responsibilities between an {{urn:iso:std:iso:14812:3.1.6.1,enterprise object}}
+      and another {{urn:iso:std:iso:14812:3.1.4.3,enterprise view}} element"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.1.6.7
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: role
+  - type: expression
+    normative_status: preferred
+    designation: enterprise view role
+  domain: enterprise view
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 5edd5b82-fc7e-5a96-bed9-4f75dd2aaeb2

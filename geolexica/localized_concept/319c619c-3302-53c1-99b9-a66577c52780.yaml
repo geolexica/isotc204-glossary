@@ -1,0 +1,27 @@
+---
+data:
+  dates: []
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.4.2.2,spatial reference}} using a unique identifier
+      that is agreed upon in both the sender and receiver {{urn:iso:std:iso:14812:3.1.2.1,system}}
+      to select a {{urn:iso:std:iso:14812:3.4.1.1,location}} from a set of pre-coded
+      locations"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.4.2.4
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pre-coded spatial reference
+  - type: expression
+    normative_status: admitted
+    designation: pre-coded location reference
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 319c619c-3302-53c1-99b9-a66577c52780

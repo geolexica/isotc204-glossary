@@ -1,0 +1,24 @@
+---
+data:
+  dates: []
+  definition:
+  - content: characteristics necessary to fully define how various {{urn:iso:std:iso:14812:3.1.8.1,physical
+      object,physical objects}} interoperate to provide a {{urn:iso:std:iso:14812:3.5.2.1,service}}
+  examples: []
+  notes:
+  - content: Characteristics often include but are not limited to functional, performance
+      and interface requirements.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.2.8.2
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: interoperability design
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 6fa288f5-ea4b-5f00-91da-c0c0fed835f9

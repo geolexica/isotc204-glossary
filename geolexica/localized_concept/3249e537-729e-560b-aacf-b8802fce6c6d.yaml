@@ -1,0 +1,33 @@
+---
+data:
+  dates: []
+  definition:
+  - content: portion of {{urn:iso:std:iso:14812:3.3.1.5,carriageway}} designed to
+      accommodate a single line of moving {{urn:iso:std:iso:14812:3.7.6.1,road vehicle,road
+      vehicles}}
+  examples: []
+  notes:
+  - content: The term "lane" is often used to refer to a "traffic lane" when the context
+      is known to be "traffic".
+  - content: A traffic lane can be bi-directional, such as a single lane {{urn:iso:std:iso:14812:3.3.5.1,road}},
+      a two-way turn/overtaking lane, or a reversible flow lane.
+  - content: Some jurisdictions allow supplemental uses of a traffic lane, such as
+      multiple motorcycles sharing the width of a traffic lane or allowing a bicycle
+      to use the edge of a lane.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.3.1.13
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: traffic lane
+  - type: expression
+    normative_status: preferred
+    designation: lane
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 3249e537-729e-560b-aacf-b8802fce6c6d

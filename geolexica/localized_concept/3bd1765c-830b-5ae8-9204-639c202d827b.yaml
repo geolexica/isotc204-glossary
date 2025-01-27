@@ -1,0 +1,24 @@
+---
+data:
+  dates: []
+  definition:
+  - content: process used to develop a {{urn:iso:std:iso:14812:3.4.2.2,spatial reference}}
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.4.2.1
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: location referencing
+  - type: expression
+    normative_status: preferred
+    designation: ITS location referencing
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 3bd1765c-830b-5ae8-9204-639c202d827b

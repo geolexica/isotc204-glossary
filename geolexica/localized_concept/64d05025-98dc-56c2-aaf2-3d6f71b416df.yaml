@@ -1,0 +1,27 @@
+---
+data:
+  dates: []
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.3.5.5,link}} representing a contiguous length
+      of a {{urn:iso:std:iso:14812:3.3.5.1,road}} between two {{urn:iso:std:iso:14812:3.3.5.4,node,nodes}}
+      of operational or managerial significance"
+  examples: []
+  notes:
+  - content: The operational characteristics of the nodes would relate to the type
+      of {{urn:iso:std:iso:14812:3.3.5.3,road model}}. For example, a traffic {{urn:iso:std:iso:14812:3.1.2.1,system}}
+      can base its road links on nodes that represent {{urn:iso:std:iso:14812:3.3.6.2,junction,junctions}}
+      and road {{urn:iso:std:iso:14812:3.1.8.3,terminator,terminators}}.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.3.5.6
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: road link
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 64d05025-98dc-56c2-aaf2-3d6f71b416df

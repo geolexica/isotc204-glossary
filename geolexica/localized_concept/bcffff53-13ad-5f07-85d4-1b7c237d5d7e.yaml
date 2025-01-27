@@ -1,0 +1,28 @@
+---
+data:
+  dates: []
+  definition:
+  - content: physical unit in an {{urn:iso:std:iso:14812:3.2.7.4,ITS-S unit}} containing
+      part or all of the functionality of an {{urn:iso:std:iso:14812:3.2.7.3,ITS station,ITS-S}}
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.2.7.5
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S communication unit
+  - type: expression
+    normative_status: preferred
+    designation: ITS station communication unit
+  - type: expression
+    normative_status: preferred
+    designation: ITS-SCU
+  language_code: eng
+  entry_status: valid
+status: valid
+id: bcffff53-13ad-5f07-85d4-1b7c237d5d7e

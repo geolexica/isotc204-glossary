@@ -1,0 +1,24 @@
+---
+data:
+  dates: []
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.7.6.2,motorized vehicle,motorized}} {{urn:iso:std:iso:14812:3.7.6.1,road
+      vehicle}} allowed to operate in the same {{urn:iso:std:iso:14812:3.3.1.4,driving
+      space,driving spaces}} as motorized {{urn:iso:std:iso:14812:3.6.2.1,passenger}}
+      cars"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.7.6.3
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: motor vehicle
+  language_code: eng
+  entry_status: valid
+status: valid
+id: d517ccb3-b0f6-5b81-bbc4-19021f1d7981

@@ -1,0 +1,22 @@
+---
+data:
+  dates: []
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.5.13.1,mobility app}} that assists a {{urn:iso:std:iso:14812:3.5.2.3,transport
+      user}} to determine the best route to a destination"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.13.3
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: navigation app
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 0012dc24-8fe9-5bbc-be26-77624f9df6ac

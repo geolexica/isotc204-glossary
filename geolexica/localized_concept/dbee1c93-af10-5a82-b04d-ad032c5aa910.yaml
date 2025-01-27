@@ -1,0 +1,23 @@
+---
+data:
+  dates: []
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.5.13.1,mobility app}} that assists a {{urn:iso:std:iso:14812:3.5.2.3,transport
+      user}} in acquiring a {{urn:iso:std:iso:14812:3.5.2.1,transport service}} from
+      a specific business"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.13.2
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: B2C mobility sharing app
+  language_code: eng
+  entry_status: valid
+status: valid
+id: dbee1c93-af10-5a82-b04d-ad032c5aa910

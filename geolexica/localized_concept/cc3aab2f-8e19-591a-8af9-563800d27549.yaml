@@ -1,0 +1,27 @@
+---
+data:
+  dates: []
+  definition:
+  - content: part of the {{urn:iso:std:iso:14812:3.1.9.4,ITS-S reference architecture,ITS
+      station reference architecture}} that is responsible for providing privacy,
+      communication security and {{urn:iso:std:iso:14812:3.1.2.1,system}} security
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.1.5.7
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: security entity
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S security entity
+  domain: ITS-S
+  language_code: eng
+  entry_status: valid
+status: valid
+id: cc3aab2f-8e19-591a-8af9-563800d27549

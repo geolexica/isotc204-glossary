@@ -1,0 +1,30 @@
+---
+data:
+  dates: []
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.4.2.2,spatial reference}} in the form of a
+      label or code that identifies a {{urn:iso:std:iso:14812:3.4.1.1,location}}"
+  examples:
+  - content: '"Spain" is an example of a label (country name); "SW1P 3AD" is an example
+      of a code (postcode).'
+  notes:
+  - content: The term "location code" has been used previously in ISO/TC 204 documents,
+      but "geographic identifier" is preferred to better align with the activities
+      of ISO/TC 211.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.4.2.6
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: geographic identifier
+  - type: expression
+    normative_status: deprecated
+    designation: location code
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 11395cd1-9a58-5bed-9315-d538145b72ca

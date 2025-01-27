@@ -1,0 +1,22 @@
+---
+data:
+  dates: []
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.1.3.7,architecture view}} from the {{urn:iso:std:iso:14812:3.1.4.6,functional
+      viewpoint}}"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.1.4.5
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: functional view
+  language_code: eng
+  entry_status: valid
+status: valid
+id: d3437b4f-b7ea-514b-b19f-05e88e85c0fe

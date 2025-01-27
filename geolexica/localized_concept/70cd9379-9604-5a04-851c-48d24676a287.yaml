@@ -1,0 +1,23 @@
+---
+data:
+  dates: []
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.5.9.1,operational model}} where {{urn:iso:std:iso:14812:3.5.2.1,service,services}}
+      can be provided to multiple {{urn:iso:std:iso:14812:3.5.3.4,user,users}} at
+      any one time"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.9.3
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: concurrent
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 70cd9379-9604-5a04-851c-48d24676a287

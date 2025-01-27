@@ -1,0 +1,26 @@
+---
+data:
+  dates: []
+  definition:
+  - content: unit of data that is considered in a given context to be indivisible
+      and which includes an unambiguous representational form
+  examples: []
+  notes:
+  - content: This definition states that a data element is “indivisible” in a given
+      context. This means it is possible for a data element considered indivisible
+      in one context [e.g. {{urn:iso:std:iso:14812:3.4.1.1,location}}] to be divisible
+      in another context (e.g. latitude, longitude, and elevation).
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.1.11.1
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: data element
+  language_code: eng
+  entry_status: valid
+status: valid
+id: b6a42a2e-5cc5-5369-8814-867b098a42a1

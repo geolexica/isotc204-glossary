@@ -1,0 +1,37 @@
+---
+data:
+  dates: []
+  definition:
+  - content: hardware and software {{urn:iso:std:iso:14812:3.1.2.1,system}} that is
+      able to perform part or all of the {{urn:iso:std:iso:14812:3.7.3.1,dynamic driving
+      task,DDT}} on a sustained basis
+  examples: []
+  notes:
+  - content: In contrast to this generic term for any level 1-5 system, the specific
+      term for a level 3-5 system is "Automated Driving System (ADS)." Given the similarity
+      between the generic term, "driving automation system," and the level 3-5-specific
+      term, "Automated Driving System," the latter term is intentionally capitalized
+      when spelled out and reduced to its acronym, "ADS", as much as possible, while
+      "driving automation system" should not be.
+  - content: A driving automation system includes any system capable of level 1-5
+      driving automation.
+  - content: Driving automation levels are defined in <<ISO_SAE_22736>>, which is
+      also known as <<SAE_J3016,SAE J3016>>.
+  - content: Driving automation levels include "{{urn:iso:std:iso:14812:3.7.3.8,level
+      1 driving automation}}", "{{urn:iso:std:iso:14812:3.7.3.9,level 2 driving automation}}",
+      "{{urn:iso:std:iso:14812:3.7.3.11,level 3 ADS}}", "{{urn:iso:std:iso:14812:3.7.3.12,level
+      4 ADS}}" and "{{urn:iso:std:iso:14812:3.7.3.13,level 5 ADS}}".
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.7.3.6
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: driving automation system
+  language_code: eng
+  entry_status: valid
+status: valid
+id: '09c9edd6-616c-5e4a-a650-e99a5a091be1'

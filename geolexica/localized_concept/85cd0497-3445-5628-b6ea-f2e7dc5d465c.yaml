@@ -1,0 +1,24 @@
+---
+data:
+  dates: []
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.5.9.1,operational model}} where {{urn:iso:std:iso:14812:3.5.2.1,service,services}}
+      are provided to a single {{urn:iso:std:iso:14812:3.5.3.4,user}} at any one time"
+  examples:
+  - content: Traditional taxi service.
+  notes:
+  - content: A single transport consumer can request the transport of multiple {{urn:iso:std:iso:14812:3.6.2.1,passenger,passengers}}.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.9.2
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sequential
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 85cd0497-3445-5628-b6ea-f2e7dc5d465c

@@ -1,0 +1,27 @@
+---
+data:
+  dates: []
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.5.6.3,shared vehicle service}} that shares
+      {{urn:iso:std:iso:14812:3.6.2.1,passenger}} cars"
+  examples: []
+  notes:
+  - content: The term "passenger car sharing service" is admitted but has the same
+      meaning.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.12.2
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: carsharing service
+  - type: expression
+    normative_status: admitted
+    designation: passenger car sharing service
+  language_code: eng
+  entry_status: valid
+status: valid
+id: eb28d6aa-b0cd-5e20-bf35-f22faff05614

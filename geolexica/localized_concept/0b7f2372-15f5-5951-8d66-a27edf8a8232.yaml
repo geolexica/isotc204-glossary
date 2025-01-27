@@ -1,0 +1,26 @@
+---
+data:
+  dates: []
+  definition:
+  - content: malfunction in a {{urn:iso:std:iso:14812:3.2.1.5,vehicle system}} that
+      prevents the {{urn:iso:std:iso:14812:3.7.3.6,driving automation system}} from
+      reliably performing its portion of the {{urn:iso:std:iso:14812:3.7.3.1,dynamic
+      driving task,DDT}} on a sustained basis
+  examples: []
+  notes:
+  - content: The malfunction can be internal to the driving automation system or part
+      of another vehicle system.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.7.3.5
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: DDT performance-relevant system failure
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 0b7f2372-15f5-5951-8d66-a27edf8a8232

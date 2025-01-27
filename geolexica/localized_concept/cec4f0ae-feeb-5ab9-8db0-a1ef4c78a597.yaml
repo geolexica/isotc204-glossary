@@ -1,0 +1,24 @@
+---
+data:
+  dates: []
+  definition:
+  - content: characteristic of a {{urn:iso:std:iso:14812:3.5.8.1,financial model}}
+      that does not require membership within an organization to receive {{urn:iso:std:iso:14812:3.5.2.1,service,services}}
+  examples: []
+  notes:
+  - content: This includes models where membership is optional and can provide extra
+      benefits.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.8.9
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: open-access
+  language_code: eng
+  entry_status: valid
+status: valid
+id: cec4f0ae-feeb-5ab9-8db0-a1ef4c78a597

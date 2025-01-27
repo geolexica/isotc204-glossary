@@ -1,0 +1,26 @@
+---
+data:
+  dates: []
+  definition:
+  - content: installation of an implementation of an {{urn:iso:std:iso:14812:3.2.9.2,ITS-S
+      application process}} on an {{urn:iso:std:iso:14812:3.2.7.3,ITS station}}
+  examples: []
+  notes:
+  - content: An implementation is typically associated with an implementation name,
+      a version and release number.
+  - content: An installation is typically associated with a specific licence code
+      or serial number.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.2.9.5
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S application process installation
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 8d2a9ed7-1aa4-5c56-907d-2e573a0a46fa

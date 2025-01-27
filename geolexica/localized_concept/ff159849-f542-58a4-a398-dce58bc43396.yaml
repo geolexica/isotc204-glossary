@@ -1,0 +1,32 @@
+---
+data:
+  dates: []
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.5.2.1,transport service}} that relies upon
+      the same {{urn:iso:std:iso:14812:3.1.6.2,resource,resources}} to fulfil the
+      {{urn:iso:std:iso:14812:3.5.2.4,transport need,transport needs}} of multiple
+      unrelated {{urn:iso:std:iso:14812:3.5.2.3,transport user,transport users}} and
+      where the {{urn:iso:std:iso:14812:3.5.2.2,transport provider}} has the primary
+      responsibility for the operation of the transport mode"
+  examples: []
+  notes:
+  - content: A shared transport service might not be dependent upon a vehicle and/or
+      could be multi-modal. For example, a letter courier service could rely on walking
+      and {{urn:iso:std:iso:14812:3.5.6.1,public transport}}.
+  - content: Responsibilities of the transport service can be further delegated to
+      others. For example, a courier service relying on public transport would delegate
+      the operation of the transport mode to the public transport operator.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.6.2
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: shared transport service
+  language_code: eng
+  entry_status: valid
+status: valid
+id: ff159849-f542-58a4-a398-dce58bc43396

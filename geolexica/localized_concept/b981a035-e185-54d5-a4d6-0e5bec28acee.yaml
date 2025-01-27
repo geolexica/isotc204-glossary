@@ -1,0 +1,24 @@
+---
+data:
+  dates: []
+  definition:
+  - content: logistical framework for the agreement between a {{urn:iso:std:iso:14812:3.5.1.2,service
+      provider}} and a {{urn:iso:std:iso:14812:3.5.3.4,user}}
+  examples: []
+  notes:
+  - content: The logistical framework can set restrictions on how a {{urn:iso:std:iso:14812:3.6.2.1,passenger}}
+      and/or good is received, transported and/or delivered.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.9.1
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: operational model
+  language_code: eng
+  entry_status: valid
+status: valid
+id: b981a035-e185-54d5-a4d6-0e5bec28acee

@@ -1,0 +1,21 @@
+---
+data:
+  dates: []
+  definition:
+  - content: a set of permissible values
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.1.11.3
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: value domain
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 8b73b230-ae10-5e18-836e-9629e55864ac

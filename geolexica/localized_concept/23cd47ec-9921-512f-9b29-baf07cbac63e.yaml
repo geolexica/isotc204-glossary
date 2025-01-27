@@ -1,0 +1,29 @@
+---
+data:
+  dates: []
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.1.1.1,entity}} that has a {{urn:iso:std:iso:14812:3.5.2.4,transport
+      need}} to be fulfilled"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.2.3
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transport user
+  - type: expression
+    normative_status: preferred
+    designation: user
+  - type: expression
+    normative_status: preferred
+    designation: consumer
+  domain: transport
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 23cd47ec-9921-512f-9b29-baf07cbac63e

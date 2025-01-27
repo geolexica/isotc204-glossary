@@ -1,0 +1,25 @@
+---
+data:
+  dates: []
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.1.8.6,functional object}} that can be replaced
+      and has defined interfaces"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.1.8.7
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: module
+  - type: expression
+    normative_status: preferred
+    designation: ITS module
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 65097335-2d32-5bab-8d49-ccd83e19d7bd

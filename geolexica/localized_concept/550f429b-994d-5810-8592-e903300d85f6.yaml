@@ -1,0 +1,22 @@
+---
+data:
+  dates: []
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.3.6.1,intersection}} that allows {{urn:iso:std:iso:14812:3.6.1.1,traveller,travellers}}
+      to change {{urn:iso:std:iso:14812:3.3.5.1,road,roads}}"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.3.6.2
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: junction
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 550f429b-994d-5810-8592-e903300d85f6

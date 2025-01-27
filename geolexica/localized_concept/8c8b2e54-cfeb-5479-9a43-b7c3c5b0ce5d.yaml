@@ -1,0 +1,26 @@
+---
+data:
+  dates: []
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.7.3.6,driving automation system}} that is
+      only able to perform part of the {{urn:iso:std:iso:14812:3.7.3.1,dynamic driving
+      task,DDT}}"
+  examples: []
+  notes:
+  - content: Driver support systems include {{urn:iso:std:iso:14812:3.7.3.8,level
+      1 driving automation,level 1}} and {{urn:iso:std:iso:14812:3.7.3.9,level 2 driving
+      automation}}.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.7.3.7
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: driver support system
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 8c8b2e54-cfeb-5479-9a43-b7c3c5b0ce5d

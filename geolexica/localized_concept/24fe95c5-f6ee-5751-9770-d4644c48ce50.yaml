@@ -1,0 +1,22 @@
+---
+data:
+  dates: []
+  definition:
+  - content: economic framework for the agreement between a {{urn:iso:std:iso:14812:3.5.1.2,service
+      provider}} and a {{urn:iso:std:iso:14812:3.5.3.4,user}}
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      clause: 3.5.8.1
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: financial model
+  language_code: eng
+  entry_status: valid
+status: valid
+id: 24fe95c5-f6ee-5751-9770-d4644c48ce50
