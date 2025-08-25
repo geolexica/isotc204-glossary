@@ -7,8 +7,8 @@ eng:
     normative_status: preferred
     designation: reserved lane
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.3.1.13,traffic lane}} restricted to a specific
-      subset of {{urn:iso:std:iso:14812:3.7.6.1,road vehicle,road vehicles}} or {{urn:iso:std:iso:14812:3.5.3.4,user}}
+  - content: "{{<<urn:iso:std:iso:14812:3.3.1.13>>,traffic lane}} restricted to a specific
+      subset of {{<<urn:iso:std:iso:14812:3.7.6.1>>,road vehicle,road vehicles}} or {{<<urn:iso:std:iso:14812:3.5.3.4>>,user}}
       categories"
   notes:
   - content: A traffic lane may be reserved permanently or under certain conditions

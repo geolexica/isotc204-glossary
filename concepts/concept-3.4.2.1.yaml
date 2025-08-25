@@ -10,7 +10,7 @@ eng:
     normative_status: preferred
     designation: ITS location referencing
   definition:
-  - content: process used to develop a {{urn:iso:std:iso:14812:3.4.2.2,spatial reference}}
+  - content: process used to develop a {{<<urn:iso:std:iso:14812:3.4.2.2>>,spatial reference}}
   notes: []
   examples: []
   language_code: eng

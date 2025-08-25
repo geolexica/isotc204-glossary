@@ -13,15 +13,15 @@ eng:
     normative_status: preferred
     designation: level 5 Automated Driving System
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.7.3.10,ADS}} that is capable of unconditional
-      (i.e. not {{urn:iso:std:iso:14812:3.7.3.2,operational design domain,ODD}}-specific)
-      operation and providing its own {{urn:iso:std:iso:14812:3.7.3.3,fallback}},
-      without any expectation that a human {{urn:iso:std:iso:14812:3.6.2.3,driver}}
+  - content: "{{<<urn:iso:std:iso:14812:3.7.3.10>>,ADS}} that is capable of unconditional
+      (i.e. not {{<<urn:iso:std:iso:14812:3.7.3.2>>,operational design domain,ODD}}-specific)
+      operation and providing its own {{<<urn:iso:std:iso:14812:3.7.3.3>>,fallback}},
+      without any expectation that a human {{<<urn:iso:std:iso:14812:3.6.2.3>>,driver}}
       will respond to a request to intervene"
   notes:
-  - content: Other driving automation levels include "{{urn:iso:std:iso:14812:3.7.3.8,level
-      1 driving automation}}", "{{urn:iso:std:iso:14812:3.7.3.9,level 2 driving automation}}",
-      "{{urn:iso:std:iso:14812:3.7.3.11,level 3 ADS}}" and "{{urn:iso:std:iso:14812:3.7.3.12,level
+  - content: Other driving automation levels include "{{<<urn:iso:std:iso:14812:3.7.3.8>>,level
+      1 driving automation}}", "{{<<urn:iso:std:iso:14812:3.7.3.9>>,level 2 driving automation}}",
+      "{{<<urn:iso:std:iso:14812:3.7.3.11>>,level 3 ADS}}" and "{{<<urn:iso:std:iso:14812:3.7.3.12>>,level
       4 ADS}}".
   examples: []
   language_code: eng

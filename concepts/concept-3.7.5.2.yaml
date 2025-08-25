@@ -10,8 +10,8 @@ eng:
     normative_status: admitted
     designation: cycle-speed vehicle
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.7.1.1,vehicle}} with a {{urn:iso:std:iso:14812:3.7.2.2,design
-      speed}} in the range of {{urn:iso:std:iso:14812:3.7.5.8,low vehicle speed,low
+  - content: "{{<<urn:iso:std:iso:14812:3.7.1.1>>,vehicle}} with a {{<<urn:iso:std:iso:14812:3.7.2.2>>,design
+      speed}} in the range of {{<<urn:iso:std:iso:14812:3.7.5.8>>,low vehicle speed,low
       vehicle speeds}}"
   notes:
   - content: The term "cycle-speed vehicle" is allowed but the preferred term follows

@@ -7,9 +7,9 @@ eng:
     normative_status: preferred
     designation: taxi service
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.5.8.2,commercial}} {{urn:iso:std:iso:14812:3.5.6.2,shared
-      transport service}} that transports {{urn:iso:std:iso:14812:3.6.2.1,passenger,passengers}}
-      {{urn:iso:std:iso:14812:3.5.9.2,sequential,sequentially}}"
+  - content: "{{<<urn:iso:std:iso:14812:3.5.8.2>>,commercial}} {{<<urn:iso:std:iso:14812:3.5.6.2>>,shared
+      transport service}} that transports {{<<urn:iso:std:iso:14812:3.6.2.1>>,passenger,passengers}}
+      {{<<urn:iso:std:iso:14812:3.5.9.2>>,sequential,sequentially}}"
   notes: []
   examples: []
   language_code: eng

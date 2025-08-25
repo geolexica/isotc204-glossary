@@ -13,8 +13,8 @@ eng:
     normative_status: preferred
     designation: ITS-SCU
   definition:
-  - content: physical unit in an {{urn:iso:std:iso:14812:3.2.7.4,ITS-S unit}} containing
-      part or all of the functionality of an {{urn:iso:std:iso:14812:3.2.7.3,ITS station,ITS-S}}
+  - content: physical unit in an {{<<urn:iso:std:iso:14812:3.2.7.4>>,ITS-S unit}} containing
+      part or all of the functionality of an {{<<urn:iso:std:iso:14812:3.2.7.3>>,ITS station,ITS-S}}
   notes: []
   examples: []
   language_code: eng

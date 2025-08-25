@@ -7,8 +7,8 @@ eng:
     normative_status: preferred
     designation: ITS-S application process installation
   definition:
-  - content: installation of an implementation of an {{urn:iso:std:iso:14812:3.2.9.2,ITS-S
-      application process}} on an {{urn:iso:std:iso:14812:3.2.7.3,ITS station}}
+  - content: installation of an implementation of an {{<<urn:iso:std:iso:14812:3.2.9.2>>,ITS-S
+      application process}} on an {{<<urn:iso:std:iso:14812:3.2.7.3>>,ITS station}}
   notes:
   - content: An implementation is typically associated with an implementation name,
       a version and release number.

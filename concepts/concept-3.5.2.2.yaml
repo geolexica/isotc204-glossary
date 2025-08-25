@@ -14,7 +14,7 @@ eng:
     designation: provider
   domain: transport
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.1.1.1,entity}} that delivers one or more {{urn:iso:std:iso:14812:3.5.2.1,transport
+  - content: "{{<<urn:iso:std:iso:14812:3.1.1.1>>,entity}} that delivers one or more {{<<urn:iso:std:iso:14812:3.5.2.1>>,transport
       service,transport services}}"
   notes: []
   examples: []

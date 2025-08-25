@@ -7,8 +7,8 @@ eng:
     normative_status: preferred
     designation: financial model
   definition:
-  - content: economic framework for the agreement between a {{urn:iso:std:iso:14812:3.5.1.2,service
-      provider}} and a {{urn:iso:std:iso:14812:3.5.3.4,user}}
+  - content: economic framework for the agreement between a {{<<urn:iso:std:iso:14812:3.5.1.2>>,service
+      provider}} and a {{<<urn:iso:std:iso:14812:3.5.3.4>>,user}}
   notes: []
   examples: []
   language_code: eng

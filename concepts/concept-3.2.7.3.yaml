@@ -10,8 +10,8 @@ eng:
     normative_status: preferred
     designation: ITS-S
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.2.7.1,bounded secured managed domain}} that
-      is able to meet requirements of the {{urn:iso:std:iso:14812:3.2.7.2,ITS trust
+  - content: "{{<<urn:iso:std:iso:14812:3.2.7.1>>,bounded secured managed domain}} that
+      is able to meet requirements of the {{<<urn:iso:std:iso:14812:3.2.7.2>>,ITS trust
       domain}} within which it wishes to participate"
   notes:
   - content: The ITS station reference architecture is defined in <<ref_16,ISO 21217>>.

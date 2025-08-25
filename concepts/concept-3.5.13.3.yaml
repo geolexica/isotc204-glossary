@@ -7,7 +7,7 @@ eng:
     normative_status: preferred
     designation: navigation app
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.5.13.1,mobility app}} that assists a {{urn:iso:std:iso:14812:3.5.2.3,transport
+  - content: "{{<<urn:iso:std:iso:14812:3.5.13.1>>,mobility app}} that assists a {{<<urn:iso:std:iso:14812:3.5.2.3>>,transport
       user}} to determine the best route to a destination"
   notes: []
   examples: []

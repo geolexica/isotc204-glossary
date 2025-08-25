@@ -7,7 +7,7 @@ eng:
     normative_status: preferred
     designation: motorized vehicle
   definition:
-  - content: self-propelled {{urn:iso:std:iso:14812:3.7.1.1,vehicle}}
+  - content: self-propelled {{<<urn:iso:std:iso:14812:3.7.1.1>>,vehicle}}
   notes: []
   examples: []
   language_code: eng

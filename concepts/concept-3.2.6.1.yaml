@@ -16,8 +16,8 @@ eng:
     normative_status: admitted
     designation: onboard equipment
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.2.1.5,vehicle system}} that provides all ITS
-      functionality on-board the {{urn:iso:std:iso:14812:3.7.1.1,vehicle}}"
+  - content: "{{<<urn:iso:std:iso:14812:3.2.1.5>>,vehicle system}} that provides all ITS
+      functionality on-board the {{<<urn:iso:std:iso:14812:3.7.1.1>>,vehicle}}"
   notes:
   - content: ITS on-board equipment relates to any functionality. When there is a
       need to distinguish between core functionality and that by a special vehicle,

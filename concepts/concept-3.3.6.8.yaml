@@ -13,7 +13,7 @@ eng:
     normative_status: admitted
     designation: grade junction
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.3.6.2,junction}} without any {{urn:iso:std:iso:14812:3.3.6.10,grade
+  - content: "{{<<urn:iso:std:iso:14812:3.3.6.2>>,junction}} without any {{<<urn:iso:std:iso:14812:3.3.6.10>>,grade
       separated manoeuvre,grade separated manoeuvres}}"
   notes: []
   examples: []

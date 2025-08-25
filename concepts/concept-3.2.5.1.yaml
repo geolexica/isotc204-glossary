@@ -10,8 +10,8 @@ eng:
     normative_status: preferred
     designation: CCMS
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.2.1.4,support system}} that enables trusted
-      communications among {{urn:iso:std:iso:14812:3.1.8.2,ITS component,ITS components}}
+  - content: "{{<<urn:iso:std:iso:14812:3.2.1.4>>,support system}} that enables trusted
+      communications among {{<<urn:iso:std:iso:14812:3.1.8.2>>,ITS component,ITS components}}
       and protects data from unauthorized access"
   notes: []
   examples: []
