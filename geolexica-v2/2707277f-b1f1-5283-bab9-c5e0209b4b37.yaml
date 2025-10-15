@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 3.6.1.2
+  localized_concepts:
+    eng: 3dfe53c9-0f3c-5f6b-859f-8dc8130250e3
+id: 2707277f-b1f1-5283-bab9-c5e0209b4b37
+
+---
+data:
+  definition:
+  - content: mobile {{urn:iso:std:iso:14812:3.1.1.3,material entity}} within the {{urn:iso:std:iso:14812:3.3.1.2,road
+      reservation}}
+  examples:
+  - content: "{{urn:iso:std:iso:14812:3.6.1.3,pedestrian,Pedestrians}}, road work
+      personnel, {{urn:iso:std:iso:14812:3.6.2.2,vehicle occupant,vehicle occupants}},
+      occupied and unoccupied vehicles, horses, etc."
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.6.1.2
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: road user
+  language_code: eng
+  entry_status: valid
+id: 3dfe53c9-0f3c-5f6b-859f-8dc8130250e3

@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 3.1.1.1
+  localized_concepts:
+    eng: ef1f0a41-0592-5035-a407-defb9c940b41
+id: 966c9943-219e-59af-96e2-451195f8a5ac
+
+---
+data:
+  definition:
+  - content: concrete or abstract thing that exists, did exist, or can possibly exist,
+      including associations among these things
+  examples:
+  - content: "{{urn:iso:std:iso:14812:3.1.1.6,person,Person}}, object, event, idea,
+      process, etc."
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.1.1.1
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: entity
+  language_code: eng
+  entry_status: valid
+id: ef1f0a41-0592-5035-a407-defb9c940b41

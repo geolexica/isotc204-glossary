@@ -1,0 +1,30 @@
+---
+data:
+  identifier: 3.3.6.10
+  localized_concepts:
+    eng: 650ffcce-c26b-5984-9304-fa1708d1bb39
+id: bbf3c8eb-09b0-51de-a246-d0bc183914d9
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.3.6.7,intersection manoeuvre,manoeuvre}} that
+      is vertically separated from one or more manoeuvres that cross its two-dimensional
+      path"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.3.6.10
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: grade separated manoeuvre
+  language_code: eng
+  entry_status: valid
+id: 650ffcce-c26b-5984-9304-fa1708d1bb39

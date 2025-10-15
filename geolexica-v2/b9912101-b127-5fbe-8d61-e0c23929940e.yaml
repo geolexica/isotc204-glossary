@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 3.7.3.12
+  localized_concepts:
+    eng: d4843e64-a87e-5905-aef3-d3eb63c40477
+id: b9912101-b127-5fbe-8d61-e0c23929940e
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.7.3.10,ADS}} that is capable of operating
+      within a specific {{urn:iso:std:iso:14812:3.7.3.2,operational design domain,ODD}}
+      and providing its own {{urn:iso:std:iso:14812:3.7.3.3,fallback}}, without any
+      expectation that a human {{urn:iso:std:iso:14812:3.6.2.3,driver}} will respond
+      to a request to intervene"
+  examples: []
+  notes:
+  - content: Other driving automation levels include "{{urn:iso:std:iso:14812:3.7.3.8,level
+      1 driving automation}}", "{{urn:iso:std:iso:14812:3.7.3.9,level 2 driving automation}}",
+      "{{urn:iso:std:iso:14812:3.7.3.11,level 3 ADS}}", and "{{urn:iso:std:iso:14812:3.7.3.13,level
+      5 ADS}}".
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.7.3.12
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: level 4 ADS
+  - type: expression
+    normative_status: preferred
+    designation: high driving automation
+  - type: expression
+    normative_status: preferred
+    designation: level 4 Automated Driving System
+  language_code: eng
+  entry_status: valid
+id: d4843e64-a87e-5905-aef3-d3eb63c40477

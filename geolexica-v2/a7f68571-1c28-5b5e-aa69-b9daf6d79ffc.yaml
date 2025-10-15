@@ -1,0 +1,29 @@
+---
+data:
+  identifier: 3.6.2.2
+  localized_concepts:
+    eng: fa2d850c-ca20-5b88-bac3-4952a8997520
+id: a7f68571-1c28-5b5e-aa69-b9daf6d79ffc
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.1.1.6,person}} in or on a {{urn:iso:std:iso:14812:3.7.1.1,vehicle}}"
+  examples: []
+  notes:
+  - content: A vehicle occupant in a stationary vehicle is not necessarily a {{urn:iso:std:iso:14812:3.6.1.1,traveller}}.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.6.2.2
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vehicle occupant
+  language_code: eng
+  entry_status: valid
+id: fa2d850c-ca20-5b88-bac3-4952a8997520

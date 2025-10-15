@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 3.3.5.8
+  localized_concepts:
+    eng: 73960758-35ae-5fa0-8a60-a63b18b48e16
+id: 990e4da3-9b5f-5883-8e60-808b681f70b7
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.3.5.5,link}} that represents a contiguous
+      length of a {{urn:iso:std:iso:14812:3.3.5.6,road link}} characterized by the
+      same physical characteristics"
+  examples: []
+  notes:
+  - content: The definition of road segments is highly dependent on which characteristics
+      are modelled by the implementation. Characteristics that can result in a new
+      road segment include addition or subtraction of a {{urn:iso:std:iso:14812:3.3.1.13,lane}},
+      a change in {{urn:iso:std:iso:14812:3.3.1.3,roadway}} width, the change of {{urn:iso:std:iso:14812:3.3.5.1,road}}
+      type (e.g. start/end of a bridge), etc.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.3.5.8
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: road segment
+  language_code: eng
+  entry_status: valid
+id: 73960758-35ae-5fa0-8a60-a63b18b48e16

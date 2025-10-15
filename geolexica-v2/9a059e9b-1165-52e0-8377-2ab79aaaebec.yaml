@@ -1,0 +1,30 @@
+---
+data:
+  identifier: 3.4.1.1
+  localized_concepts:
+    eng: 4eeddbce-9f5d-52ae-b045-8676241009a8
+id: 9a059e9b-1165-52e0-8377-2ab79aaaebec
+
+---
+data:
+  definition:
+  - content: particular place or position
+  examples: []
+  notes:
+  - content: The term "location" by itself is a broad term that can be used to reference
+      spatial, computer memory, imaginary and other locations.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.4.1.1
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: location
+  language_code: eng
+  entry_status: valid
+id: 4eeddbce-9f5d-52ae-b045-8676241009a8

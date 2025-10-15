@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 3.1.2.5
+  localized_concepts:
+    eng: 25e36df6-bf95-5d6e-94c6-d74135509a38
+id: 65bb5ded-0467-5af6-a107-da8384b9d9b3
+
+---
+data:
+  definition:
+  - content: subset of {{urn:iso:std:iso:14812:3.1.2.4,intelligent transport system,ITS}}
+      where information is shared among {{urn:iso:std:iso:14812:3.2.7.3,ITS station,ITS
+      stations}} in a manner that enables its use by multiple {{urn:iso:std:iso:14812:3.5.3.1,ITS
+      service,ITS services}}
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.1.2.5
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cooperative ITS
+  - type: expression
+    normative_status: preferred
+    designation: C-ITS
+  language_code: eng
+  entry_status: valid
+id: 25e36df6-bf95-5d6e-94c6-d74135509a38

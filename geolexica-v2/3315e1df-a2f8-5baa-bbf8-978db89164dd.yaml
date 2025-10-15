@@ -1,0 +1,29 @@
+---
+data:
+  identifier: 3.5.8.2
+  localized_concepts:
+    eng: aea03dae-bf8b-5a30-b192-4a0be3d62efc
+id: 3315e1df-a2f8-5baa-bbf8-978db89164dd
+
+---
+data:
+  definition:
+  - content: type of{{urn:iso:std:iso:14812:3.5.8.1,financial model}} where {{urn:iso:std:iso:14812:3.5.2.1,service,services}}
+      are provided with a profit motive
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.5.8.2
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: commercial
+  language_code: eng
+  entry_status: valid
+id: aea03dae-bf8b-5a30-b192-4a0be3d62efc

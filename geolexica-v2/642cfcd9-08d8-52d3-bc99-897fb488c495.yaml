@@ -1,0 +1,29 @@
+---
+data:
+  identifier: 3.1.7.4
+  localized_concepts:
+    eng: 9193f6e1-1c9e-5703-8080-ec0fa11a202c
+id: 642cfcd9-08d8-52d3-bc99-897fb488c495
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.1.6.3,document}} that defines a lowest-level
+      {{urn:iso:std:iso:14812:3.1.7.2,process}}"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.1.7.4
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: process specification
+  language_code: eng
+  entry_status: valid
+id: 9193f6e1-1c9e-5703-8080-ec0fa11a202c

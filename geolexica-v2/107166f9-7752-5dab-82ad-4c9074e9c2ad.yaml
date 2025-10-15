@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 3.7.6.1
+  localized_concepts:
+    eng: 15ed331b-9a82-508a-a0f8-138aa6ab2498
+id: 107166f9-7752-5dab-82ad-4c9074e9c2ad
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.7.1.1,vehicle}} meeting the requirements to
+      operate within the {{urn:iso:std:iso:14812:3.3.1.4,driving space}} of a {{urn:iso:std:iso:14812:3.3.5.1,road}}"
+  examples: []
+  notes:
+  - content: Unless indicated otherwise, the term typically refers to vehicles that
+      are allowed to operate in the same driving spaces as motorized {{urn:iso:std:iso:14812:3.6.2.1,passenger}}
+      cars, according to the legal requirements of the local jurisdictional {{urn:iso:std:iso:14812:3.1.1.1,entity}}.
+      However, the term can be contextualized for other {{urn:iso:std:iso:14812:3.1.3.11,environment,environments}}.
+      For example, a bicycle is a "road vehicle" when the "road" is a {{urn:iso:std:iso:14812:3.3.3.2,cycleway}}.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.7.6.1
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: road vehicle
+  language_code: eng
+  entry_status: valid
+id: 15ed331b-9a82-508a-a0f8-138aa6ab2498

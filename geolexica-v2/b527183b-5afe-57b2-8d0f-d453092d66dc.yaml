@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 3.7.3.15
+  localized_concepts:
+    eng: 7247ec13-9ae8-556c-9db2-5cc12ec21cf6
+id: b527183b-5afe-57b2-8d0f-d453092d66dc
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.7.1.1,vehicle}} integrated with an {{urn:iso:std:iso:14812:3.7.3.10,ADS}}"
+  examples: []
+  notes:
+  - content: The terms "automated vehicle" and "AV" are often used in a colloquial
+      form. However, these terms can be used to mean either an "ADS-equipped vehicle"
+      or a "vehicle with an engaged ADS". The term "ADS-equipped vehicle" is preferred
+      since it is more precise and descriptive in its meaning.
+  - content: The term "autonomous vehicle" is also often used in a colloquial form
+      and is even less well defined. The term is particularly problematic because
+      the word "autonomous" has been used for a long time in the robotics and artificial
+      intelligence research communities to signify {{urn:iso:std:iso:14812:3.1.2.1,system,systems}}
+      that have the ability and authority to make decisions independently and self-sufficiently.
+      Due to its imprecise and overly broad meaning, use of the term "autonomous vehicle"
+      is discouraged.
+  - content: This term can be, and when possible should be, refined by identifying
+      the level of automation. For example, the terms "level 5 ADS-equipped vehicle"
+      and "level 5 automated vehicle" should be interpreted as "ADS-equipped vehicle
+      where the ADS is a {{urn:iso:std:iso:14812:3.7.3.13,level 5 ADS}}".
+  - content: This term only describes the capabilities of the vehicle, not its operational
+      state. In other words, the term applies as long as the ADS is {{urn:iso:std:iso:14812:3.2.3.6,connected}}
+      to the vehicle, whether the {{urn:iso:std:iso:14812:3.7.3.1,dynamic driving
+      task,DDT}} is actively engaged or not.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.7.3.15
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ADS-equipped vehicle
+  - type: expression
+    normative_status: admitted
+    designation: automated vehicle
+  - type: expression
+    normative_status: admitted
+    designation: AV
+  - type: expression
+    normative_status: deprecated
+    designation: autonomous vehicle
+  language_code: eng
+  entry_status: valid
+id: 7247ec13-9ae8-556c-9db2-5cc12ec21cf6

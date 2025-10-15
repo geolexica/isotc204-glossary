@@ -1,0 +1,29 @@
+---
+data:
+  identifier: 3.3.6.4
+  localized_concepts:
+    eng: c91f47c9-3160-53af-ba27-63323435d9a4
+id: 1fadd8bc-8d49-5270-a28f-7bdb84361141
+
+---
+data:
+  definition:
+  - content: all {{urn:iso:std:iso:14812:3.3.6.3,ingress lane,ingress lanes}} on a
+      {{urn:iso:std:iso:14812:3.3.5.6,road link}}
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.3.6.4
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ingress link
+  language_code: eng
+  entry_status: valid
+id: c91f47c9-3160-53af-ba27-63323435d9a4

@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 3.1.6.3
+  localized_concepts:
+    eng: 3dc4191f-103f-5390-99ad-8342093ca3c0
+id: 8ca0d375-d7b3-596e-922d-840966375525
+
+---
+data:
+  definition:
+  - content: uniquely identified unit of information for human use
+  examples:
+  - content: A report, specification, manual or book, in printed or electronic form.
+  notes:
+  - content: A document can be a single information item, or part of a larger information
+      item.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.1.6.3
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: document
+  language_code: eng
+  entry_status: valid
+id: 3dc4191f-103f-5390-99ad-8342093ca3c0

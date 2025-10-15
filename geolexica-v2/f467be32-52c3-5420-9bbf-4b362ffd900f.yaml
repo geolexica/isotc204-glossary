@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 3.3.1.7
+  localized_concepts:
+    eng: 97af95e7-293f-5583-94f4-6efe53109688
+id: f467be32-52c3-5420-9bbf-4b362ffd900f
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.3.1.3,roadway}} comprised of exactly one {{urn:iso:std:iso:14812:3.3.1.5,carriageway}}"
+  examples: []
+  notes:
+  - content: The World Road Association (PIARC) term is "single carriageway road"
+      and is recognized as a preferred term. As per the definitions provided in this
+      document, "single carriageway road segment" is more accurate and is the most
+      preferred term. The term "single carriageway" by itself is not preferred but
+      admitted.
+  - content: A single carriageway road segment could have multiple {{urn:iso:std:iso:14812:3.3.1.13,lane,lanes}}
+      and could allow travel in opposite directions
+  - content: The term "undivided highway" is the equivalent American English term.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.3.1.7
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: single carriageway road segment
+  - type: expression
+    normative_status: preferred
+    designation: single carriageway road
+  - type: expression
+    normative_status: admitted
+    designation: single carriageway
+  - type: expression
+    normative_status: admitted
+    designation: undivided highway
+  language_code: eng
+  entry_status: valid
+id: 97af95e7-293f-5583-94f4-6efe53109688

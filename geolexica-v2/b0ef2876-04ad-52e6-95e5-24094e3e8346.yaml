@@ -1,0 +1,30 @@
+---
+data:
+  identifier: 3.5.11.2
+  localized_concepts:
+    eng: 6553aca3-40bd-525e-b233-b87891249b82
+id: b0ef2876-04ad-52e6-95e5-24094e3e8346
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.5.8.2,commercial}} {{urn:iso:std:iso:14812:3.5.6.2,shared
+      transport service}} that transports {{urn:iso:std:iso:14812:3.6.2.1,passenger,passengers}}
+      {{urn:iso:std:iso:14812:3.5.9.2,sequential,sequentially}}"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.5.11.2
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: taxi service
+  language_code: eng
+  entry_status: valid
+id: 6553aca3-40bd-525e-b233-b87891249b82

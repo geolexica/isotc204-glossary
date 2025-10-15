@@ -1,0 +1,30 @@
+---
+data:
+  identifier: 3.5.11.7
+  localized_concepts:
+    eng: 992bcfc0-a151-5f06-b08d-77b7975060a5
+id: 97bbf5e6-9437-55f9-acaa-e04a816ab42d
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.5.8.2,commercial}}, {{urn:iso:std:iso:14812:3.5.7.5,peer-to-peer}}
+      {{urn:iso:std:iso:14812:3.5.6.2,shared transport service}} that transports goods"
+  examples: []
+  notes:
+  - content: The goods are typically small packages, letters, food, etc.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.5.11.7
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: courier network service
+  language_code: eng
+  entry_status: valid
+id: 992bcfc0-a151-5f06-b08d-77b7975060a5

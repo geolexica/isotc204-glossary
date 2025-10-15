@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 3.1.5.5
+  localized_concepts:
+    eng: 2890b52c-d3e0-562a-a583-c34bf0225a82
+id: 8bcc9abf-9da3-50cc-90cc-0fbec23b698e
+
+---
+data:
+  definition:
+  - content: protocol layer in the {{urn:iso:std:iso:14812:3.1.9.4,ITS-S reference
+      architecture,ITS station reference architecture}} containing the OSI session,
+      presentation and application layer protocols
+  examples: []
+  notes:
+  - content: Within the US, the NTCIP standards call the facilities layer the "application
+      layer". However, as this term is easily confused with both the OSI application
+      layer and the {{urn:iso:std:iso:14812:3.1.5.1,application entity}}, the term
+      should be avoided and qualified when used (e.g. OSI application layer).
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.1.5.5
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: facilities layer
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S facilities layer
+  - type: expression
+    normative_status: deprecated
+    designation: application layer
+  domain: ITS-S
+  language_code: eng
+  entry_status: valid
+id: 2890b52c-d3e0-562a-a583-c34bf0225a82

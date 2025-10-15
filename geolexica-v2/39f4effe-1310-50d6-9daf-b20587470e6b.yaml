@@ -1,0 +1,30 @@
+---
+data:
+  identifier: 3.2.2.2
+  localized_concepts:
+    eng: 73dad54d-6f95-52cf-85d7-0161fb57ad3d
+id: 39f4effe-1310-50d6-9daf-b20587470e6b
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.2.1.1,central system,centre system}} that
+      allows a fleet or freight operator to manage and control its personnel, equipment
+      and/or freight"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.2.2.2
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fleet and freight management central system
+  language_code: eng
+  entry_status: valid
+id: 73dad54d-6f95-52cf-85d7-0161fb57ad3d

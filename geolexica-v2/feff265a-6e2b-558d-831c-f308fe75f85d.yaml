@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 3.5.4.1
+  localized_concepts:
+    eng: 3845b85e-e91b-57b1-915f-3c801accf1d2
+id: feff265a-6e2b-558d-831c-f308fe75f85d
+
+---
+data:
+  definition:
+  - content: performance of one or more tasks to fulfil an {{urn:iso:std:iso:14812:3.5.4.4,ITS-S
+      user need}} for an {{urn:iso:std:iso:14812:3.5.4.3,ITS-S user}}
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.5.4.1
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S service
+  - type: expression
+    normative_status: preferred
+    designation: service
+  domain: ITS-S
+  language_code: eng
+  entry_status: valid
+id: 3845b85e-e91b-57b1-915f-3c801accf1d2

@@ -1,0 +1,30 @@
+---
+data:
+  identifier: 3.2.2.3
+  localized_concepts:
+    eng: 537faa9b-711e-5e6d-97d4-5d3e58edd0e2
+id: 8c28bcbc-d16e-58b6-895e-0bce6826cc55
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.2.1.1,central system,centre system}} that
+      allows an {{urn:iso:std:iso:14812:3.1.1.1,entity}} to monitor and manage the
+      construction and maintenance of {{urn:iso:std:iso:14812:3.3.5.1,road}} infrastructure"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.2.2.3
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maintenance and construction central management system
+  language_code: eng
+  entry_status: valid
+id: 537faa9b-711e-5e6d-97d4-5d3e58edd0e2

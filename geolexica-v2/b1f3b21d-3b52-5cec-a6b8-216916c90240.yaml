@@ -1,0 +1,28 @@
+---
+data:
+  identifier: 3.3.5.2
+  localized_concepts:
+    eng: 2048e3b7-f264-58e4-a911-220b3b6e4c26
+id: b1f3b21d-3b52-5cec-a6b8-216916c90240
+
+---
+data:
+  definition:
+  - content: interconnected collection of {{urn:iso:std:iso:14812:3.3.5.1,road,roads}}
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.3.5.2
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: road network
+  language_code: eng
+  entry_status: valid
+id: 2048e3b7-f264-58e4-a911-220b3b6e4c26

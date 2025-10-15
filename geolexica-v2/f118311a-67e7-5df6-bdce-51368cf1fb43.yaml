@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 3.1.6.6
+  localized_concepts:
+    eng: 14a12077-4ba3-5350-88db-3cfda9034a90
+id: f118311a-67e7-5df6-bdce-51368cf1fb43
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.1.6.4,interaction}} between two {{urn:iso:std:iso:14812:3.1.6.1,enterprise
+      object,enterprise objects}} governed by an understanding that is not documented
+      in a formal agreement between the two parties"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.1.6.6
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: informal coordination
+  - type: expression
+    normative_status: preferred
+    designation: enterprise view informal coordination
+  domain: enterprise view
+  language_code: eng
+  entry_status: valid
+id: 14a12077-4ba3-5350-88db-3cfda9034a90

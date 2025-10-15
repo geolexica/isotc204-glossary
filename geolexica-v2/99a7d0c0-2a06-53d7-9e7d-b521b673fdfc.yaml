@@ -1,0 +1,28 @@
+---
+data:
+  identifier: 3.7.6.2
+  localized_concepts:
+    eng: de541f3e-69a4-56e8-a1d6-02fa2c76b89d
+id: 99a7d0c0-2a06-53d7-9e7d-b521b673fdfc
+
+---
+data:
+  definition:
+  - content: self-propelled {{urn:iso:std:iso:14812:3.7.1.1,vehicle}}
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.7.6.2
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: motorized vehicle
+  language_code: eng
+  entry_status: valid
+id: de541f3e-69a4-56e8-a1d6-02fa2c76b89d

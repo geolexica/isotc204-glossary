@@ -1,0 +1,30 @@
+---
+data:
+  identifier: 3.5.13.7
+  localized_concepts:
+    eng: 2f6678df-091c-5262-b03c-5868e86cf081
+id: b3faee91-c771-57b7-af8b-ab817074fe45
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.5.13.1,mobility app}} that provides information
+      about current travel conditions to a {{urn:iso:std:iso:14812:3.5.2.3,transport
+      user}}"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.5.13.7
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: real-time traveller information app
+  language_code: eng
+  entry_status: valid
+id: 2f6678df-091c-5262-b03c-5868e86cf081

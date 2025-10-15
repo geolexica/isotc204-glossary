@@ -1,0 +1,29 @@
+---
+data:
+  identifier: 3.1.1.4
+  localized_concepts:
+    eng: 15676b6b-1482-5a7f-b70d-24e399071ccc
+id: 7af3f98d-77b7-55f9-9a53-8fdf15bb3b9c
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.1.1.3,material entity}} that is not and has
+      never been a living organism"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.1.1.4
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: non-biological entity
+  language_code: eng
+  entry_status: valid
+id: 15676b6b-1482-5a7f-b70d-24e399071ccc

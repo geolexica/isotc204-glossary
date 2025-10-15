@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 3.5.4.4
+  localized_concepts:
+    eng: 62501d9e-86a1-5415-9196-68a0ee8eb8cc
+id: c73da342-b8fe-5750-8fd7-1f94788c09b8
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.5.1.4,user need,need}} for processing within
+      a {{urn:iso:std:iso:14812:3.2.7.1,bounded secured managed domain,bounded, secure,
+      managed domain}}"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.5.4.4
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S user need
+  - type: expression
+    normative_status: preferred
+    designation: user need
+  - type: expression
+    normative_status: preferred
+    designation: need
+  domain: ITS-S
+  language_code: eng
+  entry_status: valid
+id: 62501d9e-86a1-5415-9196-68a0ee8eb8cc

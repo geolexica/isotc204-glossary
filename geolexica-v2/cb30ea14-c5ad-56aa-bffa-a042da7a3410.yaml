@@ -1,0 +1,28 @@
+---
+data:
+  identifier: 3.1.11.3
+  localized_concepts:
+    eng: 8b73b230-ae10-5e18-836e-9629e55864ac
+id: cb30ea14-c5ad-56aa-bffa-a042da7a3410
+
+---
+data:
+  definition:
+  - content: a set of permissible values
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.1.11.3
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: value domain
+  language_code: eng
+  entry_status: valid
+id: 8b73b230-ae10-5e18-836e-9629e55864ac

@@ -1,0 +1,30 @@
+---
+data:
+  identifier: 3.2.9.2
+  localized_concepts:
+    eng: d4aaa712-3d3b-5e3b-ad75-3f9b8f419506
+id: 4ae1a1d7-345d-53d2-b979-a97f3274e9dd
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.1.3.10,element}} in an {{urn:iso:std:iso:14812:3.2.7.3,ITS
+      station}} that performs information processing for an {{urn:iso:std:iso:14812:3.5.4.1,ITS-S
+      service}}"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.2.9.2
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S application process
+  language_code: eng
+  entry_status: valid
+id: d4aaa712-3d3b-5e3b-ad75-3f9b8f419506

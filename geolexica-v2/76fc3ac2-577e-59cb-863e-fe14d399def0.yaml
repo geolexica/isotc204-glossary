@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 3.7.3.13
+  localized_concepts:
+    eng: bf0251f3-6a02-51ef-ad00-c8f4e90b1ec2
+id: 76fc3ac2-577e-59cb-863e-fe14d399def0
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.7.3.10,ADS}} that is capable of unconditional
+      (i.e. not {{urn:iso:std:iso:14812:3.7.3.2,operational design domain,ODD}}-specific)
+      operation and providing its own {{urn:iso:std:iso:14812:3.7.3.3,fallback}},
+      without any expectation that a human {{urn:iso:std:iso:14812:3.6.2.3,driver}}
+      will respond to a request to intervene"
+  examples: []
+  notes:
+  - content: Other driving automation levels include "{{urn:iso:std:iso:14812:3.7.3.8,level
+      1 driving automation}}", "{{urn:iso:std:iso:14812:3.7.3.9,level 2 driving automation}}",
+      "{{urn:iso:std:iso:14812:3.7.3.11,level 3 ADS}}" and "{{urn:iso:std:iso:14812:3.7.3.12,level
+      4 ADS}}".
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.7.3.13
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: level 5 ADS
+  - type: expression
+    normative_status: preferred
+    designation: full driving automation
+  - type: expression
+    normative_status: preferred
+    designation: level 5 Automated Driving System
+  language_code: eng
+  entry_status: valid
+id: bf0251f3-6a02-51ef-ad00-c8f4e90b1ec2

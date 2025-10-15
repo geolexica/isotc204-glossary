@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 3.6.2.4
+  localized_concepts:
+    eng: d546adb0-8ff2-5fd2-82cd-353e24c0c835
+id: 99a41d97-869b-5314-951a-628506b0b1df
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.6.2.3,driver}} that performs the {{urn:iso:std:iso:14812:3.7.3.1,dynamic
+      driving task}} using the {{urn:iso:std:iso:14812:3.7.1.1,vehicle,vehicle's}}
+      {{urn:iso:std:iso:14812:3.7.1.5,built-in vehicle input device,built-in input
+      devices}} to control the longitudinal and lateral movement of the vehicle"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.6.2.4
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: in-vehicle driver
+  - type: expression
+    normative_status: preferred
+    designation: conventional driver
+  language_code: eng
+  entry_status: valid
+id: d546adb0-8ff2-5fd2-82cd-353e24c0c835

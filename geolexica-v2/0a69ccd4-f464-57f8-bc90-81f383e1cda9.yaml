@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 3.5.5.4
+  localized_concepts:
+    eng: 5e58678a-822b-540b-b9ff-84d3c774a30a
+id: 0a69ccd4-f464-57f8-bc90-81f383e1cda9
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.5.1.4,user need,need}} for communication functionality
+      that connects an {{urn:iso:std:iso:14812:3.2.7.3,ITS station,ITS-S}} to other
+      {{urn:iso:std:iso:14812:3.3.5.4,node,nodes}}"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.5.5.4
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S communications need
+  - type: expression
+    normative_status: preferred
+    designation: communication need
+  domain: ITS-S
+  language_code: eng
+  entry_status: valid
+id: 5e58678a-822b-540b-b9ff-84d3c774a30a

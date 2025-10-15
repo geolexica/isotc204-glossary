@@ -1,0 +1,29 @@
+---
+data:
+  identifier: 3.5.10.1
+  localized_concepts:
+    eng: 7540b192-d9b9-50e0-9827-45a109f76c01
+id: 359d170c-ce65-5660-9259-42f9f96d1a42
+
+---
+data:
+  definition:
+  - content: infrastructure framework for the agreement between a {{urn:iso:std:iso:14812:3.5.1.2,service
+      provider}} and a {{urn:iso:std:iso:14812:3.5.3.4,user}}
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.5.10.1
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: network model
+  language_code: eng
+  entry_status: valid
+id: 7540b192-d9b9-50e0-9827-45a109f76c01

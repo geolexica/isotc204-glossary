@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 3.3.1.11
+  localized_concepts:
+    eng: 47a856d8-b73f-5170-b8a0-3388d8172c80
+id: a2800e43-a05b-5f35-948e-7544728c2737
+
+---
+data:
+  definition:
+  - content: unpaved part of the {{urn:iso:std:iso:14812:3.3.1.10,roadside}} designed
+      for travel safety purposes
+  examples: []
+  notes:
+  - content: A verge can separate two {{urn:iso:std:iso:14812:3.3.1.13,lane,lanes}}
+      of different modes, separate a {{urn:iso:std:iso:14812:3.3.1.13,traffic lane}}
+      from a ditch, or separate a lane from another safety hazard.
+  - content: Roadside, {{urn:iso:std:iso:14812:3.3.1.18,shoulder}} and verge define
+      similar but slightly different concepts.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.3.1.11
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: verge
+  language_code: eng
+  entry_status: valid
+id: 47a856d8-b73f-5170-b8a0-3388d8172c80

@@ -1,0 +1,29 @@
+---
+data:
+  identifier: 3.4.2.5
+  localized_concepts:
+    eng: c72f8f1d-0001-53d1-8f14-29e471eab201
+id: e63b38b7-9356-5f7f-8589-4558658b2985
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.4.2.4,pre-coded spatial reference}} defined
+      within the {{urn:iso:std:iso:14812:3.3.5.2,road network}} database"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.4.2.5
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: link location
+  language_code: eng
+  entry_status: valid
+id: c72f8f1d-0001-53d1-8f14-29e471eab201

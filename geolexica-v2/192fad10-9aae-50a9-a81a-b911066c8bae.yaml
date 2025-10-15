@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 3.1.1.3
+  localized_concepts:
+    eng: 443cac95-74a8-5952-8e5a-201022b04d19
+id: 192fad10-9aae-50a9-a81a-b911066c8bae
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.1.1.1,entity}} that occupies three-dimensional
+      space"
+  examples: []
+  notes:
+  - content: All material entities have certain characteristics that can be described
+      and therefore this concept is important for ontology purposes.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.1.1.3
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: material entity
+  language_code: eng
+  entry_status: valid
+id: 443cac95-74a8-5952-8e5a-201022b04d19

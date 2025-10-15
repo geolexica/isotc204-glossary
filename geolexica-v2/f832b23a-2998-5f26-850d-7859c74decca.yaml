@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 3.5.7.4
+  localized_concepts:
+    eng: 8d7f787c-c22e-540a-8bc8-22ce26bc8572
+id: f832b23a-2998-5f26-850d-7859c74decca
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.5.7.1,contractual model}} where the {{urn:iso:std:iso:14812:3.5.3.4,user}}
+      is a governmental {{urn:iso:std:iso:14812:3.1.1.1,entity}}"
+  examples:
+  - content: A governmental entity using a {{urn:iso:std:iso:14812:3.5.8.2,commercial}}
+      courier service for package delivery.
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.5.7.4
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: government customer model
+  language_code: eng
+  entry_status: valid
+id: 8d7f787c-c22e-540a-8bc8-22ce26bc8572

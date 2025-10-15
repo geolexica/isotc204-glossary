@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.2.3.6
+  localized_concepts:
+    eng: 6dc87244-334c-5ed6-ada1-266ea2fea9b2
+id: 299cb6b0-3d7a-5cb8-a85b-c6c1ce6027fa
+
+---
+data:
+  definition:
+  - content: characteristic of a {{urn:iso:std:iso:14812:3.1.1.3,material entity}}
+      that is equipped with enabled (i.e. on) and operational electronic communication
+      technologies to support {{urn:iso:std:iso:14812:3.5.3.1,ITS service,ITS services}},
+      including the means to send and receive data to and from other connected entities
+  examples: []
+  notes:
+  - content: The term "connected" does not imply support for any specific communications
+      interface or {{urn:iso:std:iso:14812:3.2.9.2,ITS-S application process}}.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.2.3.6
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: connected
+  - type: expression
+    normative_status: preferred
+    designation: ITS connected
+  language_code: eng
+  entry_status: valid
+id: 6dc87244-334c-5ed6-ada1-266ea2fea9b2

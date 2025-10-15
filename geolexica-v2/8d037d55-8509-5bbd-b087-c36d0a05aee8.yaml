@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 3.7.5.3
+  localized_concepts:
+    eng: 5800a31c-d6bc-5332-9f75-b0ec34562cfd
+id: 8d037d55-8509-5bbd-b087-c36d0a05aee8
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.7.1.1,vehicle}} with a {{urn:iso:std:iso:14812:3.7.2.2,design
+      speed}} in the range of {{urn:iso:std:iso:14812:3.7.5.9,moderately-low vehicle
+      speed,moderately-low vehicle speeds}}"
+  examples:
+  - content: Typical moped.
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.7.5.3
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: moderately low-speed vehicle
+  language_code: eng
+  entry_status: valid
+id: 5800a31c-d6bc-5332-9f75-b0ec34562cfd

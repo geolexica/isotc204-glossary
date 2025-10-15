@@ -1,0 +1,30 @@
+---
+data:
+  identifier: 3.5.11.4
+  localized_concepts:
+    eng: 238484dd-fb9d-51d3-945d-620f078aee72
+id: 82f565a2-951b-564f-8ce1-f9a84d39ea62
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.5.8.4,cooperative}} {{urn:iso:std:iso:14812:3.5.6.2,shared
+      transport service}} that transports {{urn:iso:std:iso:14812:3.6.2.1,passenger,passengers}}
+      {{urn:iso:std:iso:14812:3.5.9.3,concurrent,concurrently}}"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.5.11.4
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rideshare service
+  language_code: eng
+  entry_status: valid
+id: 238484dd-fb9d-51d3-945d-620f078aee72

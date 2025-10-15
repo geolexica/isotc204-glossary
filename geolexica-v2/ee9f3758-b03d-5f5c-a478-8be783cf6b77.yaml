@@ -1,0 +1,29 @@
+---
+data:
+  identifier: 3.3.6.2
+  localized_concepts:
+    eng: 550f429b-994d-5810-8592-e903300d85f6
+id: ee9f3758-b03d-5f5c-a478-8be783cf6b77
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.3.6.1,intersection}} that allows {{urn:iso:std:iso:14812:3.6.1.1,traveller,travellers}}
+      to change {{urn:iso:std:iso:14812:3.3.5.1,road,roads}}"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.3.6.2
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: junction
+  language_code: eng
+  entry_status: valid
+id: 550f429b-994d-5810-8592-e903300d85f6

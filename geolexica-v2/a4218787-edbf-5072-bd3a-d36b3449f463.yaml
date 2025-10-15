@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.1.11.2
+  localized_concepts:
+    eng: 5998300b-e5af-546f-af01-2774d4150237
+id: a4218787-edbf-5072-bd3a-d36b3449f463
+
+---
+data:
+  definition:
+  - content: set of ideas, abstractions or things in the real world that are identified
+      with explicit boundaries and meaning and whose properties and behaviour follow
+      the same rules
+  examples: []
+  notes:
+  - content: Some ISO/TC 204 documents use the term "object class" for consistency
+      with <<ISO_11179_1>>, but within ITS, the term "class" is more generally understood.
+  - content: This is semantically equivalent to a "class" as used within UML (<<ISO19505_2_2012,ISO19505-2:2012>>).
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.1.11.2
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: class
+  - type: expression
+    normative_status: admitted
+    designation: object class
+  language_code: eng
+  entry_status: valid
+id: 5998300b-e5af-546f-af01-2774d4150237

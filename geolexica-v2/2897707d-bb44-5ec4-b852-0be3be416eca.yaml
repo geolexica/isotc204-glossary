@@ -1,0 +1,28 @@
+---
+data:
+  identifier: 3.5.1.2
+  localized_concepts:
+    eng: 4d34e7aa-4ea6-58e7-866b-46bf08fcc96e
+id: 2897707d-bb44-5ec4-b852-0be3be416eca
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.1.1.1,entity}} that delivers one or more {{urn:iso:std:iso:14812:3.5.2.1,service,services}}"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.5.1.2
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: service provider
+  language_code: eng
+  entry_status: valid
+id: 4d34e7aa-4ea6-58e7-866b-46bf08fcc96e
