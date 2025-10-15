@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 3.3.1.17
+  localized_concepts:
+    eng: 50a6e522-124c-5cff-95a7-a52f3337960d
+id: 90438e1b-d1be-5f6a-b908-b07b94b76ae5
+
+---
+data:
+  definition:
+  - content: part of a paved {{urn:iso:std:iso:14812:3.3.1.5,carriageway}} that is
+      not a {{urn:iso:std:iso:14812:3.3.1.13,traffic lane}}, {{urn:iso:std:iso:14812:3.3.1.19,hard
+      shoulder}}, or {{urn:iso:std:iso:14812:3.3.1.16,lay-by}}.
+  examples:
+  - content: See <<fig_A.23>>.
+  notes:
+  - content: Hardstanding can include edges of a hard shoulder outside of designated
+      lane markings, slips for future connector {{urn:iso:std:iso:14812:3.3.5.1,road,roads}},
+      etc.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.3.1.17
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hardstanding
+  language_code: eng
+  entry_status: valid
+id: 50a6e522-124c-5cff-95a7-a52f3337960d

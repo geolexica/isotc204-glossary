@@ -1,0 +1,29 @@
+---
+data:
+  identifier: 3.2.2.8
+  localized_concepts:
+    eng: 0b2654df-93e0-57f5-9965-54a8a511b8a2
+id: f32f3454-5a4a-54d0-b122-f887258674da
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.2.1.1,central system,centre system}} that
+      provides information of interest to the travelling public"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.2.2.8
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transport information central system
+  language_code: eng
+  entry_status: valid
+id: 0b2654df-93e0-57f5-9965-54a8a511b8a2

@@ -1,0 +1,30 @@
+---
+data:
+  identifier: 3.1.11.5
+  localized_concepts:
+    eng: 1f68d6a8-fd2e-5971-8f60-25bb8905c7a2
+id: 07b9fef7-490a-5483-8924-2083bcaa980f
+
+---
+data:
+  definition:
+  - content: grouping of {{urn:iso:std:iso:14812:3.1.11.1,data element,data elements}},
+      {{urn:iso:std:iso:14812:3.1.11.4,data frame,data frames}}, or data elements
+      and data frames that is used to convey information
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.1.11.5
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: message
+  language_code: eng
+  entry_status: valid
+id: 1f68d6a8-fd2e-5971-8f60-25bb8905c7a2

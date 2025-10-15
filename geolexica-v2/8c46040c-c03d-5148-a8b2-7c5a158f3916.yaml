@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 3.5.7.5
+  localized_concepts:
+    eng: 1cd37037-5d6f-5a1d-9188-4aa1294c1aae
+id: 8c46040c-c03d-5148-a8b2-7c5a158f3916
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.5.7.3,private customer model}} where the {{urn:iso:std:iso:14812:3.5.1.2,service
+      provider}} is an individual"
+  examples:
+  - content: Ridesourcing.
+  notes:
+  - content: The customer and provider can connect and/or contract through a third-party
+      {{urn:iso:std:iso:14812:3.5.2.1,service}}.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.5.7.5
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: peer-to-peer
+  domain: transport service
+  language_code: eng
+  entry_status: valid
+id: 1cd37037-5d6f-5a1d-9188-4aa1294c1aae

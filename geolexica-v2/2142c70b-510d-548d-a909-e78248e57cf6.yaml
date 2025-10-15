@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 3.3.1.4
+  localized_concepts:
+    eng: 1b588b2a-73ec-5a6b-acb8-eba7433a82db
+id: 2142c70b-510d-548d-a909-e78248e57cf6
+
+---
+data:
+  definition:
+  - content: area above the {{urn:iso:std:iso:14812:3.3.1.3,roadway}} that is primarily
+      designed for the movement of {{urn:iso:std:iso:14812:3.7.1.1,vehicle,vehicles}}
+  examples: []
+  notes:
+  - content: In practice, the driving space design considers a variety of issues,
+      which can result in suboptimal {{urn:iso:std:iso:14812:3.3.5.1,road}} segments
+      that violate normal design guidelines. Such {{urn:iso:std:iso:14812:3.4.1.1,location,locations}}
+      are typically posted with warning signs, but they are still designed for the
+      movement of vehicles.
+  - content: While the driving space is designed with certain vehicle characteristics
+      in mind, local regulations typically allow a wider set of vehicles to use the
+      driving space.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.3.1.4
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: driving space
+  language_code: eng
+  entry_status: valid
+id: 1b588b2a-73ec-5a6b-acb8-eba7433a82db

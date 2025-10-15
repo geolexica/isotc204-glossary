@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 3.5.10.2
+  localized_concepts:
+    eng: 8da48c26-5826-5035-a188-115da25c5a3f
+id: a46c0bd1-e84d-5c04-9366-8d74456af9f3
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.5.9.1,operational model,operational mode}}
+      where the {{urn:iso:std:iso:14812:3.5.2.1,transport service}} is initiated and
+      terminated at the same facility managed by the {{urn:iso:std:iso:14812:3.5.2.2,transport
+      provider}}"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.5.10.2
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: station-based roundtrip
+  domain: transport service
+  language_code: eng
+  entry_status: valid
+id: 8da48c26-5826-5035-a188-115da25c5a3f

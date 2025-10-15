@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 3.3.1.10
+  localized_concepts:
+    eng: c1f115ad-9a70-5c00-b287-9615685b698b
+id: a2690c58-2e77-5ad7-be7d-35f8290ec42b
+
+---
+data:
+  definition:
+  - content: portion of the {{urn:iso:std:iso:14812:3.3.1.2,road reservation}} excluding
+      all {{urn:iso:std:iso:14812:3.3.1.3,roadway}} and {{urn:iso:std:iso:14812:3.3.1.4,driving
+      space,driving space(s)}}
+  examples: []
+  notes:
+  - content: Roadside, {{urn:iso:std:iso:14812:3.3.1.18,shoulder}} and {{urn:iso:std:iso:14812:3.3.1.11,verge}}
+      define similar but slightly different concepts
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.3.1.10
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: roadside
+  language_code: eng
+  entry_status: valid
+id: c1f115ad-9a70-5c00-b287-9615685b698b

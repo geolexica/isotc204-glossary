@@ -1,0 +1,30 @@
+---
+data:
+  identifier: 3.2.2.1
+  localized_concepts:
+    eng: 28f73f00-9e4f-5f8d-80b9-3dafffd38f31
+id: db49b316-b29a-512d-8142-84d9e5d2e529
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.2.1.1,central system,centre system}} that
+      allows an {{urn:iso:std:iso:14812:3.1.1.1,entity}} to manage and respond to
+      crashes, events, disasters, evacuation orders and other incidents"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.2.2.1
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: emergency management central system
+  language_code: eng
+  entry_status: valid
+id: 28f73f00-9e4f-5f8d-80b9-3dafffd38f31

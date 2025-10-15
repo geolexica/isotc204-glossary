@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 3.2.1.4
+  localized_concepts:
+    eng: a391d69f-1b02-5f80-95fa-6bdc1c734809
+id: 96deca54-c3ce-56ea-9f78-057bb59b8539
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.1.8.2,ITS component}} that provides services
+      in support of one or more other ITS components"
+  examples:
+  - content: Data distribution {{urn:iso:std:iso:14812:3.1.2.1,system}}, network time
+      source, {{urn:iso:std:iso:14812:3.1.2.5,cooperative ITS}} credentials management
+      system.
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.2.1.4
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: support system
+  - type: expression
+    normative_status: preferred
+    designation: ITS support system
+  language_code: eng
+  entry_status: valid
+id: a391d69f-1b02-5f80-95fa-6bdc1c734809

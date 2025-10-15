@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 3.1.11.4
+  localized_concepts:
+    eng: b87c0c48-001e-58bb-98b5-f6a6aaa47a87
+id: 475d556a-b8ae-587a-9363-74c8670b1d2d
+
+---
+data:
+  definition:
+  - content: specific grouping of {{urn:iso:std:iso:14812:3.1.11.1,data element,data
+      elements}} that describes information of interest through a useful grouping
+      of more atomic properties about one or more {{urn:iso:std:iso:14812:3.1.11.2,class,classes}}
+  examples: []
+  notes:
+  - content: The grouping can be a set, sequence or a choice.
+  - content: A data frame can contain other data frames.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.1.11.4
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: data frame
+  language_code: eng
+  entry_status: valid
+id: b87c0c48-001e-58bb-98b5-f6a6aaa47a87

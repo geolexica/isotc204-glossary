@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 3.7.3.11
+  localized_concepts:
+    eng: 3d21c576-08a8-54cd-a924-58ec022c10ce
+id: fa1d7ce8-b32d-5476-b4f5-abf246cef9ca
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.7.3.10,ADS}} designed with the expectation
+      that the {{urn:iso:std:iso:14812:3.7.3.4,fallback-ready user}} is available
+      to intervene"
+  examples: []
+  notes:
+  - content: Level 3 ADSs are restricted to operating within a specific {{urn:iso:std:iso:14812:3.7.3.2,operational
+      design domain,ODD}}.
+  - content: Other driving automation levels include "{{urn:iso:std:iso:14812:3.7.3.8,level
+      1 driving automation}}", "{{urn:iso:std:iso:14812:3.7.3.9,level 2 driving automation}}",
+      "{{urn:iso:std:iso:14812:3.7.3.12,level 4 ADS}}", and "{{urn:iso:std:iso:14812:3.7.3.13,level
+      5 ADS}}".
+  - content: The user can intervene due to an ADS-issued request, a {{urn:iso:std:iso:14812:3.7.3.1,dynamic
+      driving task,DDT}} performance-relevant system failure, or other reasons.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.7.3.11
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: level 3 ADS
+  - type: expression
+    normative_status: preferred
+    designation: conditional driving automation
+  - type: expression
+    normative_status: preferred
+    designation: level 3 Automated Driving System
+  language_code: eng
+  entry_status: valid
+id: 3d21c576-08a8-54cd-a924-58ec022c10ce

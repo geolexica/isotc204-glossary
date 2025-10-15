@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 3.1.4.1
+  localized_concepts:
+    eng: a7293ad6-97bb-533c-828b-3d4e8ba1bf1b
+id: 7f279552-a468-567d-a08b-6ad6c5885ac7
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.1.3.7,architecture view}} from the {{urn:iso:std:iso:14812:3.1.4.2,communications
+      viewpoint}}"
+  examples: []
+  notes:
+  - content: Within ITS, the preferred model for describing the communications view
+      is based on the {{urn:iso:std:iso:14812:3.1.9.4,ITS-S reference architecture}}.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.1.4.1
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: communications view
+  language_code: eng
+  entry_status: valid
+id: a7293ad6-97bb-533c-828b-3d4e8ba1bf1b

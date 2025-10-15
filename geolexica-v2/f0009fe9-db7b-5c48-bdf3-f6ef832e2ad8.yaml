@@ -1,0 +1,28 @@
+---
+data:
+  identifier: 3.3.3.4
+  localized_concepts:
+    eng: c5183b59-c296-55c6-b6df-07f41bde98f5
+id: f0009fe9-db7b-5c48-bdf3-f6ef832e2ad8
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.3.3.3,footway}} along a {{urn:iso:std:iso:14812:3.3.1.10,roadside}}"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.3.3.4
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sidewalk
+  language_code: eng
+  entry_status: valid
+id: c5183b59-c296-55c6-b6df-07f41bde98f5

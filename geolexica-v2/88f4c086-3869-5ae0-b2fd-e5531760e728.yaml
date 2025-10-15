@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 3.1.8.2
+  localized_concepts:
+    eng: 5beaf006-cb46-5bfe-adba-ee26b16bd002
+id: 88f4c086-3869-5ae0-b2fd-e5531760e728
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.1.8.1,physical object}} that has been assigned
+      one or more {{urn:iso:std:iso:14812:3.1.8.6,functional object,functional objects}}
+      in the provision of one or more {{urn:iso:std:iso:14812:3.5.3.1,ITS service,ITS
+      services}}"
+  examples: []
+  notes:
+  - content: Physical objects are ITS components if they are an integral part of the
+      {{urn:iso:std:iso:14812:3.1.2.1,system}}; otherwise they are {{urn:iso:std:iso:14812:3.1.8.3,terminator,terminators}}.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.1.8.2
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS component
+  language_code: eng
+  entry_status: valid
+id: 5beaf006-cb46-5bfe-adba-ee26b16bd002

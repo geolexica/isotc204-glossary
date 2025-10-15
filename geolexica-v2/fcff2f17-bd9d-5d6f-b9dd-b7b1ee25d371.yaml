@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 3.2.3.5
+  localized_concepts:
+    eng: a17592f1-6476-59a8-b3d0-d95d2f9cf497
+id: fcff2f17-bd9d-5d6f-b9dd-b7b1ee25d371
+
+---
+data:
+  definition:
+  - content: electronic device that is {{urn:iso:std:iso:14812:3.2.3.6,connected}}
+      using one or more communication media
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.2.3.5
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: connected unit
+  - type: expression
+    normative_status: preferred
+    designation: ITS connected unit
+  language_code: eng
+  entry_status: valid
+id: a17592f1-6476-59a8-b3d0-d95d2f9cf497

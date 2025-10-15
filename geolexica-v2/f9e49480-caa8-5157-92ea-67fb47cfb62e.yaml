@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 3.7.3.1
+  localized_concepts:
+    eng: '0179bc0a-26b0-52ee-ba40-2ff1496cc1fc'
+id: f9e49480-caa8-5157-92ea-67fb47cfb62e
+
+---
+data:
+  definition:
+  - content: all real-time operational and tactical functions required to operate
+      a {{urn:iso:std:iso:14812:3.7.1.1,vehicle}} in on-road traffic
+  examples: []
+  notes:
+  - content: The DDT includes lateral vehicle motion control, longitudinal vehicle
+      motion control, monitoring the driving {{urn:iso:std:iso:14812:3.1.3.11,environment}},
+      object and event response execution, manoeuvre planning and enhancing conspicuity.
+  - content: The DDT excludes strategic functions such as trip scheduling and selection
+      of destinations and waypoints.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.7.3.1
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dynamic driving task
+  - type: expression
+    normative_status: preferred
+    designation: DDT
+  language_code: eng
+  entry_status: valid
+id: '0179bc0a-26b0-52ee-ba40-2ff1496cc1fc'

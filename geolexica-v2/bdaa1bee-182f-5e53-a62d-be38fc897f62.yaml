@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 3.3.1.9
+  localized_concepts:
+    eng: 411b84bd-fd7d-5a81-b22c-0f2db3e0b96d
+id: bdaa1bee-182f-5e53-a62d-be38fc897f62
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.3.1.3,roadway}} comprised of more than two
+      {{urn:iso:std:iso:14812:3.3.1.5,carriageway,carriageways}}"
+  examples: []
+  notes:
+  - content: The PIARC term is "multiple carriageway road" and is recognized as a
+      preferred term. As per the definitions provided in this document, "{{urn:iso:std:iso:14812:3.3.1.8,dual
+      carriageway road segment}}" is more accurate and is the most preferred term.
+      The term "dual carriageway" by itself is not preferred but admitted.
+  - content: The separate carriageways are typically designed for separate traffic
+      for (often multiple) specific operational reasons, such as direction of travel,
+      category of vehicle (e.g. high occupancy vehicle), local versus through travel,
+      etc.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.3.1.9
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: multiple carriageway road segment
+  - type: expression
+    normative_status: preferred
+    designation: multiple carriageway road
+  - type: expression
+    normative_status: admitted
+    designation: multiple carriageway
+  language_code: eng
+  entry_status: valid
+id: 411b84bd-fd7d-5a81-b22c-0f2db3e0b96d

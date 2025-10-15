@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 3.5.6.5
+  localized_concepts:
+    eng: 17bd8511-a4a5-55be-99f6-cd683b3a8aee
+id: d6a69fac-3293-5db1-a83d-ded8969cea9d
+
+---
+data:
+  definition:
+  - content: using a {{urn:iso:std:iso:14812:3.5.6.3,shared vehicle service}}
+  examples: []
+  notes:
+  - content: This term can be specialized by replacing "vehicle" with any defined
+      vehicle type. However, in some cases the preferred form is to consolidate terms
+      (e.g. "carsharing" rather than "passenger car sharing").
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.5.6.5
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vehicle sharing
+  language_code: eng
+  entry_status: valid
+id: 17bd8511-a4a5-55be-99f6-cd683b3a8aee

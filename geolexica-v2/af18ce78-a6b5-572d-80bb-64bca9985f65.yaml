@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 3.7.5.12
+  localized_concepts:
+    eng: 7fb2b00d-c04a-539a-b6c2-b2eadfa59607
+id: af18ce78-a6b5-572d-80bb-64bca9985f65
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.7.2.1,speed}} of a {{urn:iso:std:iso:14812:3.7.1.1,vehicle}}
+      that exceeds free flow motorway speeds by a factor of two or more"
+  examples:
+  - content: A speed in excess of 198 km/h.
+  notes:
+  - content: Local regulations for the exact speed range vary.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.7.5.12
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: high vehicle speed
+  language_code: eng
+  entry_status: valid
+id: 7fb2b00d-c04a-539a-b6c2-b2eadfa59607

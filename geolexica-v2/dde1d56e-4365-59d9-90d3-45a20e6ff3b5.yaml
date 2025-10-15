@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.3.3.1
+  localized_concepts:
+    eng: 6f082abc-a058-5c40-9951-0555e7247355
+id: dde1d56e-4365-59d9-90d3-45a20e6ff3b5
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.3.1.13,lane}} designed for the through movement
+      of cycles"
+  examples: []
+  notes:
+  - content: Cycle lanes are typically much narrower than {{urn:iso:std:iso:14812:3.3.1.13,traffic
+      lane,traffic lanes}}.
+  - content: Cycle lanes are typically part of either a {{urn:iso:std:iso:14812:3.3.1.15,usable
+      width,carriageway}} or a {{urn:iso:std:iso:14812:3.3.3.2,cycleway}}.
+  - content: Cycle lanes could also allow and be designed for {{urn:iso:std:iso:14812:3.7.6.2,motorized
+      vehicle,motorized vehicles}} (e.g. e-scooters, mopeds, etc.) with similar performance
+      characteristics as human-powered cycles, subject to local regulations.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.3.3.1
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cycle lane
+  language_code: eng
+  entry_status: valid
+id: 6f082abc-a058-5c40-9951-0555e7247355

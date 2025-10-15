@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 3.7.5.7
+  localized_concepts:
+    eng: 2ba687c6-2df6-5a16-97cd-5dfe05fe09c8
+id: b24e3843-f194-599c-992e-92db1c9d9307
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.7.2.1,speed}} of a {{urn:iso:std:iso:14812:3.7.1.1,vehicle}}
+      that does not greatly exceed typical {{urn:iso:std:iso:14812:3.6.1.3,pedestrian}}
+      speeds"
+  examples:
+  - content: "<<SAE_J3194,SAE J3194>> associates this with a top speed of less than
+      13 km/h."
+  notes:
+  - content: Local regulations for the exact speed range vary.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.7.5.7
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ultra-low vehicle speed
+  language_code: eng
+  entry_status: valid
+id: 2ba687c6-2df6-5a16-97cd-5dfe05fe09c8

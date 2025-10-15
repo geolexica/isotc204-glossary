@@ -1,0 +1,29 @@
+---
+data:
+  identifier: 3.2.7.2
+  localized_concepts:
+    eng: bce598b4-16c4-5866-a08c-5ef5add4de6f
+id: 3365fdc2-38e1-5b1d-b0c8-62dfdef8a17d
+
+---
+data:
+  definition:
+  - content: set of {{urn:iso:std:iso:14812:3.2.7.1,bounded secured managed domain,bounded
+      secured managed domains}} that meet a defined set of ITS industry security requirements
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.2.7.2
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS trust domain
+  language_code: eng
+  entry_status: valid
+id: bce598b4-16c4-5866-a08c-5ef5add4de6f

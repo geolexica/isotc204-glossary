@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 3.4.2.7
+  localized_concepts:
+    eng: a5c5a0f6-10f7-5621-bb97-ae2c3268f4ce
+id: e98df994-b4e7-5b2e-9f79-38d39be31673
+
+---
+data:
+  definition:
+  - content: register of {{urn:iso:std:iso:14812:3.4.2.2,spatial reference,spatial
+      references}} of one or more {{urn:iso:std:iso:14812:3.4.1.1,location}} sub-types
+      containing some information regarding position
+  examples: []
+  notes:
+  - content: The positional information need not be coordinates but could be descriptive.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.4.2.7
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: gazetteer
+  - type: expression
+    normative_status: admitted
+    designation: location table
+  language_code: eng
+  entry_status: valid
+id: a5c5a0f6-10f7-5621-bb97-ae2c3268f4ce

@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 3.7.5.11
+  localized_concepts:
+    eng: e18e0b29-a0b0-512a-8b37-7d9615adf8cd
+id: ffcda847-f8c1-57af-b416-a6fd205f6fe5
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.7.2.1,speed}} of a {{urn:iso:std:iso:14812:3.7.1.1,vehicle}}
+      that is typical of free-flow motorway speeds to twice that speed"
+  examples:
+  - content: A speed in the range of 87 km/h and 198 km/h.
+  notes:
+  - content: Local regulations for the exact speed range vary.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.7.5.11
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: moderately-high vehicle speed
+  language_code: eng
+  entry_status: valid
+id: e18e0b29-a0b0-512a-8b37-7d9615adf8cd

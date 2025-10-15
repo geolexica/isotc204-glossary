@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.5.2.2
+  localized_concepts:
+    eng: 935e285b-9ab2-52b5-b648-f0ef0d933caa
+id: 7f826e29-14ce-588d-b129-12c9dbfd3059
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.1.1.1,entity}} that delivers one or more {{urn:iso:std:iso:14812:3.5.2.1,transport
+      service,transport services}}"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.5.2.2
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transport provider
+  - type: expression
+    normative_status: preferred
+    designation: service provider
+  - type: expression
+    normative_status: preferred
+    designation: provider
+  domain: transport
+  language_code: eng
+  entry_status: valid
+id: 935e285b-9ab2-52b5-b648-f0ef0d933caa

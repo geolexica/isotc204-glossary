@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 3.1.9.5
+  localized_concepts:
+    eng: 0e2cdb79-90b0-5b49-b94d-b5a542c6367d
+id: a3165fd1-21c2-52b2-92bf-3222681f2510
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.1.9.1,reference architecture}} for one or
+      more {{urn:iso:std:iso:14812:3.5.3.1,ITS service,ITS services}}"
+  examples: []
+  notes:
+  - content: An ITS architecture can be a reference, planning or {{urn:iso:std:iso:14812:3.1.9.3,deployment
+      architecture}}.
+  - content: The Harmonised Architecture Reference for Technical Standards (HARTS;
+      http://htg7.org[see] Reference <<ref_26>>) is an example of an ITS reference
+      architecture.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.1.9.5
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS reference architecture
+  language_code: eng
+  entry_status: valid
+id: 0e2cdb79-90b0-5b49-b94d-b5a542c6367d

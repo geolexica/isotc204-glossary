@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 3.5.9.6
+  localized_concepts:
+    eng: 0de7d8f5-d9ee-5610-9f8e-a0b4287c7b05
+id: 85952fd9-1117-5ab1-8e2b-ef8e62f91483
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.5.9.3,concurrent}} operation where the {{urn:iso:std:iso:14812:3.5.2.2,transport
+      provider}} may choose to divert from its path to service a new request from
+      another {{urn:iso:std:iso:14812:3.5.2.3,transport user,transport users}} while
+      servicing an earlier transport user"
+  examples:
+  - content: Ridesplitting.
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.5.9.6
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: paired on-demand
+  domain: transport service
+  language_code: eng
+  entry_status: valid
+id: 0de7d8f5-d9ee-5610-9f8e-a0b4287c7b05

@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.2.1.3
+  localized_concepts:
+    eng: 756311ee-0ec1-5a47-8915-8fe02f869923
+id: 8688fc1f-8646-5416-9939-3b6381657a74
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.1.8.2,ITS component}}, other than a {{urn:iso:std:iso:14812:3.2.1.5,vehicle
+      system}}, that is used by a {{urn:iso:std:iso:14812:3.1.1.6,person}} in relation
+      to a past, current or upcoming journey"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.2.1.3
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: personal system
+  - type: expression
+    normative_status: preferred
+    designation: ITS personal system
+  - type: expression
+    normative_status: preferred
+    designation: traveller system
+  language_code: eng
+  entry_status: valid
+id: 756311ee-0ec1-5a47-8915-8fe02f869923

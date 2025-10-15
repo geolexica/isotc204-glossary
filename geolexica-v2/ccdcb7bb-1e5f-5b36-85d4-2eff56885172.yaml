@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 3.5.9.4
+  localized_concepts:
+    eng: 78e6ab66-2320-566b-9346-719a380a3fbd
+id: ccdcb7bb-1e5f-5b36-85d4-2eff56885172
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.5.9.3,concurrent}} operation where transported
+      items can only be received or delivered at stopping points contained in a pre-defined
+      sequence"
+  examples:
+  - content: Traditional fixed-route bus line.
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.5.9.4
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fixed route
+  domain: transport service
+  language_code: eng
+  entry_status: valid
+id: 78e6ab66-2320-566b-9346-719a380a3fbd

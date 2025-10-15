@@ -1,0 +1,28 @@
+---
+data:
+  identifier: 3.1.13.2
+  localized_concepts:
+    eng: 72ef7953-8ebd-5326-bd15-170592a5fbaa
+id: 83930f35-1113-5bce-939a-79da5aa2a0d5
+
+---
+data:
+  definition:
+  - content: time between two {{urn:iso:std:iso:14812:3.1.13.1,instant,instants}}
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.1.13.2
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: duration
+  language_code: eng
+  entry_status: valid
+id: 72ef7953-8ebd-5326-bd15-170592a5fbaa

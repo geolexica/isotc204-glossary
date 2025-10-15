@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 3.5.4.2
+  localized_concepts:
+    eng: 0a13ea98-45ea-5556-a425-48d1120aa301
+id: 152463ed-3c1a-501f-9033-f29e5dc64d00
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.2.7.3,ITS station,ITS-S}} that delivers one
+      or more {{urn:iso:std:iso:14812:3.5.4.1,ITS-S service,ITS-S services}}"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.5.4.2
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S service provider
+  - type: expression
+    normative_status: preferred
+    designation: service provider
+  domain: ITS-S
+  language_code: eng
+  entry_status: valid
+id: 0a13ea98-45ea-5556-a425-48d1120aa301

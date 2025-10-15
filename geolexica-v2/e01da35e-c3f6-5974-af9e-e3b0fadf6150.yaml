@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 3.3.2.2
+  localized_concepts:
+    eng: 42dd52ef-22c0-5021-803e-5d26bb066a95
+id: e01da35e-c3f6-5974-af9e-e3b0fadf6150
+
+---
+data:
+  definition:
+  - content: part of the {{urn:iso:std:iso:14812:3.3.1.2,road reservation}} between
+      {{urn:iso:std:iso:14812:3.3.1.5,carriageway,carriageways}} designed for travel
+      safety purposes
+  examples: []
+  notes:
+  - content: A central reservation can be paved or unpaved and can be equipped with
+      a safety barrier, rails, or other devices.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.3.2.2
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: central reservation
+  - type: expression
+    normative_status: admitted
+    designation: median
+  - type: expression
+    normative_status: admitted
+    designation: median strip
+  - type: expression
+    normative_status: admitted
+    designation: neutral ground
+  language_code: eng
+  entry_status: valid
+id: 42dd52ef-22c0-5021-803e-5d26bb066a95

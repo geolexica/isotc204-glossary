@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 3.5.13.6
+  localized_concepts:
+    eng: 8344ff38-986e-5b91-8694-4df5fe6e3aa0
+id: b929a06e-5411-546d-b216-36e919ff9ff9
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.5.13.1,mobility app}} that assists a {{urn:iso:std:iso:14812:3.5.2.3,transport
+      user}} in using a {{urn:iso:std:iso:14812:3.5.6.1,public transport}} {{urn:iso:std:iso:14812:3.1.2.1,system}}"
+  examples: []
+  notes:
+  - content: A public transport app can include features such as viewing maps, searching
+      routes and schedules, real-time arrival information, ticketing, electronic boarding
+      pass, etc.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.5.13.6
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: public transport app
+  language_code: eng
+  entry_status: valid
+id: 8344ff38-986e-5b91-8694-4df5fe6e3aa0

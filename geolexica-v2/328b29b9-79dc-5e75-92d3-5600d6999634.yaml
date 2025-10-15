@@ -1,0 +1,29 @@
+---
+data:
+  identifier: 3.5.11.5
+  localized_concepts:
+    eng: 60f5804b-75ec-5ecd-bfff-8298b1ccc1b3
+id: 328b29b9-79dc-5e75-92d3-5600d6999634
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.5.8.2,commercial}}, {{urn:iso:std:iso:14812:3.5.7.5,peer-to-peer}}
+      {{urn:iso:std:iso:14812:3.5.6.2,shared transport service}} that transports {{urn:iso:std:iso:14812:3.6.2.1,passenger,passengers}}"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.5.11.5
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ridesourced service
+  language_code: eng
+  entry_status: valid
+id: 60f5804b-75ec-5ecd-bfff-8298b1ccc1b3

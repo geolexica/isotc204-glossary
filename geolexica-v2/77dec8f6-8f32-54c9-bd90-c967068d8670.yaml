@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 3.3.5.5
+  localized_concepts:
+    eng: 90759ffa-1c71-5b00-b194-8784070c8812
+id: 77dec8f6-8f32-54c9-bd90-c967068d8670
+
+---
+data:
+  definition:
+  - content: component of a {{urn:iso:std:iso:14812:3.3.5.3,road model}} that represents
+      a connection between two {{urn:iso:std:iso:14812:3.3.5.4,node,nodes}}
+  examples: []
+  notes:
+  - content: A link can be curvilinear and can have various attributes such as width.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.3.5.5
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: link
+  domain: road network
+  language_code: eng
+  entry_status: valid
+id: 90759ffa-1c71-5b00-b194-8784070c8812

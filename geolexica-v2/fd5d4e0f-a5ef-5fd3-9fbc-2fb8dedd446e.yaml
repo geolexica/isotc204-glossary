@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 3.3.1.12
+  localized_concepts:
+    eng: '0855f676-3bd3-5e38-8a47-973ca6b432dc'
+id: fd5d4e0f-a5ef-5fd3-9fbc-2fb8dedd446e
+
+---
+data:
+  definition:
+  - content: portion of {{urn:iso:std:iso:14812:3.3.1.2,road reservation}} intended
+      to accommodate a single line of moving {{urn:iso:std:iso:14812:3.1.1.3,material
+      entity,material entities}} along its length
+  examples:
+  - content: "{{urn:iso:std:iso:14812:3.3.1.13,traffic lane,Traffic lane}}, {{urn:iso:std:iso:14812:3.3.3.1,cycle
+      lane}}, {{urn:iso:std:iso:14812:3.3.3.4,sidewalk}}."
+  notes:
+  - content: "{{urn:iso:std:iso:14812:3.3.1.13,lane,Lanes}} are often bounded by lane
+      markings."
+  - content: Lanes may be significantly wider than the normal vehicle width to allow
+      variance in lane position of the vehicle as well as for various vehicle dimensions.
+  - content: The "lane" nomenclature typically refers to {{urn:iso:std:iso:14812:3.7.6.3,motor
+      vehicle}} usage, but can also refer to other purposes, such as {{urn:iso:std:iso:14812:3.3.3.4,sidewalk,sidewalks}}.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.3.1.12
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lane
+  - type: expression
+    normative_status: preferred
+    designation: generic lane
+  domain: generic
+  language_code: eng
+  entry_status: valid
+id: '0855f676-3bd3-5e38-8a47-973ca6b432dc'

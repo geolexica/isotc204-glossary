@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 3.7.5.10
+  localized_concepts:
+    eng: 8ce5f325-4e98-5227-8ad7-c71767bd3cb4
+id: c1765137-9c6a-517f-b7af-7f124577e220
+
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.7.2.1,speed}} of a {{urn:iso:std:iso:14812:3.7.1.1,vehicle}}
+      that exceeds {{urn:iso:std:iso:14812:3.7.5.9,moderately-low vehicle speed,moderately-low
+      vehicle speeds}} but does not reach free-flow motorway speeds"
+  examples:
+  - content: A speed in the range of 48 km/h and 87 km/h.
+  notes:
+  - content: Local regulations for the exact speed range vary.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.7.5.10
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: moderate vehicle speed
+  language_code: eng
+  entry_status: valid
+id: 8ce5f325-4e98-5227-8ad7-c71767bd3cb4

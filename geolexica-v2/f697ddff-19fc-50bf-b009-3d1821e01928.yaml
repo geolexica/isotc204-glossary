@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 3.3.5.7
+  localized_concepts:
+    eng: a323a5a4-acb1-541c-ba60-29f5e038f174
+id: f697ddff-19fc-50bf-b009-3d1821e01928
+
+---
+data:
+  definition:
+  - content: aggregation of one or more {{urn:iso:std:iso:14812:3.3.5.6,road link,road
+      links}} that represents a contiguous length of a {{urn:iso:std:iso:14812:3.3.5.1,road}}
+      that shares the same management and operational strategies
+  examples:
+  - content: A traffic signal timing plan is applied to one road section.
+  notes:
+  - content: Different {{urn:iso:std:iso:14812:3.3.5.3,road model,road models}} can
+      divide the same road into different road sections.
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.3.5.7
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: road section
+  language_code: eng
+  entry_status: valid
+id: a323a5a4-acb1-541c-ba60-29f5e038f174

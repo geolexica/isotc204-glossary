@@ -1,0 +1,28 @@
+---
+data:
+  identifier: 3.1.13.1
+  localized_concepts:
+    eng: 6a516222-c331-5871-8e24-a250ece68cff
+id: 3584e0aa-f409-5631-ae25-1903dd042c67
+
+---
+data:
+  definition:
+  - content: 0-dimensional geometric primitive representing position in time
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.1.13.1
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instant
+  language_code: eng
+  entry_status: valid
+id: 6a516222-c331-5871-8e24-a250ece68cff
