@@ -7,8 +7,8 @@ eng:
     normative_status: preferred
     designation: traffic management central system
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.2.1.1,central system,centre system}} that
-      monitors and controls traffic and the {{urn:iso:std:iso:14812:3.3.5.2,road network}}"
+  - content: "{{<<urn:iso:std:iso:14812:3.2.1.1>>,central system,centre system}} that
+      monitors and controls traffic and the {{<<urn:iso:std:iso:14812:3.3.5.2>>,road network}}"
   notes: []
   examples: []
   language_code: eng

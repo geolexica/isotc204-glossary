@@ -10,7 +10,7 @@ eng:
     normative_status: preferred
     designation: ITS application template
   definition:
-  - content: defined annotated outline for an {{urn:iso:std:iso:14812:3.2.8.3,ITS
+  - content: defined annotated outline for an {{<<urn:iso:std:iso:14812:3.2.8.3>>,ITS
       application specification}}
   notes: []
   examples: []

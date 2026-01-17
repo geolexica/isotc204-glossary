@@ -7,8 +7,8 @@ eng:
     normative_status: preferred
     designation: ultra-low vehicle speed
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.7.2.1,speed}} of a {{urn:iso:std:iso:14812:3.7.1.1,vehicle}}
-      that does not greatly exceed typical {{urn:iso:std:iso:14812:3.6.1.3,pedestrian}}
+  - content: "{{<<urn:iso:std:iso:14812:3.7.2.1>>,speed}} of a {{<<urn:iso:std:iso:14812:3.7.1.1>>,vehicle}}
+      that does not greatly exceed typical {{<<urn:iso:std:iso:14812:3.6.1.3>>,pedestrian}}
       speeds"
   notes:
   - content: Local regulations for the exact speed range vary.

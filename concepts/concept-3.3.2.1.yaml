@@ -7,7 +7,7 @@ eng:
     normative_status: preferred
     designation: physical traffic separator
   definition:
-  - content: mechanism used to physically separate {{urn:iso:std:iso:14812:3.3.1.5,carriageway,carriageways}}
+  - content: mechanism used to physically separate {{<<urn:iso:std:iso:14812:3.3.1.5>>,carriageway,carriageways}}
   notes:
   - content: Mechanisms include various types of barriers, such as walls, rails, pylons,
       kerbs and ditches, as well as open, unpaved space. If two streams of traffic

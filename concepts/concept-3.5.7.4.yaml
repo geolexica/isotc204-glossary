@@ -7,11 +7,11 @@ eng:
     normative_status: preferred
     designation: government customer model
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.5.7.1,contractual model}} where the {{urn:iso:std:iso:14812:3.5.3.4,user}}
-      is a governmental {{urn:iso:std:iso:14812:3.1.1.1,entity}}"
+  - content: "{{<<urn:iso:std:iso:14812:3.5.7.1>>,contractual model}} where the {{<<urn:iso:std:iso:14812:3.5.3.4>>,user}}
+      is a governmental {{<<urn:iso:std:iso:14812:3.1.1.1>>,entity}}"
   notes: []
   examples:
-  - content: A governmental entity using a {{urn:iso:std:iso:14812:3.5.8.2,commercial}}
+  - content: A governmental entity using a {{<<urn:iso:std:iso:14812:3.5.8.2>>,commercial}}
       courier service for package delivery.
   language_code: eng
   entry_status: valid

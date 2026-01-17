@@ -7,8 +7,8 @@ eng:
     normative_status: preferred
     designation: high-speed vehicle
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.7.1.1,vehicle}} with a {{urn:iso:std:iso:14812:3.7.2.2,design
-      speed}} in the range of {{urn:iso:std:iso:14812:3.7.5.12,high vehicle speed,high
+  - content: "{{<<urn:iso:std:iso:14812:3.7.1.1>>,vehicle}} with a {{<<urn:iso:std:iso:14812:3.7.2.2>>,design
+      speed}} in the range of {{<<urn:iso:std:iso:14812:3.7.5.12>>,high vehicle speed,high
       vehicle speeds}}"
   notes: []
   examples:

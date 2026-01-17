@@ -7,8 +7,8 @@ eng:
     normative_status: preferred
     designation: public transport app
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.5.13.1,mobility app}} that assists a {{urn:iso:std:iso:14812:3.5.2.3,transport
-      user}} in using a {{urn:iso:std:iso:14812:3.5.6.1,public transport}} {{urn:iso:std:iso:14812:3.1.2.1,system}}"
+  - content: "{{<<urn:iso:std:iso:14812:3.5.13.1>>,mobility app}} that assists a {{<<urn:iso:std:iso:14812:3.5.2.3>>,transport
+      user}} in using a {{<<urn:iso:std:iso:14812:3.5.6.1>>,public transport}} {{<<urn:iso:std:iso:14812:3.1.2.1>>,system}}"
   notes:
   - content: A public transport app can include features such as viewing maps, searching
       routes and schedules, real-time arrival information, ticketing, electronic boarding

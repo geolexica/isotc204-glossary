@@ -11,9 +11,9 @@ eng:
     designation: communication need
   domain: ITS-S
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.5.1.4,user need,need}} for communication functionality
-      that connects an {{urn:iso:std:iso:14812:3.2.7.3,ITS station,ITS-S}} to other
-      {{urn:iso:std:iso:14812:3.3.5.4,node,nodes}}"
+  - content: "{{<<urn:iso:std:iso:14812:3.5.1.4>>,user need,need}} for communication functionality
+      that connects an {{<<urn:iso:std:iso:14812:3.2.7.3>>,ITS station,ITS-S}} to other
+      {{<<urn:iso:std:iso:14812:3.3.5.4>>,node,nodes}}"
   notes: []
   examples: []
   language_code: eng

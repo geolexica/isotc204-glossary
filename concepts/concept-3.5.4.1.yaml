@@ -11,8 +11,8 @@ eng:
     designation: service
   domain: ITS-S
   definition:
-  - content: performance of one or more tasks to fulfil an {{urn:iso:std:iso:14812:3.5.4.4,ITS-S
-      user need}} for an {{urn:iso:std:iso:14812:3.5.4.3,ITS-S user}}
+  - content: performance of one or more tasks to fulfil an {{<<urn:iso:std:iso:14812:3.5.4.4>>,ITS-S
+      user need}} for an {{<<urn:iso:std:iso:14812:3.5.4.3>>,ITS-S user}}
   notes: []
   examples: []
   language_code: eng

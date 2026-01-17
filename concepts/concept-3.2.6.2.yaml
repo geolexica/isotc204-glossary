@@ -16,9 +16,9 @@ eng:
     normative_status: admitted
     designation: onboard unit
   definition:
-  - content: part of {{urn:iso:std:iso:14812:3.2.6.1,ITS on-board equipment,on-board
-      equipment}} that provides wireless connectivity to other {{urn:iso:std:iso:14812:3.1.8.2,ITS
-      component,ITS components}} external to the {{urn:iso:std:iso:14812:3.7.1.1,vehicle}}
+  - content: part of {{<<urn:iso:std:iso:14812:3.2.6.1>>,ITS on-board equipment,on-board
+      equipment}} that provides wireless connectivity to other {{<<urn:iso:std:iso:14812:3.1.8.2>>,ITS
+      component,ITS components}} external to the {{<<urn:iso:std:iso:14812:3.7.1.1>>,vehicle}}
   notes:
   - content: An OBU implementation can also include ITS functionality.
   examples: []

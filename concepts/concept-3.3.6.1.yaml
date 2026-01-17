@@ -7,14 +7,14 @@ eng:
     normative_status: preferred
     designation: intersection
   definition:
-  - content: space where two or more {{urn:iso:std:iso:14812:3.3.5.1,road,roads}}
+  - content: space where two or more {{<<urn:iso:std:iso:14812:3.3.5.1>>,road,roads}}
       meet or cross
   notes:
-  - content: Intersections can be associated with zero {{urn:iso:std:iso:14812:3.3.6.2,junction,junctions}},
+  - content: Intersections can be associated with zero {{<<urn:iso:std:iso:14812:3.3.6.2>>,junction,junctions}},
       such as a motorway crossing a road without any connecting ramps, or can be associated
-      with one or more junctions, such as a diamond {{urn:iso:std:iso:14812:3.3.6.9,interchange}}.
+      with one or more junctions, such as a diamond {{<<urn:iso:std:iso:14812:3.3.6.9>>,interchange}}.
   - content: Complex intersections can be viewed as multiple intersections by providing
-      separate designations for distinct {{urn:iso:std:iso:14812:3.3.5.6,road link,road
+      separate designations for distinct {{<<urn:iso:std:iso:14812:3.3.5.6>>,road link,road
       links}}. For example, one model could depict a complex intersection as being
       associated with multiple junctions; another model could depict the same physical
       infrastructure as being multiple intersections that are interconnected by different

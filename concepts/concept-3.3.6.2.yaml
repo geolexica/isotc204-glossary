@@ -7,8 +7,8 @@ eng:
     normative_status: preferred
     designation: junction
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.3.6.1,intersection}} that allows {{urn:iso:std:iso:14812:3.6.1.1,traveller,travellers}}
-      to change {{urn:iso:std:iso:14812:3.3.5.1,road,roads}}"
+  - content: "{{<<urn:iso:std:iso:14812:3.3.6.1>>,intersection}} that allows {{<<urn:iso:std:iso:14812:3.6.1.1>>,traveller,travellers}}
+      to change {{<<urn:iso:std:iso:14812:3.3.5.1>>,road,roads}}"
   notes: []
   examples: []
   language_code: eng

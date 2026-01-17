@@ -7,8 +7,8 @@ eng:
     normative_status: preferred
     designation: payment administration central system
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.2.1.1,central system,centre system}} that
-      allows an {{urn:iso:std:iso:14812:3.1.1.1,entity}} to manage financial transactions
+  - content: "{{<<urn:iso:std:iso:14812:3.2.1.1>>,central system,centre system}} that
+      allows an {{<<urn:iso:std:iso:14812:3.1.1.1>>,entity}} to manage financial transactions
       related to transportation, especially the electronic transfer of funds"
   notes: []
   examples: []

@@ -7,23 +7,23 @@ eng:
     normative_status: preferred
     designation: roadway
   definition:
-  - content: part of the surface of the {{urn:iso:std:iso:14812:3.3.1.2,road reservation}}
-      primarily designed for the movement of {{urn:iso:std:iso:14812:3.7.1.1,vehicle,vehicles}}
+  - content: part of the surface of the {{<<urn:iso:std:iso:14812:3.3.1.2>>,road reservation}}
+      primarily designed for the movement of {{<<urn:iso:std:iso:14812:3.7.1.1>>,vehicle,vehicles}}
       that conform to a specified set of requirements
   notes:
-  - content: A roadway is characterized using a {{urn:iso:std:iso:14812:3.3.1.1,cross-section}}
+  - content: A roadway is characterized using a {{<<urn:iso:std:iso:14812:3.3.1.1>>,cross-section}}
       of a road facility as the roadway characteristics often change along the length
-      of the road. See "{{urn:iso:std:iso:14812:3.3.5.1,road}}", "{{urn:iso:std:iso:14812:3.3.5.7,road
-      section}}", "{{urn:iso:std:iso:14812:3.3.5.8,road segment}}", and "{{urn:iso:std:iso:14812:3.3.5.6,road
+      of the road. See "{{<<urn:iso:std:iso:14812:3.3.5.1>>,road}}", "{{<<urn:iso:std:iso:14812:3.3.5.7>>,road
+      section}}", "{{<<urn:iso:std:iso:14812:3.3.5.8>>,road segment}}", and "{{<<urn:iso:std:iso:14812:3.3.5.6>>,road
       link,road links}}" for different types of stretches of roadway.
   - content: In practice, the roadway design considers a variety of issues, which
       can result in suboptimal road segments that violate normal design guidelines.
-      Such {{urn:iso:std:iso:14812:3.4.1.1,location,locations}} are typically posted
+      Such {{<<urn:iso:std:iso:14812:3.4.1.1>>,location,locations}} are typically posted
       with warning signs, but they are still designed for the movement of vehicles.
   - content: While the roadway is designed with certain vehicle characteristics in
       mind, local regulations typically allow a wider set of vehicles to use the roadway.
-  - content: The roadway includes any contiguous {{urn:iso:std:iso:14812:3.3.1.19,hard
-      shoulder}}, {{urn:iso:std:iso:14812:3.3.1.17,hardstanding}} and {{urn:iso:std:iso:14812:3.3.1.14,reserved
+  - content: The roadway includes any contiguous {{<<urn:iso:std:iso:14812:3.3.1.19>>,hard
+      shoulder}}, {{<<urn:iso:std:iso:14812:3.3.1.17>>,hardstanding}} and {{<<urn:iso:std:iso:14812:3.3.1.14>>,reserved
       lane,reserved lanes}}.
   examples: []
   language_code: eng

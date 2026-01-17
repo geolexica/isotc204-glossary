@@ -7,8 +7,8 @@ eng:
     normative_status: preferred
     designation: data flow
   definition:
-  - content: representation of data flowing between two {{urn:iso:std:iso:14812:3.1.7.2,process,processes}}
-      or between a process and a {{urn:iso:std:iso:14812:3.1.8.3,terminator}}
+  - content: representation of data flowing between two {{<<urn:iso:std:iso:14812:3.1.7.2>>,process,processes}}
+      or between a process and a {{<<urn:iso:std:iso:14812:3.1.8.3>>,terminator}}
   notes: []
   examples: []
   language_code: eng

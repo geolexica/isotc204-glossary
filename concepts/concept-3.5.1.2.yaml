@@ -7,7 +7,7 @@ eng:
     normative_status: preferred
     designation: service provider
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.1.1.1,entity}} that delivers one or more {{urn:iso:std:iso:14812:3.5.2.1,service,services}}"
+  - content: "{{<<urn:iso:std:iso:14812:3.1.1.1>>,entity}} that delivers one or more {{<<urn:iso:std:iso:14812:3.5.2.1>>,service,services}}"
   notes: []
   examples: []
   language_code: eng

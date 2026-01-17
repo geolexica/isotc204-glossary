@@ -7,11 +7,11 @@ eng:
     normative_status: preferred
     designation: data concept registry
   definition:
-  - content: electronic {{urn:iso:std:iso:14812:3.1.10.3,data dictionary}} that follows
-      precise documented rules for the registration and management of stored {{urn:iso:std:iso:14812:3.1.10.1,data
+  - content: electronic {{<<urn:iso:std:iso:14812:3.1.10.3>>,data dictionary}} that follows
+      precise documented rules for the registration and management of stored {{<<urn:iso:std:iso:14812:3.1.10.1>>,data
       concept,data concepts}}
   notes:
-  - content: The data concept registry contains {{urn:iso:std:iso:14812:3.1.10.2,meta-attribute,meta-attributes}}
+  - content: The data concept registry contains {{<<urn:iso:std:iso:14812:3.1.10.2>>,meta-attribute,meta-attributes}}
       about data concepts in terms of their names and representational forms as well
       as the semantics associated with the data concepts. A data concept registry
       may contain metadata that assists information interchange and re-use, both from

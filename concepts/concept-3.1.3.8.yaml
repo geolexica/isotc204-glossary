@@ -9,8 +9,8 @@ eng:
   definition:
   - content: conventions for a type of modelling
   notes:
-  - content: Examples of model kinds include {{urn:iso:std:iso:14812:3.1.7.1,data
-      flow}} diagrams, {{urn:iso:std:iso:14812:3.1.11.2,class}} diagrams, Petri nets,
+  - content: Examples of model kinds include {{<<urn:iso:std:iso:14812:3.1.7.1>>,data
+      flow}} diagrams, {{<<urn:iso:std:iso:14812:3.1.11.2>>,class}} diagrams, Petri nets,
       balance sheets, organization charts and state transition models.
   examples: []
   language_code: eng

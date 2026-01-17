@@ -10,8 +10,8 @@ eng:
     normative_status: preferred
     designation: ITS map provision system
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.2.1.4,support system}} that provides map databases
-      used to support {{urn:iso:std:iso:14812:3.5.3.1,ITS service,ITS services}}"
+  - content: "{{<<urn:iso:std:iso:14812:3.2.1.4>>,support system}} that provides map databases
+      used to support {{<<urn:iso:std:iso:14812:3.5.3.1>>,ITS service,ITS services}}"
   notes: []
   examples: []
   language_code: eng

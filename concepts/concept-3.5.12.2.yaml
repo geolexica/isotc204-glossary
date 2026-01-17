@@ -10,8 +10,8 @@ eng:
     normative_status: admitted
     designation: passenger car sharing service
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.5.6.3,shared vehicle service}} that shares
-      {{urn:iso:std:iso:14812:3.6.2.1,passenger}} cars"
+  - content: "{{<<urn:iso:std:iso:14812:3.5.6.3>>,shared vehicle service}} that shares
+      {{<<urn:iso:std:iso:14812:3.6.2.1>>,passenger}} cars"
   notes:
   - content: The term "passenger car sharing service" is admitted but has the same
       meaning.

@@ -10,7 +10,7 @@ eng:
     normative_status: preferred
     designation: ITS module
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.1.8.6,functional object}} that can be replaced
+  - content: "{{<<urn:iso:std:iso:14812:3.1.8.6>>,functional object}} that can be replaced
       and has defined interfaces"
   notes: []
   examples: []

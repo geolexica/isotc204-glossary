@@ -13,7 +13,7 @@ eng:
     normative_status: preferred
     designation: ITS-SU
   definition:
-  - content: instantiation of an {{urn:iso:std:iso:14812:3.2.7.3,ITS station}}
+  - content: instantiation of an {{<<urn:iso:std:iso:14812:3.2.7.3>>,ITS station}}
   notes: []
   examples: []
   language_code: eng

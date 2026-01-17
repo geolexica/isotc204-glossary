@@ -7,8 +7,8 @@ eng:
     normative_status: preferred
     designation: ridesourcing app
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.5.13.4,P2P mobility sharing app}} for acquiring
-      a {{urn:iso:std:iso:14812:3.5.11.5,ridesourced service}}"
+  - content: "{{<<urn:iso:std:iso:14812:3.5.13.4>>,P2P mobility sharing app}} for acquiring
+      a {{<<urn:iso:std:iso:14812:3.5.11.5>>,ridesourced service}}"
   notes: []
   examples: []
   language_code: eng

@@ -10,9 +10,9 @@ eng:
     normative_status: preferred
     designation: ITS functional object
   definition:
-  - content: set of related {{urn:iso:std:iso:14812:3.1.7.2,process,processes}} that
-      are performed by a {{urn:iso:std:iso:14812:3.1.8.1,physical object}} to fulfil
-      aspects of an {{urn:iso:std:iso:14812:3.5.3.1,ITS service}}
+  - content: set of related {{<<urn:iso:std:iso:14812:3.1.7.2>>,process,processes}} that
+      are performed by a {{<<urn:iso:std:iso:14812:3.1.8.1>>,physical object}} to fulfil
+      aspects of an {{<<urn:iso:std:iso:14812:3.5.3.1>>,ITS service}}
   notes:
   - content: The term "module" is used by the European FRAME architecture while the
       Architecture Reference for Cooperative and Intelligent Transportation (ARC-IT)

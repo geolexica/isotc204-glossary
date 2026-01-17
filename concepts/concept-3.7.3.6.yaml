@@ -7,8 +7,8 @@ eng:
     normative_status: preferred
     designation: driving automation system
   definition:
-  - content: hardware and software {{urn:iso:std:iso:14812:3.1.2.1,system}} that is
-      able to perform part or all of the {{urn:iso:std:iso:14812:3.7.3.1,dynamic driving
+  - content: hardware and software {{<<urn:iso:std:iso:14812:3.1.2.1>>,system}} that is
+      able to perform part or all of the {{<<urn:iso:std:iso:14812:3.7.3.1>>,dynamic driving
       task,DDT}} on a sustained basis
   notes:
   - content: In contrast to this generic term for any level 1-5 system, the specific
@@ -21,10 +21,10 @@ eng:
       driving automation.
   - content: Driving automation levels are defined in <<ISO_SAE_22736>>, which is
       also known as <<SAE_J3016,SAE J3016>>.
-  - content: Driving automation levels include "{{urn:iso:std:iso:14812:3.7.3.8,level
-      1 driving automation}}", "{{urn:iso:std:iso:14812:3.7.3.9,level 2 driving automation}}",
-      "{{urn:iso:std:iso:14812:3.7.3.11,level 3 ADS}}", "{{urn:iso:std:iso:14812:3.7.3.12,level
-      4 ADS}}" and "{{urn:iso:std:iso:14812:3.7.3.13,level 5 ADS}}".
+  - content: Driving automation levels include "{{<<urn:iso:std:iso:14812:3.7.3.8>>,level
+      1 driving automation}}", "{{<<urn:iso:std:iso:14812:3.7.3.9>>,level 2 driving automation}}",
+      "{{<<urn:iso:std:iso:14812:3.7.3.11>>,level 3 ADS}}", "{{<<urn:iso:std:iso:14812:3.7.3.12>>,level
+      4 ADS}}" and "{{<<urn:iso:std:iso:14812:3.7.3.13>>,level 5 ADS}}".
   examples: []
   language_code: eng
   entry_status: valid

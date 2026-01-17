@@ -7,7 +7,7 @@ eng:
     normative_status: preferred
     designation: duration
   definition:
-  - content: time between two {{urn:iso:std:iso:14812:3.1.13.1,instant,instants}}
+  - content: time between two {{<<urn:iso:std:iso:14812:3.1.13.1>>,instant,instants}}
   notes: []
   examples: []
   language_code: eng

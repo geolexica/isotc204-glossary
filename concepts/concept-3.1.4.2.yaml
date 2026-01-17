@@ -7,8 +7,8 @@ eng:
     normative_status: preferred
     designation: communications viewpoint
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.1.3.6,architecture viewpoint}} used to frame
-      {{urn:iso:std:iso:14812:3.1.3.5,concern,concerns}} related to all layers of
+  - content: "{{<<urn:iso:std:iso:14812:3.1.3.6>>,architecture viewpoint}} used to frame
+      {{<<urn:iso:std:iso:14812:3.1.3.5>>,concern,concerns}} related to all layers of
       the Open Systems Interconnection (OSI) stack and related management and security
       issues"
   notes: []

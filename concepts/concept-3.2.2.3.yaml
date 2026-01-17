@@ -7,9 +7,9 @@ eng:
     normative_status: preferred
     designation: maintenance and construction central management system
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.2.1.1,central system,centre system}} that
-      allows an {{urn:iso:std:iso:14812:3.1.1.1,entity}} to monitor and manage the
-      construction and maintenance of {{urn:iso:std:iso:14812:3.3.5.1,road}} infrastructure"
+  - content: "{{<<urn:iso:std:iso:14812:3.2.1.1>>,central system,centre system}} that
+      allows an {{<<urn:iso:std:iso:14812:3.1.1.1>>,entity}} to monitor and manage the
+      construction and maintenance of {{<<urn:iso:std:iso:14812:3.3.5.1>>,road}} infrastructure"
   notes: []
   examples: []
   language_code: eng

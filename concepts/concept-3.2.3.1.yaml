@@ -10,7 +10,7 @@ eng:
     normative_status: preferred
     designation: ITS field support equipment
   definition:
-  - content: portable {{urn:iso:std:iso:14812:3.2.1.2,field system}} used by field
+  - content: portable {{<<urn:iso:std:iso:14812:3.2.1.2>>,field system}} used by field
       personnel to locally troubleshoot, initialize, reprogram and test infrastructure
       equipment
   notes: []

@@ -10,11 +10,11 @@ eng:
     normative_status: preferred
     designation: consumer
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.1.1.1,entity}} that has a {{urn:iso:std:iso:14812:3.5.1.4,user
+  - content: "{{<<urn:iso:std:iso:14812:3.1.1.1>>,entity}} that has a {{<<urn:iso:std:iso:14812:3.5.1.4>>,user
       need,need}} to be fulfilled"
   notes:
   - content: The term "consumer" can be used when fulfilling the need results in the
-      consumption of a {{urn:iso:std:iso:14812:3.1.6.2,resource}}.
+      consumption of a {{<<urn:iso:std:iso:14812:3.1.6.2>>,resource}}.
   examples: []
   language_code: eng
   entry_status: valid

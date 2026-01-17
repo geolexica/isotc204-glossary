@@ -15,7 +15,7 @@ eng:
       a goal
   notes:
   - content: A function transforms inputs into outputs that may include the creation,
-      modification, monitoring or destruction of {{urn:iso:std:iso:14812:3.1.3.10,element,elements}}.
+      modification, monitoring or destruction of {{<<urn:iso:std:iso:14812:3.1.3.10>>,element,elements}}.
   examples: []
   language_code: eng
   entry_status: valid

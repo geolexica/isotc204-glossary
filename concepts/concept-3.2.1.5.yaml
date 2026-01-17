@@ -10,8 +10,8 @@ eng:
     normative_status: preferred
     designation: ITS vehicle system
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.1.8.2,ITS component}} that is installed as
-      a component of a {{urn:iso:std:iso:14812:3.7.1.1,vehicle}}"
+  - content: "{{<<urn:iso:std:iso:14812:3.1.8.2>>,ITS component}} that is installed as
+      a component of a {{<<urn:iso:std:iso:14812:3.7.1.1>>,vehicle}}"
   notes: []
   examples: []
   language_code: eng

@@ -13,17 +13,17 @@ eng:
     normative_status: preferred
     designation: level 3 Automated Driving System
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.7.3.10,ADS}} designed with the expectation
-      that the {{urn:iso:std:iso:14812:3.7.3.4,fallback-ready user}} is available
+  - content: "{{<<urn:iso:std:iso:14812:3.7.3.10>>,ADS}} designed with the expectation
+      that the {{<<urn:iso:std:iso:14812:3.7.3.4>>,fallback-ready user}} is available
       to intervene"
   notes:
-  - content: Level 3 ADSs are restricted to operating within a specific {{urn:iso:std:iso:14812:3.7.3.2,operational
+  - content: Level 3 ADSs are restricted to operating within a specific {{<<urn:iso:std:iso:14812:3.7.3.2>>,operational
       design domain,ODD}}.
-  - content: Other driving automation levels include "{{urn:iso:std:iso:14812:3.7.3.8,level
-      1 driving automation}}", "{{urn:iso:std:iso:14812:3.7.3.9,level 2 driving automation}}",
-      "{{urn:iso:std:iso:14812:3.7.3.12,level 4 ADS}}", and "{{urn:iso:std:iso:14812:3.7.3.13,level
+  - content: Other driving automation levels include "{{<<urn:iso:std:iso:14812:3.7.3.8>>,level
+      1 driving automation}}", "{{<<urn:iso:std:iso:14812:3.7.3.9>>,level 2 driving automation}}",
+      "{{<<urn:iso:std:iso:14812:3.7.3.12>>,level 4 ADS}}", and "{{<<urn:iso:std:iso:14812:3.7.3.13>>,level
       5 ADS}}".
-  - content: The user can intervene due to an ADS-issued request, a {{urn:iso:std:iso:14812:3.7.3.1,dynamic
+  - content: The user can intervene due to an ADS-issued request, a {{<<urn:iso:std:iso:14812:3.7.3.1>>,dynamic
       driving task,DDT}} performance-relevant system failure, or other reasons.
   examples: []
   language_code: eng

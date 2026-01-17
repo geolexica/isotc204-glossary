@@ -7,8 +7,8 @@ eng:
     normative_status: preferred
     designation: moderate vehicle speed
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.7.2.1,speed}} of a {{urn:iso:std:iso:14812:3.7.1.1,vehicle}}
-      that exceeds {{urn:iso:std:iso:14812:3.7.5.9,moderately-low vehicle speed,moderately-low
+  - content: "{{<<urn:iso:std:iso:14812:3.7.2.1>>,speed}} of a {{<<urn:iso:std:iso:14812:3.7.1.1>>,vehicle}}
+      that exceeds {{<<urn:iso:std:iso:14812:3.7.5.9>>,moderately-low vehicle speed,moderately-low
       vehicle speeds}} but does not reach free-flow motorway speeds"
   notes:
   - content: Local regulations for the exact speed range vary.

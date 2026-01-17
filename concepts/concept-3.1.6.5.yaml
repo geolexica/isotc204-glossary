@@ -11,13 +11,13 @@ eng:
     designation: enterprise view formal coordination
   domain: enterprise view
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.1.6.4,interaction}} between two {{urn:iso:std:iso:14812:3.1.6.1,enterprise
+  - content: "{{<<urn:iso:std:iso:14812:3.1.6.4>>,interaction}} between two {{<<urn:iso:std:iso:14812:3.1.6.1>>,enterprise
       object,enterprise objects}} governed by a documented agreement"
   notes: []
   examples:
   - content: A road operator can enter into formal agreement(s) with the owner of
-      a {{urn:iso:std:iso:14812:3.3.5.1,road}} and the owner(s) of the associated
-      {{urn:iso:std:iso:14812:3.3.1.10,roadside}} equipment.
+      a {{<<urn:iso:std:iso:14812:3.3.5.1>>,road}} and the owner(s) of the associated
+      {{<<urn:iso:std:iso:14812:3.3.1.10>>,roadside}} equipment.
   language_code: eng
   entry_status: valid
   sources:

@@ -7,7 +7,7 @@ eng:
     normative_status: preferred
     designation: ITS trust domain
   definition:
-  - content: set of {{urn:iso:std:iso:14812:3.2.7.1,bounded secured managed domain,bounded
+  - content: set of {{<<urn:iso:std:iso:14812:3.2.7.1>>,bounded secured managed domain,bounded
       secured managed domains}} that meet a defined set of ITS industry security requirements
   notes: []
   examples: []

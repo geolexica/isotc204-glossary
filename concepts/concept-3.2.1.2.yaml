@@ -13,11 +13,11 @@ eng:
     normative_status: preferred
     designation: roadside system
   definition:
-  - content: infrastructure-based {{urn:iso:std:iso:14812:3.1.8.2,ITS component}}
+  - content: infrastructure-based {{<<urn:iso:std:iso:14812:3.1.8.2>>,ITS component}}
       located outside of a data centre that is designed to provide local processing
       or routing services while stationary
   notes:
-  - content: Typically, field systems are located along the {{urn:iso:std:iso:14812:3.3.1.10,roadside}}.
+  - content: Typically, field systems are located along the {{<<urn:iso:std:iso:14812:3.3.1.10>>,roadside}}.
   - content: Typically, the operation of a field system is governed by management
       functions running in a centre system.
   - content: Field systems can be permanently installed or transportable.

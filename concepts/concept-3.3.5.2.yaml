@@ -7,7 +7,7 @@ eng:
     normative_status: preferred
     designation: road network
   definition:
-  - content: interconnected collection of {{urn:iso:std:iso:14812:3.3.5.1,road,roads}}
+  - content: interconnected collection of {{<<urn:iso:std:iso:14812:3.3.5.1>>,road,roads}}
   notes: []
   examples: []
   language_code: eng

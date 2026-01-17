@@ -10,9 +10,9 @@ eng:
     normative_status: preferred
     designation: remote input device
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.7.1.4,vehicle input device,input device}}
-      designed to be electronically {{urn:iso:std:iso:14812:3.2.3.6,connected}} to
-      a {{urn:iso:std:iso:14812:3.7.1.1,vehicle}} even when the vehicle is not in
+  - content: "{{<<urn:iso:std:iso:14812:3.7.1.4>>,vehicle input device,input device}}
+      designed to be electronically {{<<urn:iso:std:iso:14812:3.2.3.6>>,connected}} to
+      a {{<<urn:iso:std:iso:14812:3.7.1.1>>,vehicle}} even when the vehicle is not in
       close proximity"
   notes: []
   examples: []

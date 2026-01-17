@@ -14,8 +14,8 @@ eng:
     designation: need
   domain: ITS-S
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.5.1.4,user need,need}} for processing within
-      a {{urn:iso:std:iso:14812:3.2.7.1,bounded secured managed domain,bounded, secure,
+  - content: "{{<<urn:iso:std:iso:14812:3.5.1.4>>,user need,need}} for processing within
+      a {{<<urn:iso:std:iso:14812:3.2.7.1>>,bounded secured managed domain,bounded, secure,
       managed domain}}"
   notes: []
   examples: []

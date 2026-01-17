@@ -7,8 +7,8 @@ eng:
     normative_status: preferred
     designation: ingress lane
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.3.1.13,traffic lane}} designed for entering
-      a {{urn:iso:std:iso:14812:3.3.6.2,junction}}"
+  - content: "{{<<urn:iso:std:iso:14812:3.3.1.13>>,traffic lane}} designed for entering
+      a {{<<urn:iso:std:iso:14812:3.3.6.2>>,junction}}"
   notes: []
   examples: []
   language_code: eng

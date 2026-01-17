@@ -16,14 +16,14 @@ eng:
     normative_status: admitted
     designation: undivided highway
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.3.1.3,roadway}} comprised of exactly one {{urn:iso:std:iso:14812:3.3.1.5,carriageway}}"
+  - content: "{{<<urn:iso:std:iso:14812:3.3.1.3>>,roadway}} comprised of exactly one {{<<urn:iso:std:iso:14812:3.3.1.5>>,carriageway}}"
   notes:
   - content: The World Road Association (PIARC) term is "single carriageway road"
       and is recognized as a preferred term. As per the definitions provided in this
       document, "single carriageway road segment" is more accurate and is the most
       preferred term. The term "single carriageway" by itself is not preferred but
       admitted.
-  - content: A single carriageway road segment could have multiple {{urn:iso:std:iso:14812:3.3.1.13,lane,lanes}}
+  - content: A single carriageway road segment could have multiple {{<<urn:iso:std:iso:14812:3.3.1.13>>,lane,lanes}}
       and could allow travel in opposite directions
   - content: The term "undivided highway" is the equivalent American English term.
   examples: []

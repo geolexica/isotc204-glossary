@@ -7,9 +7,9 @@ eng:
     normative_status: preferred
     designation: transport system
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.1.2.1,system}} of infrastructure {{urn:iso:std:iso:14812:3.1.3.10,element,elements}}
-      and optionally {{urn:iso:std:iso:14812:3.7.1.1,vehicle,vehicles}} that are jointly
-      designed to move {{urn:iso:std:iso:14812:3.1.1.3,material entity,material entities}}
+  - content: "{{<<urn:iso:std:iso:14812:3.1.2.1>>,system}} of infrastructure {{<<urn:iso:std:iso:14812:3.1.3.10>>,element,elements}}
+      and optionally {{<<urn:iso:std:iso:14812:3.7.1.1>>,vehicle,vehicles}} that are jointly
+      designed to move {{<<urn:iso:std:iso:14812:3.1.1.3>>,material entity,material entities}}
       from an origin to a destination"
   notes:
   - content: Transport systems can also include any supporting system, such as information

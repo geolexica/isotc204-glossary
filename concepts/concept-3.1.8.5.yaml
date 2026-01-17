@@ -10,7 +10,7 @@ eng:
     normative_status: admitted
     designation: information flow triple
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.1.8.4,information flow}} from a {{urn:iso:std:iso:14812:3.1.8.1,physical
+  - content: "{{<<urn:iso:std:iso:14812:3.1.8.4>>,information flow}} from a {{<<urn:iso:std:iso:14812:3.1.8.1>>,physical
       object}} acting as an information provider and sent to another physical object
       acting as an information consumer"
   notes:

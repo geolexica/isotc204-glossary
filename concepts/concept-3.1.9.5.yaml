@@ -7,10 +7,10 @@ eng:
     normative_status: preferred
     designation: ITS reference architecture
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.1.9.1,reference architecture}} for one or
-      more {{urn:iso:std:iso:14812:3.5.3.1,ITS service,ITS services}}"
+  - content: "{{<<urn:iso:std:iso:14812:3.1.9.1>>,reference architecture}} for one or
+      more {{<<urn:iso:std:iso:14812:3.5.3.1>>,ITS service,ITS services}}"
   notes:
-  - content: An ITS architecture can be a reference, planning or {{urn:iso:std:iso:14812:3.1.9.3,deployment
+  - content: An ITS architecture can be a reference, planning or {{<<urn:iso:std:iso:14812:3.1.9.3>>,deployment
       architecture}}.
   - content: The Harmonised Architecture Reference for Technical Standards (HARTS;
       http://htg7.org[see] Reference <<ref_26>>) is an example of an ITS reference

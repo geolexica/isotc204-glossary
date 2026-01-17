@@ -14,7 +14,7 @@ eng:
     designation: networking and transport layer
   domain: ITS-S
   definition:
-  - content: protocol layer in the {{urn:iso:std:iso:14812:3.1.9.4,ITS-S reference
+  - content: protocol layer in the {{<<urn:iso:std:iso:14812:3.1.9.4>>,ITS-S reference
       architecture,ITS station reference architecture}} containing the OSI network
       and transport layer protocols
   notes:

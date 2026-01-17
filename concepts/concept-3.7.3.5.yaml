@@ -7,9 +7,9 @@ eng:
     normative_status: preferred
     designation: DDT performance-relevant system failure
   definition:
-  - content: malfunction in a {{urn:iso:std:iso:14812:3.2.1.5,vehicle system}} that
-      prevents the {{urn:iso:std:iso:14812:3.7.3.6,driving automation system}} from
-      reliably performing its portion of the {{urn:iso:std:iso:14812:3.7.3.1,dynamic
+  - content: malfunction in a {{<<urn:iso:std:iso:14812:3.2.1.5>>,vehicle system}} that
+      prevents the {{<<urn:iso:std:iso:14812:3.7.3.6>>,driving automation system}} from
+      reliably performing its portion of the {{<<urn:iso:std:iso:14812:3.7.3.1>>,dynamic
       driving task,DDT}} on a sustained basis
   notes:
   - content: The malfunction can be internal to the driving automation system or part

@@ -10,8 +10,8 @@ eng:
     normative_status: preferred
     designation: public transport service
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.5.2.1,transport service}} that is publicly
-      accessible enabling the movement of one or more {{urn:iso:std:iso:14812:3.1.1.6,person,persons}}"
+  - content: "{{<<urn:iso:std:iso:14812:3.5.2.1>>,transport service}} that is publicly
+      accessible enabling the movement of one or more {{<<urn:iso:std:iso:14812:3.1.1.6>>,person,persons}}"
   notes:
   - content: A public transport service can be scheduled or on-demand.
   - content: A public transport service is based on the use of publicly accessible

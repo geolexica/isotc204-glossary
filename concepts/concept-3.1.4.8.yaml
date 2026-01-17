@@ -7,9 +7,9 @@ eng:
     normative_status: preferred
     designation: physical viewpoint
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.1.3.6,architecture viewpoint}} used to frame
-      {{urn:iso:std:iso:14812:3.1.3.5,concern,concerns}} related to the assignment
-      of functionality to {{urn:iso:std:iso:14812:3.1.8.1,physical object,physical
+  - content: "{{<<urn:iso:std:iso:14812:3.1.3.6>>,architecture viewpoint}} used to frame
+      {{<<urn:iso:std:iso:14812:3.1.3.5>>,concern,concerns}} related to the assignment
+      of functionality to {{<<urn:iso:std:iso:14812:3.1.8.1>>,physical object,physical
       objects}} and the interfaces among these physical objects"
   notes: []
   examples: []

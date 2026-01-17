@@ -7,7 +7,7 @@ eng:
     normative_status: preferred
     designation: moderately-high vehicle speed
   definition:
-  - content: "{{urn:iso:std:iso:14812:3.7.2.1,speed}} of a {{urn:iso:std:iso:14812:3.7.1.1,vehicle}}
+  - content: "{{<<urn:iso:std:iso:14812:3.7.2.1>>,speed}} of a {{<<urn:iso:std:iso:14812:3.7.1.1>>,vehicle}}
       that is typical of free-flow motorway speeds to twice that speed"
   notes:
   - content: Local regulations for the exact speed range vary.
