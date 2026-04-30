@@ -1,28 +1,41 @@
-# 01 — GCR Package Publishing via glossarist Ruby Gem
+# 01 — Versioned GCR Publishing via glossarist Ruby Gem
 
 ## Goal
 
-This repository publishes a GCR (Glossarist Concept Repository) package as a GitHub Release asset on every push to `main`. The vocabulary-browser downloads this GCR to build www.geolexica.org.
+This repository publishes versioned GCR packages as GitHub Release assets. On every push to `main`, update `gcr-latest`. On version tags (`gcr-v*`), create a pinned release.
 
 ## Repository Info
 
-- **Dataset ID:** `isotc204`
-- **Owner:** ISO/TC 204
-- **Concept format:** v1 (`concepts/concept-3.1.1.1.yaml` with `termid`, `eng.definition`, etc.)
-- **Concept count:** 312
-- **Languages:** eng
-- **GCR release asset:** `isotc204.gcr`
+| Field | Value |
+|-------|-------|
+| **Dataset ID / shortname** | `isotc204` |
+| **Owner** | ISO/TC 204 |
+| **Format** | v1 (`concepts/concept-3.1.1.1.yaml`) |
+| **Concepts** | 312 |
+| **Languages** | eng |
+| **GCR filename** | `isotc204-{version}.gcr` |
+
+## Release Convention
+
+| Trigger | Tag | Asset |
+|---------|-----|-------|
+| Push to `main` | `gcr-latest` (rolling) | `isotc204.gcr` |
+| Tag `gcr-v1.0.0` | `gcr-v1.0.0` (pinned) | `isotc204-1.0.0.gcr` |
+
+Download URLs:
+```
+https://github.com/geolexica/isotc204-glossary/releases/download/gcr-latest/isotc204.gcr
+https://github.com/geolexica/isotc204-glossary/releases/download/gcr-v1.0.0/isotc204-1.0.0.gcr
+```
 
 ## Current State
 
-- `.github/workflows/publish-gcr.yml` checks out `glossarist/vocabulary-browser` and uses its `package-dataset.mjs` Node.js script to build GCR
-- This is wrong — GCR building is the glossarist Ruby gem's job
+- `.github/workflows/publish-gcr.yml` checks out vocabulary-browser and uses Node.js — **must be replaced**
+- Has a manually uploaded `gcr-latest` release with `isotc204.gcr`
 
 ## Tasks
 
-### 1. Replace publish-gcr.yml to use glossarist Ruby gem
-
-Delete the current workflow that checks out vocabulary-browser. Replace with:
+### 1. Replace publish-gcr.yml with glossarist gem
 
 ```yaml
 name: publish-gcr
@@ -30,6 +43,7 @@ name: publish-gcr
 on:
   push:
     branches: [main]
+    tags: ['gcr-v*']
   workflow_dispatch:
 
 permissions:
@@ -48,62 +62,56 @@ jobs:
       - name: Install glossarist
         run: gem install glossarist
 
+      - name: Determine version
+        id: version
+        run: |
+          if [[ "${GITHUB_REF}" == refs/tags/gcr-v* ]]; then
+            VERSION="${GITHUB_REF_NAME#gcr-v}"
+            echo "version=${VERSION}" >> "$GITHUB_OUTPUT"
+            echo "tag=gcr-v${VERSION}" >> "$GITHUB_OUTPUT"
+            echo "filename=isotc204-${VERSION}.gcr" >> "$GITHUB_OUTPUT"
+          else
+            DATEVER=$(date +%Y.%m.%d)
+            echo "version=${DATEVER}" >> "$GITHUB_OUTPUT"
+            echo "tag=gcr-latest" >> "$GITHUB_OUTPUT"
+            echo "filename=isotc204.gcr" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Build GCR package
         run: |
-          glossarist package . -o isotc204.gcr \
+          glossarist package . -o "${{ steps.version.outputs.filename }}" \
+            --shortname isotc204 \
+            --version "${{ steps.version.outputs.version }}" \
             --title "ISO/TC 204 ITS Vocabulary" \
             --owner "ISO/TC 204"
-        # Or if concepts need harmonization:
-        # glossarist upgrade . -o isotc204.gcr
 
-      - name: Update gcr-latest release
+      - name: Publish release
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: gcr-latest
-          name: "GCR Package (latest)"
-          body: "Auto-generated GCR package. Updated on push to main."
-          files: isotc204.gcr
+          tag_name: ${{ steps.version.outputs.tag }}
+          name: "GCR Package ${{ steps.version.outputs.version }}"
+          body: "Auto-generated GCR package. ${{ steps.version.outputs.version }}"
+          files: ${{ steps.version.outputs.filename }}
 ```
 
-### 2. Verify `glossarist package` works with this repo
+### 2. Verify locally
 
 ```bash
 gem install glossarist
-glossarist package /path/to/isotc204-glossary -o isotc204.gcr --title "ISO/TC 204" --owner "ISO/TC 204"
-glossarist validate isotc204.gcr
+glossarist package . -o isotc204-test.gcr \
+  --shortname isotc204 --version 0.0.1 \
+  --title "ISO/TC 204 ITS Vocabulary" --owner "ISO/TC 204"
+glossarist validate isotc204-test.gcr
 ```
 
-### 3. Verify GCR content
+### 3. Remove vocabulary-browser checkout
 
-The GCR should contain:
-- `metadata.yaml` with title, owner, statistics, schema_version
-- `concepts/3.1.1.1.yaml` through `concepts/3.7.6.2.yaml` (312 files)
-- `register.yaml` from the repo
-
-### 4. Remove vocabulary-browser dependency
-
-After switching to the Ruby gem:
-- No Node.js setup needed
-- No checkout of vocabulary-browser
-- No `npm ci` step
-- Faster CI, simpler dependency chain
-
-## GCR Download URL
-
-After publishing, the vocabulary-browser fetches from:
-```
-https://github.com/geolexica/isotc204-glossary/releases/download/gcr-latest/isotc204.gcr
-```
-
-This URL is configured in `datasets.yml` (in vocabulary-browser or geolexica.org):
-```yaml
-- id: isotc204
-  gcrPackage: https://github.com/geolexica/isotc204-glossary/releases/download/gcr-latest/isotc204.gcr
-```
+After switching, no Node.js or vocabulary-browser dependency is needed.
 
 ## Acceptance Criteria
 
-- [ ] `publish-gcr.yml` uses `gem install glossarist` (no Node.js)
-- [ ] `glossarist package` produces a valid GCR with 312 concepts
-- [ ] GCR is uploaded to `gcr-latest` release
-- [ ] No checkout of vocabulary-browser repository
+- [ ] `publish-gcr.yml` uses `gem install glossarist` only
+- [ ] Push to main updates `gcr-latest` with `isotc204.gcr`
+- [ ] Tag `gcr-v1.0.0` creates release with `isotc204-1.0.0.gcr`
+- [ ] `metadata.yaml` inside GCR has `shortname: isotc204` and `version`
+- [ ] No checkout of vocabulary-browser
