@@ -4,15 +4,30 @@ on:
   push:
     branches:
       - main
-      - staging
     tags:
       - 'v*'
   pull_request:
   workflow_dispatch:
 
 jobs:
+  validate:
+    name: Validate concepts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+
+      - run: gem install glossarist
+
+      - name: Validate with glossarist
+        run: glossarist validate .
+
   build-release:
     name: Build and release
+    needs: validate
     uses: geolexica/ci/.github/workflows/glossary-build.yml@main
 
   trigger-deploy:
