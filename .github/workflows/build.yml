@@ -25,6 +25,28 @@ jobs:
       - name: Validate with glossarist
         run: glossarist validate .
 
+  test-package:
+    name: Test GCR package
+    needs: validate
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+
+      - run: gem install glossarist
+
+      - name: Test package build
+        run: |
+          glossarist package . -o test-isotc204.gcr \
+            --shortname isotc204 \
+            --version "0.0.0-test"
+
+      - name: Verify package
+        run: test -f test-isotc204.gcr && echo "Package built successfully"
+
   build-release:
     name: Build and release
     needs: validate
