@@ -34,25 +34,37 @@ jobs:
             VERSION="${{ inputs.version }}"
           fi
           echo "version=${VERSION}" >> "$GITHUB_OUTPUT"
-          echo "filename=isotc204-${VERSION}.gcr" >> "$GITHUB_OUTPUT"
 
-      - name: Build GCR package
+      - name: Build standard GCR package
         run: |
-          glossarist package . -o "${{ steps.version.outputs.filename }}" \
+          glossarist package . -o "isotc204-${{ steps.version.outputs.version }}.gcr" \
             --shortname isotc204 \
             --version "${{ steps.version.outputs.version }}" \
             --title "ISO/TC 204 ITS Vocabulary" \
             --owner "ISO/TC 204"
 
-      - name: Create unversioned alias
-        run: cp "${{ steps.version.outputs.filename }}" isotc204.gcr
+      - name: Build full GCR package (with formats)
+        run: |
+          glossarist package . -o "isotc204-${{ steps.version.outputs.version }}-full.gcr" \
+            --shortname isotc204 \
+            --version "${{ steps.version.outputs.version }}" \
+            --title "ISO/TC 204 ITS Vocabulary" \
+            --owner "ISO/TC 204" \
+            --compiled-formats tbx,jsonld,turtle,jsonl
+
+      - name: Create unversioned aliases
+        run: |
+          cp "isotc204-${{ steps.version.outputs.version }}.gcr" isotc204.gcr
+          cp "isotc204-${{ steps.version.outputs.version }}-full.gcr" isotc204-full.gcr
 
       - name: Publish GitHub Release
         uses: softprops/action-gh-release@v2
         with:
           tag_name: v${{ steps.version.outputs.version }}
           name: "GCR Package v${{ steps.version.outputs.version }}"
-          body: "Auto-generated GCR package containing isotc204 concepts."
+          body: "Auto-generated GCR package containing ISO/TC 204 ITS concepts."
           files: |
-            ${{ steps.version.outputs.filename }}
+            isotc204-${{ steps.version.outputs.version }}.gcr
             isotc204.gcr
+            isotc204-${{ steps.version.outputs.version }}-full.gcr
+            isotc204-full.gcr
