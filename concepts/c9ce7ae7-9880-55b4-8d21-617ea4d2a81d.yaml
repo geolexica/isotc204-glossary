@@ -1,0 +1,47 @@
+data:
+  identifier: 3.3.6.8
+  localized_concepts:
+    eng: 612aeb34-e135-556a-b1ae-5c00bee8c148
+  domains:
+  - concept_id: section-3-3
+    source: urn:iso:std:iso:ts:14812
+    ref_type: domain
+related:
+- content: section-3-3
+  type: broader
+  ref:
+    source: ISO/TS 14812
+    id: section-3-3
+status: valid
+date_accepted: '2022-04-01T00:00:00+00:00'
+schema_version: '3'
+id: c9ce7ae7-9880-55b4-8d21-617ea4d2a81d
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.3.6.2,junction}} without any {{urn:iso:std:iso:14812:3.3.6.10,grade
+      separated manoeuvre,grade separated manoeuvres}}"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.3.6.8
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: admitted
+    designation: junction at grade
+  - type: expression
+    normative_status: preferred
+    designation: at-grade intersection
+  - type: expression
+    normative_status: admitted
+    designation: grade junction
+  language_code: eng
+  entry_status: valid
+id: 612aeb34-e135-556a-b1ae-5c00bee8c148

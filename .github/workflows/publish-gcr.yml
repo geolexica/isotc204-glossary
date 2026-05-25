@@ -43,7 +43,7 @@ jobs:
             --title "ISO/TC 204 ITS Vocabulary" \
             --owner "ISO/TC 204"
 
-      - name: Build full GCR package (with formats)
+      - name: Build full GCR package (with compiled formats)
         run: |
           glossarist package . -o "isotc204-${{ steps.version.outputs.version }}-full.gcr" \
             --shortname isotc204 \

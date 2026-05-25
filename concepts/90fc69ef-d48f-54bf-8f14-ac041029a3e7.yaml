@@ -1,0 +1,42 @@
+data:
+  identifier: 3.5.1.1
+  localized_concepts:
+    eng: 19686acc-fc3a-50f9-aa93-168d70729044
+  domains:
+  - concept_id: section-3-5
+    source: urn:iso:std:iso:ts:14812
+    ref_type: domain
+related:
+- content: section-3-5
+  type: broader
+  ref:
+    source: ISO/TS 14812
+    id: section-3-5
+status: valid
+date_accepted: '2022-04-01T00:00:00+00:00'
+schema_version: '3'
+id: 90fc69ef-d48f-54bf-8f14-ac041029a3e7
+---
+data:
+  definition:
+  - content: provision of one or more capabilities, functionalities or facilities
+      to enable one or more tasks to fulfil a {{urn:iso:std:iso:14812:3.5.1.4,user
+      need,need}}
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.5.1.1
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: service
+  language_code: eng
+  entry_status: valid
+id: 19686acc-fc3a-50f9-aa93-168d70729044

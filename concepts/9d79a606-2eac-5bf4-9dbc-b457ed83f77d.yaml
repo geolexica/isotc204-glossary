@@ -1,0 +1,41 @@
+data:
+  identifier: 3.1.1.6
+  localized_concepts:
+    eng: 323f39cb-1da4-5b94-b084-ffe6dfcd178b
+  domains:
+  - concept_id: section-3-1
+    source: urn:iso:std:iso:ts:14812
+    ref_type: domain
+related:
+- content: section-3-1
+  type: broader
+  ref:
+    source: ISO/TS 14812
+    id: section-3-1
+status: valid
+date_accepted: '2022-04-01T00:00:00+00:00'
+schema_version: '3'
+id: 9d79a606-2eac-5bf4-9dbc-b457ed83f77d
+---
+data:
+  definition:
+  - content: '{{urn:iso:std:iso:14812:3.1.1.5,biological entity}} that is a human
+      being'
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.1.1.6
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: person
+  language_code: eng
+  entry_status: valid
+id: 323f39cb-1da4-5b94-b084-ffe6dfcd178b

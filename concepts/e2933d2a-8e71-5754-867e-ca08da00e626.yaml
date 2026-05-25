@@ -1,0 +1,41 @@
+data:
+  identifier: 3.2.9.3
+  localized_concepts:
+    eng: 873abfac-bad2-577f-bed3-0549a47da7bf
+  domains:
+  - concept_id: section-3-2
+    source: urn:iso:std:iso:ts:14812
+    ref_type: domain
+related:
+- content: section-3-2
+  type: broader
+  ref:
+    source: ISO/TS 14812
+    id: section-3-2
+status: valid
+date_accepted: '2022-04-01T00:00:00+00:00'
+schema_version: '3'
+id: e2933d2a-8e71-5754-867e-ca08da00e626
+---
+data:
+  definition:
+  - content: '{{urn:iso:std:iso:14812:3.2.9.2,ITS-S application process}} residing
+      in the {{urn:iso:std:iso:14812:3.1.5.1,application entity}}'
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.2.9.3
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S application
+  language_code: eng
+  entry_status: valid
+id: 873abfac-bad2-577f-bed3-0549a47da7bf

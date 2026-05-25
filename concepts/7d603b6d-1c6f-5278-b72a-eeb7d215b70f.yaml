@@ -1,0 +1,279 @@
+data:
+  identifier: section-3-3
+  localized_concepts:
+    eng: 1be90054-fad5-5aab-80fd-69119f4f217a
+  domains:
+  - concept_id: section-3-3
+    source: urn:iso:std:iso:ts:14812
+    ref_type: domain
+related:
+- content: 3.3.1.1
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.1.1
+- content: 3.3.1.10
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.1.10
+- content: 3.3.1.11
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.1.11
+- content: 3.3.1.12
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.1.12
+- content: 3.3.1.13
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.1.13
+- content: 3.3.1.14
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.1.14
+- content: 3.3.1.15
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.1.15
+- content: 3.3.1.16
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.1.16
+- content: 3.3.1.17
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.1.17
+- content: 3.3.1.18
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.1.18
+- content: 3.3.1.19
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.1.19
+- content: 3.3.1.2
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.1.2
+- content: 3.3.1.20
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.1.20
+- content: 3.3.1.3
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.1.3
+- content: 3.3.1.4
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.1.4
+- content: 3.3.1.5
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.1.5
+- content: 3.3.1.6
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.1.6
+- content: 3.3.1.7
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.1.7
+- content: 3.3.1.8
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.1.8
+- content: 3.3.1.9
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.1.9
+- content: 3.3.2.1
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.2.1
+- content: 3.3.2.2
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.2.2
+- content: 3.3.2.3
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.2.3
+- content: 3.3.3.1
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.3.1
+- content: 3.3.3.2
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.3.2
+- content: 3.3.3.3
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.3.3
+- content: 3.3.3.4
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.3.4
+- content: 3.3.4.1
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.4.1
+- content: 3.3.4.2
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.4.2
+- content: 3.3.5.1
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.5.1
+- content: 3.3.5.10
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.5.10
+- content: 3.3.5.2
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.5.2
+- content: 3.3.5.3
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.5.3
+- content: 3.3.5.4
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.5.4
+- content: 3.3.5.5
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.5.5
+- content: 3.3.5.6
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.5.6
+- content: 3.3.5.7
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.5.7
+- content: 3.3.5.8
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.5.8
+- content: 3.3.5.9
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.5.9
+- content: 3.3.6.1
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.6.1
+- content: 3.3.6.10
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.6.10
+- content: 3.3.6.2
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.6.2
+- content: 3.3.6.3
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.6.3
+- content: 3.3.6.4
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.6.4
+- content: 3.3.6.5
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.6.5
+- content: 3.3.6.6
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.6.6
+- content: 3.3.6.7
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.6.7
+- content: 3.3.6.8
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.6.8
+- content: 3.3.6.9
+  type: narrower
+  ref:
+    source: ISO/TS 14812
+    id: 3.3.6.9
+status: valid
+date_accepted: '2022-04-01T00:00:00+00:00'
+schema_version: '3'
+id: 7d603b6d-1c6f-5278-b72a-eeb7d215b70f
+---
+data:
+  definition: []
+  examples: []
+  id: section-3-3
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS stations
+  language_code: eng
+  entry_status: valid
+  sources:
+  - origin:
+      ref:
+        source: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.3.3
+    type: authoritative
+id: 1be90054-fad5-5aab-80fd-69119f4f217a

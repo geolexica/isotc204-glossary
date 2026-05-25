@@ -1,0 +1,41 @@
+data:
+  identifier: 3.2.9.6
+  localized_concepts:
+    eng: 38bdc092-0b1a-53df-804c-10cfdca9b993
+  domains:
+  - concept_id: section-3-2
+    source: urn:iso:std:iso:ts:14812
+    ref_type: domain
+related:
+- content: section-3-2
+  type: broader
+  ref:
+    source: ISO/TS 14812
+    id: section-3-2
+status: valid
+date_accepted: '2022-04-01T00:00:00+00:00'
+schema_version: '3'
+id: d56f071f-943d-5df0-806d-707b82647f0c
+---
+data:
+  definition:
+  - content: '{{urn:iso:std:iso:14812:3.2.9.5,ITS-S application process installation}}
+      within the {{urn:iso:std:iso:14812:3.1.5.1,application entity}}'
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.2.9.6
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S application installation
+  language_code: eng
+  entry_status: valid
+id: 38bdc092-0b1a-53df-804c-10cfdca9b993

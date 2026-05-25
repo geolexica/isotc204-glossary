@@ -1,0 +1,48 @@
+data:
+  identifier: 3.4.1.6
+  localized_concepts:
+    eng: 70e4783f-dfc6-52c7-a109-8af1e151d0a8
+  domains:
+  - concept_id: section-3-4
+    source: urn:iso:std:iso:ts:14812
+    ref_type: domain
+related:
+- content: section-3-4
+  type: broader
+  ref:
+    source: ISO/TS 14812
+    id: section-3-4
+status: valid
+date_accepted: '2022-04-01T00:00:00+00:00'
+schema_version: '3'
+id: dfd677cb-a853-5365-803b-49f0c4a6de74
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.4.1.2,spatial location}} enclosed within a
+      two-dimensional boundary or boundaries across a defined surface"
+  examples:
+  - content: The British Isles.
+  notes:
+  - content: The boundary can consist of a single curvilinear line (e.g. a circle)
+      or multiple curvilinear lines (e.g. the boundaries of city limits) and can consist
+      of multiple enclosed areas.
+  sources:
+  - origin:
+      ref:
+        source: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.4.1.6
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: admitted
+    designation: area location
+  - type: expression
+    normative_status: preferred
+    designation: ITS area location
+  language_code: eng
+  entry_status: valid
+id: 70e4783f-dfc6-52c7-a109-8af1e151d0a8

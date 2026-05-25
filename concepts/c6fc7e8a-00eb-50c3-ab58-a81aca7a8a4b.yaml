@@ -1,0 +1,45 @@
+data:
+  identifier: 3.2.3.1
+  localized_concepts:
+    eng: 2fb5b8be-fcba-5d53-a854-07f4a1c0b3e5
+  domains:
+  - concept_id: section-3-2
+    source: urn:iso:std:iso:ts:14812
+    ref_type: domain
+related:
+- content: section-3-2
+  type: broader
+  ref:
+    source: ISO/TS 14812
+    id: section-3-2
+status: valid
+date_accepted: '2022-04-01T00:00:00+00:00'
+schema_version: '3'
+id: c6fc7e8a-00eb-50c3-ab58-a81aca7a8a4b
+---
+data:
+  definition:
+  - content: portable {{urn:iso:std:iso:14812:3.2.1.2,field system}} used by field
+      personnel to locally troubleshoot, initialize, reprogram and test infrastructure
+      equipment
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.2.3.1
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: admitted
+    designation: field support equipment
+  - type: expression
+    normative_status: preferred
+    designation: ITS field support equipment
+  language_code: eng
+  entry_status: valid
+id: 2fb5b8be-fcba-5d53-a854-07f4a1c0b3e5

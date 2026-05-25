@@ -1,0 +1,44 @@
+data:
+  identifier: 3.5.1.4
+  localized_concepts:
+    eng: c5d25cb8-b52f-5ff1-b733-01ff17d05df1
+  domains:
+  - concept_id: section-3-5
+    source: urn:iso:std:iso:ts:14812
+    ref_type: domain
+related:
+- content: section-3-5
+  type: broader
+  ref:
+    source: ISO/TS 14812
+    id: section-3-5
+status: valid
+date_accepted: '2022-04-01T00:00:00+00:00'
+schema_version: '3'
+id: 169de23a-e8c0-5765-81ba-449857be7988
+---
+data:
+  definition:
+  - content: factor or condition necessary to achieve desired results within a specified
+      context of use
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.5.1.4
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: user need
+  - type: expression
+    normative_status: admitted
+    designation: need
+  language_code: eng
+  entry_status: valid
+id: c5d25cb8-b52f-5ff1-b733-01ff17d05df1

@@ -1,0 +1,42 @@
+data:
+  identifier: 3.5.11.3
+  localized_concepts:
+    eng: 4445efd4-d25a-5e0b-ae17-302e8900e22b
+  domains:
+  - concept_id: section-3-5
+    source: urn:iso:std:iso:ts:14812
+    ref_type: domain
+related:
+- content: section-3-5
+  type: broader
+  ref:
+    source: ISO/TS 14812
+    id: section-3-5
+status: valid
+date_accepted: '2022-04-01T00:00:00+00:00'
+schema_version: '3'
+id: 806e7d0b-b940-5f26-aa09-f6ee0d5397ba
+---
+data:
+  definition:
+  - content: '{{urn:iso:std:iso:14812:3.5.8.2,commercial}} {{urn:iso:std:iso:14812:3.5.6.2,shared
+      transport service}} that transports {{urn:iso:std:iso:14812:3.6.2.1,passenger,passengers}}
+      {{urn:iso:std:iso:14812:3.5.9.3,concurrent,concurrently}}'
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.5.11.3
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: taxi-share service
+  language_code: eng
+  entry_status: valid
+id: 4445efd4-d25a-5e0b-ae17-302e8900e22b

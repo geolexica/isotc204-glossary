@@ -1,0 +1,42 @@
+data:
+  identifier: 3.5.13.1
+  localized_concepts:
+    eng: 276e6a54-609f-5ca1-8269-f5ab653d8929
+  domains:
+  - concept_id: section-3-5
+    source: urn:iso:std:iso:ts:14812
+    ref_type: domain
+related:
+- content: section-3-5
+  type: broader
+  ref:
+    source: ISO/TS 14812
+    id: section-3-5
+status: valid
+date_accepted: '2022-04-01T00:00:00+00:00'
+schema_version: '3'
+id: 493c4062-915d-5305-9931-caa6a4e6de5c
+---
+data:
+  definition:
+  - content: '{{urn:iso:std:iso:14812:3.2.9.4,ITS-S application implementation}} designed
+      to assist an individual transport consumer in understanding transport-related
+      information, making decisions, and/or acting upon decisions'
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.5.13.1
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mobility app
+  language_code: eng
+  entry_status: valid
+id: 276e6a54-609f-5ca1-8269-f5ab653d8929
