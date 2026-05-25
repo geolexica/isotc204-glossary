@@ -1,0 +1,46 @@
+data:
+  identifier: 3.2.4.3
+  localized_concepts:
+    eng: 57a7e53f-13dd-52bc-864b-b44f0e2e327b
+  domains:
+  - concept_id: section-3-2
+    source: urn:iso:std:iso:ts:14812
+    ref_type: domain
+related:
+- content: section-3-2
+  type: broader
+  ref:
+    source: ISO/TS 14812
+    id: section-3-2
+status: valid
+date_accepted: '2022-04-01T00:00:00+00:00'
+schema_version: '3'
+id: fadb9660-8eb3-5e0e-a081-f01f38e2c818
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.2.4.2,personal information device}} that is
+      taken with and can be accessed by the {{urn:iso:std:iso:14812:3.6.1.1,traveller}}
+      during a journey"
+  examples:
+  - content: Smartphone.
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.2.4.3
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: admitted
+    designation: nomadic device
+  - type: expression
+    normative_status: preferred
+    designation: ITS nomadic device
+  language_code: eng
+  entry_status: valid
+id: 57a7e53f-13dd-52bc-864b-b44f0e2e327b

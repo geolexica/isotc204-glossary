@@ -1,0 +1,45 @@
+data:
+  identifier: 3.7.5.8
+  localized_concepts:
+    eng: 86f362b0-28a2-5eaa-8433-f1f186a3d33f
+  domains:
+  - concept_id: section-3-7
+    source: urn:iso:std:iso:ts:14812
+    ref_type: domain
+related:
+- content: section-3-7
+  type: broader
+  ref:
+    source: ISO/TS 14812
+    id: section-3-7
+status: valid
+date_accepted: '2022-04-01T00:00:00+00:00'
+schema_version: '3'
+id: 5e930064-bd77-5981-9544-b29331698735
+---
+data:
+  definition:
+  - content: '{{urn:iso:std:iso:14812:3.7.2.1,speed}} of a {{urn:iso:std:iso:14812:3.7.1.1,vehicle}}
+      that exceeds {{urn:iso:std:iso:14812:3.6.1.3,pedestrian}} speeds and is more
+      typical of pedal cycles'
+  examples:
+  - content: <<SAE_J3194,SAE J3194>> associates this with a top speed in the range
+      between 13 km/h and 32 km/h.
+  notes:
+  - content: Local regulations for the exact speed range vary.
+  sources:
+  - origin:
+      ref:
+        source: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.7.5.8
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: low vehicle speed
+  language_code: eng
+  entry_status: valid
+id: 86f362b0-28a2-5eaa-8433-f1f186a3d33f

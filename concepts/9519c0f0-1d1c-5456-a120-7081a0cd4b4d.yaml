@@ -1,0 +1,45 @@
+data:
+  identifier: 3.7.3.14
+  localized_concepts:
+    eng: 2a9a186b-eafa-5eb9-9ef3-5e43e638139c
+  domains:
+  - concept_id: section-3-7
+    source: urn:iso:std:iso:ts:14812
+    ref_type: domain
+related:
+- content: section-3-7
+  type: broader
+  ref:
+    source: ISO/TS 14812
+    id: section-3-7
+status: valid
+date_accepted: '2022-04-01T00:00:00+00:00'
+schema_version: '3'
+id: 9519c0f0-1d1c-5456-a120-7081a0cd4b4d
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.7.1.1,vehicle}} designed to be operated by
+      a {{urn:iso:std:iso:14812:3.1.1.6,person}} during part or all of every _trip_."
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.7.3.14
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: admitted
+    designation: conventional vehicle
+  - type: expression
+    normative_status: preferred
+    designation: automation-equipped conventional vehicle
+  domain: driving automation
+  language_code: eng
+  entry_status: valid
+id: 2a9a186b-eafa-5eb9-9ef3-5e43e638139c

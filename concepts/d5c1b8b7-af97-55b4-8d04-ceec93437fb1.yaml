@@ -1,0 +1,41 @@
+data:
+  identifier: 3.3.6.6
+  localized_concepts:
+    eng: a2c4b84d-3805-5e0d-a528-4cc45f87e87d
+  domains:
+  - concept_id: section-3-3
+    source: urn:iso:std:iso:ts:14812
+    ref_type: domain
+related:
+- content: section-3-3
+  type: broader
+  ref:
+    source: ISO/TS 14812
+    id: section-3-3
+status: valid
+date_accepted: '2022-04-01T00:00:00+00:00'
+schema_version: '3'
+id: d5c1b8b7-af97-55b4-8d04-ceec93437fb1
+---
+data:
+  definition:
+  - content: all {{urn:iso:std:iso:14812:3.3.6.5,egress lane,egress lanes}} on a {{urn:iso:std:iso:14812:3.3.5.6,road
+      link}}
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.3.6.6
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: egress link
+  language_code: eng
+  entry_status: valid
+id: a2c4b84d-3805-5e0d-a528-4cc45f87e87d

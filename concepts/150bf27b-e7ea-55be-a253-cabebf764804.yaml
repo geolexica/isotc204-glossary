@@ -1,0 +1,43 @@
+data:
+  identifier: 3.7.5.4
+  localized_concepts:
+    eng: b6d87e92-b1dc-53f8-8036-909c7ab56f8c
+  domains:
+  - concept_id: section-3-7
+    source: urn:iso:std:iso:ts:14812
+    ref_type: domain
+related:
+- content: section-3-7
+  type: broader
+  ref:
+    source: ISO/TS 14812
+    id: section-3-7
+status: valid
+date_accepted: '2022-04-01T00:00:00+00:00'
+schema_version: '3'
+id: 150bf27b-e7ea-55be-a253-cabebf764804
+---
+data:
+  definition:
+  - content: '{{urn:iso:std:iso:14812:3.7.1.1,vehicle}} with a {{urn:iso:std:iso:14812:3.7.2.2,design
+      speed}} in the range of {{urn:iso:std:iso:14812:3.7.5.10,moderate vehicle speed,moderate
+      vehicle speeds}}'
+  examples:
+  - content: Typical side-by-side utility task vehicle (UTV).
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.7.5.4
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: moderate-speed vehicle
+  language_code: eng
+  entry_status: valid
+id: b6d87e92-b1dc-53f8-8036-909c7ab56f8c

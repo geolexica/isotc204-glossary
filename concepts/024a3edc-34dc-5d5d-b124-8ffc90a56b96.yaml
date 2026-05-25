@@ -1,0 +1,44 @@
+data:
+  identifier: 3.5.3.1
+  localized_concepts:
+    eng: 2355b07c-b719-52db-a356-b4e19e65f40b
+  domains:
+  - concept_id: section-3-5
+    source: urn:iso:std:iso:ts:14812
+    ref_type: domain
+related:
+- content: section-3-5
+  type: broader
+  ref:
+    source: ISO/TS 14812
+    id: section-3-5
+status: valid
+date_accepted: '2022-04-01T00:00:00+00:00'
+schema_version: '3'
+id: 024a3edc-34dc-5d5d-b124-8ffc90a56b96
+---
+data:
+  definition:
+  - content: functionality that fulfils one or more {{urn:iso:std:iso:14812:3.5.3.4,ITS
+      user need}}
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.5.3.1
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS service
+  - type: expression
+    normative_status: admitted
+    designation: service
+  language_code: eng
+  entry_status: valid
+id: 2355b07c-b719-52db-a356-b4e19e65f40b

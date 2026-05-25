@@ -1,0 +1,44 @@
+data:
+  identifier: 3.2.8.4
+  localized_concepts:
+    eng: 63aa6156-130c-5d66-a978-3e0b3fda5d27
+  domains:
+  - concept_id: section-3-2
+    source: urn:iso:std:iso:ts:14812
+    ref_type: domain
+related:
+- content: section-3-2
+  type: broader
+  ref:
+    source: ISO/TS 14812
+    id: section-3-2
+status: valid
+date_accepted: '2022-04-01T00:00:00+00:00'
+schema_version: '3'
+id: ecd5863f-c7da-53fd-8a17-09be14284d21
+---
+data:
+  definition:
+  - content: defined annotated outline for an {{urn:iso:std:iso:14812:3.2.8.3,ITS
+      application specification}}
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.2.8.4
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: admitted
+    designation: application template
+  - type: expression
+    normative_status: preferred
+    designation: ITS application template
+  language_code: eng
+  entry_status: valid
+id: 63aa6156-130c-5d66-a978-3e0b3fda5d27

@@ -1,0 +1,44 @@
+data:
+  identifier: 3.2.1.5
+  localized_concepts:
+    eng: d826ada4-f826-53fe-89f6-7871e1ab5083
+  domains:
+  - concept_id: section-3-2
+    source: urn:iso:std:iso:ts:14812
+    ref_type: domain
+related:
+- content: section-3-2
+  type: broader
+  ref:
+    source: ISO/TS 14812
+    id: section-3-2
+status: valid
+date_accepted: '2022-04-01T00:00:00+00:00'
+schema_version: '3'
+id: ff564dcf-d3a0-5096-9d68-c55a1ed078ed
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.1.8.2,ITS component}} that is installed as
+      a component of a {{urn:iso:std:iso:14812:3.7.1.1,vehicle}}"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.2.1.5
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: admitted
+    designation: vehicle system
+  - type: expression
+    normative_status: preferred
+    designation: ITS vehicle system
+  language_code: eng
+  entry_status: valid
+id: d826ada4-f826-53fe-89f6-7871e1ab5083

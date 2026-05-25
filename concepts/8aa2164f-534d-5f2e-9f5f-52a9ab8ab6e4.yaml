@@ -1,0 +1,48 @@
+data:
+  identifier: 3.5.2.3
+  localized_concepts:
+    eng: 23cd47ec-9921-512f-9b29-baf07cbac63e
+  domains:
+  - concept_id: section-3-5
+    source: urn:iso:std:iso:ts:14812
+    ref_type: domain
+related:
+- content: section-3-5
+  type: broader
+  ref:
+    source: ISO/TS 14812
+    id: section-3-5
+status: valid
+date_accepted: '2022-04-01T00:00:00+00:00'
+schema_version: '3'
+id: 8aa2164f-534d-5f2e-9f5f-52a9ab8ab6e4
+---
+data:
+  definition:
+  - content: "{{urn:iso:std:iso:14812:3.1.1.1,entity}} that has a {{urn:iso:std:iso:14812:3.5.2.4,transport
+      need}} to be fulfilled"
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.5.2.3
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transport user
+  - type: expression
+    normative_status: admitted
+    designation: user
+  - type: expression
+    normative_status: admitted
+    designation: consumer
+  domain: transport
+  language_code: eng
+  entry_status: valid
+id: 23cd47ec-9921-512f-9b29-baf07cbac63e

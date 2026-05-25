@@ -1,0 +1,43 @@
+data:
+  identifier: 3.7.6.4
+  localized_concepts:
+    eng: b59855d7-06b1-5de6-b579-d938a8b76306
+  domains:
+  - concept_id: section-3-7
+    source: urn:iso:std:iso:ts:14812
+    ref_type: domain
+related:
+- content: section-3-7
+  type: broader
+  ref:
+    source: ISO/TS 14812
+    id: section-3-7
+status: valid
+date_accepted: '2022-04-01T00:00:00+00:00'
+schema_version: '3'
+id: f6fe113f-c79b-58b3-aa37-adc42a690405
+---
+data:
+  definition:
+  - content: '{{urn:iso:std:iso:14812:3.7.1.1,vehicle}} not meeting the legal requirements
+      to be driven in {{urn:iso:std:iso:14812:3.3.1.13,traffic lane,traffic lanes}}
+      or {{urn:iso:std:iso:14812:3.3.3.1,cycle lane,cycle lanes}} of a {{urn:iso:std:iso:14812:3.3.5.2,road
+      network}}'
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/TS 14812:2022
+      locality:
+        type: clause
+        reference_from: 3.7.6.4
+      link: https://www.iso.org/standard/79779.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: non-road vehicle
+  language_code: eng
+  entry_status: valid
+id: b59855d7-06b1-5de6-b579-d938a8b76306
