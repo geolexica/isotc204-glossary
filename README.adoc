@@ -1,12 +1,84 @@
-== ISO/TC 204 Geolexica Glossarist database
+= ISO/TC 204 ITS Vocabulary
 
-This repository contains the latest snapshot of ISO/TC 204 Geolexica glossary in YAML format.
+https://glossarist.org[Glossarist] concept database for ISO/TC 204, implementing the https://github.com/glossarist/concept-model[Glossarist Concept Model] (ISO 10241-1 compliant).
 
-This repository is managed by Glossarist desktop app and is built into
-https://github.com/geolexica/isotc204.geolexica.org[ISO/TC 204 Geolexica website],
-availabe at https://geolexica.org/.
+Live site: https://isotc204.geolexica.org
 
-NOTE: The YAML data in this repository is not yet an authoritative data source.
-Currently, data stored in this structure is imported from the latest published
-ISO/TC 204 Multi-Lingual Glossary of Terms spreadsheets.
-In the future, all data will be managed through the Glossarist desktop application.
+== Overview
+
+This repository contains the terminology data for the ISO/TC 204 Intelligent Transport Systems vocabulary (ISO 14812). Each concept is stored as a YAML file in the https://github.com/glossarist/concept-model/blob/main/schemas/v3[Glossarist v3 schema] format.
+
+[cols="1,4"]
+|===
+| Owner | ISO/TC 204
+| Concepts | ~300
+| Languages | eng
+| Concept model | https://github.com/glossarist/concept-model[v3]
+| Source | ISO 14812 series
+|===
+
+NOTE: The YAML data in this repository is currently imported from the ISO/TC 204 Multi-Lingual Glossary of Terms spreadsheets. In the future, all data will be managed through the https://glossarist.org/desktop[Glossarist desktop application].
+
+== Repository structure
+
+[source]
+├── register.yaml           # Register metadata and language subregisters
+├── concepts/               # One YAML file per concept (UUID-named)
+│   ├── 0171b198-d068-...yaml
+│   └── ...
+├── bibliography.yaml       # Bibliographic references
+└── images.yaml             # Non-verbal representation metadata
+
+== Concept file format
+
+Each concept file is a multi-document YAML stream containing the managed concept followed by its localizations. See the https://github.com/glossarist/concept-model/tree/main/schemas/v3/examples[concept model examples] for the full schema.
+
+== Editing concepts
+
+=== Using Glossarist Desktop
+
+Open this repository in the https://glossarist.org/desktop[Glossarist Desktop] application. The app reads and writes YAML files directly.
+
+=== Manual editing
+
+Each concept file can be edited in any text editor. Key fields:
+
+* `data.terms[].designation` — the term/designation text
+* `data.definition[].content` — the definition text
+* `data.examples[].content` — example sentences
+* `data.notes[].content` — notes
+* `data.sources[]` — bibliographic sources
+* `status` — `valid`, `superseded`, or `withdrawn`
+
+When adding a new concept:
+
+. Create a new YAML file in `concepts/` with a deterministic UUID
+. Add the concept UUID to `register.yaml` under the appropriate language subregister
+. Commit and push
+
+== Browsing with Concept Browser
+
+This data is built and deployed using https://github.com/glossarist/concept-browser[`@glossarist/concept-browser`].
+
+The deployment configuration lives in https://github.com/geolexica/isotc204.geolexica.org[`geolexica/isotc204.geolexica.org`].
+
+To build and preview locally:
+
+[source,sh]
+----
+git clone https://github.com/geolexica/isotc204.geolexica.org
+cd isotc204.geolexica.org
+npm install
+npx concept-browser build
+# Output in dist/
+----
+
+== Data pipeline
+
+[source]
+glossary YAML (this repo)
+  → GCR package (GitHub Release .gcr)
+    → concept-browser build (fetch + generate + vite build)
+      → GitHub Pages deployment (isotc204.geolexica.org)
+
+GCR packages are built automatically by the `publish-gcr` workflow on push to `main`.
