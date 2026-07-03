@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.2.2.8
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: f41822ab-037d-5f7d-9b24-670c37b583ca
 schema_version: '3'
@@ -25,12 +25,11 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: transport information central system
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 27a1c608-d9a7-57d8-8521-5be2c285d68e

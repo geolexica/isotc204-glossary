@@ -16,7 +16,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.5.4.3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: de982b94-884d-5c82-8a29-021661be17c2
 schema_version: '3'
@@ -29,12 +29,11 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: ITS-SU user
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 26ea6585-cafb-59a1-be73-3306a6866922

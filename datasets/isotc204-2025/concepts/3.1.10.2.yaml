@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.10.2
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: bc9db854-f907-599c-991d-b55a25a22236
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       color="#0000ff"><u>data concept</u></font></a></i> ( data concept ) that is
       stored in a <i><a href="#idB06371D38EFC48e299F50E38BFECA3F5"><font color="#0000ff"><u>data
       dictionary</u></font></a></i> ( data dictionary )
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: meta-attribute
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 5e7c0389-00e3-5e84-8dba-ce32b32a4993

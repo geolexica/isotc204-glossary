@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.8.3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 92653fa1-deb1-5411-a3af-3809889efa2b
 schema_version: '3'
@@ -25,7 +25,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: A terminator can exist within {{urn:iso:std:iso:14812:ed3:3.1.4.5,functional}}
       and {{urn:iso:std:iso:14812:ed3:3.1.4.7,physical}} views.
@@ -38,4 +37,5 @@ data:
     designation: ITS terminator
   language_code: eng
   entry_status: valid
+  annotations: []
 id: b66ae4fe-3aa5-5cc9-9add-3275d65faa9e

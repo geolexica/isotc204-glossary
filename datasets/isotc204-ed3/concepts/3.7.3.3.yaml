@@ -16,7 +16,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.7.3.3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 59de653f-d2a1-5aef-899f-dbe3ea3e5d21
 schema_version: '3'
@@ -29,7 +29,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: This term includes the response of a person to perform the DDT in a manner
       to quickly achieve a minimal risk condition.
@@ -42,4 +41,5 @@ data:
     designation: driving automation fallback
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 1432e6d4-2c97-5404-8e6f-18fea182b8a4

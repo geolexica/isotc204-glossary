@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.7.3
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: a2207e24-3054-576b-b526-32d555148b57
 schema_version: '3'
@@ -21,7 +21,6 @@ data:
   definition:
   - content: "&lt;functional view&gt; series of actions or activities performed by
       some object to achieve a goal"
-  examples: []
   notes:
   - content: A function transforms inputs into outputs that may include the creation,
       modification, monitoring, or destruction of elements.
@@ -37,4 +36,5 @@ data:
     designation: function
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 23c43b0e-abf0-56ba-91ea-f44c0d341681

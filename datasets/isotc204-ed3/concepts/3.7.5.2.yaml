@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.7.5.2
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 5930d707-e7e9-5eea-b49b-99ad7a7e5f9d
 schema_version: '3'
@@ -27,7 +27,6 @@ data:
       EXAMPLE: Mountain bicycle.
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The term "cycle-speed vehicle" is allowed but the preferred term follows
       a logical progression of levels.
@@ -37,4 +36,5 @@ data:
     designation: low-speed vehicle
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 2913ee06-e3db-56a4-b44d-9fa50f32e4ea

@@ -115,7 +115,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.5.1.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 5e3335a7-caef-5ab4-ad94-4b477fa8f3a3
 schema_version: '3'
@@ -134,12 +134,11 @@ data:
       | {{urn:iso:std:iso:14812:ed3:3.5.2.1,transport service}} | subClassOf |
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: service
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 8cab60fe-d6a0-511b-b075-160897e375ab

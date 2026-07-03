@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.3.2.2
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 11b6ff63-a4f4-5df2-ad85-683ad8c4f9b1
 schema_version: '3'
@@ -28,7 +28,6 @@ data:
       Admitted term: neutral ground
       ---
       Comment on this page
-  examples: []
   notes:
   - content: A central reservation can be paved or unpaved and can be equipped with
       a safety barrier, rails, or other devices.
@@ -38,4 +37,5 @@ data:
     designation: central reservation
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 5fd5a015-bd2b-5bbb-96f0-a3e898578097

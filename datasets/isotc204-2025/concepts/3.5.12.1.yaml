@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.12.1
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 8f0137b6-60d9-5f99-b5ff-dbf6a5bba553
 schema_version: '3'
@@ -21,7 +21,6 @@ data:
   definition:
   - content: <i><a href="#id8C73DE6A6FCF4643AE8C1A25A4E4C9CF"><font color="#0000ff"><u>shared
       vehicle service</u></font></a></i> ( shared vehicle service ) that shares bicycles
-  examples: []
   notes:
   - content: The term "bicycle sharing service" is admitted, but "bikesharing service"
       is preferred as it has fewer syllables.
@@ -31,4 +30,5 @@ data:
     designation: bikesharing service
   language_code: eng
   entry_status: valid
+  annotations: []
 id: d3f06b10-bacc-5924-a510-03ff97c089ba

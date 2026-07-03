@@ -42,7 +42,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.5.9.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: b175f1a4-87d6-5222-b942-4e0a57b0c841
 schema_version: '3'
@@ -55,7 +55,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The logistical framework can set restrictions on how a passenger (3.6.2.1)
       and/or good is received, transported and/or delivered.
@@ -65,4 +64,5 @@ data:
     designation: operational model
   language_code: eng
   entry_status: valid
+  annotations: []
 id: a807defc-1e9d-5109-ae9d-35b7f6ad5a09

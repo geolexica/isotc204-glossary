@@ -48,7 +48,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.3.6
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 16d371bc-4c88-51d8-a13b-126c1b69f232
 schema_version: '3'
@@ -62,12 +62,11 @@ data:
       Source: ISO/IEC/IEEE 42010:2011, 3.6
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: architecture viewpoint
   language_code: eng
   entry_status: valid
+  annotations: []
 id: fb469565-58dc-5c27-985c-f4acd355abcc

@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.3.6.10
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: b641ac19-5529-5c6e-a7f6-0d586eb3bc27
 schema_version: '3'
@@ -22,12 +22,11 @@ data:
   - content: <i><a href="#id04E1EDE4CEA745d89693A1CAED746C7C"><font color="#0000ff"><u>manoeuvre</u></font></a></i>
       ( intersection manoeuvre ) that is vertically separated from one or more manoeuvres
       that cross its two-dimensional path
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: grade separated manoeuvre
   language_code: eng
   entry_status: valid
+  annotations: []
 id: a564d3b5-38c4-53d0-9dd4-0c7762164c00

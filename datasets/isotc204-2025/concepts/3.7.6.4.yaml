@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.7.6.4
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 7e16506c-d1fd-557e-a2c5-7a1b990ef376
 schema_version: '3'
@@ -24,12 +24,11 @@ data:
       href="#idBE5E40CDEC8846b49D1CE99547F20B51"><font color="#0000ff"><u>cycle lanes</u></font></a></i>
       ( cycle lane ) of a <i><a href="#idEF0DB12C0BE247319EF2AC75AC234F8F"><font color="#0000ff"><u>road
       network</u></font></a></i> ( road network )
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: non-road vehicle
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 25c343cf-796e-5ba1-a392-627e1c5a3c50

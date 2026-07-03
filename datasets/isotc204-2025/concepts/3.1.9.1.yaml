@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.9.1
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 24a7bf33-c505-54dc-9e2f-c4b70688235d
 schema_version: '3'
@@ -24,7 +24,6 @@ data:
       color="#0000ff"><u>planning</u></font></a></i> ( planning architecture ) and
       <i><a href="#id78E7722880BD47d7BEB75B27B5842A74"><font color="#0000ff"><u>deployment
       architectures</u></font></a></i> ( deployment architecture )
-  examples: []
   notes:
   - content: Interface standards are based on a reference architecture, which should
       be explicitly described.
@@ -34,4 +33,5 @@ data:
     designation: reference architecture
   language_code: eng
   entry_status: valid
+  annotations: []
 id: f805c7ac-d2ca-5495-abab-e6ba0f079724

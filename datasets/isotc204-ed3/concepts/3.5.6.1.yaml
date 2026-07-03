@@ -20,7 +20,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.5.6.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: '0699354d-76c7-521f-904e-ad15b5bd973f'
 schema_version: '3'
@@ -35,7 +35,6 @@ data:
       Example 2: Publicly-accessible shared cars, shared bikes and shared el-scooters are examples of public transport means for shared and individual use.
       ---
       Comment on this page
-  examples: []
   notes:
   - content: A public transport service can be scheduled or on-demand.
   - content: A public transport service is based on the use of publicly accessible
@@ -49,4 +48,5 @@ data:
     designation: public transport service
   language_code: eng
   entry_status: valid
+  annotations: []
 id: bdae5c8e-8bad-5302-a5dd-95d02c5c0783

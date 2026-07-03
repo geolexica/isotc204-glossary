@@ -20,7 +20,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.8.5
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 2ff9362f-7e1f-55a3-9fab-504fdead3191
 schema_version: '3'
@@ -34,7 +34,6 @@ data:
       Admitted term: information flow triple
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The term "information flow triple" is used extensively in the Architecture
       Reference for Cooperative and Intelligent Transportation (ARC-IT; see Reference
@@ -45,4 +44,5 @@ data:
     designation: information transfer
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 012b43a9-79b0-5fe8-b3d3-151f722466a4

@@ -8,7 +8,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.3.5
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 41004483-74f1-59fa-b43c-d30d21bf355e
 schema_version: '3'
@@ -22,7 +22,6 @@ data:
       Source: ISO/IEC/IEEE 42010:2011, 3.7
       ---
       Comment on this page
-  examples: []
   notes:
   - content: A concern pertains to any influence on a system in its {{urn:iso:std:iso:14812:ed3:3.1.3.11,environment}},
       including developmental, technological, business, operational, organizational,
@@ -36,4 +35,5 @@ data:
     designation: system concern
   language_code: eng
   entry_status: valid
+  annotations: []
 id: a45351ac-e776-5745-8cbb-fc8ce06f823e

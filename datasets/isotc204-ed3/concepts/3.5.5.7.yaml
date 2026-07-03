@@ -8,7 +8,7 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: fc441174-f7e4-5e20-8fa4-5263c332d238
 schema_version: '3'
@@ -21,7 +21,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: A public transport app can include features such as viewing maps, searching
       routes and schedules, real-time arrival information, ticketing, electronic boarding
@@ -32,4 +31,5 @@ data:
     designation: public transport app
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 28dc3c24-c55c-5946-b22b-81f2e7a195a0

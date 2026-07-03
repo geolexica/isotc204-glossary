@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.9.6
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 19e02248-b261-5595-9467-4f05cbbec0b9
 schema_version: '3'
@@ -28,11 +28,11 @@ data:
       servicing an earlier transport consumer'
   examples:
   - content: ridesplitting
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: paired on-demand
   language_code: eng
   entry_status: valid
+  annotations: []
 id: ad050cd3-b16a-5f81-8dba-7dd6b74b3e96

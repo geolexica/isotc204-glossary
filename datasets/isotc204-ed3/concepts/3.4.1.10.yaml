@@ -14,7 +14,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[point coordinates](point coordinates.md)"
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 1bf653d3-a2e3-56ca-9d93-2e34aef47247
 schema_version: '3'
@@ -27,7 +27,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The number of values in a coordinate tuple is immutable.
   - content: This definition was derived by consolidating the definitions of "coordinate
@@ -38,4 +37,5 @@ data:
     designation: coordinate tuple
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 2ea956f5-d643-511a-884e-61c96ea5d60f

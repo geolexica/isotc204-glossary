@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.2.4
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 5a24e6d3-a8ba-5365-806b-40b02d92f8d9
 schema_version: '3'
@@ -22,12 +22,11 @@ data:
   - content: '&lt;transport&gt;<b> </b><i><a href="#id8C060C793CE14fb88B50E52BD3A3FDE6"><font
       color="#0000ff"><u>need</u></font></a></i> ( user need ) to transport one or
       more transport items to a different location'
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: transport need
   language_code: eng
   entry_status: valid
+  annotations: []
 id: ed77c03c-9e38-51be-909c-a438914c6ed0

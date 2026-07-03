@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.2.3.4
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: cdeccbd0-4517-53c6-a7c3-c7c2ad398358
 schema_version: '3'
@@ -25,12 +25,11 @@ data:
       color="#0000ff"><u>vehicle systems</u></font></a></i> ( vehicle system ) and/or
       <i><a href="#id3237352F30AA4cbeA2A9728C0671B5A4"><font color="#0000ff"><u>personal
       systems</u></font></a></i> ( personal system )
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: roadside unit
   language_code: eng
   entry_status: valid
+  annotations: []
 id: '008402fb-f49f-51fa-b3a1-0a5117214106'

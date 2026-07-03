@@ -32,7 +32,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.5.7.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 51970fa6-62ff-56b1-aca8-e4257f3e3774
 schema_version: '3'
@@ -45,7 +45,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: Contracts can be via a third party, implied or verbal, especially in
       the case of {{urn:iso:std:iso:14812:ed3:3.5.7.5,peer-to-peer}}.
@@ -58,4 +57,5 @@ data:
     designation: shared mobility contract model
   language_code: eng
   entry_status: valid
+  annotations: []
 id: '0296a48e-982e-500f-8282-0615bf5407b5'

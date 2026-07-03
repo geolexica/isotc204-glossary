@@ -16,7 +16,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.6.2.2
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: '011080c0-c2e1-5f2c-9cbb-302a238d03df'
 schema_version: '3'
@@ -29,7 +29,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: A vehicle occupant in a stationary vehicle is not necessarily a {{urn:iso:std:iso:14812:ed3:3.6.1.1,traveller}}.
   terms:
@@ -38,4 +37,5 @@ data:
     designation: vehicle occupant
   language_code: eng
   entry_status: valid
+  annotations: []
 id: fed0d7f7-a180-57ac-8f4e-c40952ef70e9

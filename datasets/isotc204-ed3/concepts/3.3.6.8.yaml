@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.3.6.8
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: f4468da0-c4a9-5ec3-88a3-e839d62c0830
 schema_version: '3'
@@ -26,8 +26,6 @@ data:
       Admitted term: grade junction
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
@@ -37,4 +35,5 @@ data:
     designation: at-grade intersection
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 1187e9c1-b952-5a00-b084-892bb440b325

@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.13.1
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: ec438e6f-54de-56d4-b6a4-c93fa65adb41
 schema_version: '3'
@@ -20,8 +20,6 @@ schema_version: '3'
 data:
   definition:
   - content: zero-dimensional geographic primitive representing position in time
-  examples: []
-  notes: []
   sources:
   - origin:
       ref:
@@ -33,4 +31,5 @@ data:
     designation: instant
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 8436c555-66ba-5929-8cfe-bb4751e4f24a

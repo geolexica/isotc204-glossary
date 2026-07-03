@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.8.5
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 4ae10ff7-f18b-5544-86e1-581080bf1a86
 schema_version: '3'
@@ -22,12 +22,11 @@ data:
   - content: <i><a href="#idBF1211A2A721402c8450C76DD85215BD"><font color="#0000ff"><u>cooperative</u></font></a></i>
       ( cooperative ) financial model where <i><a href="#id8B698530E3B946b3B78C2E6C58FE87D7"><font
       color="#0000ff"><u>users</u></font></a></i> ( user ) partner on a per-use basis
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: mutual benefit
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 82733d33-4452-51e6-953e-1aa98a53b641

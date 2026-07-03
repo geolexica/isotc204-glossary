@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.2.8.6
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: c2340f25-36e6-5a59-aced-937fa839eba6
 schema_version: '3'
@@ -25,7 +25,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: An ITS deployment typically refers to the support, central and roadside
       ITS stations coupled with a tacit acknowledgement of the mobile ITS stations
@@ -36,4 +35,5 @@ data:
     designation: ITS deployment
   language_code: eng
   entry_status: valid
+  annotations: []
 id: dda4a77b-cfdd-5564-bb9f-d1b6d397205d

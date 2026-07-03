@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.6.9
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 655c7f67-ae55-5b51-b428-3c5458c09270
 schema_version: '3'
@@ -25,11 +25,11 @@ data:
       ( resource ) contains another resource'
   examples:
   - content: Every ITS component includes one or more modules.
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: includes
   language_code: eng
   entry_status: valid
+  annotations: []
 id: '084f6dac-324b-515f-9580-80ffc025554e'

@@ -8,7 +8,7 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: '08356be5-435a-523b-91d7-3e2834ff1fcb'
 schema_version: '3'
@@ -22,7 +22,6 @@ data:
       EXAMPLE: A city government
       ---
       Comment on this page
-  examples: []
   notes:
   - content: A jurisdictional entity assigns its authority to one or more rule-makers,
       which may be itself (e.g., the individual owner or a campus) or other divisions
@@ -36,4 +35,5 @@ data:
     designation: jurisdictional entity
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 8e230bee-7f2e-5f35-b903-b2ce5ed15f22

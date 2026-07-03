@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.3.5.4
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: cf517f5c-2624-509a-9a53-f1cf3b6e8142
 schema_version: '3'
@@ -22,7 +22,6 @@ data:
   - content: '&lt;road network&gt; component of a <i><a href="#idB8E5C5BA451347a0A348DC3F11BA7DA5"><font
       color="#0000ff"><u>road model</u></font></a></i> ( road model ) representing
       a point location of the road network graph'
-  examples: []
   notes:
   - content: The point location typically represents a point along the road which
       might be used to designate the location of a junction, public transport stop,
@@ -33,4 +32,5 @@ data:
     designation: node
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 0e2fa560-5096-5822-8e29-08e34df4b60d

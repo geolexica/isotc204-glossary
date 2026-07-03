@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.2.4.4
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 3d4f2817-ee0c-54f6-bff3-337180da46e1
 schema_version: '3'
@@ -24,11 +24,11 @@ data:
       traveller information
   examples:
   - content: kiosk
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: public information device
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 2eb09d90-ec35-509a-b711-aedf07ec4344

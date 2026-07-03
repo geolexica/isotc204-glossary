@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.10.4
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: fbeaf00a-cb4d-5c64-badd-336ceeb2992a
 schema_version: '3'
@@ -25,7 +25,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: A data concept registry typically includes advanced features for adding
       retrieving, and working with its contents.
@@ -41,4 +40,5 @@ data:
     designation: data concept registry
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 982d31cf-63f6-5664-901d-2fd93e714ef1

@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.7.5.5
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: e7be69e5-df1e-5c4e-bb08-83fdad81b4be
 schema_version: '3'
@@ -26,12 +26,11 @@ data:
       EXAMPLE: Typical {{urn:iso:std:iso:14812:ed3:3.6.2.1,passenger}} car.
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: moderately high-speed vehicle
   language_code: eng
   entry_status: valid
+  annotations: []
 id: cbd5bced-1487-5a69-84c2-431bb616bfb3

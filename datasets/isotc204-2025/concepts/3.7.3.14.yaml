@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.7.3.14
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 9b17b1d2-a5a5-5cce-9f02-d49c69608545
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       color="#0000ff"><u>vehicle</u></font></a></i> ( vehicle )<i> </i>designed to
       be operated by a <i><a href="#idA195A5913A44427f96436DF49EAAC159"><font color="#0000ff"><u>person</u></font></a></i>
       ( person ) during part or all of every <i>trip</i>.'
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: conventional vehicle
   language_code: eng
   entry_status: valid
+  annotations: []
 id: c2a4c630-fe9b-5448-a206-e2450452a4ea

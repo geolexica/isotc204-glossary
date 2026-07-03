@@ -42,7 +42,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.7.3.10
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: eb1df05e-7bd1-5f4a-a154-fb636cded59c
 schema_version: '3'
@@ -55,7 +55,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The abbreviated form ("ADS") is the most preferred form and the alternative
       form ("Automated Driving System") uses initial capitals to avoid confusion with
@@ -69,4 +68,5 @@ data:
     designation: Automated Driving System
   language_code: eng
   entry_status: valid
+  annotations: []
 id: c135fe60-57bb-5ce2-8fd7-e7ab03f96c2b

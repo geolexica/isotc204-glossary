@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.2.2.3
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 5b12fbaa-8a79-5504-8ba5-2e59947173f9
 schema_version: '3'
@@ -22,12 +22,11 @@ data:
   - content: <i><a href="#id75E3C9D3F2084e00BA93F5DD34084653"><font color="#0000ff"><u>central
       system</u></font></a></i> ( central system ) that allows an entity to monitor
       and manage the construction and maintenance of road infrastructure
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: maintenance and construction central management system
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 39c9e7b0-db11-5cec-85b8-12ec56fadee2

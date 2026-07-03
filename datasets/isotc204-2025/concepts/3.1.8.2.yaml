@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.8.2
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 3b0ef1a0-1281-540a-832b-64c791391c82
 schema_version: '3'
@@ -25,7 +25,6 @@ data:
       objects</u></font></a></i> ( functional object ) in the provision of one or
       more <i><a href="#id4D485872E9EE414e9CE1AB855A03540B"><font color="#0000ff"><u>ITS
       services</u></font></a></i> ( ITS service )
-  examples: []
   notes:
   - content: Physical objects are ITS components if they are an integral part of the
       system; otherwise they are terminators.
@@ -35,4 +34,5 @@ data:
     designation: ITS component
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 391e866d-114a-5e16-a4f9-3630b0880c0c

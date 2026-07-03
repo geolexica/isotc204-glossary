@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.2.3.3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 26093630-b2b5-5b9d-ac79-e517e124b49d
 schema_version: '3'
@@ -25,7 +25,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: Connected roadside equipment typically provides ITS-related functionality
       but the term includes roadside equipment that only provide the ITS service of
@@ -42,4 +41,5 @@ data:
     designation: CV-RSE
   language_code: eng
   entry_status: valid
+  annotations: []
 id: aa6a5f7b-30e1-5537-84d6-7ac2d6370a29

@@ -18,7 +18,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.2.2
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 7fbde6e9-265d-557f-ab85-e9af7adabf6f
 schema_version: '3'
@@ -31,7 +31,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: Transport systems can also include any supporting system, such as information
       and control systems.
@@ -41,4 +40,5 @@ data:
     designation: transport system
   language_code: eng
   entry_status: valid
+  annotations: []
 id: ece1cfe7-8b95-5550-ab40-1c0bdca8a525

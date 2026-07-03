@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.3.1
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 4747d07f-0ab5-5223-8c2e-b6a0f26573f6
 schema_version: '3'
@@ -21,12 +21,11 @@ data:
   definition:
   - content: functionality that fulfils one or more <i><a href="#idC312FB0B6C1140db86F158458C5AC4B8"><font
       color="#0000ff"><u>ITS user needs</u></font></a></i> ( ITS user need )
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: ITS service
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 70b08a83-fee0-5484-9f9c-7f377191fb27

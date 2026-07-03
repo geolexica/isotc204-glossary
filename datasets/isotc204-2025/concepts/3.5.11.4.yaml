@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.11.4
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: e1ea57b0-be2d-5cdf-b854-c5e32d3497fe
 schema_version: '3'
@@ -24,12 +24,11 @@ data:
       transport service</u></font></a></i> ( shared transport service ) that transports
       passengers <i><a href="#idE5D76E7905404edfBA6A94FCEC721A6A"><font color="#0000ff"><u>concurrently</u></font></a></i>
       ( concurrent )
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: rideshare service
   language_code: eng
   entry_status: valid
+  annotations: []
 id: ca3bfd1a-c380-5696-af31-73c46785c91e

@@ -29,7 +29,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.2.7.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 8a394467-6ece-5de6-a8e2-d2d2ad9b87df
 schema_version: '3'
@@ -42,8 +42,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
@@ -53,4 +51,5 @@ data:
     designation: BSMD
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 55dd91e2-a084-5995-bf3d-d3de921bd5d5

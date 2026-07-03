@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.9.4
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 2806f9c8-aa51-5d93-b327-c18bcad71e17
 schema_version: '3'
@@ -23,7 +23,6 @@ data:
       architecture</u></font></a></i> ( reference architecture ) for handling communications
       within a <i><a href="#id8EA65F2D6F6347bf8FF4C5CD35C61C68"><font color="#0000ff"><u>physical
       object</u></font></a></i> ( physical object ) as defined in ISO 21217
-  examples: []
   notes:
   - content: The ITS-S reference architecture provides a model for describing communication.
   terms:
@@ -32,4 +31,5 @@ data:
     designation: ITS-S reference architecture
   language_code: eng
   entry_status: valid
+  annotations: []
 id: f170e8e9-f28c-5e9d-996c-43f207bfce82

@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.3.5.6
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 80c8099b-d6a3-5733-8d32-afa10c3826a5
 schema_version: '3'
@@ -24,7 +24,6 @@ data:
       color="#0000ff"><u>road</u></font></a></i> ( road ) between two <i><a href="#id32DA2E8F5F69415a9D62BD51CF4FAC92"><font
       color="#0000ff"><u>nodes</u></font></a></i> ( node ) of operational or managerial
       significance
-  examples: []
   notes:
   - content: The operational characteristics of the nodes would relate to the type
       of road model. For example, a traffic system might base its road links on nodes
@@ -35,4 +34,5 @@ data:
     designation: road link
   language_code: eng
   entry_status: valid
+  annotations: []
 id: b9715bf2-9dc6-5968-88e2-cee5e7d02fc2

@@ -8,7 +8,7 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 73eaa6f1-c384-5f00-b108-c73b36ba02fe
 schema_version: '3'
@@ -22,12 +22,11 @@ data:
       EXAMPLE: {{urn:iso:std:iso:14812:ed3:3.6.1.4,Pedestrian}}, cyclist, motorcyclist, road work personnel, horse, horseback rider, person with disabilities (e.g., wheelchair), etc.
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: vulnerable road user
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 650362a0-02a3-51ca-a4f7-815543e61f57

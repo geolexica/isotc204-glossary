@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.6.4
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: f7e73dd3-1740-5398-95e0-2372c406b568
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       color="#0000ff"><u>element</u></font></a></i> ( element ) that represents coordination
       between two <i><a href="#idFE675C964126463bBB0CAB673DBFF9C7"><font color="#0000ff"><u>enterprise
       objects</u></font></a></i> ( enterprise object )'
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: interaction
   language_code: eng
   entry_status: valid
+  annotations: []
 id: d8271ab0-8605-5b6c-b939-a73044d4b043

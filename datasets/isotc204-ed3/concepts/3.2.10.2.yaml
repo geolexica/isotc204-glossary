@@ -8,7 +8,7 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: a0473baf-8d1c-54ca-b2a4-5ab0062cc56d
 schema_version: '3'
@@ -21,12 +21,11 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: sensor
   language_code: eng
   entry_status: valid
+  annotations: []
 id: e566fffe-bfe1-5480-bc34-775ba244601b

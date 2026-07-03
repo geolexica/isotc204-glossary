@@ -20,7 +20,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.3.1.9
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: e21fc73f-9ef2-53ce-9943-9bab8f68c8b3
 schema_version: '3'
@@ -33,7 +33,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The "multiple carriageway" term can be used to describe a road, road
       section, road link, or road segment.
@@ -47,4 +46,5 @@ data:
     designation: multiple carriageway
   language_code: eng
   entry_status: valid
+  annotations: []
 id: '08581efc-79e4-52a2-833b-a5f8d0ddfe8d'

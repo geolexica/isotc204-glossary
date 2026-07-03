@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.2.2.7
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 1f181b6c-a6ce-54ab-96dd-17367c93cd84
 schema_version: '3'
@@ -22,12 +22,11 @@ data:
   - content: <i><a href="#id75E3C9D3F2084e00BA93F5DD34084653"><font color="#0000ff"><u>central
       system</u></font></a></i> ( central system ) that officially records traffic
       regulations in electronic form so that they can be distributed to other systems
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: traffic regulation central system
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 899a799e-02f6-5c7d-950b-e45aca865767

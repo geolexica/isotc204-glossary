@@ -8,7 +8,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.7.3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: c5603931-2d96-553c-8617-881cb5d256f4
 schema_version: '3'
@@ -21,7 +21,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: A function transforms inputs into outputs that may include the creation,
       modification, monitoring or destruction of {{urn:iso:std:iso:14812:ed3:3.1.3.10,elements}}.
@@ -34,4 +33,5 @@ data:
     designation: functional view function
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 1ef689b6-60ca-560f-b2c9-57ab45f8b0b8

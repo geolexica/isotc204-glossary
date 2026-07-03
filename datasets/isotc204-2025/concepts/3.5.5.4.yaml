@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.5.4
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 997b0433-956e-50d7-ba88-c149eb626749
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       color="#0000ff"><u>need</u></font></a></i> ( user need ) for communication functionality
       that connects an <i><a href="#idF1E402D380EE478c957A2FF53D9EA0C5"><font color="#0000ff"><u>ITS-S</u></font></a></i>
       ( ITS station ) to other nodes'
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: ITS-S communication need
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 1d16a631-ccf6-5233-8884-5c814299af34

@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.3.1.13
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 8b91d8c1-a79c-5ce9-a842-013153bca31d
 schema_version: '3'
@@ -22,7 +22,6 @@ data:
   - content: portion of <i><a href="#id855CC715739D462e9790E893914D8768"><font color="#0000ff"><u>carriageway</u></font></a></i>
       ( carriageway ) designed to accommodate a single line of moving <i><a href="#idCD96217608B748ad8F85A3F4059FD426"><font
       color="#0000ff"><u>road vehicles</u></font></a></i> ( road vehicle )
-  examples: []
   notes:
   - content: A traffic lane might be bi-directional, such as a single lane road, a
       two-way turn/overtaking lane, or a reversible flow lane.
@@ -37,4 +36,5 @@ data:
     designation: traffic lane
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 9f8f5d2c-62a7-5338-b931-905849b640a0

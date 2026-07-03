@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.5.9.5
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 93af14d0-9484-5580-9e96-ecee2c08efcd
 schema_version: '3'
@@ -26,7 +26,6 @@ data:
       EXAMPLE: Airport shuttle.
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The service corridor is defined by the provider, who may impose further
       restrictions on where stops are allowed.
@@ -38,4 +37,5 @@ data:
     designation: dynamic route
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 78995063-2c20-5f2c-90f7-fbbf2ce78be7

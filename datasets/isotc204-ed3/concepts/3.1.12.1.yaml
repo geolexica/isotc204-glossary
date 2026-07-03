@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.12.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: dfca25f0-41f0-5462-8fe0-a224cbd790d2
 schema_version: '3'
@@ -26,12 +26,11 @@ data:
       Source: ISO/IEC/IEEE 26515:2018, 3.15, modified - Note 1 to entry removed.
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: use case
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 14cd10de-2db9-56b5-b061-70c8eeca8edc

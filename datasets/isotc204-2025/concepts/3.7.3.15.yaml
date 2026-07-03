@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.7.3.15
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 32d0223d-24b5-54f7-bc54-04672bfece62
 schema_version: '3'
@@ -22,7 +22,6 @@ data:
   - content: <i><a href="#id555BFAB2A747457fB01D99511FDE885A"><font color="#0000ff"><u>vehicle</u></font></a></i>
       ( vehicle ) integrated with an <i><a href="#idE3B6FF9F65A448ffBA3B74876D599814"><font
       color="#0000ff"><u>ADS</u></font></a></i> ( ADS )
-  examples: []
   notes:
   - content: The terms "automated vehicle" and "AV" are often used in a colloquial
       form, however, these terms might be used to mean either an "ADS-equipped vehicle"
@@ -48,4 +47,5 @@ data:
     designation: ADS-equipped vehicle
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 0c31a0a6-86ec-5565-95c0-093fd75ead0b

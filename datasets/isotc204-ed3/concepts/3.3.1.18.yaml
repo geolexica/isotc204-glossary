@@ -20,7 +20,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.3.1.18
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: f520abc3-7e2e-554d-9efd-9374caef7d21
 schema_version: '3'
@@ -37,7 +37,6 @@ data:
       | {{urn:iso:std:iso:14812:ed3:3.3.1.20,soft shoulder}} | subClassOf |
       ---
       Comment on this page
-  examples: []
   notes:
   - content: In some jurisdictions, a shoulder can be used for emergency stops and/or
       other purposes in addition to providing a clear zone for safety purposes.
@@ -49,4 +48,5 @@ data:
     designation: shoulder
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 875445c0-4f0b-5afd-91c0-b3126f56d884

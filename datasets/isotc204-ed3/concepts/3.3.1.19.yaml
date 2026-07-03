@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.3.1.19
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 9f608cf3-7d03-54dc-b1a8-29b9b316e1ed
 schema_version: '3'
@@ -25,7 +25,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: A hard shoulder can be narrow or wide enough for a {{urn:iso:std:iso:14812:ed3:3.3.1.13,traffic
       lane}}.
@@ -37,4 +36,5 @@ data:
     designation: hard shoulder
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 3754c1e5-7ce6-56b0-a092-93b3474e9970

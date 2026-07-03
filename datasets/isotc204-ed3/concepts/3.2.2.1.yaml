@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.2.2.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: fbf75507-ecc5-5ad6-9613-8020bacc1702
 schema_version: '3'
@@ -25,12 +25,11 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: emergency management central system
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 76c249cf-65e6-5ac3-af79-c049b41ee9be

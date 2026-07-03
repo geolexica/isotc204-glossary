@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.11.6
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 0c38a57f-19d9-5f1a-8245-02c202c86a4d
 schema_version: '3'
@@ -21,7 +21,6 @@ data:
   definition:
   - content: bi-directional communication sequence between two parties in accordance
       with predetermined protocols
-  examples: []
   notes:
   - content: The term "dialog" represents the American English spelling.
   - content: The term "dialogue" can be used when the interface context is known.
@@ -31,4 +30,5 @@ data:
     designation: interface dialogue
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 96e5b57e-aed5-5d5e-8596-8d30d0dab77d

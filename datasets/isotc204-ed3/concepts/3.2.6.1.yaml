@@ -16,7 +16,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.2.6.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: ab24a6b6-9d56-5bd5-bad4-5c6f564a950b
 schema_version: '3'
@@ -30,7 +30,6 @@ data:
       Admitted term: onboard equipment
       ---
       Comment on this page
-  examples: []
   notes:
   - content: ITS on-board equipment relates to any functionality. When there is a
       need to distinguish between core functionality and that by a special vehicle,
@@ -50,4 +49,5 @@ data:
     designation: on-board equipment
   language_code: eng
   entry_status: valid
+  annotations: []
 id: a8d504e0-aa85-5edc-90f8-02c0c5758b00

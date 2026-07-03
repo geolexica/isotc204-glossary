@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.3.3.2
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 56697dc7-dd4c-5740-b789-08c8251ed851
 schema_version: '3'
@@ -22,7 +22,6 @@ data:
   - content: infrastructure primarily designed for the use of cycles and separate
       from a <i><a href="#id855CC715739D462e9790E893914D8768"><font color="#0000ff"><u>carriageway</u></font></a></i>
       ( carriageway )
-  examples: []
   notes:
   - content: Local legislation might allow cycleways to be used by a variety of low-speed
       vehicles (e.g., low-speed scooters, skateboards, etc.) and might share usage
@@ -33,4 +32,5 @@ data:
     designation: cycleway
   language_code: eng
   entry_status: valid
+  annotations: []
 id: b1e0ae1a-311b-501a-b69b-9869b5a02692

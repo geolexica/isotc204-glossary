@@ -3,7 +3,7 @@ data:
   identifier: 3.4.3.3
   localized_concepts:
     eng: 378c9862-30c3-5302-9711-23a3e69c0b49
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 07fd01b2-2314-542f-b952-abedcba1cc0a
 schema_version: '3'
@@ -15,7 +15,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: ISO 3166-2 includes codes for major subdivisions of countries and states.
   terms:
@@ -27,4 +26,5 @@ data:
     designation: area identified using ISO 3166-2 identifiers
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 378c9862-30c3-5302-9711-23a3e69c0b49

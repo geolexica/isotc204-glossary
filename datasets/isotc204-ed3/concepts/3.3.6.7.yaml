@@ -22,7 +22,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.3.6.7
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: cf6db907-cd96-5196-9f74-6ca3a1972aef
 schema_version: '3'
@@ -36,7 +36,6 @@ data:
       Admitted term: maneuver
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The term "maneuver" is the American English spelling.
   terms:
@@ -48,4 +47,5 @@ data:
     designation: manoeuvre
   language_code: eng
   entry_status: valid
+  annotations: []
 id: eba38fb0-4556-564b-adc2-9935ed48402c

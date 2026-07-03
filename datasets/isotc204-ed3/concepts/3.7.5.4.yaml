@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.7.5.4
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: bf785a01-89a1-5321-8900-6c04c5c20bf6
 schema_version: '3'
@@ -26,12 +26,11 @@ data:
       EXAMPLE: Typical side-by-side utility task vehicle (UTV).
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: moderate-speed vehicle
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 9a9cde69-acbe-5796-8a5b-ff3fb6b41117

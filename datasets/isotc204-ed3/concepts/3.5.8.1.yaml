@@ -46,7 +46,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.5.8.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: c303bcf9-6088-595d-abfb-3b81d99e4e89
 schema_version: '3'
@@ -59,12 +59,11 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: financial model
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 75bcd514-7a00-5197-af2e-4033c4ec225e

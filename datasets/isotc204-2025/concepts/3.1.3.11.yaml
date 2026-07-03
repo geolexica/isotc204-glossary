@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.3.11
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: a6607db5-a18d-5c64-830c-9708b4f6f63e
 schema_version: '3'
@@ -22,7 +22,6 @@ data:
   - content: '&lt;system&gt; context determining the setting and circumstances of
       all influences upon a <i><a href="#id9F9DE40282B84b8aAD4F618C7836F09E"><font
       color="#0000ff"><u>system</u></font></a></i> ( system )'
-  examples: []
   notes:
   - content: The environment of a system includes developmental, technological, business,
       operational, organizational, political, economic, legal, regulatory, ecological
@@ -38,4 +37,5 @@ data:
     designation: environment
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 8a32376c-d235-55dc-bd2a-558fe52e456b

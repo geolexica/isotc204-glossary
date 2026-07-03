@@ -20,7 +20,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.6.8
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 672e708f-49c8-5c02-b37a-098374e8fb59
 schema_version: '3'
@@ -37,8 +37,6 @@ data:
       | {{urn:iso:std:iso:14812:ed3:3.1.6.9,include}} | subClassOf |
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
@@ -48,4 +46,5 @@ data:
     designation: enterprise view relationship
   language_code: eng
   entry_status: valid
+  annotations: []
 id: a2bad772-6349-5d8a-9072-de3f22771c13

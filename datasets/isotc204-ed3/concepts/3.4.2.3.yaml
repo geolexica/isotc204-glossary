@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.4.2.3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: c70605a9-56f9-5f27-938e-6994a300917f
 schema_version: '3'
@@ -26,12 +26,11 @@ data:
       Admitted term: dynamic location reference
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: dynamic spatial reference
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 425dda66-6c96-52cb-a7fa-cdf754961f60

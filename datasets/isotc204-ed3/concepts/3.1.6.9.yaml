@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.6.9
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 194b9397-7809-58c5-b0d1-93bded04ac4f
 schema_version: '3'
@@ -26,8 +26,6 @@ data:
       EXAMPLE: Every ITS component includes one or more {{urn:iso:std:iso:14812:ed3:3.1.8.7,modules}}.
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
@@ -37,4 +35,5 @@ data:
     designation: enterprise view include
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 00dc2291-f7bd-5112-a44a-ff8583b08b16

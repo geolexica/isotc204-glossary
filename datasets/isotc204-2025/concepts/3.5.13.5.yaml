@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.13.5
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 149acb2f-b248-58cc-8016-168acaa36b9a
 schema_version: '3'
@@ -25,12 +25,11 @@ data:
       a <i><a href="#id5F69F95814304a3991719C6E60838C0A"><font color="#0000ff"><u>transport
       service</u></font></a></i> ( transport service ) from an individual that participates
       in the mobility app's network
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: P2P mobility sharing app
   language_code: eng
   entry_status: valid
+  annotations: []
 id: f210b08c-650e-590a-87e9-bc8d8f8d6243

@@ -138,7 +138,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.7.1.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 5301c0ae-230b-5037-8104-3d2470f1f799
 schema_version: '3'
@@ -177,12 +177,11 @@ data:
       | {{urn:iso:std:iso:14812:ed3:3.7.2.8,vehicle registration plate identifier}} | identifierUniqueWithinRegionFor |
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: vehicle
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 92a8b59e-9690-52d9-98bd-8fae5da05aa2

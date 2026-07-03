@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.2.3.4
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: ba32d26c-3885-5af9-a1d5-6516235e5c6b
 schema_version: '3'
@@ -28,8 +28,6 @@ data:
       | {{urn:iso:std:iso:14812:ed3:3.2.3.3,connected vehicle roadside equipment}} | aggregates |
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
@@ -42,4 +40,5 @@ data:
     designation: RSU
   language_code: eng
   entry_status: valid
+  annotations: []
 id: f5a448d9-ce32-5f01-84fa-6265c07b3490

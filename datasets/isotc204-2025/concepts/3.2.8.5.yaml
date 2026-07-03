@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.2.8.5
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 9de0b7dc-c6ed-534c-982e-ab32db67f29a
 schema_version: '3'
@@ -23,7 +23,6 @@ data:
       color="#0000ff"><u>physical object</u></font></a></i> ( physical object ) necessary
       to implement one or more <i><a href="#id1A22C407CEBA41c495E1D89FC4C87504"><font
       color="#0000ff"><u>ITS applications</u></font></a></i> ( ITS application )
-  examples: []
   notes:
   - content: An ITS application typically requires multiple components (e.g., an ITS-S
       acting as a user and another ITS-S acting as a provider). An ITS implementation
@@ -37,4 +36,5 @@ data:
     designation: ITS implementation
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 26443d56-a446-534f-baf4-2ce109586990

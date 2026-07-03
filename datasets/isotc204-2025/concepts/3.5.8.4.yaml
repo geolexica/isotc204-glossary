@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.8.4
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 6e8c7ac9-1d45-594b-8db6-e32dcf511fb1
 schema_version: '3'
@@ -24,7 +24,6 @@ data:
       color="#0000ff"><u>users</u></font></a></i> ( user ) partner to defray the costs
       of a <i><a href="#id1C826F4DC7744eb7B8DDB33EF68A28F5"><font color="#0000ff"><u>service</u></font></a></i>
       ( service )
-  examples: []
   notes:
   - content: Cooperative models are exclusive commercial and public models.
   terms:
@@ -33,4 +32,5 @@ data:
     designation: cooperative
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 546f5ea8-7dac-5979-b1ef-a159c7ce01f6

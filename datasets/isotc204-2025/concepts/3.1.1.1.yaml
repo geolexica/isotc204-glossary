@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.1.1
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 2c5abced-78af-5171-9296-e75762ec4be4
 schema_version: '3'
@@ -23,11 +23,11 @@ data:
       associations among these things
   examples:
   - content: A person, object, event, idea, process, etc.
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: entity
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 13bb22e6-1756-53a6-9c7f-694b4897dc61

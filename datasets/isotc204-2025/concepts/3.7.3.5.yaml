@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.7.3.5
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: a4fcf130-4fec-5d3d-b841-b1d4c8c57932
 schema_version: '3'
@@ -24,7 +24,6 @@ data:
       system ) from reliably performing its portion of the <i><a href="#id53381BA7AB7F48d6AED7DBCA2D07E6C9"><font
       color="#0000ff"><u>DDT</u></font></a></i> ( dynamic driving task ) on a sustained
       basis
-  examples: []
   notes:
   - content: The malfunction may be internal to the driving automation system or part
       of another vehicle system.
@@ -34,4 +33,5 @@ data:
     designation: DDT performance-relevant system failure
   language_code: eng
   entry_status: valid
+  annotations: []
 id: a357cb62-f8d8-546f-bb5d-836192196807

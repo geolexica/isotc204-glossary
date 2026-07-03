@@ -14,7 +14,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[movable bridge](movable bridge.md)"
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 77467bfe-c092-5fcb-b4ef-e5ff970ff4f2
 schema_version: '3'
@@ -30,12 +30,11 @@ data:
       | {{urn:iso:std:iso:14812:ed3:3.3.7.4,movable bridge}} | subClassOf |
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: bridge
   language_code: eng
   entry_status: valid
+  annotations: []
 id: f3b85492-3fd5-5651-8ad9-36807a124dee

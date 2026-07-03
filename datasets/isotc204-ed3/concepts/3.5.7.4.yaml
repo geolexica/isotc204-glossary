@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.5.7.4
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 82a20eb6-a529-5150-8696-ad0ed77dbbf6
 schema_version: '3'
@@ -26,12 +26,11 @@ data:
       EXAMPLE: A governmental entity using a {{urn:iso:std:iso:14812:ed3:3.5.8.2,commercial}} courier service for package delivery.
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: government customer model
   language_code: eng
   entry_status: valid
+  annotations: []
 id: e0c7a4ff-58b0-552e-9463-879354a2f959

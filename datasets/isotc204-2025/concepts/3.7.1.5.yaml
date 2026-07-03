@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.7.1.5
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 186ec4b3-4ef7-554c-be7d-3128d6537261
 schema_version: '3'
@@ -23,7 +23,6 @@ data:
       device</u></font></a></i> ( input device ) designed to be physically connected
       to a <i><a href="#id555BFAB2A747457fB01D99511FDE885A"><font color="#0000ff"><u>vehicle</u></font></a></i>
       ( vehicle ) and to remain connected even when the vehicle is not in use
-  examples: []
   notes:
   - content: Built-in input devices are typically considered to be a part of the vehicle.
   - content: Built-in input devices include devices that might be temporarily disconnected
@@ -36,4 +35,5 @@ data:
     designation: built-in vehicle input device
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 711df3d8-10d8-5b9a-b06e-e927289e3676

@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.7.5.9
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 765c3171-80ad-5b55-820d-e05c25ce7990
 schema_version: '3'
@@ -26,7 +26,6 @@ data:
       EXAMPLE: SAE J3194 associates this with a top speed in the range of 32 km/h to 48 km/h.
       ---
       Comment on this page
-  examples: []
   notes:
   - content: Local regulations for the exact speed range vary.
   terms:
@@ -35,4 +34,5 @@ data:
     designation: moderately-low vehicle speed
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 5becadf8-5e5f-5dc4-923b-dd29e557492c

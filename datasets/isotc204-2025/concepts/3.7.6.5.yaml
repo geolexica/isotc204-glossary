@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.7.6.5
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: f9cd586d-57e8-5ad2-a5e3-53bdff6fe8a3
 schema_version: '3'
@@ -23,7 +23,6 @@ data:
       ( vehicle ) meeting the legal requirements to operate in <i><a href="#idBE5E40CDEC8846b49D1CE99547F20B51"><font
       color="#0000ff"><u>cycle lanes</u></font></a></i> ( cycle lane ) and <i><a href="#idC2EE18B8A32D48a0AA257E98F7AED48E"><font
       color="#0000ff"><u>cycleways</u></font></a></i> ( cycleway )
-  examples: []
   notes:
   - content: In some countries, other special lanes could also be open to road cycles,
       such as bus lanes.
@@ -33,4 +32,5 @@ data:
     designation: road cycle
   language_code: eng
   entry_status: valid
+  annotations: []
 id: d3efed8d-4fc8-57d3-9626-0a9d065d628b

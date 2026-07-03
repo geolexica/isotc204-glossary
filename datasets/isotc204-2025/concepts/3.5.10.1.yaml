@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.10.1
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 6d412dfc-29a6-5831-8ead-aca1ff1402b7
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       color="#0000ff"><u>service provider</u></font></a></i> ( service provider )
       and a <i><a href="#id8B698530E3B946b3B78C2E6C58FE87D7"><font color="#0000ff"><u>user</u></font></a></i>
       ( user )
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: network model
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 3601c018-6cbc-548d-b931-0655a2561ca6

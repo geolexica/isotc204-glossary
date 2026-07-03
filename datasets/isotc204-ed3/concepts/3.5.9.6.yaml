@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.5.9.6
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: aa459ee5-c80b-5c85-876c-a465ca424c38
 schema_version: '3'
@@ -26,12 +26,11 @@ data:
       EXAMPLE: Ridesplitting.
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: paired on-demand
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 955af26e-02b2-5f20-bbcc-0c8abfe807d2

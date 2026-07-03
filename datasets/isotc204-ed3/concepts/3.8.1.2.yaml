@@ -8,7 +8,7 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: b9b7013b-333e-5ce7-ac97-09b98103bbdc
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       EXAMPLE: pre-payment
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: payment mode
   language_code: eng
   entry_status: valid
+  annotations: []
 id: '0837f879-aa59-51aa-a2d3-8fffc08c13b5'

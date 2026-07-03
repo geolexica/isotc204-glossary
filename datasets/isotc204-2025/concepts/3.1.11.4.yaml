@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.11.4
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 56bac10d-ec94-5f7f-9675-b47a7ca0ad3b
 schema_version: '3'
@@ -24,7 +24,6 @@ data:
       information of interest through a useful grouping of more atomic properties
       about one or more <i><a href="#idDF674EF5FB8049aaBE03DC6E5FF03853"><font color="#0000ff"><u>classes</u></font></a></i>
       ( class )
-  examples: []
   notes:
   - content: A data frame can contain other data frames.
   - content: The grouping can be a set, sequence, or a choice.
@@ -34,4 +33,5 @@ data:
     designation: data frame
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 8a76fb26-9def-5dad-bcaf-84fbcf88d7d6

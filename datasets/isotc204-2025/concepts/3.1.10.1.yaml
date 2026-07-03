@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.10.1
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 365843d9-a260-5cd7-a237-a72bb510cd10
 schema_version: '3'
@@ -29,7 +29,6 @@ data:
       ), or <i><a href="#idB06371D38EFC48e299F50E38BFECA3F5"><font color="#0000ff"><u>data
       dictionary</u></font></a></i> ( data dictionary ) defined, at a minimum, with
       an unambiguous identifier and a definition
-  examples: []
   notes:
   - content: In order to exchange a value corresponding to a data concept, more information
       than an identifier and a definition might be needed. For a property, a data
@@ -43,4 +42,5 @@ data:
     designation: data concept
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 194445cb-153b-57fa-a3b5-f66be2ad8513

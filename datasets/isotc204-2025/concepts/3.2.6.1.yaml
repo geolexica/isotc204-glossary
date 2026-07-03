@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.2.6.1
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 47dd56c4-9a14-5bcd-9d9c-d1bd33a4c4ca
 schema_version: '3'
@@ -23,7 +23,6 @@ data:
       system</u></font></a></i> ( vehicle system ) that provides all ITS functionality
       on-board the <i><a href="#id555BFAB2A747457fB01D99511FDE885A"><font color="#0000ff"><u>vehicle</u></font></a></i>
       ( vehicle )
-  examples: []
   notes:
   - content: ITS on-board equipment relates to any functionality. When there is a
       need to distinguish between core functionality and that by a special vehicle,
@@ -37,4 +36,5 @@ data:
     designation: ITS on-board equipment
   language_code: eng
   entry_status: valid
+  annotations: []
 id: deb0ae5b-2a3c-593b-9809-2bdb0820ae50

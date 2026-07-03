@@ -8,7 +8,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.5.7
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 4b21cc2e-5f14-5f02-bf2f-3b1c37a05d31
 schema_version: '3'
@@ -21,8 +21,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
@@ -32,4 +30,5 @@ data:
     designation: ITS-S security entity
   language_code: eng
   entry_status: valid
+  annotations: []
 id: a749f90b-dc89-53b7-b540-687e9fc122ff

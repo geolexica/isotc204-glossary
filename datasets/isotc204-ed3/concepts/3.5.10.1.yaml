@@ -29,7 +29,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.5.10.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 1ccbd19b-8cc1-529f-a92e-be614e55098c
 schema_version: '3'
@@ -42,12 +42,11 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: network model
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 02022ca5-cc83-5f22-af13-9bf87b5780f5

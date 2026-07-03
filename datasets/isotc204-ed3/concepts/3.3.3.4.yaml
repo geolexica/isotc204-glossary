@@ -20,7 +20,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.3.3.4
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: b5bcf05d-2e6e-51ce-b716-d87b1db4cfb6
 schema_version: '3'
@@ -34,7 +34,6 @@ data:
       Admitted term: pavement
       ---
       Comment on this page
-  examples: []
   notes:
   - content: A paved footway is called a "pavement" in the British English.
   terms:
@@ -46,4 +45,5 @@ data:
     designation: footway
   language_code: eng
   entry_status: valid
+  annotations: []
 id: b9c61583-2b8a-5a85-bce8-b4e6cbb3e4cd

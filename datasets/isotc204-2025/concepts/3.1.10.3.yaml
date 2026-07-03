@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.10.3
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 32438a7a-157a-5ec4-92e0-41df1b6a3d84
 schema_version: '3'
@@ -23,8 +23,6 @@ data:
       color="#0000ff"><u>data concept</u></font></a></i> ( data concept ) that allows
       lookup by <i><a href="#id040D6A1B412A4cc6921882357A58F747"><font color="#0000ff"><u>entity</u></font></a></i>
       ( entity ) identifier
-  examples: []
-  notes: []
   sources:
   - origin:
       ref:
@@ -36,4 +34,5 @@ data:
     designation: data dictionary
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 0d3db595-81da-5f20-ade2-defbaeb1733e

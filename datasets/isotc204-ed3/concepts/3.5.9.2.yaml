@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.5.9.2
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 15c3abff-4e29-58fa-8489-41adcdcabfe7
 schema_version: '3'
@@ -26,7 +26,6 @@ data:
       EXAMPLE: Traditional taxi service.
       ---
       Comment on this page
-  examples: []
   notes:
   - content: A single transport consumer can request the transport of multiple {{urn:iso:std:iso:14812:ed3:3.6.2.1,passengers}}.
   terms:
@@ -35,4 +34,5 @@ data:
     designation: sequential
   language_code: eng
   entry_status: valid
+  annotations: []
 id: ec333381-bdb4-582c-bb45-867b831e5721

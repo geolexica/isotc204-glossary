@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.3.7
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: ca4ac431-0afd-500b-9643-83583e36c41d
 schema_version: '3'
@@ -24,8 +24,6 @@ data:
       href="#id9F9DE40282B84b8aAD4F618C7836F09E"><font color="#0000ff"><u>system</u></font></a></i>
       ( system ) from the perspective of specific system <i><a href="#idFA25496536F542ee8EEECAE2225A828E"><font
       color="#0000ff"><u>concerns</u></font></a></i> ( concern )
-  examples: []
-  notes: []
   sources:
   - origin:
       ref:
@@ -37,4 +35,5 @@ data:
     designation: architecture view
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 9caad713-b2b8-5de6-9f34-83d36a2fa5ed

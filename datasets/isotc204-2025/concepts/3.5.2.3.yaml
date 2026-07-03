@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.2.3
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: d9394121-8538-58e4-9da5-4f85ab5b7073
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       color="#0000ff"><u>consumer</u></font></a></i> ( user ) that has a <i><a href="#id3B0C62628A72424e98B2D5C2F2BBCD36"><font
       color="#0000ff"><u>transport need</u></font></a></i> ( transport need ) to be
       fulfilled'
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: transport user
   language_code: eng
   entry_status: valid
+  annotations: []
 id: b68e5f6a-92b0-5024-b767-7917521865de

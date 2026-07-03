@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.4.4
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 9cdd2e7b-2ee3-524a-aa44-2746bc6e1472
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       color="#0000ff"><u>need</u></font></a></i> ( user need ) for processing within
       a <i><a href="#id866BE3730A304564BBC18CA138D01808"><font color="#0000ff"><u>bounded,
       secure, managed domain</u></font></a></i> ( bounded secured managed domain )'
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: ITS-S user need
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 0ca640db-682c-55db-9dc4-9e75b02cdb9a

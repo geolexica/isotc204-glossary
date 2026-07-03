@@ -8,7 +8,7 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: a4dcfdf4-becb-5a71-bdf0-7bf9d544365c
 schema_version: '3'
@@ -21,7 +21,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: In some cases, local regulations can require vehicles to give way to
       the pedestrians in the pedestrian crossing and/or restrict pedestrians to only
@@ -37,4 +36,5 @@ data:
     designation: crosswalk
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 5a8774e1-9dd5-5763-8594-5b472f35df6e

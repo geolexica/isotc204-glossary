@@ -8,7 +8,7 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 196285fe-7e24-5048-85c9-bd93025b7d80
 schema_version: '3'
@@ -21,7 +21,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: A single road identifier can be assigned to non-contiguous lengths of
       roadway.
@@ -35,4 +34,5 @@ data:
     designation: road identifier
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 4b7673f9-7516-5ff3-8a9a-905f6b731ee6

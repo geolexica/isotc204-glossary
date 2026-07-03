@@ -8,7 +8,7 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: b5c3c90f-8828-581b-b637-66f1ab0121f8
 schema_version: '3'
@@ -22,12 +22,11 @@ data:
       Admitted term: travellator
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: moving walkway
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 62616d3e-86ba-5d94-87a7-a8f5467656dd

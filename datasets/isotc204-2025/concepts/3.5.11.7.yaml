@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.11.7
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 14190f69-6b97-5032-83ab-2aa396694f68
 schema_version: '3'
@@ -24,7 +24,6 @@ data:
       ( peer-to-peer model ) <i><a href="#idAF252202FB50473fB51E56F3FBE6932E"><font
       color="#0000ff"><u>shared transport service</u></font></a></i> ( shared transport
       service ) that transports goods
-  examples: []
   notes:
   - content: The goods are typically small packages, letters, food, etc.
   terms:
@@ -33,4 +32,5 @@ data:
     designation: courier network service
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 54be34f6-2089-502a-b57c-2561f853e6ce

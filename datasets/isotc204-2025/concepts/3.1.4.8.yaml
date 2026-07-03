@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.4.8
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: afbe6b12-e566-5720-92f6-ac5e273beca2
 schema_version: '3'
@@ -24,12 +24,11 @@ data:
       related to the assignment of functionality to <i><a href="#id8EA65F2D6F6347bf8FF4C5CD35C61C68"><font
       color="#0000ff"><u>physical objects</u></font></a></i> ( physical object ) and
       the interfaces among these physical objects
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: physical viewpoint
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 0a427c72-dd4e-5f20-85f5-44cdbcfada1d

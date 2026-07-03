@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.3.1.5
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 31975088-0c18-5fa2-a8b4-24c8b24ce621
 schema_version: '3'
@@ -30,7 +30,6 @@ data:
       | {{urn:iso:std:iso:14812:ed3:3.3.1.7,single carriageway}} | comprises |
       ---
       Comment on this page
-  examples: []
   notes:
   - content: A carriageway is comprised of one or more {{urn:iso:std:iso:14812:ed3:3.3.1.13,traffic
       lanes}} {{urn:iso:std:iso:14812:ed3:3.3.1.15,i.e. the [usable width}}] and could
@@ -46,4 +45,5 @@ data:
     designation: carriageway
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 7d207071-8736-5fca-81a8-3705c5e47739

@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.7.6.6
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 10d0c073-e998-5fe0-a088-b07462366066
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       color="#0000ff"><u>vehicle</u></font></a></i> ( vehicle ) not meeting the legal
       requirements to be driven in <i><a href="#idBE5E40CDEC8846b49D1CE99547F20B51"><font
       color="#0000ff"><u>cycle lanes</u></font></a></i> ( cycle lane )
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: non-road cycle
   language_code: eng
   entry_status: valid
+  annotations: []
 id: a42d547d-003a-52fc-a89d-20f671255c8e

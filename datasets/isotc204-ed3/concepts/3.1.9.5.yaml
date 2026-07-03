@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.9.5
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 48fb27fc-4548-5081-9b87-3a205e996ace
 schema_version: '3'
@@ -25,7 +25,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: An ITS architecture can be a reference, planning or deployment architecture
       [deployment architecture.md].
@@ -37,4 +36,5 @@ data:
     designation: ITS reference architecture
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 65faaf34-fe9e-5398-9c5d-e221d26a6a74

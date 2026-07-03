@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.8.7
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: b79787d4-fccf-5ea3-98d3-139b0a205edb
 schema_version: '3'
@@ -25,11 +25,11 @@ data:
       of the owning organization without usage fees
   examples:
   - content: Fleet vehicles of an employer
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: private
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 2620b967-6bc1-5f58-a616-69289fae4f68

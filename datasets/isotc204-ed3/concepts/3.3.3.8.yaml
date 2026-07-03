@@ -3,7 +3,7 @@ data:
   identifier: 3.3.3.8
   localized_concepts:
     eng: bc2eb83f-f60a-5402-ae4b-7b4c0658bbb4
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 918ead5d-8320-51bb-9640-cb38decf4a56
 schema_version: '3'
@@ -17,7 +17,6 @@ data:
       EXAMPLE: facility designed for the use of pedestrians, cycles, and motor vehicles
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The space can be for travel, gatherings, rest, or other purposes.
   terms:
@@ -26,4 +25,5 @@ data:
     designation: shared space
   language_code: eng
   entry_status: valid
+  annotations: []
 id: bc2eb83f-f60a-5402-ae4b-7b4c0658bbb4

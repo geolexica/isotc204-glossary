@@ -16,7 +16,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.2.7.4
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 50540bcf-a02d-5d09-9d36-b5fe22ec1384
 schema_version: '3'
@@ -29,7 +29,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: This is a clarification of the definition provided in ISO 21217:2020.
       While the definition for ITS station unit in ISO 21217:2020 refers to an implementation,
@@ -47,4 +46,5 @@ data:
     designation: ITS-SU
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 035e7dcb-3ecf-56f7-8f83-92f64498349b

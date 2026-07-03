@@ -8,7 +8,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.3.1.6
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: dfee2ada-a368-54ab-bbf7-2a435159caf0
 schema_version: '3'
@@ -21,7 +21,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The travelled way does not include {{urn:iso:std:iso:14812:ed3:3.3.1.19,hard
       shoulders}}, {{urn:iso:std:iso:14812:ed3:3.3.1.17,hardstanding}}, or other areas
@@ -40,4 +39,5 @@ data:
     designation: travelled way
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 8c074da4-fd33-5c6e-8961-770e118f7df1

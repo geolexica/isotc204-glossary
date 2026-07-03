@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.2.2
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: b3c95ff2-f762-5e48-9565-a6f475a8f15a
 schema_version: '3'
@@ -24,7 +24,6 @@ data:
       color="#0000ff"><u>vehicles</u></font></a></i> ( vehicle ) that jointly are
       designed to move <i><a href="#idC941C5B14FFB4aecAA18427AF3D1435A"><font color="#0000ff"><u>material
       entities</u></font></a></i> ( material entity ) from an origin to a destination
-  examples: []
   notes:
   - content: Transport systems can also include any supporting system, such as information
       and control systems.
@@ -34,4 +33,5 @@ data:
     designation: transport system
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 18a976bb-6cde-52a4-8fd2-a56426b7c84b

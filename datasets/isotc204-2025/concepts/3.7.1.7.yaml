@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.7.1.7
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 23804de2-da98-5394-b76a-0d016e470f77
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       device</u></font></a></i> ( input device ) designed to be electronically connected
       to a <i><a href="#id555BFAB2A747457fB01D99511FDE885A"><font color="#0000ff"><u>vehicle</u></font></a></i>
       ( vehicle ) even when the vehicle is not in close proximity
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: remote vehicle input device
   language_code: eng
   entry_status: valid
+  annotations: []
 id: a161d515-33ee-5f6a-a6e0-80363fb50313

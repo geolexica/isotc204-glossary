@@ -8,7 +8,7 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: ccddfbd3-331d-573d-9e6f-686767bdcc55
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       Example 2: alley that provides access to an electrical substation
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: service alley
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 65173e16-eec2-554c-bbde-63c7f46caf52

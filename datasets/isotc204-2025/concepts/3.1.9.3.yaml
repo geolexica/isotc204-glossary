@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.9.3
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 61276fee-e8ae-5ae0-8ca9-68d6fcc2c5aa
 schema_version: '3'
@@ -22,12 +22,11 @@ data:
   - content: <i><a href="#id1977CCC04EA948719638C89546E52E47"><font color="#0000ff"><u>architecture</u></font></a></i>
       ( architecture ) that provides a vision of a specific deployment of a system
       within a geographic area
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: deployment architecture
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 6b2cdb3e-196d-54ef-9c59-0609cbb3fb72

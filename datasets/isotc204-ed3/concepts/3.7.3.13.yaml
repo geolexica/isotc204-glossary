@@ -20,7 +20,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.7.3.13
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 85b3059e-a731-5668-8105-d40b4fcaa8ea
 schema_version: '3'
@@ -33,7 +33,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: Other driving automation levels include {{urn:iso:std:iso:14812:ed3:3.7.3.8,level
       1 driving automation}}, {{urn:iso:std:iso:14812:ed3:3.7.3.9,level 2 driving
@@ -51,4 +50,5 @@ data:
     designation: level 5 Automated Driving System
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 321dfc2c-b769-5fce-9511-6cb89d6d7f01

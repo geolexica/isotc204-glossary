@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.13.8
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 2dcd7154-a289-5fcb-8b68-b84f0814a57a
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       app</u></font></a></i> ( mobility app ) that provides information about current
       travel conditions to a <i><a href="#idE444860D95E5458a9BA4CF4BCE3EAD71"><font
       color="#0000ff"><u>transport user</u></font></a></i> ( transport user )
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: real-time traveller information app
   language_code: eng
   entry_status: valid
+  annotations: []
 id: '08588cb8-4dbe-512d-a9d5-33ce5948eb05'

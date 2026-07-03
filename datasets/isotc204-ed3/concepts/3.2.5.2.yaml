@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.2.5.2
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: c693b203-7d92-543d-82b0-88040910c1a6
 schema_version: '3'
@@ -25,8 +25,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
@@ -36,4 +34,5 @@ data:
     designation: ITS map provision system
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 4adaf2fa-d826-5c80-96c8-b059a4a44228

@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.5.8.7
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: ff1e6255-48f3-5eae-a8c3-8fe76fb3a8fd
 schema_version: '3'
@@ -26,12 +26,11 @@ data:
       EXAMPLE: Fleet vehicles of an employer.
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: private
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 4116de12-68bd-5c3a-af7a-1f2e1dccf89c

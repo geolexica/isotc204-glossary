@@ -99,7 +99,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.5.2.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 3408d0ff-c4b7-53f2-98fe-eea314352cc7
 schema_version: '3'
@@ -112,7 +112,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The material entities transported can be people and/or goods.
   terms:
@@ -124,4 +123,5 @@ data:
     designation: service
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 3f9c79d5-359f-5e36-8bb1-3df3698cccef

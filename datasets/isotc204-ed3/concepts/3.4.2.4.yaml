@@ -18,7 +18,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.4.2.4
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 67174602-353d-545c-8bcb-77a5b945e349
 schema_version: '3'
@@ -32,12 +32,11 @@ data:
       Admitted term: pre-coded location reference
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: pre-coded spatial reference
   language_code: eng
   entry_status: valid
+  annotations: []
 id: aed912b8-6dc2-5156-99d1-a424d1dd8279

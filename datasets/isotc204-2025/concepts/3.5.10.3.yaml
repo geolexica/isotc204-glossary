@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.10.3
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 659dcce2-e748-546d-a830-360da89d46ed
 schema_version: '3'
@@ -26,12 +26,11 @@ data:
       at two different facilities managed by the <i><a href="#idA3BC9C78F77A4be7BADD00079FED8167"><font
       color="#0000ff"><u>transport provider</u></font></a></i> ( transport provider
       )'
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: station-based one-way
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 79b5c466-5f12-5037-bdcd-02964a8fe1c7

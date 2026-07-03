@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.2.4.4
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 2d5af612-87da-5e37-85a4-dbc3e7c09f13
 schema_version: '3'
@@ -26,8 +26,6 @@ data:
       EXAMPLE: Kiosk.
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
@@ -37,4 +35,5 @@ data:
     designation: ITS public information device
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 100e1aac-9c3b-5d07-98d5-84e3f3456612

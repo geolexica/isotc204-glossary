@@ -3,7 +3,7 @@ data:
   identifier: 3.1.15.2
   localized_concepts:
     eng: c1405d2e-e16d-5aa3-9ef9-c8f6728e4ae2
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: ad72508e-bc57-567e-8a7a-dc1269235bc0
 schema_version: '3'
@@ -18,7 +18,6 @@ data:
       Source: ISO/IEC/IEEE 24765:2017, definitions 1 and 2 merged with example and note added
       ---
       Comment on this page
-  examples: []
   notes:
   - content: An implementation is the conceptual set of all instances of a product
       resulting from the translation. The set of all instances can consist of a single
@@ -29,4 +28,5 @@ data:
     designation: implementation
   language_code: eng
   entry_status: valid
+  annotations: []
 id: c1405d2e-e16d-5aa3-9ef9-c8f6728e4ae2

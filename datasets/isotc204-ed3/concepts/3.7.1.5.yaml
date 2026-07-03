@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.7.1.5
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 0be1d343-4eab-5f9e-beac-7fb74c3d5610
 schema_version: '3'
@@ -25,7 +25,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: Built-in input devices are typically considered to be a part of the vehicle.
   - content: Built-in input devices include devices that can be temporarily {{urn:iso:std:iso:14812:ed3:3.7.4.3,disconnected}}
@@ -41,4 +40,5 @@ data:
     designation: built-in input device
   language_code: eng
   entry_status: valid
+  annotations: []
 id: a05bf4fa-5ac9-5aa4-bb6e-0627e26d677a

@@ -46,7 +46,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.4.1.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 6a47f8df-ea83-59c6-94b7-8e38bcba12da
 schema_version: '3'
@@ -62,7 +62,6 @@ data:
       | {{urn:iso:std:iso:14812:ed3:3.4.1.2,spatial location}} | subClassOf |
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The term "location" by itself is a broad term that can be used to reference
       spatial, computer memory, imaginary and other locations.
@@ -72,4 +71,5 @@ data:
     designation: location
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 7ea7ed2c-589b-5f87-8d2d-596c775bd025

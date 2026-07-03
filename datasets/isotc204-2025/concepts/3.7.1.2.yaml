@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.7.1.2
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: c30bc8e8-ff8f-59a3-9685-05ea6311a901
 schema_version: '3'
@@ -22,12 +22,11 @@ data:
   - content: <i><a href="#idC941C5B14FFB4aecAA18427AF3D1435A"><font color="#0000ff"><u>material
       entity</u></font></a></i> ( material entity ) that converts energy into mechanical
       motion
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: motor
   language_code: eng
   entry_status: valid
+  annotations: []
 id: c074e36f-1c72-5e68-81b4-815ba19b7a4b

@@ -8,7 +8,7 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 48d3b458-5196-50d9-a93f-2cdfdeb9f71b
 schema_version: '3'
@@ -21,7 +21,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The permit can be physically displayed or linked to a database, per authority
       policies.
@@ -31,4 +30,5 @@ data:
     designation: parking space for permit holders
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 4c064abd-7122-513c-8de0-d36d50284caa

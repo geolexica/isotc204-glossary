@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.7.1.3
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 3b6036c8-a0ff-58d5-8529-256aee8959b6
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       entity</u></font></a></i> ( material entity ) that rotates about an axle to
       facilitate movement of the <i><a href="#id555BFAB2A747457fB01D99511FDE885A"><font
       color="#0000ff"><u>vehicle</u></font></a></i> ( vehicle )
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: wheel
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 96c169d5-1e38-51e3-ad6f-1e84b66db88c

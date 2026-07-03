@@ -8,7 +8,7 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 73fe814a-392c-506b-95a4-b3e61d9f6e4b
 schema_version: '3'
@@ -22,12 +22,11 @@ data:
       EXAMPLE: road used to access parking spaces or pick-up/drop-off area
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: service road
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 7b1b4b48-2930-5f57-a246-f8a51b7521f7

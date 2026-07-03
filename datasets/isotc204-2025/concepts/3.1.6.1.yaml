@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.6.1
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: c8b79b00-1e43-592c-907d-0df455bc9cc5
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       ( element ) within an <i><a href="#id4C3EDEBD6786459a8343C1B09B870255"><font
       color="#0000ff"><u>enterprise view</u></font></a></i> ( enterprise view ) that
       represents an organization or individual
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: enterprise object
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 919bc700-4b10-553a-b837-2a1f967f88fd

@@ -18,7 +18,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[public transport vehicle stop](public transport vehicle stop.md)"
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 45c65645-efd7-514a-a0d9-f7d259ecdc4a
 schema_version: '3'
@@ -32,7 +32,6 @@ data:
       EXAMPLE: kerbside passenger pick-up area at an airport arrivals zone
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The area can include the vehicle waiting area and the pedestrian waiting
       area.
@@ -45,4 +44,5 @@ data:
     designation: PUDO area
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 13634b79-6174-56b1-9519-8091bc8d1acc

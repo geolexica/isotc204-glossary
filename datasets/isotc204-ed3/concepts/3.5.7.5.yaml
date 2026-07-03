@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.5.7.5
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: fd8e7433-fdac-54db-bec1-95b8e357a428
 schema_version: '3'
@@ -26,7 +26,6 @@ data:
       EXAMPLE: Ridesourcing.
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The customer and provider can connect and/or contract through a third-party
       {{urn:iso:std:iso:14812:ed3:3.5.1.1,service}}.
@@ -36,4 +35,5 @@ data:
     designation: peer-to-peer
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 7e71cca2-5555-59a3-a6f0-e4d908b92a93

@@ -58,7 +58,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.5.6.2
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 0ef87dfe-a947-55cf-ae9a-35e9526a8011
 schema_version: '3'
@@ -71,7 +71,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: A shared transport service might not be dependent upon a vehicle and/or
       could be multi-modal. For example, a letter courier service could rely on walking
@@ -85,4 +84,5 @@ data:
     designation: shared transport service
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 5176ba30-e463-5ef0-ab89-6f0dd82071f8

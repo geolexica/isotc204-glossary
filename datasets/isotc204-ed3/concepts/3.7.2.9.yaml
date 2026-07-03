@@ -8,7 +8,7 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 6b8f9c80-057c-58e3-b03d-e54b8ef64c3c
 schema_version: '3'
@@ -22,12 +22,11 @@ data:
       Admitted term: gross vehicle weight
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: gross vehicle mass
   language_code: eng
   entry_status: valid
+  annotations: []
 id: ac2e0dc6-51e9-5cfb-8ca4-6fc91093e256

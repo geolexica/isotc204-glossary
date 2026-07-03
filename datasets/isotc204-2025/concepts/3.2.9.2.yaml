@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.2.9.2
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 5e52cd4d-a4aa-57ee-ac11-36bc1a0adfd2
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       color="#0000ff"><u>ITS station</u></font></a></i> ( ITS station ) that performs
       information processing for an <i><a href="#idED2A90BFB7F249ffBB47A5827835D6E0"><font
       color="#0000ff"><u>ITS-S service</u></font></a></i> ( ITS-S service )
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: ITS-S application process
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 77b377e3-99da-59bb-b1e2-a6e9dcc39646

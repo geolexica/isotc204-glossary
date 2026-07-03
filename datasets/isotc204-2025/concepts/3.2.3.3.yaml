@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.2.3.3
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: b5676c3b-cbf2-5ca9-829c-0823c57f5d71
 schema_version: '3'
@@ -27,7 +27,6 @@ data:
       systems</u></font></a></i> ( vehicle system ) and/or <i><a href="#id3237352F30AA4cbeA2A9728C0671B5A4"><font
       color="#0000ff"><u>personal systems</u></font></a></i> ( personal system ) via
       short-range wireless technologies
-  examples: []
   notes:
   - content: Connected roadside equipment typically provides ITS-related functionality
       but the term includes roadside equipment that only provide the ITS service of
@@ -41,4 +40,5 @@ data:
     designation: connected roadside equipment
   language_code: eng
   entry_status: valid
+  annotations: []
 id: cb8822d6-b1ca-5c90-aaeb-e5b37cf3eec7

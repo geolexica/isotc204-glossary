@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.4.3
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 193af971-839d-5e16-bc22-5672e5ec7bc4
 schema_version: '3'
@@ -22,12 +22,11 @@ data:
   - content: <i><a href="#idBD7658051DA3495bA45E71D438FCD3DF"><font color="#0000ff">architecture
       view</font></a></i> ( architecture view ) from the <i><a href="#idF107015E884048deAC7C651CBC4B8420"><font
       color="#0000ff">enterprise viewpoint</font></a></i> ( enterprise viewpoint )
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: enterprise view
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 7bef9246-e005-5cc5-a2d1-b82ac23800f9

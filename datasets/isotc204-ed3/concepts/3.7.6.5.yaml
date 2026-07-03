@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.7.6.5
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: f7bfc2ac-06fb-5de5-9086-7c3bfb108127
 schema_version: '3'
@@ -25,7 +25,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: In some countries, other special {{urn:iso:std:iso:14812:ed3:3.3.1.12,lanes}}
       could also be open to road cycles, such as bus lanes.
@@ -35,4 +34,5 @@ data:
     designation: road cycle
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 84fa336e-3692-5179-bc72-59d9509d194a

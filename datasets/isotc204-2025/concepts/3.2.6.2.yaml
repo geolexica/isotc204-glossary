@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.2.6.2
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: fee3d42a-74ab-5e75-849f-ff521065564a
 schema_version: '3'
@@ -25,7 +25,6 @@ data:
       color="#0000ff"><u>ITS components</u></font></a></i> ( ITS component ) external
       to the <i><a href="#id555BFAB2A747457fB01D99511FDE885A"><font color="#0000ff"><u>vehicle</u></font></a></i>
       ( vehicle )
-  examples: []
   notes:
   - content: An OBU implementation can also include ITS functionality.
   terms:
@@ -34,4 +33,5 @@ data:
     designation: ITS on-board unit
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 26f307b9-981d-5e36-88ed-a3c0fc87cc93

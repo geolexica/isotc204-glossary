@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.3.6.8
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 1380005c-cb6f-5b73-a137-990927df2375
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       ( junction ) without any <i><a href="#idCEAE137FA7454a6c955DD7B7F50538E2"><font
       color="#0000ff"><u>grade separated manoeuvres</u></font></a></i> ( grade separated
       manoeuvre )
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: junction at-grade
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 49d43868-7d1a-51ed-8406-875923a640a3

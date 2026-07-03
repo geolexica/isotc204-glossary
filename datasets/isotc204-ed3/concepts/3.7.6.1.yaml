@@ -19,7 +19,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.7.6.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: fe9fbf55-5ca8-5425-a40a-d8b704c11c2b
 schema_version: '3'
@@ -32,7 +32,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: Unless indicated otherwise, the term typically refers to vehicles that
       are allowed to operate in the same {{urn:iso:std:iso:14812:ed3:3.3.1.4,driving
@@ -47,4 +46,5 @@ data:
     designation: road vehicle
   language_code: eng
   entry_status: valid
+  annotations: []
 id: d0dde1c4-23b5-557c-a39a-b8f109aa9c74

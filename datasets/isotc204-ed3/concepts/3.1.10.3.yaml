@@ -14,7 +14,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.10.3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: c1003ea4-55cb-5012-b07c-17dc8b25f292
 schema_version: '3'
@@ -28,12 +28,11 @@ data:
       Source: ISO 22745-2:2010, B.2.16, modified - "collection of data dictionary entries..." replaced with "collection of data concepts...".
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: data dictionary
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 16246846-76c8-54f0-8644-07b038ca55ab

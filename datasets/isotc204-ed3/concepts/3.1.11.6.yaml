@@ -16,7 +16,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.11.6
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 8b998e2b-163d-5e17-a60a-e8855284865a
 schema_version: '3'
@@ -31,7 +31,6 @@ data:
       Admitted term: dialogue
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The term "dialog" represents the American English spelling.
   - content: The term "dialogue" can be used when the interface context is known.
@@ -41,4 +40,5 @@ data:
     designation: interface dialogue
   language_code: eng
   entry_status: valid
+  annotations: []
 id: ffb2737e-8d34-500c-85a6-934bc636ae2c

@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.3.1.6
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 983cc558-662d-5027-9887-3808aeadc318
 schema_version: '3'
@@ -20,7 +20,6 @@ schema_version: '3'
 data:
   definition:
   - content: part of the roadway that is currently intended for transport purposes
-  examples: []
   notes:
   - content: The travelled way does not include hard shoulders, hardstanding, or other
       areas that are not currently intended for normal operational use. In other words,
@@ -37,4 +36,5 @@ data:
     designation: travelled way
   language_code: eng
   entry_status: valid
+  annotations: []
 id: fb004fc4-ea46-5696-bc87-a7522819a3f2

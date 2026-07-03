@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.2.2.6
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 1b9f55b4-cb15-57fc-8afb-8d05e09d91cf
 schema_version: '3'
@@ -22,12 +22,11 @@ data:
   - content: <i><a href="#id75E3C9D3F2084e00BA93F5DD34084653"><font color="#0000ff"><u>central
       system</u></font></a></i> ( central system ) that monitors and controls traffic
       and the road network
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: traffic management central system
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 2bbfb582-9343-58a1-84e5-c5e8b1dc5f0c

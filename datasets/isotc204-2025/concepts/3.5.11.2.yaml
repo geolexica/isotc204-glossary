@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.11.2
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: d5003e6d-071a-5c10-aee6-1fc472223824
 schema_version: '3'
@@ -24,12 +24,11 @@ data:
       transport service</u></font></a></i> ( shared transport service ) that transports
       passengers <i><a href="#idED3C7DDD53C34d7a87F9BF037CB98B16"><font color="#0000ff"><u>sequentially</u></font></a></i>
       ( sequential )
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: taxi service
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 12c49ee6-6fbd-5c09-aeb4-66f65d04f8d9

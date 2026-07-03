@@ -20,7 +20,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.2.3.2
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: e02b2e03-d220-565c-af95-51e47f1c4999
 schema_version: '3'
@@ -34,7 +34,6 @@ data:
       EXAMPLE: traffic signal controller, variable message sign, vehicle detection
       ---
       Comment on this page
-  examples: []
   notes:
   - content: '"ITS roadway equipment" is used within the current version of the Architecture
       Reference for Cooperative and Intelligent Transportation (ARC-IT; see Reference
@@ -56,4 +55,5 @@ data:
     designation: ITS roadway equipment
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 9c41b916-0e45-577a-8dde-5d70eb3347b6

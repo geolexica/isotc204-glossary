@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.7.4.4
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: d02c927a-e1cc-519c-ac02-54c325009cdf
 schema_version: '3'
@@ -25,12 +25,11 @@ data:
       equipment for sending data to or receiving data from </font><i><a href="#id49FF108A0CA140d49A439CF9BBABA1BB"><font
       color="#0000ff"><u>connected</u></font></a></i> ( connected )<font color="#313131">
       </font>entities
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: unequipped
   language_code: eng
   entry_status: valid
+  annotations: []
 id: a1e98894-8f58-53cc-9466-e8cf2e8ec0ba

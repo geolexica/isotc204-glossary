@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.6.1.1
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 85c5e6d0-4a4f-5003-98ba-5c2cae07b777
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       ( person ), in the role of a <i><a href="#idA4530852939B41f89A9140C5CBE4D1A3"><font
       color="#0000ff"><u>transport item</u></font></a></i> (  ), who is headed to
       a destination
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: traveller
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 1eea1e6d-27b6-58cc-8208-74275810067d

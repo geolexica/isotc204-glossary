@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.8.9
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 8ce14c4e-2f69-5977-8b85-33064eef520f
 schema_version: '3'
@@ -23,7 +23,6 @@ data:
       color="#0000ff"><u>financial model</u></font></a></i> ( financial model ) that
       does not require membership within an organization to receive <i><a href="#id1C826F4DC7744eb7B8DDB33EF68A28F5"><font
       color="#0000ff"><u>services</u></font></a></i> ( service )
-  examples: []
   notes:
   - content: This includes models where membership is optional and might provide extra
       benefits.
@@ -33,4 +32,5 @@ data:
     designation: open-access
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 62dfe2b1-2902-5d67-aa92-fffbe199b2ca

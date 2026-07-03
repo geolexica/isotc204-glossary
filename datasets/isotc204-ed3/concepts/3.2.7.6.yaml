@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.2.7.6
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: e9e05419-52f4-5ea7-9468-3b4730938a44
 schema_version: '3'
@@ -25,7 +25,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: ITS-S border router and ITS-S mobile router are ITS-S routers with added
       functionalities, which is why they are separately excluded in the above definition.
@@ -40,4 +39,5 @@ data:
     designation: management host
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 2dbc36ef-cf1b-5ff1-a1a8-f8549e363c74

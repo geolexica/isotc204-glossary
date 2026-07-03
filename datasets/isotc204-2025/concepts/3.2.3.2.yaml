@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.2.3.2
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 6994cea0-b944-5de5-a8e3-9316eda8f6cc
 schema_version: '3'
@@ -34,4 +34,5 @@ data:
     designation: ITS roadside equipment
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 20125c1a-d1a4-54b7-90ba-0b7ac7a1d515

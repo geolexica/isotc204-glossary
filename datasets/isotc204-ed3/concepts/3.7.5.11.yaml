@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.7.5.11
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 87845f9f-ab07-5005-969c-44384a31ee77
 schema_version: '3'
@@ -26,7 +26,6 @@ data:
       EXAMPLE: A speed in the range of 87 km/h and 198 km/h.
       ---
       Comment on this page
-  examples: []
   notes:
   - content: Local regulations for the exact speed range vary.
   terms:
@@ -35,4 +34,5 @@ data:
     designation: moderately-high vehicle speed
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 2d68e725-2dca-59b3-aea6-e58d243723a4

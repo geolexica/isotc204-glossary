@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.5.5
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 77d9e3d9-d568-5add-acae-f344b781a98e
 schema_version: '3'
@@ -23,7 +23,6 @@ data:
       color="#0000ff"><u>ITS station reference architecture</u></font></a></i> ( ITS-S
       reference architecture ) containing the open systems interconnect (OSI) session,
       presentation, and application layer protocols'
-  examples: []
   notes:
   - content: Within the US, the NTCIP standards call the facilities layer the "application
       layer"; however, as this term is easily confused with both the OSI application
@@ -35,4 +34,5 @@ data:
     designation: facilities layer
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 2baa9498-91fe-5c14-9223-78fe2792340c

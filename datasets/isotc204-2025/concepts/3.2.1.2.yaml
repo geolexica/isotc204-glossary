@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.2.1.2
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 4f495b0a-a601-55d3-8e8d-c4a18fc3fd6c
 schema_version: '3'
@@ -38,4 +38,5 @@ data:
     designation: field system
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 3920200a-9600-5d21-a916-c9322881c688

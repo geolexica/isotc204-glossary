@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.3.1.15
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 53b6509c-ba56-5eeb-bb05-442b873f3dbd
 schema_version: '3'
@@ -22,12 +22,11 @@ data:
   - content: all <i><a href="#id1240152ED5B6429eA0A4B380F1D798E4"><font color="#0000ff"><u>traffic
       lanes</u></font></a></i> ( traffic lane ) of a <i><a href="#id855CC715739D462e9790E893914D8768"><font
       color="#0000ff"><u>carriageway</u></font></a></i> ( carriageway )
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: usable width
   language_code: eng
   entry_status: valid
+  annotations: []
 id: ecec7b49-4298-5834-8c62-2b26ffbd60a4

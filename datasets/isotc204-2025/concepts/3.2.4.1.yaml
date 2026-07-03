@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.2.4.1
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: d7a6664e-9bb7-5282-befd-c8005ba55c0b
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       system</u></font></a></i> ( personal system )<font color="#313131"> consisting
       of global navigation satellite system (GNSS) receiver and/or wireless modules
       that are connected to a vehicle during a trip</font>
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: nomadic vehicle device
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 70de1036-11cf-5fd1-8cd0-e125a334de65

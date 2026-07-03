@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.7.5.7
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 4b8467ca-195b-5b11-9390-fbf16a3ffcca
 schema_version: '3'
@@ -26,7 +26,6 @@ data:
       EXAMPLE: SAE J3194 associates this with a top speed of less than 13 km/h.
       ---
       Comment on this page
-  examples: []
   notes:
   - content: Local regulations for the exact speed range vary.
   terms:
@@ -35,4 +34,5 @@ data:
     designation: ultra-low vehicle speed
   language_code: eng
   entry_status: valid
+  annotations: []
 id: b12c5bc1-7af0-59a7-9b4a-8e5797310292

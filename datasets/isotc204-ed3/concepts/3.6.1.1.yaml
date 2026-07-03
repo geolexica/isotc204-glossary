@@ -17,7 +17,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.6.1.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: db8dff7a-28d0-53cb-b4c4-73f7a1d0b882
 schema_version: '3'
@@ -34,12 +34,11 @@ data:
       | {{urn:iso:std:iso:14812:ed3:3.6.1.4,pedestrian}} | subClassOf |
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: traveller
   language_code: eng
   entry_status: valid
+  annotations: []
 id: a71d4671-0df2-546f-9f49-f622a8273d20

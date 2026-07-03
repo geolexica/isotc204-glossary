@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.7.5.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: b892eebf-908b-5cbc-8e0d-1263db30452b
 schema_version: '3'
@@ -26,7 +26,6 @@ data:
       Admitted term: pedestrian-speed vehicle
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The term "pedestrian speed vehicle" is allowed but the preferred term
       follows a logical progression of levels.
@@ -36,4 +35,5 @@ data:
     designation: ultra-low-speed vehicle
   language_code: eng
   entry_status: valid
+  annotations: []
 id: bccf1c07-81ab-5a4a-b008-9b98aa0b8056

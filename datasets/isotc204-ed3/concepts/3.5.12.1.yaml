@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.5.12.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 22c9257c-1fe1-5b30-9362-80391f678265
 schema_version: '3'
@@ -26,7 +26,6 @@ data:
       Admitted term: bicycle sharing service
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The term "bicycle sharing service" is admitted, but "bikesharing service"
       is preferred as it has fewer syllables.
@@ -36,4 +35,5 @@ data:
     designation: bikesharing service
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 552df248-4d20-5d99-bea9-e17a1aafbd02

@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.7.1.6
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 7556cbfd-f9a4-5275-86f7-05b8fad9740a
 schema_version: '3'
@@ -37,4 +37,5 @@ data:
     designation: nomadic vehicle input device
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 83e7c081-7cbf-5cb5-a903-c10b7bdeb12c

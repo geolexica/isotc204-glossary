@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.9.5
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 2e1cedb8-ee10-5747-b255-36012f82c967
 schema_version: '3'
@@ -23,7 +23,6 @@ data:
       architecture</u></font></a></i> ( reference architecture ) for one or more <i><a
       href="#id4D485872E9EE414e9CE1AB855A03540B"><font color="#0000ff"><u>ITS services</u></font></a></i>
       ( ITS service )
-  examples: []
   notes:
   - content: An ITS architecture might be a reference, planning, or deployment architecture.
   - content: The Harmonised Architecture Reference for Technical Standards (HARTS;
@@ -34,4 +33,5 @@ data:
     designation: ITS reference architecture
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 924e9790-d1a3-5b6d-878d-8b8ecc635e1c

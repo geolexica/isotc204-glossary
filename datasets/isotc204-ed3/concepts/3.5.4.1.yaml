@@ -20,7 +20,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.5.4.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 84663a3e-b2f4-5865-b058-9f4a4dd54677
 schema_version: '3'
@@ -33,7 +33,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: An ITS-SU service refers to the services provided by realizations of
       ITS-S application processes while an ITS-S service refers to the communication
@@ -44,4 +43,5 @@ data:
     designation: ITS-SU service
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 9965c311-1536-566f-b1ba-a041ec0a061d

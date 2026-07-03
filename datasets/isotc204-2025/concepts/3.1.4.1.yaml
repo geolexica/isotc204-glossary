@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.4.1
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: d36cf537-3179-539d-ad28-ab271c01e9d8
 schema_version: '3'
@@ -23,7 +23,6 @@ data:
       view</font></a></i> ( architecture view ) from the <i><a href="#idFA802A0C473248fc9F50178DD38C56D8"><font
       color="#0000ff">communications viewpoint</font></a></i> ( communications viewpoint
       )
-  examples: []
   notes:
   - content: Within ITS, the preferred model for describing the communications view
       is based on the ITS-S reference architecture.
@@ -33,4 +32,5 @@ data:
     designation: communications view
   language_code: eng
   entry_status: valid
+  annotations: []
 id: febbcbd2-46f9-5000-a11e-c8ef49b1af3a

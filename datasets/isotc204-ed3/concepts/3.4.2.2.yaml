@@ -31,7 +31,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.4.2.2
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: aaa8c35c-f621-5f93-a8f5-20ced8563738
 schema_version: '3'
@@ -46,7 +46,6 @@ data:
       EXAMPLE: Coordinate tuple: 51.476852, -0.000500.
       ---
       Comment on this page
-  examples: []
   notes:
   - content: It is not necessary for the rules be formal coordinates but they could
       be descriptive.
@@ -62,4 +61,5 @@ data:
     designation: ITS spatial reference
   language_code: eng
   entry_status: valid
+  annotations: []
 id: b536cb91-c85a-5945-bd81-a2e42a78fe29

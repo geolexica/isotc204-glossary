@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.11.1
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 84657a5b-3c97-53c3-81d9-75407ddbdf7d
 schema_version: '3'
@@ -21,7 +21,6 @@ data:
   definition:
   - content: unit of data that is considered in context to be indivisible and which
       includes an unambiguous representational form
-  examples: []
   notes:
   - content: A data element considered indivisible in one context (e.g., location)
       may be divisible in another context (e.g., latitude, longitude, and elevation).
@@ -31,4 +30,5 @@ data:
     designation: data element
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 70b033bb-5a89-5298-8d51-af26a25083ba

@@ -13,7 +13,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[service alley](service alley.md)"
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 6783878f-3b64-5f50-b4ad-42a794603596
 schema_version: '3'
@@ -29,12 +29,11 @@ data:
       | {{urn:iso:std:iso:14812:ed3:3.3.5.14,service alley}} | subClassOf |
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: alley
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 4f65a2e4-c7a7-54ec-a358-e2237075ecfd

@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.5.3
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 61cc2562-ed58-5020-a793-610bf343c6b3
 schema_version: '3'
@@ -23,7 +23,6 @@ data:
       color="#0000ff"><u>ITS station reference architecture</u></font></a></i> ( ITS-S
       reference architecture ) containing the open systems interconnect (OSI) physical
       and data link layer protocols for ITS communications'
-  examples: []
   notes:
   - content: Within the IETF, the term "link layer" is used to describe the same functionality
       as the ITS-S access layer.
@@ -35,4 +34,5 @@ data:
     designation: ITS-S access layer
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 5e6f2590-7bbe-5720-8862-72463176304a

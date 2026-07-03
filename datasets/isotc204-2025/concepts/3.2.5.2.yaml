@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.2.5.2
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 30c2f54d-3eee-5bd0-9d6b-63331807bb81
 schema_version: '3'
@@ -23,7 +23,6 @@ data:
       system</u></font></a></i> ( support system ) that provides map databases used
       to support <i><a href="#id4D485872E9EE414e9CE1AB855A03540B"><font color="#0000ff"><u>ITS
       services</u></font></a></i> ( ITS service )
-  examples: []
   notes:
   - content: The exact term for this concept might change in the next version of this
       document.
@@ -33,4 +32,5 @@ data:
     designation: map provision system
   language_code: eng
   entry_status: valid
+  annotations: []
 id: f8598864-4b53-514a-87aa-ccc243a8b101

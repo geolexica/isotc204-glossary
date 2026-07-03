@@ -53,7 +53,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.10.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: f6e240ba-178d-54c0-b019-be90338a5f56
 schema_version: '3'
@@ -66,7 +66,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: In order to exchange a value corresponding to a data concept, more information
       than an identifier, a name and a definition can be needed. For a property, a
@@ -81,4 +80,5 @@ data:
     designation: data concept
   language_code: eng
   entry_status: valid
+  annotations: []
 id: c4eb0eb5-e1d8-573a-bd2f-28a81df0e3a9

@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.10.4
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 206614f6-7e08-543a-a2f9-85d38ef0aee3
 schema_version: '3'
@@ -23,7 +23,6 @@ data:
       dictionary</u></font></a></i> ( data dictionary ) that follows precise documented
       rules for the registration and management of stored <i><a href="#id5C989C1352B14d07BB1E631FC7D46F8F"><font
       color="#0000ff"><u>data concepts</u></font></a></i> ( data concept )
-  examples: []
   notes:
   - content: The data concept registry contains meta-attributes about data concepts
       in terms of their names and representational forms as well as the semantics
@@ -38,4 +37,5 @@ data:
     designation: data concept registry
   language_code: eng
   entry_status: valid
+  annotations: []
 id: afaa1b46-36df-5d3d-8858-5de54bcad9a6

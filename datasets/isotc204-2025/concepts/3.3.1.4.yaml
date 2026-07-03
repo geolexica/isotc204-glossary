@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.3.1.4
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 62a1349a-72e2-5ce9-aa0c-ddfdb318b9a4
 schema_version: '3'
@@ -23,7 +23,6 @@ data:
       color="#0000ff"><u>roadway</u></font></a></i> ( roadway ) that is primarily
       intended for the movement of <i><a href="#id555BFAB2A747457fB01D99511FDE885A"><font
       color="#0000ff"><u>vehicles</u></font></a></i> ( vehicle )
-  examples: []
   notes:
   - content: In practice, the driving space design considers a variety of issues,
       which might result in suboptimal road segments that violate normal design guidelines.
@@ -38,4 +37,5 @@ data:
     designation: driving space
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 249730a7-fb77-54a2-95cc-687fa93d4bda

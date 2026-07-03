@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.2.1.3
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: d83dfb2b-e328-5065-9005-c63c761d4410
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       component</u></font></a></i> ( ITS component ), other than a <i><a href="#id12A56C8A1EFE4cb8983C1C23C593EB84"><font
       color="#0000ff"><u>vehicle system</u></font></a></i> ( vehicle system ), that
       is used by a person in relation to a past, current, or upcoming journey
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: personal system
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 420c99f5-cd79-570b-b739-56913d88689a

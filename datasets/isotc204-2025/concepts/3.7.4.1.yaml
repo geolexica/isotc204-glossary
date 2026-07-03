@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.7.4.1
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 95daf38c-3417-5782-8f18-865771773588
 schema_version: '3'
@@ -24,12 +24,11 @@ data:
       is<font color="#313131"> currently unable to </font>send data to or receive
       data from <i><a href="#id49FF108A0CA140d49A439CF9BBABA1BB"><font color="#0000ff"><u>connected</u></font></a></i>
       ( connected ) entities
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: off-grid
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 5fc67610-2823-560f-af31-aa3c7cdad6cf

@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.7.5.3
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 04ea9e5d-c7c6-5396-a45e-6e28c4783921
 schema_version: '3'
@@ -26,11 +26,11 @@ data:
       low vehicle speed )
   examples:
   - content: typical moped
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: moderately low-speed vehicle
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 7a276bf4-8e2a-50bd-809f-0106737fc358

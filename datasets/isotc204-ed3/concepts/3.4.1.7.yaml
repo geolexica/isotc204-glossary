@@ -3,7 +3,7 @@ data:
   identifier: 3.4.1.7
   localized_concepts:
     eng: b72c4c6f-bed4-5317-acbe-293290164d81
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: d0f202dd-4d9f-5d67-97ef-3300e0c44e0f
 schema_version: '3'
@@ -17,7 +17,6 @@ data:
       Source: ISO 19101-1:2014, 4.1.11, "geographic" has been added to the term to clarify context; note 1 to entry has been replaced.
       ---
       Comment on this page
-  examples: []
   notes:
   - content: Geographic features can be defined for any geographic entity that can
       be defined with geospatial boundaries, such as landmarks, buildings, transport
@@ -30,4 +29,5 @@ data:
     designation: geographic feature
   language_code: eng
   entry_status: valid
+  annotations: []
 id: b72c4c6f-bed4-5317-acbe-293290164d81

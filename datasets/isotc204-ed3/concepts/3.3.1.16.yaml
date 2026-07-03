@@ -8,7 +8,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.3.1.16
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 0a037fdf-4f06-51a4-abaa-0306b6bfcd3e
 schema_version: '3'
@@ -24,7 +24,6 @@ data:
       | {{urn:iso:std:iso:14812:ed3:3.3.1.5,carriageway}} | comprises |
       ---
       Comment on this page
-  examples: []
   notes:
   - content: Lay-bys are not part of a {{urn:iso:std:iso:14812:ed3:3.3.1.19,hard shoulder}}.
   - content: Lay-bys can be used for emergency situations, picking up/dropping off
@@ -35,4 +34,5 @@ data:
     designation: lay-by
   language_code: eng
   entry_status: valid
+  annotations: []
 id: bdda52a5-33b3-5cb2-ac0a-9253e87d9ccd

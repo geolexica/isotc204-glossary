@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.9.3
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 2963292e-8cef-5127-838f-5a31c7662e99
 schema_version: '3'
@@ -24,12 +24,11 @@ data:
       color="#0000ff"><u>services</u></font></a></i> ( service ) might be provided
       to multiple <i><a href="#id8B698530E3B946b3B78C2E6C58FE87D7"><font color="#0000ff"><u>users</u></font></a></i>
       ( user ) at any one time
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: concurrent
   language_code: eng
   entry_status: valid
+  annotations: []
 id: bf0db66d-28c7-575a-9daa-86113f7a6f74
