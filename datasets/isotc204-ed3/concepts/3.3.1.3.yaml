@@ -1,0 +1,71 @@
+---
+data:
+  identifier: 3.3.1.3
+  localized_concepts:
+    eng: 89648799-65b0-5006-a48f-b0c193da2bf1
+related:
+- content: comprises [some travelledWay]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: having exactly two [carriageways](carriageway.md)
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[dual carriageway](dual carriageway.md)"
+- content: having more than one [carriageway](carriageway.md)
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[multiple carriageway](multiple carriageway.md)"
+- content: having exactly one [carriageway](carriageway.md)
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[single carriageway](single carriageway.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.1.3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 7f0055da-2543-5f55-a1a1-a85079b23326
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      part of the surface of the {{urn:iso:std:iso:14812:ed3:3.3.1.2,road reservation}} primarily designed for the movement of {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicles}} that conform to a specified set of requirements
+      <img alt="roadway Diagram" src="../../diagrams/roadway.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      | Referencing Term | Type of Reference |
+      | --- | --- |
+      | {{urn:iso:std:iso:14812:ed3:3.3.1.8,dual carriageway}} | subClassOf |
+      | {{urn:iso:std:iso:14812:ed3:3.3.1.9,multiple carriageway}} | subClassOf |
+      | {{urn:iso:std:iso:14812:ed3:3.3.1.7,single carriageway}} | subClassOf |
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: A roadway is characterized using a {{urn:iso:std:iso:14812:ed3:3.3.1.1,cross-section}}
+      of a road facility as the roadway characteristics often change along the length
+      of the road. See {{urn:iso:std:iso:14812:ed3:3.3.5.1,road}}, {{urn:iso:std:iso:14812:ed3:3.3.5.7,road
+      section}}, {{urn:iso:std:iso:14812:ed3:3.3.5.8,road segment}}, and {{urn:iso:std:iso:14812:ed3:3.3.5.6,road
+      link}} for different types of stretches of roadway.
+  - content: In practice, the roadway design considers a variety of issues, which
+      can result in suboptimal {{urn:iso:std:iso:14812:ed3:3.3.5.8,road segments}}
+      that violate normal design guidelines. Such {{urn:iso:std:iso:14812:ed3:3.4.1.2,locations}}
+      are typically posted with warning signs, but they are still designed for the
+      movement of vehicles.
+  - content: The roadway includes any contiguous {{urn:iso:std:iso:14812:ed3:3.3.1.19,hard
+      shoulders}}, {{urn:iso:std:iso:14812:ed3:3.3.1.17,hardstanding}} and {{urn:iso:std:iso:14812:ed3:3.3.1.14,reserved
+      lanes}}.
+  - content: While the roadway is designed with certain vehicle characteristics in
+      mind, local regulations typically allow a wider set of vehicles to use the roadway.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: roadway
+  language_code: eng
+  entry_status: valid
+id: 89648799-65b0-5006-a48f-b0c193da2bf1

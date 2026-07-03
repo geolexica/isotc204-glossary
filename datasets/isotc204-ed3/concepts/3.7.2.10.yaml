@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 3.7.2.10
+  localized_concepts:
+    eng: 9df84735-fd9b-59ef-8d1f-330ceab1c38b
+related:
+- content: maxOperatingWeightFor [exactly 1 owl::Thing]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 703e4736-274a-5216-a669-3a0e855153ff
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      maximum operating mass (weight) of the vehicle, as determined by the vehicle manufacturer, at which the vehicle can be safely and reliably operated for its intended purpose
+      <img alt="gross vehicle mass rating Diagram" src="../../diagrams/gross vehicle mass rating.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Admitted term: gross vehicle weight rating
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: gross vehicle mass rating
+  language_code: eng
+  entry_status: valid
+id: 9df84735-fd9b-59ef-8d1f-330ceab1c38b

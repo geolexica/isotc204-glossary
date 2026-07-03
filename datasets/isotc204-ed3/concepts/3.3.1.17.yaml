@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 3.3.1.17
+  localized_concepts:
+    eng: 55c02210-2072-55c8-93a3-45434a2a15e7
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.1.17
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 181f07ed-491a-5169-9dd2-e3cf9e1a8487
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      part of a paved {{urn:iso:std:iso:14812:ed3:3.3.1.5,carriageway}} that is not a {{urn:iso:std:iso:14812:ed3:3.3.1.13,traffic lane}}, {{urn:iso:std:iso:14812:ed3:3.3.1.19,hard shoulder}}, or {{urn:iso:std:iso:14812:ed3:3.3.1.16,lay-by}}.
+      <img alt="hardstanding Diagram" src="../../diagrams/hardstanding.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      EXAMPLE: n902d49f80fe4422680fb4b74ea8b63ceb10
+      | Referencing Term | Type of Reference |
+      | --- | --- |
+      | {{urn:iso:std:iso:14812:ed3:3.3.1.5,carriageway}} | comprises |
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: Hardstanding can include edges of a hard shoulder outside of designated
+      lane markings, slips for future connector {{urn:iso:std:iso:14812:ed3:3.3.5.1,roads}},
+      etc.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hardstanding
+  language_code: eng
+  entry_status: valid
+id: 55c02210-2072-55c8-93a3-45434a2a15e7

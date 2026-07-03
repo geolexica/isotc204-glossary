@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 3.3.7.1
+  localized_concepts:
+    eng: c45912d2-fd8e-5157-8a17-ea36743810f9
+related:
+- content: "[transport facility](transport facility.md) built over a gap to provide
+    a continuous travel path"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[bridge](bridge.md)"
+- content: "[bridge](bridge.md) with a deck that can be moved in a way that disrupts
+    the continuous travel path"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[movable bridge](movable bridge.md)"
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 8ac6acd5-e846-5e98-b21f-a7a0f6b96dd8
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      physical structure or installation, including related site works, serving one or more transport-related purposes
+      <img alt="transport facility Diagram" src="../../diagrams/transport facility.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transport facility
+  language_code: eng
+  entry_status: valid
+id: c45912d2-fd8e-5157-8a17-ea36743810f9

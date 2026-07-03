@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 3.3.9.2
+  localized_concepts:
+    eng: 21af5c2a-446d-5174-b423-fa8484b76909
+related:
+- content: subClassOf [roadEquipment]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 34547ad5-f10f-570e-a935-86db931aa581
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.3.9.1,road equipment}} used to visually, audibly, or tangibly convey regulatory, advisory, or guidance information to {{urn:iso:std:iso:14812:ed3:3.6.1.2,road users}}
+      <img alt="traffic control device Diagram" src="../../diagrams/traffic control device.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: traffic control device
+  language_code: eng
+  entry_status: valid
+id: 21af5c2a-446d-5174-b423-fa8484b76909

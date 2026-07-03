@@ -1,0 +1,60 @@
+---
+data:
+  identifier: 3.1.4.3
+  localized_concepts:
+    eng: 0ad7ad26-3bc0-5424-a3a7-9c44085840a1
+related:
+- content: aggregates [some resource]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: aggregates [some enterpriseObject]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: aggregates [some role]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: aggregates [some relationship]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: aggregates [some interaction]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: aggregates [some informationFlow]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [architectureView]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.4.3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 2e847b1b-761b-5e22-92fa-ae984db05184
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.1.3.7,architecture view}} from the {{urn:iso:std:iso:14812:ed3:3.1.4.4,enterprise viewpoint}}
+      <img alt="enterprise view Diagram" src="../../diagrams/enterprise view.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: enterprise view
+  language_code: eng
+  entry_status: valid
+id: 0ad7ad26-3bc0-5424-a3a7-9c44085840a1

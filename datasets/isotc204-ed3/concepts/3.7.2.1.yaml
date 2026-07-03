@@ -1,0 +1,84 @@
+---
+data:
+  identifier: 3.7.2.1
+  localized_concepts:
+    eng: 555bb012-ed9e-523e-9ea7-8c46567de5c0
+related:
+- content: rateOfChangeOfPositionOf [exactly 1 owl::Thing]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[speed](speed.md) of a [vehicle](vehicle.md) that exceeds free flow motorway
+    speeds by a factor of two or more"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[high vehicle speed](high vehicle speed.md)"
+- content: "[speed](speed.md) of a [vehicle](vehicle.md) that exceeds [pedestrian](pedestrian.md)
+    speeds and is more typical of pedal cycles"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[low vehicle speed](low vehicle speed.md)"
+- content: "[speed](speed.md) of a [vehicle](vehicle.md) that exceeds [moderately-low
+    vehicle speeds](moderately-low vehicle speed.md) but does not reach free-flow
+    motorway speeds"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[moderate vehicle speed](moderate vehicle speed.md)"
+- content: "[speed](speed.md) of a [vehicle](vehicle.md) that is typical of free-flow
+    motorway speeds to twice that speed"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[moderately-high vehicle speed](moderately-high vehicle speed.md)"
+- content: "[speed](speed.md) of a [vehicle](vehicle.md) that exceeds speeds typical
+    of pedal cycles but can be reached on performance pedal cycles in short bursts
+    or by performance riders"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[moderately-low vehicle speed](moderately-low vehicle speed.md)"
+- content: "[speed](speed.md) of a [vehicle](vehicle.md) that does not greatly exceed
+    typical [pedestrian](pedestrian.md) speeds"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ultra-low vehicle speed](ultra-low vehicle speed.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.7.2.1
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 978fd346-c9d6-5f8d-ac3f-67d10ee21bed
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      rate of change of a {{urn:iso:std:iso:14812:ed3:3.1.1.3,material entity's}} position with respect to a frame of reference
+      <img alt="speed Diagram" src="../../diagrams/speed.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      | Referencing Term | Type of Reference |
+      | --- | --- |
+      | {{urn:iso:std:iso:14812:ed3:3.7.5.12,high vehicle speed}} | subClassOf |
+      | {{urn:iso:std:iso:14812:ed3:3.7.5.8,low vehicle speed}} | subClassOf |
+      | {{urn:iso:std:iso:14812:ed3:3.7.5.10,moderate vehicle speed}} | subClassOf |
+      | {{urn:iso:std:iso:14812:ed3:3.7.5.11,moderately-high vehicle speed}} | subClassOf |
+      | {{urn:iso:std:iso:14812:ed3:3.7.5.9,moderately-low vehicle speed}} | subClassOf |
+      | {{urn:iso:std:iso:14812:ed3:3.7.5.7,ultra-low vehicle speed}} | subClassOf |
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: Speed is a function of time.
+  - content: Speed is the scalar absolute value (magnitude) of velocity.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: speed
+  language_code: eng
+  entry_status: valid
+id: 555bb012-ed9e-523e-9ea7-8c46567de5c0

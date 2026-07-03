@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 3.2.8.1
+  localized_concepts:
+    eng: '03629ed8-2b35-57d2-9052-da163d9240ad'
+related:
+- content: involves [min 2 owl::Thing]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: realizationOf [some itsService]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.2.8.1
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: a5529351-3ca8-5b71-947c-7bf3302f762a
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      requirements for an {{urn:iso:std:iso:14812:ed3:3.5.3.1,ITS service}} that involves an association of two or more complementary {{urn:iso:std:iso:14812:ed3:3.2.9.2,ITS-S application processes}}
+      <img alt="ITS application Diagram" src="../../diagrams/ITS application.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: An ITS application can also involve associations with nodes that are
+      not ITS stations.
+  - content: This is a clarification of the ISO 21217:2020 definition that described
+      this as an instantiation.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS application
+  language_code: eng
+  entry_status: valid
+id: '03629ed8-2b35-57d2-9052-da163d9240ad'

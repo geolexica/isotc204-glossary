@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 3.4.2.6
+  localized_concepts:
+    eng: 41a712a3-6c85-5a2e-bd0b-9932aaf95f6c
+related:
+- content: referenceUsedBy [some spatialReference]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.4.2.6
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: fe130253-3536-50a1-b6c9-95f3104eb5ce
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.4.2.2,spatial reference}} in the form of a label or code that identifies a {{urn:iso:std:iso:14812:ed3:3.4.1.1,location}}
+      <img alt="geographic identifier Diagram" src="../../diagrams/geographic identifier.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Deprecated term: location code
+      EXAMPLE: "Spain" is an example of a label (country name); "SW1P 3AD" is an example of a code (postcode).
+      Source: ISO 19112:2019, 3.1.2, modified - Note 1 to entry and deprecated term added.
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The term "location code" has been used previously in ISO/TC 204 documents,
+      but "geographic identifier" is preferred to better align with the activities
+      of ISO/TC 211.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: geographic identifier
+  language_code: eng
+  entry_status: valid
+id: 41a712a3-6c85-5a2e-bd0b-9932aaf95f6c

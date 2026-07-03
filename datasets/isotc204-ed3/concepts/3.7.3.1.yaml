@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 3.7.3.1
+  localized_concepts:
+    eng: 76a86b07-f65c-53b1-9557-e7520055f81c
+related:
+- content: isRequiredToOperate [some vehicle]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.7.3.1
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 8e83b008-008e-5f90-97c2-17f5afdd40d1
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      all real-time operational and tactical functions required to operate a {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} in on-road traffic
+      <img alt="dynamic driving task Diagram" src="../../diagrams/dynamic driving task.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The DDT excludes strategic functions such as trip scheduling and selection
+      of destinations and waypoints.
+  - content: The DDT includes lateral vehicle motion control, longitudinal vehicle
+      motion control, monitoring the driving {{urn:iso:std:iso:14812:ed3:3.1.3.11,environment}},
+      object and event response execution, manoeuvre planning and enhancing conspicuity.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dynamic driving task
+  - type: expression
+    normative_status: admitted
+    designation: DDT
+  language_code: eng
+  entry_status: valid
+id: 76a86b07-f65c-53b1-9557-e7520055f81c

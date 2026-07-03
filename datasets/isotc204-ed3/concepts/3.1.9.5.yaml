@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 3.1.9.5
+  localized_concepts:
+    eng: 65faaf34-fe9e-5398-9c5d-e221d26a6a74
+related:
+- content: subClassOf [referenceArchitecture]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.9.5
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 48fb27fc-4548-5081-9b87-3a205e996ace
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.1.9.1,reference architecture}} for one or more {{urn:iso:std:iso:14812:ed3:3.5.3.1,ITS services}}
+      <img alt="ITS reference architecture Diagram" src="../../diagrams/ITS reference architecture.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: An ITS architecture can be a reference, planning or deployment architecture
+      [deployment architecture.md].
+  - content: The Architecture Reference for Cooperative and Intelligent Transportation
+      (ARC-IT; see Reference [25]) is an example of an ITS reference architecture.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS reference architecture
+  language_code: eng
+  entry_status: valid
+id: 65faaf34-fe9e-5398-9c5d-e221d26a6a74

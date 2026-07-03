@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 3.7.5.2
+  localized_concepts:
+    eng: 2913ee06-e3db-56a4-b44d-9fa50f32e4ea
+related:
+- content: subClassOf [vehicle]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.7.5.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 5930d707-e7e9-5eea-b49b-99ad7a7e5f9d
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} with a {{urn:iso:std:iso:14812:ed3:3.7.2.2,design speed}} in the range of {{urn:iso:std:iso:14812:ed3:3.7.5.8,low vehicle speeds}}
+      <img alt="low-speed vehicle Diagram" src="../../diagrams/low-speed vehicle.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Admitted term: cycle-speed vehicle
+      EXAMPLE: Mountain bicycle.
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The term "cycle-speed vehicle" is allowed but the preferred term follows
+      a logical progression of levels.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: low-speed vehicle
+  language_code: eng
+  entry_status: valid
+id: 2913ee06-e3db-56a4-b44d-9fa50f32e4ea

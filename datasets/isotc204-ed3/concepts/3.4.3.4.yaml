@@ -1,0 +1,27 @@
+---
+data:
+  identifier: 3.4.3.4
+  localized_concepts:
+    eng: e4557802-184d-5e47-8760-dcbbd37d235a
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 44ae1344-944b-5a19-ac8b-6ffc45ce6a9d
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      legal power to issue rules of behaviour for a defined area
+      <img alt="jurisdiction Diagram" src="../../diagrams/jurisdiction.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: jurisdiction
+  language_code: eng
+  entry_status: valid
+id: e4557802-184d-5e47-8760-dcbbd37d235a

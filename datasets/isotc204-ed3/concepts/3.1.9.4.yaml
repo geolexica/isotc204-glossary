@@ -1,0 +1,61 @@
+---
+data:
+  identifier: 3.1.9.4
+  localized_concepts:
+    eng: 0ae185d8-cf34-581f-b018-1535a857a8c6
+related:
+- content: aggregates [some securityEntity]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: aggregates [some facilitiesLayer]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: aggregates [some applicationEntity]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: aggregates [some managementEntity]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: aggregates [some transnetLayer]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: aggregates [some its-sAccessLayer]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [referenceArchitecture]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.9.4
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: e16a8ff3-332f-5479-ab31-3ab8007fc1b7
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.1.9.1,reference architecture}} for handling communications within a {{urn:iso:std:iso:14812:ed3:3.1.8.1,physical object}} as defined in ISO 21217
+      <img alt="ITS-S reference architecture Diagram" src="../../diagrams/ITS-S reference architecture.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The ITS-S reference architecture provides a model for describing communication.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S reference architecture
+  language_code: eng
+  entry_status: valid
+id: 0ae185d8-cf34-581f-b018-1535a857a8c6

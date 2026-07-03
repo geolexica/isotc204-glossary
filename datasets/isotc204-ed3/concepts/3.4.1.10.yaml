@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 3.4.1.10
+  localized_concepts:
+    eng: 2ea956f5-d643-511a-884e-61c96ea5d60f
+related:
+- content: designates [some pointLocation]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: coordinate tuple defining the geodetic position of a single [point location](point
+    location.md) using a known geodetic reference system
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[point coordinates](point coordinates.md)"
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 1bf653d3-a2e3-56ca-9d93-2e34aef47247
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      ordered list of numbers that jointly designate the position of a point
+      <img alt="coordinate tuple Diagram" src="../../diagrams/coordinate tuple.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The number of values in a coordinate tuple is immutable.
+  - content: This definition was derived by consolidating the definitions of "coordinate
+      tuple", "coordinate", and "tuple" from ISO 19136:2020.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: coordinate tuple
+  language_code: eng
+  entry_status: valid
+id: 2ea956f5-d643-511a-884e-61c96ea5d60f

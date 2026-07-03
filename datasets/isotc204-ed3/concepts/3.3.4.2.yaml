@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.3.4.2
+  localized_concepts:
+    eng: 29656900-670e-5dce-ba00-c5e434ff4df4
+related:
+- content: operatingModeOf [some hardShoulder]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.4.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 57cf19a5-3ec8-56ae-9a1e-b4d27b4c54b4
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      operating mode of a {{urn:iso:std:iso:14812:ed3:3.3.1.19,hard shoulder}} that allows operation of general-purpose {{urn:iso:std:iso:14812:ed3:3.7.6.3,motor vehicles}} as an extra lane [lane.md]
+      <img alt="hard shoulder running Diagram" src="../../diagrams/hard shoulder running.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hard shoulder running
+  language_code: eng
+  entry_status: valid
+id: 29656900-670e-5dce-ba00-c5e434ff4df4

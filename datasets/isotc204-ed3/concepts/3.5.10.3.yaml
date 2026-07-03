@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.5.10.3
+  localized_concepts:
+    eng: 45310490-09c4-50cc-b1e6-52c40929e751
+related:
+- content: subClassOf [networkModel]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.10.3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 3db4d664-f1b6-56a4-8199-574740a72692
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      <transport service> operational mode where the {{urn:iso:std:iso:14812:ed3:3.5.2.1,transport service}} is initiated and terminated at two different facilities managed by the {{urn:iso:std:iso:14812:ed3:3.5.2.2,transport provider}}
+      <img alt="station-based one-way Diagram" src="../../diagrams/station-based one-way.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: station-based one-way
+  language_code: eng
+  entry_status: valid
+id: 45310490-09c4-50cc-b1e6-52c40929e751

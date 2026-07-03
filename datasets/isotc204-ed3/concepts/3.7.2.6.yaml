@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 3.7.2.6
+  localized_concepts:
+    eng: 35c7aa1c-7b88-5787-bc77-8686a599ae46
+related:
+- content: globallyUniqueIdentifierFor [exactly 1 owl::Thing]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 45b3126e-fef1-5665-bb7d-84fa0b415824
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      series of 17 characters that is based on either ISO 3779 or ISO 3780 and uniquely identifies the individual vehicle and is normally securely attached to the vehicle chassis
+      <img alt="vehicle identifier Diagram" src="../../diagrams/vehicle identifier.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vehicle identifier
+  language_code: eng
+  entry_status: valid
+id: 35c7aa1c-7b88-5787-bc77-8686a599ae46

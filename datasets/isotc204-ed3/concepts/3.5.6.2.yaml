@@ -1,0 +1,88 @@
+---
+data:
+  identifier: 3.5.6.2
+  localized_concepts:
+    eng: 5176ba30-e463-5ef0-ab89-6f0dd82071f8
+related:
+- content: attrVehicleOperator [has transport provider]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [transportService]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[commercial](commercial.md), [peer-to-peer](peer-to-peer.md) [shared transport
+    service](shared transport service.md) that transports goods"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[courier network service](courier network service.md)"
+- content: "[cooperative](cooperative.md) [shared transport service](shared transport
+    service.md) that transports [passengers](passenger.md) [concurrently](concurrent.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[rideshare service](rideshare service.md)"
+- content: "[commercial](commercial.md), [peer-to-peer](peer-to-peer.md) [shared transport
+    service](shared transport service.md) that transports [passengers](passenger.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ridesourced service](ridesourced service.md)"
+- content: "[ridesourced service](ridesourced service.md) that serves [passengers](passenger.md)
+    [concurrently](concurrent.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ridesplit service](ridesplit service.md)"
+- content: "[shared transport service](shared transport service.md) that transports
+    [passengers](passenger.md) between two specified [spatial locations](spatial location.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[shuttle service](shuttle service.md)"
+- content: "[commercial](commercial.md) [shared transport service](shared transport
+    service.md) that transports [passengers](passenger.md) [sequentially](sequential.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[taxi service](taxi service.md)"
+- content: "[commercial](commercial.md) [shared transport service](shared transport
+    service.md) that transports [passengers](passenger.md) [concurrently](concurrent.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[taxi-share service](taxi-share service.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.6.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 0ef87dfe-a947-55cf-ae9a-35e9526a8011
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.5.2.1,transport service}} that relies upon the same {{urn:iso:std:iso:14812:ed3:3.1.6.2,resources}} to fulfil the transport needs of multiple unrelated {{urn:iso:std:iso:14812:ed3:3.5.2.3,transport users}} and where the {{urn:iso:std:iso:14812:ed3:3.5.2.2,transport provider}} has the primary responsibility for the operation of the transport mode
+      <img alt="shared transport service Diagram" src="../../diagrams/shared transport service.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: A shared transport service might not be dependent upon a vehicle and/or
+      could be multi-modal. For example, a letter courier service could rely on walking
+      and {{urn:iso:std:iso:14812:ed3:3.5.6.1,public transport}}.
+  - content: Responsibilities of the transport service can be further delegated to
+      others. For example, a courier service relying on public transport would delegate
+      the operation of the transport mode to the public transport operator.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: shared transport service
+  language_code: eng
+  entry_status: valid
+id: 5176ba30-e463-5ef0-ab89-6f0dd82071f8

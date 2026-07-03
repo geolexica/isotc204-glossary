@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.2.9.6
+  localized_concepts:
+    eng: af0e360b-6432-5059-8cc4-cac050ad28ad
+related:
+- content: subClassOf [its-sApplicationProcessInstallation]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.2.9.6
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 1b40bc0b-e10f-54fb-b7be-755a6c89d816
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.2.9.5,ITS-S application process installation}} within the {{urn:iso:std:iso:14812:ed3:3.1.5.1,application entity}}
+      <img alt="ITS-S application installation Diagram" src="../../diagrams/ITS-S application installation.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S application installation
+  language_code: eng
+  entry_status: valid
+id: af0e360b-6432-5059-8cc4-cac050ad28ad

@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 3.5.4.5
+  localized_concepts:
+    eng: 37763b1c-56be-53a1-9cb2-5dccc6bb33a5
+related:
+- content: subClassOf [service]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: b75555d2-4c6e-5728-8c77-eda674607832
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      communication functionality of an {{urn:iso:std:iso:14812:ed3:3.2.7.3,ITS station}} that provides the capability to connect to other nodes
+      <img alt="ITS-S service Diagram" src="../../diagrams/ITS-S service.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The definition of ITS-S service predates the adoption of the concept
+      model used for the other service terms in this standard. It is an outlier in
+      that it describes a portion of the functionality contained within the ITS station
+      reference architecture (i.e., the communication functionality) rather than the
+      end functionality of the conceptual ITS station.
+  - content: "[ISO 21217:2020, 3.51; note added]"
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S service
+  language_code: eng
+  entry_status: valid
+id: 37763b1c-56be-53a1-9cb2-5dccc6bb33a5

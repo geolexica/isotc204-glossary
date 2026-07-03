@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 3.1.6.3
+  localized_concepts:
+    eng: 26387d39-06eb-5585-aca6-059decf003be
+related:
+- content: subClassOf [resource]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.6.3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: ae83514e-7f2f-50fb-84ba-44a271e254d3
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      uniquely identified unit of information for human use
+      <img alt="document Diagram" src="../../diagrams/document.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      EXAMPLE: A report, specification, manual or book, in printed or electronic form.
+      Source: ISO/IEC/IEEE 15289:2019, 3.1.10
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: A document can be a single information item, or part of a larger information
+      item.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: document
+  language_code: eng
+  entry_status: valid
+id: 26387d39-06eb-5585-aca6-059decf003be

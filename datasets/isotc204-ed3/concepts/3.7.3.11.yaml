@@ -1,0 +1,58 @@
+---
+data:
+  identifier: 3.7.3.11
+  localized_concepts:
+    eng: '08209d19-3f97-575a-a3a1-d6305cd2755f'
+related:
+- content: designedWithExpectationOf [some fallback-readyUser]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: operatesWithinA [some operationalDesignDomain]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [ads]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.7.3.11
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 4399c801-dc70-5e8d-afd8-8f379a27ba6b
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.7.3.10,ADS}} designed with the expectation that the {{urn:iso:std:iso:14812:ed3:3.7.3.4,fallback-ready user}} is available to intervene
+      <img alt="level 3 ADS Diagram" src="../../diagrams/level 3 ADS.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: Level 3 ADSs are restricted to operating within a specific {{urn:iso:std:iso:14812:ed3:3.7.3.2,operational
+      design domain}}.
+  - content: Other driving automation levels include {{urn:iso:std:iso:14812:ed3:3.7.3.8,level
+      1 driving automation}}, {{urn:iso:std:iso:14812:ed3:3.7.3.9,level 2 driving
+      automation}}, {{urn:iso:std:iso:14812:ed3:3.7.3.12,level 4 ADS}}, and {{urn:iso:std:iso:14812:ed3:3.7.3.13,level
+      5 ADS}}.
+  - content: The user can intervene due to an ADS-issued request, a {{urn:iso:std:iso:14812:ed3:3.7.3.1,dynamic
+      driving task}} performance-relevant system failure, or other reasons.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: level 3 ADS
+  - type: expression
+    normative_status: admitted
+    designation: conditional driving automation
+  - type: expression
+    normative_status: admitted
+    designation: level 3 Automated Driving System
+  language_code: eng
+  entry_status: valid
+id: '08209d19-3f97-575a-a3a1-d6305cd2755f'

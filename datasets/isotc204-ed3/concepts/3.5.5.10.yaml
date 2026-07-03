@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 3.5.5.10
+  localized_concepts:
+    eng: 49c786e4-c2b6-5eaa-a2fd-a8c9616523f8
+related:
+- content: subClassOf [mobilityApp]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: f4c79f07-c95a-57e5-9357-730d7ae667d6
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.5.5.1,mobility app}} that assists a {{urn:iso:std:iso:14812:ed3:3.5.2.3,transport user}} in planning trips that may span multiple vehicle modes or {{urn:iso:std:iso:14812:ed3:3.5.2.2,transport providers}}
+      <img alt="trip aggregator app Diagram" src="../../diagrams/trip aggregator app.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The assistance can include reservations, ticketing and similar {{urn:iso:std:iso:14812:ed3:3.5.1.1,services}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: trip aggregator app
+  language_code: eng
+  entry_status: valid
+id: 49c786e4-c2b6-5eaa-a2fd-a8c9616523f8

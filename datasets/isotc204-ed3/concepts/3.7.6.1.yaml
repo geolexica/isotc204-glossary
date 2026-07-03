@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 3.7.6.1
+  localized_concepts:
+    eng: d0dde1c4-23b5-557c-a39a-b8f109aa9c74
+related:
+- content: subClassOf [vehicle]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[motorized](motorized vehicle.md) [road vehicle](road vehicle.md) allowed
+    to operate in the same [driving spaces](driving space.md) as motorized [passenger](passenger.md)
+    cars"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[motor vehicle](motor vehicle.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.7.6.1
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: fe9fbf55-5ca8-5425-a40a-d8b704c11c2b
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} meeting the requirements to operate within the {{urn:iso:std:iso:14812:ed3:3.3.1.4,driving space}} of a {{urn:iso:std:iso:14812:ed3:3.3.5.1,road}}
+      <img alt="road vehicle Diagram" src="../../diagrams/road vehicle.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: Unless indicated otherwise, the term typically refers to vehicles that
+      are allowed to operate in the same {{urn:iso:std:iso:14812:ed3:3.3.1.4,driving
+      spaces}} as motorized {{urn:iso:std:iso:14812:ed3:3.6.2.1,passenger}} cars,
+      according to the legal requirements of the local {{urn:iso:std:iso:14812:ed3:3.4.3.7,jurisdictional
+      entity}}. However, the term can be contextualized for other {{urn:iso:std:iso:14812:ed3:3.1.3.11,environments}}.
+      For example, a bicycle is a {{urn:iso:std:iso:14812:ed3:3.7.6.1,road vehicle}}
+      when the {{urn:iso:std:iso:14812:ed3:3.3.5.1,road}} is a {{urn:iso:std:iso:14812:ed3:3.3.3.2,cycleway}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: road vehicle
+  language_code: eng
+  entry_status: valid
+id: d0dde1c4-23b5-557c-a39a-b8f109aa9c74

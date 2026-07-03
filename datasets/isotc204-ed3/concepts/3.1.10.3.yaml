@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 3.1.10.3
+  localized_concepts:
+    eng: 16246846-76c8-54f0-8644-07b038ca55ab
+related:
+- content: electronic [data dictionary](data dictionary.md) that follows precise documented
+    rules for the registration and management of stored [data concepts](data concept.md)
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[data concept registry](data concept registry.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.10.3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: c1003ea4-55cb-5012-b07c-17dc8b25f292
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      collection of {{urn:iso:std:iso:14812:ed3:3.1.10.1,data concepts}} that allows lookup by {{urn:iso:std:iso:14812:ed3:3.1.1.1,entity}} identifier
+      <img alt="data dictionary Diagram" src="../../diagrams/data dictionary.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Source: ISO 22745-2:2010, B.2.16, modified - "collection of data dictionary entries..." replaced with "collection of data concepts...".
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: data dictionary
+  language_code: eng
+  entry_status: valid
+id: 16246846-76c8-54f0-8644-07b038ca55ab

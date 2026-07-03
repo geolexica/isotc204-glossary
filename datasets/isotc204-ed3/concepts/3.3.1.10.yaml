@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 3.3.1.10
+  localized_concepts:
+    eng: 7807f148-6061-5534-aba9-632835653abb
+related:
+- content: comprises [some verge]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.1.10
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 7b37e3df-4594-566d-8d85-d058d869f6a6
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      portion of the {{urn:iso:std:iso:14812:ed3:3.3.1.2,road reservation}} excluding all {{urn:iso:std:iso:14812:ed3:3.3.1.3,roadway}} and {{urn:iso:std:iso:14812:ed3:3.3.1.4,driving space}}
+      <img alt="roadside Diagram" src="../../diagrams/roadside.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: "{{urn:iso:std:iso:14812:ed3:3.3.1.10,Roadside}}, {{urn:iso:std:iso:14812:ed3:3.3.1.18,shoulder}}
+      and {{urn:iso:std:iso:14812:ed3:3.3.1.11,verge}} define similar but slightly
+      different concepts"
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: roadside
+  language_code: eng
+  entry_status: valid
+id: 7807f148-6061-5534-aba9-632835653abb

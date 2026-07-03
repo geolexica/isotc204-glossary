@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 3.2.1.5
+  localized_concepts:
+    eng: 443b858f-ce65-5735-8af6-c0d0dff249de
+related:
+- content: subClassOf [itsComponent]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[vehicle system](vehicle system.md) that provides all ITS functionality
+    on-board the [vehicle](vehicle.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ITS on-board equipment](ITS on-board equipment.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.2.1.5
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 1a42a4aa-4f7d-58d0-ab73-a38c2a491c8e
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.1.8.2,ITS component}} that is installed as a component of a {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}}
+      <img alt="vehicle system Diagram" src="../../diagrams/vehicle system.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vehicle system
+  - type: expression
+    normative_status: admitted
+    designation: ITS vehicle system
+  language_code: eng
+  entry_status: valid
+id: 443b858f-ce65-5735-8af6-c0d0dff249de

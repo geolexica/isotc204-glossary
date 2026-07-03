@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.4.2.5
+  localized_concepts:
+    eng: 6975e98e-e281-579a-93a7-c9361478a638
+related:
+- content: subClassOf [pre-codedSpatialReference]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.4.2.5
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 3a4fa519-29ef-5d9e-a843-26186d5dabe8
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.4.2.4,pre-coded spatial reference}} defined within the {{urn:iso:std:iso:14812:ed3:3.3.5.2,road network}} database
+      <img alt="link location Diagram" src="../../diagrams/link location.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: link location
+  language_code: eng
+  entry_status: valid
+id: 6975e98e-e281-579a-93a7-c9361478a638

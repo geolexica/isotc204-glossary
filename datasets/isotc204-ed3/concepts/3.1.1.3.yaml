@@ -1,0 +1,210 @@
+---
+data:
+  identifier: 3.1.1.3
+  localized_concepts:
+    eng: 94776e44-cf36-5784-adba-34c36af2d62c
+related:
+- content: subClassOf [entity]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[ADS-equipped vehicle](ADS-equipped vehicle.md) designed for only driverless
+    operation for complete trips"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ADS-dedicated vehicle](ADS-dedicated vehicle.md)"
+- content: "[vehicle](vehicle.md) integrated with an [ADS](ADS.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ADS-equipped vehicle](ADS-equipped vehicle.md)"
+- content: "[material entity](material entity.md) that was or is a living organism"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[biological entity](biological entity.md)"
+- content: "[input device](input device.md) designed to be physically [connected](connected.md)
+    to a [vehicle](vehicle.md) and to remain connected even when the vehicle is not
+    in use"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[built-in vehicle input device](built-in vehicle input device.md)"
+- content: "[vehicle](vehicle.md) that is [connected](connected.md) using one or more
+    communication media"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[connected vehicle](connected vehicle.md)"
+- content: "<driving automation> [vehicle](vehicle.md) designed to be operated by
+    a [person](person.md) during part or all of every trip."
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[conventional vehicle](conventional vehicle.md)"
+- content: "<driving automation> [ADS-equipped vehicle](ADS-equipped vehicle.md) designed
+    for both driverless operation and operation by a conventional [driver](driver.md)
+    for complete trips"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[dual-mode vehicle](dual-mode vehicle.md)"
+- content: "[vehicle](vehicle.md) with a [design speed](design speed.md) in the range
+    of [high vehicle speeds](high vehicle speed.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[high-speed vehicle](high-speed vehicle.md)"
+- content: "[vehicle](vehicle.md) with a [design speed](design speed.md) in the range
+    of [low vehicle speeds](low vehicle speed.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[low-speed vehicle](low-speed vehicle.md)"
+- content: "[vehicle](vehicle.md) with a [design speed](design speed.md) in the range
+    of [moderate vehicle speeds](moderate vehicle speed.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[moderate-speed vehicle](moderate-speed vehicle.md)"
+- content: "[vehicle](vehicle.md) with a [design speed](design speed.md) in the range
+    of [moderately-high vehicle speeds](moderately-high vehicle speed.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[moderately high-speed vehicle](moderately high-speed vehicle.md)"
+- content: "[vehicle](vehicle.md) with a [design speed](design speed.md) in the range
+    of [moderately-low vehicle speeds](moderately-low vehicle speed.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[moderately low-speed vehicle](moderately low-speed vehicle.md)"
+- content: "[material entity](material entity.md) that converts energy into mechanical
+    motion"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[motor](motor.md)"
+- content: "[motorized](motorized vehicle.md) [road vehicle](road vehicle.md) allowed
+    to operate in the same [driving spaces](driving space.md) as motorized [passenger](passenger.md)
+    cars"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[motor vehicle](motor vehicle.md)"
+- content: "[motorized](motorized vehicle.md) [road vehicle](road vehicle.md) allowed
+    to operate in the same [driving spaces](driving space.md) as motorized [passenger](passenger.md)
+    cars"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[motor vehicle](motor vehicle.md)"
+- content: self-propelled [vehicle](vehicle.md)
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[motorized vehicle](motorized vehicle.md)"
+- content: "[input device](input device.md) that can be carried into, or in near proximity
+    of, a [vehicle](vehicle.md) and [connected](connected.md) as desired"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[nomadic vehicle input device](nomadic vehicle input device.md)"
+- content: "[material entity](material entity.md) that is not and has never been a
+    living organism"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[non-biological entity](non-biological entity.md)"
+- content: human-powered [vehicle](vehicle.md) not meeting the legal requirements
+    to be driven in [cycle lanes](cycle lane.md)
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[non-road cycle](non-road cycle.md)"
+- content: "[vehicle](vehicle.md) not meeting the legal requirements to be driven
+    in [traffic lanes](traffic lane.md) or [cycle lanes](cycle lane.md) of a [road
+    network](road network.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[non-road vehicle](non-road vehicle.md)"
+- content: "[biological entity](biological entity.md) that is a human being"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[person](person.md)"
+- content: "[input device](input device.md) designed to be electronically [connected](connected.md)
+    to a [vehicle](vehicle.md) even when the vehicle is not in close proximity"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[remote vehicle input device](remote vehicle input device.md)"
+- content: "[vehicle](vehicle.md) meeting the legal requirements to operate in [cycle
+    lanes](cycle lane.md) and [cycleways](cycleway.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[road cycle](road cycle.md)"
+- content: "[vehicle](vehicle.md) meeting the requirements to operate within the [driving
+    space](driving space.md) of a [road](road.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[road vehicle](road vehicle.md)"
+- content: "[vehicle](vehicle.md) with a [design speed](design speed.md) that does
+    not exceed [ultra-low vehicle speeds](ultra-low vehicle speed.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ultra-low-speed vehicle](ultra-low-speed vehicle.md)"
+- content: "[material entity](material entity.md) designed to transport people or
+    physical goods by changing its physical position"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[vehicle](vehicle.md)"
+- content: "[material entity](material entity.md) that can affect the [vehicle's](vehicle.md)
+    operation"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[vehicle input device](vehicle input device.md)"
+- content: circular [material entity](material entity.md) that rotates about an axle
+    to facilitate movement of the [vehicle](vehicle.md)
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[wheel](wheel.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.1.3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 883f6168-0926-5102-af7c-4ca9f81893f9
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.1.1.1,entity}} that occupies three-dimensional space
+      <img alt="material entity Diagram" src="../../diagrams/material entity.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      | Referencing Term | Type of Reference |
+      | --- | --- |
+      | {{urn:iso:std:iso:14812:ed3:3.7.2.1,speed}} | rateOfChangeOfPositionOf |
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: All material entities have certain characteristics that can be described
+      and therefore this concept is important for ontology purposes.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: material entity
+  language_code: eng
+  entry_status: valid
+id: 94776e44-cf36-5784-adba-34c36af2d62c

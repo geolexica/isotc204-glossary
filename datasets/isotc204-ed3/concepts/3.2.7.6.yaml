@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 3.2.7.6
+  localized_concepts:
+    eng: 2dbc36ef-cf1b-5ff1-a1a8-f8549e363c74
+related:
+- content: subClassOf [its-sNode]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.2.7.6
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: e9e05419-52f4-5ea7-9468-3b4730938a44
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.2.7.8,ITS-S node}} comprised of {{urn:iso:std:iso:14812:ed3:3.2.7.3,ITS-S}} functionalities other than the functionalities of an {{urn:iso:std:iso:14812:ed3:3.2.7.7,ITS-S router}}, ITS-S border router, ITS-S mobile router or an ITS-S gateway
+      <img alt="ITS-S host Diagram" src="../../diagrams/ITS-S host.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: ITS-S border router and ITS-S mobile router are ITS-S routers with added
+      functionalities, which is why they are separately excluded in the above definition.
+  - content: ITS-S border router, ITS-S mobile router, and ITS-S gateway are defined
+      in ISO 21217.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S host
+  - type: expression
+    normative_status: admitted
+    designation: management host
+  language_code: eng
+  entry_status: valid
+id: 2dbc36ef-cf1b-5ff1-a1a8-f8549e363c74

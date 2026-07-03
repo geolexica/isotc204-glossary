@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 3.5.4.2
+  localized_concepts:
+    eng: 431b5b8f-236e-588c-9e24-7fb73ad568df
+related:
+- content: delivers [some its-suService]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: isA [some its-sUnit]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [serviceProvider]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.4.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 79fee67a-abd9-52fc-b201-43471fc48891
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.2.7.4,ITS-SU}} that delivers one or more {{urn:iso:std:iso:14812:ed3:3.5.4.1,ITS-SU services}}
+      <img alt="ITS-SU service provider Diagram" src="../../diagrams/ITS-SU service provider.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-SU service provider
+  language_code: eng
+  entry_status: valid
+id: 431b5b8f-236e-588c-9e24-7fb73ad568df

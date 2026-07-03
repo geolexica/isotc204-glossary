@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 3.3.3.7
+  localized_concepts:
+    eng: 5a8774e1-9dd5-5763-8594-5b472f35df6e
+related:
+- content: subClassOf [footpath]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: a4dcfdf4-becb-5a71-bdf0-7bf9d544365c
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      physically marked location to enhance the safety of pedestrians crossing one or more lanes of a different mode of travel
+      <img alt="pedestrian crossing Diagram" src="../../diagrams/pedestrian crossing.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: In some cases, local regulations can require vehicles to give way to
+      the pedestrians in the pedestrian crossing and/or restrict pedestrians to only
+      cross at pedestrian crossings.
+  - content: Pedestrian permission and/or priority at crossing can be managed when
+      traffic signals are present.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pedestrian crossing
+  - type: expression
+    normative_status: admitted
+    designation: crosswalk
+  language_code: eng
+  entry_status: valid
+id: 5a8774e1-9dd5-5763-8594-5b472f35df6e

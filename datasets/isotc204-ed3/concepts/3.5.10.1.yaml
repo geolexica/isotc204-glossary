@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 3.5.10.1
+  localized_concepts:
+    eng: 02022ca5-cc83-5f22-af13-9bf87b5780f5
+related:
+- content: "<transport service> [network model](network model.md) where the [transport
+    service](transport service.md) may be initiated and terminated at any [spatial
+    location](spatial location.md) meeting basic criteria"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[free-floating](free-floating.md)"
+- content: "<transport service> [operational mode](operational mode.md) where the
+    [transport service](transport service.md) is initiated and terminated at two different
+    facilities managed by the [transport provider](transport provider.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[station-based one-way](station-based one-way.md)"
+- content: "<transport service> [operational mode](operational mode.md) where the
+    [transport service](transport service.md) is initiated and terminated at the same
+    facility managed by the [transport provider](transport provider.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[station-based roundtrip](station-based roundtrip.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.10.1
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 1ccbd19b-8cc1-529f-a92e-be614e55098c
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      infrastructure framework for the agreement between a {{urn:iso:std:iso:14812:ed3:3.5.1.2,service provider}} and a {{urn:iso:std:iso:14812:ed3:3.5.1.3,user}}
+      <img alt="network model Diagram" src="../../diagrams/network model.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: network model
+  language_code: eng
+  entry_status: valid
+id: 02022ca5-cc83-5f22-af13-9bf87b5780f5

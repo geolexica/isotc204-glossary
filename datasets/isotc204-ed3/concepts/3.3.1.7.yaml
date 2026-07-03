@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 3.3.1.7
+  localized_concepts:
+    eng: d2fde194-bde4-57a3-af8e-127e89cf50d1
+related:
+- content: comprises [exactly 1 owl::Thing]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [roadway]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.1.7
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 6f677598-7cda-5bf2-98bf-74d7cf71dab1
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      having exactly one {{urn:iso:std:iso:14812:ed3:3.3.1.5,carriageway}}
+      <img alt="single carriageway Diagram" src="../../diagrams/single carriageway.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: A single carriageway {{urn:iso:std:iso:14812:ed3:3.3.5.8,road segment}}
+      could have multiple {{urn:iso:std:iso:14812:ed3:3.3.1.12,lanes}} and could allow
+      travel in opposite directions
+  - content: The "single carriageway" term can be used to describe a {{urn:iso:std:iso:14812:ed3:3.3.5.1,road}},
+      {{urn:iso:std:iso:14812:ed3:3.3.5.7,road section}}, {{urn:iso:std:iso:14812:ed3:3.3.5.6,road
+      link}}, or {{urn:iso:std:iso:14812:ed3:3.3.5.8,road segment}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: single carriageway
+  language_code: eng
+  entry_status: valid
+id: d2fde194-bde4-57a3-af8e-127e89cf50d1

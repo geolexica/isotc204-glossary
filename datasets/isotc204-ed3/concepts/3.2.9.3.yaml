@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 3.2.9.3
+  localized_concepts:
+    eng: b74b46ae-1cb4-58f8-96df-2dd3f6cdeab3
+related:
+- content: residesIn [some applicationEntity]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [its-sApplicationProcess]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.2.9.3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 9f3d5072-b026-5f6a-86da-53b08f8459e6
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.2.9.2,ITS-S application process}} residing in the {{urn:iso:std:iso:14812:ed3:3.1.5.1,application entity}}
+      <img alt="ITS-S application Diagram" src="../../diagrams/ITS-S application.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S application
+  language_code: eng
+  entry_status: valid
+id: b74b46ae-1cb4-58f8-96df-2dd3f6cdeab3

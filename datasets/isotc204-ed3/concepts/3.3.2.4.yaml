@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 3.3.2.4
+  localized_concepts:
+    eng: 8dc033bd-b489-50b9-ab8e-30cf8768c477
+related:
+- content: subClassOf [physicalTrafficSeparator]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 9d27d2b7-42a7-5067-a559-44c7b063c1bf
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      physical traffic separator, usually upstanding, at the edge of a carriageway, hard strip, hard shoulder, or footway Note 1 to entry: "Curb" is the US spelling.
+      <img alt="kerb Diagram" src="../../diagrams/kerb.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Admitted term: curb
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: kerb
+  language_code: eng
+  entry_status: valid
+id: 8dc033bd-b489-50b9-ab8e-30cf8768c477

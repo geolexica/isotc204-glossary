@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 3.6.1.5
+  localized_concepts:
+    eng: 650362a0-02a3-51ca-a4f7-815543e61f57
+related:
+- content: subClassOf [roadUser]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 73eaa6f1-c384-5f00-b108-c73b36ba02fe
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.6.1.2,road user}} who is not protected by the body of a motor vehicle that meets local safety regulations
+      <img alt="vulnerable road user Diagram" src="../../diagrams/vulnerable road user.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      EXAMPLE: {{urn:iso:std:iso:14812:ed3:3.6.1.4,Pedestrian}}, cyclist, motorcyclist, road work personnel, horse, horseback rider, person with disabilities (e.g., wheelchair), etc.
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vulnerable road user
+  language_code: eng
+  entry_status: valid
+id: 650362a0-02a3-51ca-a4f7-815543e61f57

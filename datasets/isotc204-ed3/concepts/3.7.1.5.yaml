@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 3.7.1.5
+  localized_concepts:
+    eng: a05bf4fa-5ac9-5aa4-bb6e-0627e26d677a
+related:
+- content: subClassOf [vehicleInputDevice]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.7.1.5
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 0be1d343-4eab-5f9e-beac-7fb74c3d5610
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      input device designed to be physically {{urn:iso:std:iso:14812:ed3:3.2.3.6,connected}} to a {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} and to remain connected even when the vehicle is not in use
+      <img alt="built-in vehicle input device Diagram" src="../../diagrams/built-in vehicle input device.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: Built-in input devices are typically considered to be a part of the vehicle.
+  - content: Built-in input devices include devices that can be temporarily {{urn:iso:std:iso:14812:ed3:3.7.4.3,disconnected}}
+      for security reasons (e.g. some radios are equipped with detachable front panels).
+  - content: Built-in input devices require a maintenance operation to connect or
+      disconnect.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: built-in vehicle input device
+  - type: expression
+    normative_status: admitted
+    designation: built-in input device
+  language_code: eng
+  entry_status: valid
+id: a05bf4fa-5ac9-5aa4-bb6e-0627e26d677a

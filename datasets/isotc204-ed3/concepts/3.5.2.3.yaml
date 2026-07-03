@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 3.5.2.3
+  localized_concepts:
+    eng: d27c4e26-1764-5624-8ebd-6e0497e9a85d
+related:
+- content: subClassOf [user]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.2.3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 6f7b979b-0738-53f2-a18b-12e1be726ea2
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.1.1.1,entity}} that has a desire to transport a {{urn:iso:std:iso:14812:ed3:3.1.1.3,material entity}}
+      <img alt="transport user Diagram" src="../../diagrams/transport user.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transport user
+  - type: expression
+    normative_status: admitted
+    designation: consumer
+  - type: expression
+    normative_status: admitted
+    designation: user
+  language_code: eng
+  entry_status: valid
+id: d27c4e26-1764-5624-8ebd-6e0497e9a85d

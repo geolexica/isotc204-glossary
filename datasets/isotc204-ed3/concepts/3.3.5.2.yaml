@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.3.5.2
+  localized_concepts:
+    eng: b496b612-aa40-52cf-bab1-3ccb20186cf6
+related:
+- content: aggregates [some road]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.5.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: ca5fb78c-96c3-5f5a-af87-c5da92bac750
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      interconnected collection of {{urn:iso:std:iso:14812:ed3:3.3.5.1,roads}}
+      <img alt="road network Diagram" src="../../diagrams/road network.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: road network
+  language_code: eng
+  entry_status: valid
+id: b496b612-aa40-52cf-bab1-3ccb20186cf6

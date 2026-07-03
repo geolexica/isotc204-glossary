@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 3.6.2.5
+  localized_concepts:
+    eng: 11fec3d3-b58e-541e-9637-8fb18fa41430
+related:
+- content: subClassOf [driver]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: uses [min 1 owl::Thing]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.6.2.5
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: d4def352-ad0f-5e3a-8f8e-3f2e587a64d7
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.6.2.3,driver}} that performs the {{urn:iso:std:iso:14812:ed3:3.7.3.1,dynamic driving task}} without using the {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle's}} built-in input devices to control the longitudinal and lateral movement of the vehicle
+      <img alt="remote driver Diagram" src="../../diagrams/remote driver.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: A remote driver can use a variety of physical input devices, but none
+      that are built into the vehicle.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: remote driver
+  language_code: eng
+  entry_status: valid
+id: 11fec3d3-b58e-541e-9637-8fb18fa41430

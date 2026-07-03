@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 3.1.11.3
+  localized_concepts:
+    eng: 42cea2ec-b2ba-577f-a485-40a5c7f602f7
+related:
+- content: subClassOf [dataConcept]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.11.3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 4da9aa02-7d0f-5600-853d-75b16899099d
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      a set of permissible values
+      <img alt="value domain Diagram" src="../../diagrams/value domain.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      | Referencing Term | Type of Reference |
+      | --- | --- |
+      | {{urn:iso:std:iso:14812:ed3:3.1.11.1,data element}} | representedBy |
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: value domain
+  language_code: eng
+  entry_status: valid
+id: 42cea2ec-b2ba-577f-a485-40a5c7f602f7

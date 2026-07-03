@@ -1,0 +1,13 @@
+---
+schema_type: glossarist
+schema_version: '3'
+id: isotc204-ed3
+ref: ISO 14812 (Edition 3, draft)
+year: 2026
+urn: urn:iso:std:iso:14812:ed3
+status: current
+supersedes: isotc204-2025
+owner: ISO/TC 204
+sourceRepo: https://github.com/ISO-TC204/iso14812
+languages:
+- eng

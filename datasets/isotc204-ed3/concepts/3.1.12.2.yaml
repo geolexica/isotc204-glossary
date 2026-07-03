@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.1.12.2
+  localized_concepts:
+    eng: 9aa3080e-5a4c-57e1-859e-f2d195f3d1b8
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.12.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: f232af55-b1d3-5470-9e73-003c0abab18d
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      <use case> description of the sequence of events from the {{urn:iso:std:iso:14812:ed3:3.5.1.3,user's}} perspective to perform a task in a specified context
+      <img alt="scenario Diagram" src="../../diagrams/scenario.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Source: ISO/IEC 25062:2006, A.17
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scenario
+  - type: expression
+    normative_status: admitted
+    designation: use case scenario
+  language_code: eng
+  entry_status: valid
+id: 9aa3080e-5a4c-57e1-859e-f2d195f3d1b8

@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 3.2.6.2
+  localized_concepts:
+    eng: acd11599-5309-58e0-a722-a9825a951c50
+related:
+- content: subClassOf [connectedUnit]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.2.6.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 61316593-0955-5d15-bf1b-5c1d740f6655
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      part of on-board equipment that provides wireless connectivity to other {{urn:iso:std:iso:14812:ed3:3.1.8.2,ITS components}} external to the {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}}
+      <img alt="ITS on-board unit Diagram" src="../../diagrams/ITS on-board unit.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Admitted term: onboard unit
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: An OBU implementation can also include ITS functionality.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS on-board unit
+  - type: expression
+    normative_status: admitted
+    designation: OBU
+  - type: expression
+    normative_status: admitted
+    designation: on-board unit
+  language_code: eng
+  entry_status: valid
+id: acd11599-5309-58e0-a722-a9825a951c50

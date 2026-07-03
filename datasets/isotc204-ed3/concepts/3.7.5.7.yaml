@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 3.7.5.7
+  localized_concepts:
+    eng: b12c5bc1-7af0-59a7-9b4a-8e5797310292
+related:
+- content: subClassOf [speed]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.7.5.7
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 4b8467ca-195b-5b11-9390-fbf16a3ffcca
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.7.2.1,speed}} of a {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} that does not greatly exceed typical {{urn:iso:std:iso:14812:ed3:3.6.1.4,pedestrian}} speeds
+      <img alt="ultra-low vehicle speed Diagram" src="../../diagrams/ultra-low vehicle speed.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      EXAMPLE: SAE J3194 associates this with a top speed of less than 13 km/h.
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: Local regulations for the exact speed range vary.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ultra-low vehicle speed
+  language_code: eng
+  entry_status: valid
+id: b12c5bc1-7af0-59a7-9b4a-8e5797310292

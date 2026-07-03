@@ -1,0 +1,28 @@
+---
+data:
+  identifier: 3.1.14.6
+  localized_concepts:
+    eng: 2d23ee28-0b89-51a5-83b5-76ca675d4c82
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: c94f8fa9-d14a-5a45-805b-cbda52d8dc6d
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      data appended to a message, that allow the recipient of the {{urn:iso:std:iso:14812:ed3:3.1.11.5,message}} to verify the source of the message
+      <img alt="digital signature Diagram" src="../../diagrams/digital signature.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Source: ISO/IEC 2382:2015
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: digital signature
+  language_code: eng
+  entry_status: valid
+id: 2d23ee28-0b89-51a5-83b5-76ca675d4c82

@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 3.6.2.2
+  localized_concepts:
+    eng: fed0d7f7-a180-57ac-8f4e-c40952ef70e9
+related:
+- content: isA [some person]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: isIn [some vehicle]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.6.2.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: '011080c0-c2e1-5f2c-9cbb-302a238d03df'
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.1.1.6,person}} in or on a {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}}
+      <img alt="vehicle occupant Diagram" src="../../diagrams/vehicle occupant.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: A vehicle occupant in a stationary vehicle is not necessarily a {{urn:iso:std:iso:14812:ed3:3.6.1.1,traveller}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vehicle occupant
+  language_code: eng
+  entry_status: valid
+id: fed0d7f7-a180-57ac-8f4e-c40952ef70e9

@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 3.6.1.1
+  localized_concepts:
+    eng: a71d4671-0df2-546f-9f49-f622a8273d20
+related:
+- content: isA [some person]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[person](person.md) who is travelling on foot"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[pedestrian](pedestrian.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.6.1.1
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: db8dff7a-28d0-53cb-b4c4-73f7a1d0b882
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.1.1.6,person}} who is headed to a destination
+      <img alt="traveller Diagram" src="../../diagrams/traveller.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      | Referencing Term | Type of Reference |
+      | --- | --- |
+      | {{urn:iso:std:iso:14812:ed3:3.2.4.3,nomadic device}} | accessedBy |
+      | {{urn:iso:std:iso:14812:ed3:3.6.1.4,pedestrian}} | subClassOf |
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: traveller
+  language_code: eng
+  entry_status: valid
+id: a71d4671-0df2-546f-9f49-f622a8273d20

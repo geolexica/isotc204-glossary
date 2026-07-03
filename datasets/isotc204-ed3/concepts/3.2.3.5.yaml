@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 3.2.3.5
+  localized_concepts:
+    eng: b521b2be-69ad-5d3b-8bc5-04a52aff9ae6
+related:
+- content: is [some connected]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: part of [on-board equipment](on-board equipment.md) that provides wireless
+    connectivity to other [ITS components](ITS component.md) external to the [vehicle](vehicle.md)
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ITS on-board unit](ITS on-board unit.md)"
+- content: part of [connected vehicle roadside equipment](connected vehicle roadside
+    equipment.md) that provides wireless connectivity to [vehicle systems](vehicle
+    system.md) and/or [personal systems](personal system.md)
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[roadside unit](roadside unit.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.2.3.5
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: c5a3eaf4-255a-5e6f-961c-3bcae58040d0
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      electronic device that is {{urn:iso:std:iso:14812:ed3:3.2.3.6,connected}} using one or more communication media
+      <img alt="connected unit Diagram" src="../../diagrams/connected unit.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: connected unit
+  - type: expression
+    normative_status: admitted
+    designation: ITS connected unit
+  language_code: eng
+  entry_status: valid
+id: b521b2be-69ad-5d3b-8bc5-04a52aff9ae6

@@ -1,0 +1,69 @@
+---
+data:
+  identifier: 3.2.1.2
+  localized_concepts:
+    eng: 56a4c311-7e06-5d59-b4b2-5a0a2685d48f
+related:
+- content: subClassOf [itsComponent]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[ITS roadside equipment](ITS roadside equipment.md) that perform [ITS
+    services](ITS service.md) by exchanging electronic [messages](message.md) with
+    nearby [connected vehicles](connected vehicle.md) and/or [personal systems](personal
+    system.md) via short-range wireless technologies"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[connected vehicle roadside equipment](connected vehicle roadside equipment.md)"
+- content: portable [field system](field system.md) used by field personnel to locally
+    troubleshoot, initialize, reprogram and test infrastructure equipment
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[field support equipment](field support equipment.md)"
+- content: "[field system](field system.md) that performs localized [ITS services](ITS
+    service.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ITS roadside equipment](ITS roadside equipment.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.2.1.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: a69eddf4-8509-58fe-a02c-4e43beaa5593
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      infrastructure-based {{urn:iso:std:iso:14812:ed3:3.1.8.2,ITS component}} located outside of a data centre that is designed to provide local processing or routing services while stationary
+      <img alt="field system Diagram" src="../../diagrams/field system.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      EXAMPLE: Traffic detector, camera, signal controller, message sign, tolling station.
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: Field systems can be permanently installed or transportable.
+  - content: The term "roadside system" is typically used to describe field systems
+      along a roadside but can also be used to refer to kiosks.
+  - content: Typically, field systems are located along the {{urn:iso:std:iso:14812:ed3:3.3.1.10,roadside}}.
+  - content: Typically, the operation of a field system is governed by management
+      functions running in a centre system.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: field system
+  - type: expression
+    normative_status: admitted
+    designation: ITS field system
+  - type: expression
+    normative_status: admitted
+    designation: roadside system
+  language_code: eng
+  entry_status: valid
+id: 56a4c311-7e06-5d59-b4b2-5a0a2685d48f

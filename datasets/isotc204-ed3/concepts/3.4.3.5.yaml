@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 3.4.3.5
+  localized_concepts:
+    eng: 4294ade1-3e96-5d5a-8066-358e01fd54f9
+related:
+- content: rulesDefinedBy [some jurisdictionalEntity]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[jurisdictional area](jurisdictional area.md) with a [jurisdictional entity](jurisdictional
+    entity.md) who is the owner of the area but excluding transport facilities managed
+    by the local government"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[campus](campus.md)"
+- content: transport-related, [jurisdictional area](jurisdictional area.md) whose
+    only [jurisdictional entities](jurisdictional entity.md) are governmental entities
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[governmental area](governmental area.md)"
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 5edfea40-bf5c-5897-9334-ac9481b24c3b
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      territory for which a {{urn:iso:std:iso:14812:ed3:3.4.3.7,jurisdictional entity}} has the power to define rules of behaviour
+      <img alt="jurisdictional area Diagram" src="../../diagrams/jurisdictional area.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: A jurisdictional area might include non-contiguous locations.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: jurisdictional area
+  language_code: eng
+  entry_status: valid
+id: 4294ade1-3e96-5d5a-8066-358e01fd54f9

@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 3.1.11.1
+  localized_concepts:
+    eng: de156f02-367d-5a14-94b7-97353a02e17a
+related:
+- content: describes [exactly 1 owl::Thing]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: representedBy [exactly 1 owl::Thing]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [dataConcept]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.11.1
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 56a2b5e4-1673-52eb-ab94-95b1f9c15771
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      unit of data that is considered in a given context to be indivisible and which includes an unambiguous representational form
+      <img alt="data element Diagram" src="../../diagrams/data element.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      | Referencing Term | Type of Reference |
+      | --- | --- |
+      | {{urn:iso:std:iso:14812:ed3:3.1.11.5,message}} | contains |
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: This definition states that a data element is "indivisible" in a given
+      context. This means it is possible for a data element considered indivisible
+      in one context {{urn:iso:std:iso:14812:ed3:3.4.1.1,e.g. [location}}] to be divisible
+      in another context (e.g. latitude, longitude, and elevation).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: data element
+  language_code: eng
+  entry_status: valid
+id: de156f02-367d-5a14-94b7-97353a02e17a

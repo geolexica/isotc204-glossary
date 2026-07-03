@@ -1,0 +1,68 @@
+---
+data:
+  identifier: 3.5.9.1
+  localized_concepts:
+    eng: a807defc-1e9d-5109-ae9d-35b7f6ad5a09
+related:
+- content: "[operational model](operational model.md) where [services](service.md)
+    can be provided to multiple [users](user.md) at any one time"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[concurrent](concurrent.md)"
+- content: "<transport service> [concurrent](concurrent.md) operation where transported
+    items can only be received or delivered at stopping points within a pre-defined
+    [service](service.md) corridor"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[dynamic route](dynamic route.md)"
+- content: "<transport service> [concurrent](concurrent.md) operation where transported
+    items can only be received or delivered at stopping points contained in a pre-defined
+    sequence"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[fixed route](fixed route.md)"
+- content: "<transport service> [concurrent](concurrent.md) operation where the [transport
+    provider](transport provider.md) may choose to divert from its path to service
+    a new request from another [transport users](transport user.md) while servicing
+    an earlier transport user"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[paired on-demand](paired on-demand.md)"
+- content: "[operational model](operational model.md) where [services](service.md)
+    are provided to a single [user](user.md) at any one time"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[sequential](sequential.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.9.1
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: b175f1a4-87d6-5222-b942-4e0a57b0c841
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      logistical framework for the agreement between a {{urn:iso:std:iso:14812:ed3:3.5.1.2,service provider}} and a {{urn:iso:std:iso:14812:ed3:3.5.1.3,user}}
+      <img alt="operational model Diagram" src="../../diagrams/operational model.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The logistical framework can set restrictions on how a passenger (3.6.2.1)
+      and/or good is received, transported and/or delivered.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: operational model
+  language_code: eng
+  entry_status: valid
+id: a807defc-1e9d-5109-ae9d-35b7f6ad5a09

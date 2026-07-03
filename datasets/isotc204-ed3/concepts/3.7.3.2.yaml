@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 3.7.3.2
+  localized_concepts:
+    eng: 33e80279-4d63-5a26-8741-410f91a9b0a0
+related:
+- content: forAGiven [some drivingAutomationSystem]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.7.3.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: ec6b2f59-8641-565a-8c7e-13bd2d01e891
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      set of operating conditions under which a given {{urn:iso:std:iso:14812:ed3:3.7.3.6,driving automation system}} or feature thereof is specifically designed to function
+      <img alt="operational design domain Diagram" src="../../diagrams/operational design domain.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Example 1: {{urn:iso:std:iso:14812:ed3:3.7.3.10,ADS}} feature designed to operate a {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} only on fully access-controlled freeways in low-speed traffic, under fair weather conditions and optimal {{urn:iso:std:iso:14812:ed3:3.3.5.1,road}} maintenance conditions (e.g. good lane markings and not under construction).
+      Example 2: ADS-dedicated vehicle designed to operate only within a geographically-defined area, and only during daylight at speeds not exceeding 25 mph.
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The conditions can include environmental, geographical, time-of-day,
+      and/or other restrictions.
+  - content: The conditions can require the presence or absence of certain traffic
+      or {{urn:iso:std:iso:14812:ed3:3.3.1.3,roadway}} characteristics.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: operational design domain
+  - type: expression
+    normative_status: admitted
+    designation: ODD
+  language_code: eng
+  entry_status: valid
+id: 33e80279-4d63-5a26-8741-410f91a9b0a0

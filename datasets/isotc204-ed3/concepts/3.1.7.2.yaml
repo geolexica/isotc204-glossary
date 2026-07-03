@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 3.1.7.2
+  localized_concepts:
+    eng: 3bb94679-8ac7-5c2b-b65a-80e8ce888fce
+related:
+- content: aggregates [some function]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.7.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: a6c39ce6-18b8-50f1-8565-251cd30121c3
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      <functional view> series of one or more {{urn:iso:std:iso:14812:ed3:3.1.7.3,functions}} in support of an {{urn:iso:std:iso:14812:ed3:3.5.3.1,ITS service}}
+      <img alt="process Diagram" src="../../diagrams/process.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: process
+  - type: expression
+    normative_status: admitted
+    designation: functional view process
+  language_code: eng
+  entry_status: valid
+id: 3bb94679-8ac7-5c2b-b65a-80e8ce888fce

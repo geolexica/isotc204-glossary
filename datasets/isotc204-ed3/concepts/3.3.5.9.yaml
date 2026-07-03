@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 3.3.5.9
+  localized_concepts:
+    eng: b8fcccc9-3b96-5c27-a3e9-70ba382e58af
+related:
+- content: constitutes [some laneSegment]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [link]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.5.9
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 1ef5f82e-a2d0-59d4-8dbb-e8e1891f9940
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.3.5.5,link}} that represents a {{urn:iso:std:iso:14812:ed3:3.3.1.12,lane}} of a {{urn:iso:std:iso:14812:ed3:3.3.5.6,road link}}
+      <img alt="lane link Diagram" src="../../diagrams/lane link.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: A {{urn:iso:std:iso:14812:ed3:3.3.5.10,lane segment}} can start or end
+      at {{urn:iso:std:iso:14812:ed3:3.4.1.2,spatial locations}} other than the start
+      or end of the corresponding {{urn:iso:std:iso:14812:ed3:3.3.5.8,road segment}}
+      (e.g. a lane can start mid-block).
+  - content: A lane segment only includes the sequential lane links, it does not include
+      lane links from adjacent lanes.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lane link
+  language_code: eng
+  entry_status: valid
+id: b8fcccc9-3b96-5c27-a3e9-70ba382e58af

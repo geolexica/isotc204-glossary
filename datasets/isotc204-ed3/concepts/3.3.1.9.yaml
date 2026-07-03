@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 3.3.1.9
+  localized_concepts:
+    eng: '08581efc-79e4-52a2-833b-a5f8d0ddfe8d'
+related:
+- content: comprises [min 3 owl::Thing]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: has [min 2 owl::Thing]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [roadway]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.1.9
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: e21fc73f-9ef2-53ce-9943-9bab8f68c8b3
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      having more than one {{urn:iso:std:iso:14812:ed3:3.3.1.5,carriageway}}
+      <img alt="multiple carriageway Diagram" src="../../diagrams/multiple carriageway.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The "multiple carriageway" term can be used to describe a road, road
+      section, road link, or road segment.
+  - content: The separate carriageways are typically designed for separate traffic
+      for (often multiple) specific operational reasons, such as direction of travel,
+      category of vehicle (e.g. high occupancy vehicle), local versus through travel,
+      etc.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: multiple carriageway
+  language_code: eng
+  entry_status: valid
+id: '08581efc-79e4-52a2-833b-a5f8d0ddfe8d'

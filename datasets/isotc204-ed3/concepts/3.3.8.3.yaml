@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 3.3.8.3
+  localized_concepts:
+    eng: f7318939-2883-53d7-84cb-9a9e3c722003
+related:
+- content: store [max 1 owl::Thing]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[parking space](parking space.md) for a designated purpose Note 1 to entry:
+    \ Note 2 to entry:"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[designated parking space](designated parking space.md)"
+- content: "[designated parking space](designated parking space.md) that requires
+    a special permit from an appropriate authority"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[parking space for permit holders](parking space for permit holders.md)"
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 9616b3ee-2ef7-504f-9431-71be27778b3a
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      location for storing a {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} Note 1 to entry: The vehicle can be a motor vehicle, cycle, or any other type of vehicle. Note 2 to entry: A parking space is usually designed for a single vehicle. Note 3 to entry: Parking spaces can be, but are not necessarily, denoted by painted or other road surface markings.
+      <img alt="parking space Diagram" src="../../diagrams/parking space.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: parking space
+  language_code: eng
+  entry_status: valid
+id: f7318939-2883-53d7-84cb-9a9e3c722003

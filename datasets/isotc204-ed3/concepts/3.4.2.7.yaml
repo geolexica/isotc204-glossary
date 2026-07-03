@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 3.4.2.7
+  localized_concepts:
+    eng: ae7af80e-3a85-599c-9176-79ec633584d4
+related:
+- content: aggregates [some spatialReference]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.4.2.7
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: aa95dacf-43b0-5846-8e06-3525d1034d2f
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      register of {{urn:iso:std:iso:14812:ed3:3.4.2.2,spatial references}} of one or more {{urn:iso:std:iso:14812:ed3:3.4.1.2,spatial location}} sub-types containing some information regarding position
+      <img alt="gazetteer Diagram" src="../../diagrams/gazetteer.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Admitted term: location table
+      Source: ISO 19112:2019, 3.1.1, modified - "register of location instances..." changed to "register of spatial references..." in order to fit the relevant concept model.
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The positional information need not be coordinates but could be descriptive.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: gazetteer
+  language_code: eng
+  entry_status: valid
+id: ae7af80e-3a85-599c-9176-79ec633584d4

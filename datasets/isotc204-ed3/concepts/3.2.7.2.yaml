@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.2.7.2
+  localized_concepts:
+    eng: 208f2a7c-9446-5496-83c6-623e67ef4fa1
+related:
+- content: subClassOf [boundedSecuredManagedDomain]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.2.7.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 89921023-7504-543d-9528-19f04589cbd8
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      set of {{urn:iso:std:iso:14812:ed3:3.2.7.1,bounded secured managed domains}} that meet a defined set of ITS industry security requirements
+      <img alt="ITS trust domain Diagram" src="../../diagrams/ITS trust domain.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS trust domain
+  language_code: eng
+  entry_status: valid
+id: 208f2a7c-9446-5496-83c6-623e67ef4fa1

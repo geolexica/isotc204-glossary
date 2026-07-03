@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 3.3.3.4
+  localized_concepts:
+    eng: b9c61583-2b8a-5a85-bce8-b4e6cbb3e4cd
+related:
+- content: along [some roadside]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [footpath]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [lane]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.3.4
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: b5bcf05d-2e6e-51ce-b716-d87b1db4cfb6
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.3.3.3,footpath}} along a {{urn:iso:std:iso:14812:ed3:3.3.1.10,roadside}}
+      <img alt="sidewalk Diagram" src="../../diagrams/sidewalk.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Admitted term: pavement
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: A paved footway is called a "pavement" in the British English.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sidewalk
+  - type: expression
+    normative_status: admitted
+    designation: footway
+  language_code: eng
+  entry_status: valid
+id: b9c61583-2b8a-5a85-bce8-b4e6cbb3e4cd

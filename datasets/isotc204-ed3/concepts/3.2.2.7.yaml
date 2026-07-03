@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.2.2.7
+  localized_concepts:
+    eng: 62c71161-b9d3-5cb3-9af5-68a575e72192
+related:
+- content: subClassOf [centralSystem]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.2.2.7
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: e019d772-151b-5e78-bc7d-2795e6417265
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.2.1.1,centre system}} that officially records traffic regulations in electronic form so that they can be distributed to other systems
+      <img alt="traffic regulation central system Diagram" src="../../diagrams/traffic regulation central system.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: traffic regulation central system
+  language_code: eng
+  entry_status: valid
+id: 62c71161-b9d3-5cb3-9af5-68a575e72192

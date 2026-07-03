@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 3.3.3.6
+  localized_concepts:
+    eng: 62616d3e-86ba-5d94-87a7-a8f5467656dd
+related:
+- content: subClassOf [footpath]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: b5c3c90f-8828-581b-b637-66f1ab0121f8
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      footpath consisting of a conveyor belt for pedestrians Note 1 to entry: Moving walkways are often used in airports with long footpaths Note 2 to entry: Moving walkways assist pedestrians in traversing longer distances. Note 3 to entry: "Travellator" is a term used in Singapore.
+      <img alt="moving walkway Diagram" src="../../diagrams/moving walkway.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Admitted term: travellator
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: moving walkway
+  language_code: eng
+  entry_status: valid
+id: 62616d3e-86ba-5d94-87a7-a8f5467656dd

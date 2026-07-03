@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 3.1.8.6
+  localized_concepts:
+    eng: 6e82bd07-3c2c-5624-ad18-60f83cf92802
+related:
+- content: groups [some process]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [resource]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[functional object](functional object.md) that can be replaced and has
+    defined interfaces"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[module](module.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.8.6
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 3ced41ee-499f-52aa-bf15-bdf9c5343ec4
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      set of related {{urn:iso:std:iso:14812:ed3:3.1.7.2,processes}} that are performed by a {{urn:iso:std:iso:14812:ed3:3.1.8.1,physical object}} to fulfil aspects of an {{urn:iso:std:iso:14812:ed3:3.5.3.1,ITS service}}
+      <img alt="functional object Diagram" src="../../diagrams/functional object.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      EXAMPLE: A vehicle OBE can include a "vehicle basic safety" functional object.
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The term "module" is used by the European FRAME architecture while the
+      Architecture Reference for Cooperative and Intelligent Transportation (ARC-IT)
+      uses the term "functional object".
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: functional object
+  - type: expression
+    normative_status: admitted
+    designation: ITS functional object
+  language_code: eng
+  entry_status: valid
+id: 6e82bd07-3c2c-5624-ad18-60f83cf92802

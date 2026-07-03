@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.1.5.3
+  localized_concepts:
+    eng: 638c1ea0-285c-5b4c-9d96-fe4f59890e5d
+related:
+- content: subClassOf [accessLayer]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.5.3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: c9b8162c-a3b8-509b-abdf-67800281b5dd
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      communications layer in the {{urn:iso:std:iso:14812:ed3:3.1.9.4,ITS station reference architecture}} corresponding to the physical and data link layers of the OSI model for ITS communications
+      <img alt="ITS-S access layer Diagram" src="../../diagrams/ITS-S access layer.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S access layer
+  language_code: eng
+  entry_status: valid
+id: 638c1ea0-285c-5b4c-9d96-fe4f59890e5d

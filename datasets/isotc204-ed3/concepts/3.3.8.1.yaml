@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 3.3.8.1
+  localized_concepts:
+    eng: f188dc07-8b16-5333-98a2-d4d37df3aaf6
+related:
+- content: subClassOf [parkingSpace]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[designated parking space](designated parking space.md) that requires
+    a special permit from an appropriate authority"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[parking space for permit holders](parking space for permit holders.md)"
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 3eb55395-dd91-5c75-bc08-122a4868c863
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.3.8.3,parking space}} for a designated purpose Note 1 to entry:  Note 2 to entry:
+      <img alt="designated parking space Diagram" src="../../diagrams/designated parking space.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: Designated parking spaces include those that require permits (e.g., reserved
+      for those with disabilities) as well as advisory notices that rely upon voluntary
+      compliance (e.g., reserved for expectant mothers).
+  - content: The term "designated parking space" is often specialized to indicate
+      the type of designation (e.g., "electric vehicle parking space").
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: designated parking space
+  language_code: eng
+  entry_status: valid
+id: f188dc07-8b16-5333-98a2-d4d37df3aaf6

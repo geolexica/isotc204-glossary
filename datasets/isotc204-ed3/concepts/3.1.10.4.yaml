@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 3.1.10.4
+  localized_concepts:
+    eng: 982d31cf-63f6-5664-901d-2fd93e714ef1
+related:
+- content: subClassOf [dataDictionary]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.10.4
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: fbeaf00a-cb4d-5c64-badd-336ceeb2992a
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      electronic {{urn:iso:std:iso:14812:ed3:3.1.10.3,data dictionary}} that follows precise documented rules for the registration and management of stored {{urn:iso:std:iso:14812:ed3:3.1.10.1,data concepts}}
+      <img alt="data concept registry Diagram" src="../../diagrams/data concept registry.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: A data concept registry typically includes advanced features for adding
+      retrieving, and working with its contents.
+  - content: The data concept registry contains {{urn:iso:std:iso:14812:ed3:3.1.10.2,meta-attributes}}
+      about {{urn:iso:std:iso:14812:ed3:3.1.10.1,data concepts}} in terms of their
+      names and representational forms as well as the semantics associated with the
+      data concepts. A data concept registry may contain metadata that assists information
+      interchange and re-use, both from the perspective of human users and for machine-interpretation
+      of data concepts.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: data concept registry
+  language_code: eng
+  entry_status: valid
+id: 982d31cf-63f6-5664-901d-2fd93e714ef1

@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 3.2.7.8
+  localized_concepts:
+    eng: a71a4caa-3dc6-5584-815b-fe4d0eca6af8
+related:
+- content: comprises [some functionality]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: containedIn [some its-sUnit]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[ITS-S node](ITS-S node.md) comprised of [ITS-S](ITS station.md) functionalities
+    other than the functionalities of an [ITS-S router](ITS-S router.md), ITS-S border
+    router, ITS-S mobile router or an ITS-S gateway"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ITS-S host](ITS-S host.md)"
+- content: "[ITS-S node](ITS-S node.md) comprised of routing functionalities of an
+    [ITS station unit](ITS-S unit.md) used to connect two networks and to forward
+    packets not explicitly addressed to itself"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ITS-S router](ITS-S router.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.2.7.8
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: a2204f0f-bcc9-5b40-a212-b28fb9cefac3
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      node comprised of a set of functionalities in an {{urn:iso:std:iso:14812:ed3:3.2.7.4,ITS-S unit}} that is {{urn:iso:std:iso:14812:ed3:3.2.3.6,connected}} to the {{urn:iso:std:iso:14812:ed3:3.2.7.3,ITS station}}-internal network or comprises an entire ITS-S unit
+      <img alt="ITS-S node Diagram" src="../../diagrams/ITS-S node.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S node
+  language_code: eng
+  entry_status: valid
+id: a71a4caa-3dc6-5584-815b-fe4d0eca6af8

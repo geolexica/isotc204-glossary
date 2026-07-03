@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 3.5.3.3
+  localized_concepts:
+    eng: d2f542d9-d617-5a14-a00f-b1cb842257e0
+related:
+- content: subClassOf [user]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: uses [some surfaceTransportSystem]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.3.3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: e7c7cadf-9c8e-54e6-a149-f941d8bcaf34
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.1.1.1,entity}} that uses information, communication, and transducer technologies to achieve benefits when using a {{urn:iso:std:iso:14812:ed3:3.1.2.3,surface transport system}}
+      <img alt="ITS user Diagram" src="../../diagrams/ITS user.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS user
+  - type: expression
+    normative_status: admitted
+    designation: user
+  language_code: eng
+  entry_status: valid
+id: d2f542d9-d617-5a14-a00f-b1cb842257e0

@@ -1,0 +1,30 @@
+---
+data:
+  identifier: 3.1.15.4
+  localized_concepts:
+    eng: 11896aea-3078-5546-8498-26539c5d92b3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: ab22830e-3479-54ad-a030-3694a665b1cc
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      implementation of a system concept
+      <img alt="realization Diagram" src="../../diagrams/realization.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Source: ISO/IEC/IEEE 24765:2017, example added
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: A realization requires the development of a design and the translation
+      of this design into hardware components, software components, or both.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: realization
+  language_code: eng
+  entry_status: valid
+id: 11896aea-3078-5546-8498-26539c5d92b3

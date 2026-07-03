@@ -1,0 +1,27 @@
+---
+data:
+  identifier: 3.4.2.8
+  localized_concepts:
+    eng: cc881ec7-7b3f-516b-b250-e154825a49d0
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: d94f0ed8-a9e9-5d37-816d-830ab4101806
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      point or linear location on a network
+      <img alt="network location Diagram" src="../../diagrams/network location.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: network location
+  language_code: eng
+  entry_status: valid
+id: cc881ec7-7b3f-516b-b250-e154825a49d0

@@ -1,0 +1,228 @@
+---
+data:
+  identifier: 3.1.6.2
+  localized_concepts:
+    eng: 15fc1003-2924-54c8-bb5b-97087398e399
+related:
+- content: "[ITS component](ITS component.md) that provides application, management,
+    and/or administrative functions from a centralized [location](location.md) [i.e.
+    not at the [roadside](roadside.md)]"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[central system](central system.md)"
+- content: "[ITS roadside equipment](ITS roadside equipment.md) that perform [ITS
+    services](ITS service.md) by exchanging electronic [messages](message.md) with
+    nearby [connected vehicles](connected vehicle.md) and/or [personal systems](personal
+    system.md) via short-range wireless technologies"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[connected vehicle roadside equipment](connected vehicle roadside equipment.md)"
+- content: "[support system](support system.md) that enables trusted communications
+    among [ITS components](ITS component.md) and protects data from unauthorized access"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[cooperative ITS credentials management system](cooperative ITS credentials
+      management system.md)"
+- content: uniquely identified unit of information for human use
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[document](document.md)"
+- content: "[centre system](central system.md) that allows an [entity](entity.md)
+    to manage and respond to crashes, events, disasters, evacuation orders and other
+    incidents"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[emergency management central system](emergency management central system.md)"
+- content: portable [field system](field system.md) used by field personnel to locally
+    troubleshoot, initialize, reprogram and test infrastructure equipment
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[field support equipment](field support equipment.md)"
+- content: infrastructure-based [ITS component](ITS component.md) located outside
+    of a data centre that is designed to provide local processing or routing services
+    while stationary
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[field system](field system.md)"
+- content: "[centre system](central system.md) that allows a fleet or freight operator
+    to manage and control its personnel, equipment and/or freight"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[fleet and freight management central system](fleet and freight management
+      central system.md)"
+- content: set of related [processes](process.md) that are performed by a [physical
+    object](physical object.md) to fulfil aspects of an [ITS service](ITS service.md)
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[functional object](functional object.md)"
+- content: "[physical object](physical object.md) that has been assigned one or more
+    [functional objects](functional object.md) in the provision of one or more [ITS
+    services](ITS service.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ITS component](ITS component.md)"
+- content: "[vehicle system](vehicle system.md) that provides all ITS functionality
+    on-board the [vehicle](vehicle.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ITS on-board equipment](ITS on-board equipment.md)"
+- content: "[field system](field system.md) that performs localized [ITS services](ITS
+    service.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ITS roadside equipment](ITS roadside equipment.md)"
+- content: "[centre system](central system.md) that allows an [entity](entity.md)
+    to monitor and manage the construction and maintenance of [road](road.md) infrastructure"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[maintenance and construction central management system](maintenance and
+      construction central management system.md)"
+- content: "[support system](support system.md) that provides map databases used to
+    support [ITS services](ITS service.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[map provision system](map provision system.md)"
+- content: "[functional object](functional object.md) that can be replaced and has
+    defined interfaces"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[module](module.md)"
+- content: "[personal information device](personal information device.md) that is
+    taken with and can be accessed by the [traveller](traveller.md) during a journey"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[nomadic device](nomadic device.md)"
+- content: "[personal system](personal system.md) consisting of global navigation
+    satellite system (GNSS) and/or wireless [modules](module.md) that are connected
+    to a [vehicle](vehicle.md) during a trip"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[nomadic vehicle device](nomadic vehicle device.md)"
+- content: "[centre system](central system.md) that allows an [entity](entity.md)
+    to manage financial transactions related to transportation, especially the electronic
+    transfer of funds"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[payment administration central system](payment administration central system.md)"
+- content: "[personal system](personal system.md) that enables personal access to
+    [traveller](traveller.md) information"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[personal information device](personal information device.md)"
+- content: "[ITS component](ITS component.md), other than a [vehicle system](vehicle
+    system.md), that is used by a [person](person.md) in relation to a past, current
+    or upcoming journey"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[personal system](personal system.md)"
+- content: "<physical view> abstraction of a [material entity](material entity.md)
+    that interacts with other abstract material entities in the provision of [ITS
+    services](ITS service.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[physical object](physical object.md)"
+- content: "[personal system](personal system.md) that provides public access to [traveller](traveller.md)
+    information"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[public information device](public information device.md)"
+- content: "[centre system](central system.md) that allows an [entity](entity.md)
+    to manage the activities of a [public transport](public transport.md) agency"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[public transport central management system](public transport central management
+      system.md)"
+- content: "[ITS component](ITS component.md) that provides services in support of
+    one or more other ITS components"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[support system](support system.md)"
+- content: "[entity](entity.md) that is external to the [ITS service](ITS service.md)
+    implementation but with which the implementation communicates either to obtain
+    inputs or to which it can send outputs"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[terminator](terminator.md)"
+- content: "[centre system](central system.md) that monitors and controls traffic
+    and the [road network](road network.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[traffic management central system](traffic management central system.md)"
+- content: "[centre system](central system.md) that officially records traffic regulations
+    in electronic form so that they can be distributed to other systems"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[traffic regulation central system](traffic regulation central system.md)"
+- content: "[centre system](central system.md) that provides information of interest
+    to the travelling public"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[transport information central system](transport information central system.md)"
+- content: "[ITS component](ITS component.md) that is installed as a component of
+    a [vehicle](vehicle.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[vehicle system](vehicle system.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.6.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: ee6ee0b0-0618-56d4-8e0e-611f28893407
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      <enterprise view> {{urn:iso:std:iso:14812:ed3:3.1.3.10,element}} that represents an {{urn:iso:std:iso:14812:ed3:3.1.1.1,entity}} that is managed, operated, referenced and/or used to develop and provide {{urn:iso:std:iso:14812:ed3:3.1.2.4,ITS}}
+      <img alt="resource Diagram" src="../../diagrams/resource.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      | Referencing Term | Type of Reference |
+      | --- | --- |
+      | {{urn:iso:std:iso:14812:ed3:3.1.6.3,document}} | subClassOf |
+      | {{urn:iso:std:iso:14812:ed3:3.1.8.6,functional object}} | subClassOf |
+      | {{urn:iso:std:iso:14812:ed3:3.1.8.1,physical object}} | subClassOf |
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: resource
+  - type: expression
+    normative_status: admitted
+    designation: enterprise view resource
+  language_code: eng
+  entry_status: valid
+id: 15fc1003-2924-54c8-bb5b-97087398e399

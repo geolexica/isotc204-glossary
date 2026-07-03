@@ -1,0 +1,59 @@
+---
+data:
+  identifier: 3.2.3.2
+  localized_concepts:
+    eng: 9c41b916-0e45-577a-8dde-5d70eb3347b6
+related:
+- content: subClassOf [fieldSystem]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[ITS roadside equipment](ITS roadside equipment.md) that perform [ITS
+    services](ITS service.md) by exchanging electronic [messages](message.md) with
+    nearby [connected vehicles](connected vehicle.md) and/or [personal systems](personal
+    system.md) via short-range wireless technologies"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[connected vehicle roadside equipment](connected vehicle roadside equipment.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.2.3.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: e02b2e03-d220-565c-af95-51e47f1c4999
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.2.1.2,field system}} that performs localized {{urn:iso:std:iso:14812:ed3:3.5.3.1,ITS services}}
+      <img alt="ITS roadside equipment Diagram" src="../../diagrams/ITS roadside equipment.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      EXAMPLE: traffic signal controller, variable message sign, vehicle detection
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: '"ITS roadway equipment" is used within the current version of the Architecture
+      Reference for Cooperative and Intelligent Transportation (ARC-IT; see Reference
+      [25]). The term {{urn:iso:std:iso:14812:ed3:3.3.1.3,roadway}} has been revised
+      to reflect that the equipment is typically along the roadway rather than a part
+      of the roadway.'
+  - content: ITS services that can be performed by ITS roadside equipment include
+      surveillance, traffic control, information provision, payment transaction services,
+      and/or enforcement
+  - content: While the term "roadside" indicates the typical location of the equipment,
+      ITS roadside equipment (or portions thereof) can be embedded in the roadway
+      itself.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS roadside equipment
+  - type: expression
+    normative_status: admitted
+    designation: ITS roadway equipment
+  language_code: eng
+  entry_status: valid
+id: 9c41b916-0e45-577a-8dde-5d70eb3347b6

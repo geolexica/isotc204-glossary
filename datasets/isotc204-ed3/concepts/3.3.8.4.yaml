@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 3.3.8.4
+  localized_concepts:
+    eng: 4c064abd-7122-513c-8de0-d36d50284caa
+related:
+- content: subClassOf [designatedParkingSpace]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 48d3b458-5196-50d9-a93f-2cdfdeb9f71b
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.3.8.1,designated parking space}} that requires a special permit from an appropriate authority
+      <img alt="parking space for permit holders Diagram" src="../../diagrams/parking space for permit holders.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The permit can be physically displayed or linked to a database, per authority
+      policies.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: parking space for permit holders
+  language_code: eng
+  entry_status: valid
+id: 4c064abd-7122-513c-8de0-d36d50284caa

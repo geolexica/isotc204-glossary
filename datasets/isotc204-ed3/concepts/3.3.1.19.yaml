@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 3.3.1.19
+  localized_concepts:
+    eng: 3754c1e5-7ce6-56b0-a092-93b3474e9970
+related:
+- content: subClassOf [shoulder]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.1.19
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 9f608cf3-7d03-54dc-b1a8-29b9b316e1ed
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      part of the paved {{urn:iso:std:iso:14812:ed3:3.3.1.5,carriageway}} designed to support traffic loads but not normally intended for driving
+      <img alt="hard shoulder Diagram" src="../../diagrams/hard shoulder.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: A hard shoulder can be narrow or wide enough for a {{urn:iso:std:iso:14812:ed3:3.3.1.13,traffic
+      lane}}.
+  - content: A hard shoulder can have a surface that discourages usage as a driving
+      surface in some countries.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hard shoulder
+  language_code: eng
+  entry_status: valid
+id: 3754c1e5-7ce6-56b0-a092-93b3474e9970

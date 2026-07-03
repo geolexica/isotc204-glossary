@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.5.8.5
+  localized_concepts:
+    eng: e86c8242-76ba-5ddd-baec-fc5ea9d3d25f
+related:
+- content: subClassOf [cooperative]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.8.5
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: ba7e89d3-0025-5f46-b8b9-1d3f9ad5192b
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.5.8.4,cooperative}} {{urn:iso:std:iso:14812:ed3:3.5.8.1,financial model}} where {{urn:iso:std:iso:14812:ed3:3.5.1.3,users}} partner on a per-use basis
+      <img alt="mutual benefit Diagram" src="../../diagrams/mutual benefit.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mutual benefit
+  language_code: eng
+  entry_status: valid
+id: e86c8242-76ba-5ddd-baec-fc5ea9d3d25f

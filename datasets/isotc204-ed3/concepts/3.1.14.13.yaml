@@ -1,0 +1,28 @@
+---
+data:
+  identifier: 3.1.14.13
+  localized_concepts:
+    eng: 8d12cddf-ad94-5135-b21e-a56a15e826a4
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 733f8409-73e3-5f64-b6ea-494aabb079f7
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      potential cause of an unwanted incident, which can result in harm to a system or organization
+      <img alt="threat Diagram" src="../../diagrams/threat.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Source: ISO/IEC 27000:2018, 3.75
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: threat
+  language_code: eng
+  entry_status: valid
+id: 8d12cddf-ad94-5135-b21e-a56a15e826a4

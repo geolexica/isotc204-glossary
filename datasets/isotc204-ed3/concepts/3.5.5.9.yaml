@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 3.5.5.9
+  localized_concepts:
+    eng: 25686374-d432-5658-8013-c426e0a9a4cb
+related:
+- content: subClassOf [mobilityApp]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 80871ee9-0233-50d9-bde7-e2115fe07148
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.5.5.1,mobility app}} that assists a {{urn:iso:std:iso:14812:ed3:3.5.2.3,transport user}} in electronically requesting a taxi
+      <img alt="taxi hailing app Diagram" src="../../diagrams/taxi hailing app.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: taxi hailing app
+  language_code: eng
+  entry_status: valid
+id: 25686374-d432-5658-8013-c426e0a9a4cb

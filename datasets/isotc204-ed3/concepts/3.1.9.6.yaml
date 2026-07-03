@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.1.9.6
+  localized_concepts:
+    eng: 35050eef-d37a-5515-aa74-1da586c4a53f
+related:
+- content: subClassOf [planningArchitecture]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.9.6
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 7ead800b-5e9e-59dc-9182-b5a0e9ebee82
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.1.9.2,planning architecture}} for one or more {{urn:iso:std:iso:14812:ed3:3.5.3.1,ITS services}}
+      <img alt="ITS planning architecture Diagram" src="../../diagrams/ITS planning architecture.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS planning architecture
+  language_code: eng
+  entry_status: valid
+id: 35050eef-d37a-5515-aa74-1da586c4a53f

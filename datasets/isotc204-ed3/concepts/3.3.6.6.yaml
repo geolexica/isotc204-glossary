@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.3.6.6
+  localized_concepts:
+    eng: c24649a8-d630-54bc-95d6-0322290815fa
+related:
+- content: aggregates [some egressLane]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.6.6
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: b1b315e4-ff66-5b4b-a286-57d989066e7c
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      all {{urn:iso:std:iso:14812:ed3:3.3.6.5,egress lanes}} on a {{urn:iso:std:iso:14812:ed3:3.3.5.6,road link}}
+      <img alt="egress link Diagram" src="../../diagrams/egress link.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: egress link
+  language_code: eng
+  entry_status: valid
+id: c24649a8-d630-54bc-95d6-0322290815fa

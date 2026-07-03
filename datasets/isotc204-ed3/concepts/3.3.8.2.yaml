@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.3.8.2
+  localized_concepts:
+    eng: 1e9f8e4f-1281-573c-ab8c-03eed27f454f
+related:
+- content: forDesignated [some vehicles]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 85c7c2b3-016d-550d-89fb-4edc83366f28
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      area designated for {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicles}} to load and/or unload goods
+      <img alt="loading area Diagram" src="../../diagrams/loading area.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The area can include the vehicle waiting area and the goods waiting area.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: loading area
+  - type: expression
+    normative_status: admitted
+    designation: unloading area
+  language_code: eng
+  entry_status: valid
+id: 1e9f8e4f-1281-573c-ab8c-03eed27f454f

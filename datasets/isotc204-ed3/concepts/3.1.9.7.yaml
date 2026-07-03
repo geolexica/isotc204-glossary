@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.1.9.7
+  localized_concepts:
+    eng: 30932935-1763-5830-8ccf-4d6b4a9e3377
+related:
+- content: subClassOf [deploymentArchitecture]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.9.7
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: dd2ffabe-c497-5c17-8ea2-1bac3b67997b
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.1.9.3,deployment architecture}} for one or more {{urn:iso:std:iso:14812:ed3:3.5.3.1,ITS services}}
+      <img alt="ITS deployment architecture Diagram" src="../../diagrams/ITS deployment architecture.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS deployment architecture
+  language_code: eng
+  entry_status: valid
+id: 30932935-1763-5830-8ccf-4d6b4a9e3377

@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 3.2.7.4
+  localized_concepts:
+    eng: 035e7dcb-3ecf-56f7-8f83-92f64498349b
+related:
+- content: comprises [some its-sCommunicationUnit]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: instantiationOf [some itsStation]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.2.7.4
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 50540bcf-a02d-5d09-9d36-b5fe22ec1384
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.1.15.3,instance}} of an physical unit produced by an {{urn:iso:std:iso:14812:ed3:3.2.7.3,ITS station}} {{urn:iso:std:iso:14812:ed3:3.1.15.2,implementation}}
+      <img alt="ITS-S unit Diagram" src="../../diagrams/ITS-S unit.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: This is a clarification of the definition provided in ISO 21217:2020.
+      While the definition for ITS station unit in ISO 21217:2020 refers to an implementation,
+      the full text interchangeably describes it as an implementation or a physical
+      instantiation, but does not define those terms explicitly.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S unit
+  - type: expression
+    normative_status: admitted
+    designation: ITS station unit
+  - type: expression
+    normative_status: admitted
+    designation: ITS-SU
+  language_code: eng
+  entry_status: valid
+id: 035e7dcb-3ecf-56f7-8f83-92f64498349b

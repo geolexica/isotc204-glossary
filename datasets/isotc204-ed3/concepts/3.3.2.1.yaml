@@ -1,0 +1,61 @@
+---
+data:
+  identifier: 3.3.2.1
+  localized_concepts:
+    eng: 4e861faf-e3b4-58e4-b9e5-d07cbdbd1c07
+related:
+- content: part of the [road reservation](road reservation.md) between [carriageways](carriageway.md)
+    designed for travel safety purposes
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[central reservation](central reservation.md)"
+- content: "[physical traffic separator](physical traffic separator.md) that consists
+    of a wall with a wide, sloped base designed to divert [vehicles](vehicle.md) back
+    into their [traffic lane](traffic lane.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[Jersey barrier](Jersey barrier.md)"
+- content: 'physical traffic separator, usually upstanding, at the edge of a carriageway,
+    hard strip, hard shoulder, or footway Note 1 to entry: "Curb" is the US spelling.'
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[kerb](kerb.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.2.1
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: '090dda7f-e3c2-54f1-ad16-50fb01491fd8'
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      mechanism used to physically separate a travelled way or pathway from the adjacent environment
+      <img alt="physical traffic separator Diagram" src="../../diagrams/physical traffic separator.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      | Referencing Term | Type of Reference |
+      | --- | --- |
+      | {{urn:iso:std:iso:14812:ed3:3.3.1.8,dual carriageway}} | has |
+      | {{urn:iso:std:iso:14812:ed3:3.3.1.9,multiple carriageway}} | has |
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: Mechanisms include various types of barriers, such as walls, rails, pylons,
+      kerbs and ditches, as well as open, unpaved space. If two streams of traffic
+      are only separated by paved space (including any markings and rumble strips),
+      they share a common carriageway.
+  - content: The adjacent environment can be an opposing direction of travel, a different
+      mode of travel, the edge of a bridge, etc.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: physical traffic separator
+  language_code: eng
+  entry_status: valid
+id: 4e861faf-e3b4-58e4-b9e5-d07cbdbd1c07

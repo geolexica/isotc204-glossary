@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 3.7.2.4
+  localized_concepts:
+    eng: cd1b0dd6-c773-5e2b-a5ba-322681206a49
+related:
+- content: inUseOrOnBoard [exactly 1 owl::Thing]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: d662ad22-66e2-514e-8b6e-a174a12c6505
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      type of equipment in use or on board the vehicle
+      <img alt="vehicle equipment Diagram" src="../../diagrams/vehicle equipment.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vehicle equipment
+  language_code: eng
+  entry_status: valid
+id: cd1b0dd6-c773-5e2b-a5ba-322681206a49

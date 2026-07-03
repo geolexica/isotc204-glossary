@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 3.1.5.4
+  localized_concepts:
+    eng: 840cd339-a0a7-50de-a13f-a62c3fc54a1a
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.5.4
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 62acc54d-dc7a-54a7-b45a-8f5e543c9a83
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      communications layer in the {{urn:iso:std:iso:14812:ed3:3.1.9.4,ITS station reference architecture}} corresponding to the network and transport layers of the OSI model
+      <img alt="transnet layer Diagram" src="../../diagrams/transnet layer.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The full name of this layer is the networking and transport layer, but
+      the term transnet layer provides a more concise name.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transnet layer
+  - type: expression
+    normative_status: admitted
+    designation: ITS-S networking and transport layer
+  - type: expression
+    normative_status: admitted
+    designation: networking and transport layer
+  language_code: eng
+  entry_status: valid
+id: 840cd339-a0a7-50de-a13f-a62c3fc54a1a

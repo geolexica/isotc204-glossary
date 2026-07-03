@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 3.2.3.4
+  localized_concepts:
+    eng: f5a448d9-ce32-5f01-84fa-6265c07b3490
+related:
+- content: subClassOf [connectedUnit]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.2.3.4
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: ba32d26c-3885-5af9-a1d5-6516235e5c6b
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      part of {{urn:iso:std:iso:14812:ed3:3.2.3.3,connected vehicle roadside equipment}} that provides wireless connectivity to {{urn:iso:std:iso:14812:ed3:3.2.1.5,vehicle systems}} and/or {{urn:iso:std:iso:14812:ed3:3.2.1.3,personal systems}}
+      <img alt="roadside unit Diagram" src="../../diagrams/roadside unit.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      | Referencing Term | Type of Reference |
+      | --- | --- |
+      | {{urn:iso:std:iso:14812:ed3:3.2.3.3,connected vehicle roadside equipment}} | aggregates |
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: roadside unit
+  - type: expression
+    normative_status: admitted
+    designation: ITS roadside unit
+  - type: expression
+    normative_status: admitted
+    designation: RSU
+  language_code: eng
+  entry_status: valid
+id: f5a448d9-ce32-5f01-84fa-6265c07b3490

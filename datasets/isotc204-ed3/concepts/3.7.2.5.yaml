@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 3.7.2.5
+  localized_concepts:
+    eng: 4412fac4-90c5-5092-9e81-a713b37efe6a
+related:
+- content: fuelUsedBy [exactly 1 owl::Thing]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 720c97aa-b3be-55f2-9d74-418f83f77fe4
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      type of fuel used by the vehicle
+      <img alt="vehicle fuel type Diagram" src="../../diagrams/vehicle fuel type.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vehicle fuel type
+  language_code: eng
+  entry_status: valid
+id: 4412fac4-90c5-5092-9e81-a713b37efe6a

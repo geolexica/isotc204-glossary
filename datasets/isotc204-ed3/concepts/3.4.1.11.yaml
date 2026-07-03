@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 3.4.1.11
+  localized_concepts:
+    eng: fcc7d8d0-16fc-51d3-b9d5-01294098bd51
+related:
+- content: subClassOf [coordinateTuple]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 879983ff-073e-50f2-a26c-9796f731c32f
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      coordinate tuple defining the geodetic position of a single {{urn:iso:std:iso:14812:ed3:3.4.1.3,point location}} using a known geodetic reference system
+      <img alt="point coordinates Diagram" src="../../diagrams/point coordinates.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: point coordinates
+  language_code: eng
+  entry_status: valid
+id: fcc7d8d0-16fc-51d3-b9d5-01294098bd51

@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 3.1.4.1
+  localized_concepts:
+    eng: 056ec9e0-23de-5994-b721-a00a811ae36b
+related:
+- content: basedOn [some its-sReferenceArchitecture]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [architectureView]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.4.1
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 5e7b7124-f917-57d2-abae-ab0821f5923d
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.1.3.7,architecture view}} from the {{urn:iso:std:iso:14812:ed3:3.1.4.2,communications viewpoint}}
+      <img alt="communications view Diagram" src="../../diagrams/communications view.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: Within ITS, the preferred model for describing the communications view
+      is based on the {{urn:iso:std:iso:14812:ed3:3.1.9.4,ITS-S reference architecture}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: communications view
+  language_code: eng
+  entry_status: valid
+id: 056ec9e0-23de-5994-b721-a00a811ae36b

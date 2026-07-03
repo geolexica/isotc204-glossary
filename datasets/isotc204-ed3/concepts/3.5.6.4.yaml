@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.5.6.4
+  localized_concepts:
+    eng: 37061bc3-e96e-5649-811b-6a210cf35cb0
+related:
+- content: using [some sharedTransportService]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.6.4
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: fea119f9-cf9a-5df8-b21f-74094776fb68
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      using a {{urn:iso:std:iso:14812:ed3:3.5.6.2,shared transport service}}
+      <img alt="transport sharing Diagram" src="../../diagrams/transport sharing.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transport sharing
+  language_code: eng
+  entry_status: valid
+id: 37061bc3-e96e-5649-811b-6a210cf35cb0

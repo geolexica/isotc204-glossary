@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 3.4.3.6
+  localized_concepts:
+    eng: d925b3d8-4791-5c08-91b5-48498a2607f1
+related:
+- content: limitOf [some jurisdictionalArea]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 9ff6dec5-89ee-54e9-b79b-b90b6f1593a3
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      territorial limit associated with a {{urn:iso:std:iso:14812:ed3:3.4.3.5,jurisdictional area}}
+      <img alt="jurisdictional boundary Diagram" src="../../diagrams/jurisdictional boundary.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: A geofence can be used to electronically represent a jurisdictional boundary.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: jurisdictional boundary
+  language_code: eng
+  entry_status: valid
+id: d925b3d8-4791-5c08-91b5-48498a2607f1

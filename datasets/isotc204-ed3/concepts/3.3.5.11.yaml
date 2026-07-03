@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 3.3.5.11
+  localized_concepts:
+    eng: 4f65a2e4-c7a7-54ec-a358-e2237075ecfd
+related:
+- content: subClassOf [road]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: alley designed to facilitate the provision of services for adjacent locations
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[service alley](service alley.md)"
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 6783878f-3b64-5f50-b4ad-42a794603596
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.3.5.1,road}} that has buildings, walls or fences on each side
+      <img alt="alley Diagram" src="../../diagrams/alley.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      | Referencing Term | Type of Reference |
+      | --- | --- |
+      | {{urn:iso:std:iso:14812:ed3:3.3.5.14,service alley}} | subClassOf |
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: alley
+  language_code: eng
+  entry_status: valid
+id: 4f65a2e4-c7a7-54ec-a358-e2237075ecfd

@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 3.1.1.5
+  localized_concepts:
+    eng: f0ad145f-0584-52f9-b617-25e7e70c2cb1
+related:
+- content: subClassOf [materialEntity]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[biological entity](biological entity.md) that is a human being"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[person](person.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.1.5
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 0cb33ab0-d02e-5d58-8ed7-83b599a743e4
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.1.1.3,material entity}} that was or is a living organism
+      <img alt="biological entity Diagram" src="../../diagrams/biological entity.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: biological entity
+  language_code: eng
+  entry_status: valid
+id: f0ad145f-0584-52f9-b617-25e7e70c2cb1

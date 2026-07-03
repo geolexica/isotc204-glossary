@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 3.2.9.2
+  localized_concepts:
+    eng: 979ed092-c230-578c-bdd9-30d347cdbda3
+related:
+- content: elementIn [some itsStation]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: performsInformationProcessingFor [some its-sService]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[ITS-S application process](ITS-S application process.md) residing in
+    the [application entity](application entity.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ITS-S application](ITS-S application.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.2.9.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 484bc81e-dd9e-5ada-b997-31adeb7052bf
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      information manipulation within an {{urn:iso:std:iso:14812:ed3:3.2.7.3,ITS station}} for an {{urn:iso:std:iso:14812:ed3:3.5.4.1,ITS-SU service}}
+      <img alt="ITS-S application process Diagram" src="../../diagrams/ITS-S application process.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      | Referencing Term | Type of Reference |
+      | --- | --- |
+      | {{urn:iso:std:iso:14812:ed3:3.2.8.1,ITS application}} | involves |
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: ITS-S application processes use ITS-S services to communicate with other
+      nodes.
+  - content: This clarifies the ISO 21217:2020 definition to remove ambiguity and
+      a circular reference to "application".
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S application process
+  language_code: eng
+  entry_status: valid
+id: 979ed092-c230-578c-bdd9-30d347cdbda3

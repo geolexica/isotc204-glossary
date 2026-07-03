@@ -1,0 +1,73 @@
+---
+data:
+  identifier: 3.1.3.6
+  localized_concepts:
+    eng: fb469565-58dc-5c27-985c-f4acd355abcc
+related:
+- content: aggregates [some modelKind]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: frames [some concern]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: governs [some architectureView]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[architecture viewpoint](architecture viewpoint.md) used to frame [concerns](concern.md)
+    related to all layers of the Open Systems Interconnection (OSI) stack and related
+    management and security issues"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[communications viewpoint](communications viewpoint.md)"
+- content: "[architecture viewpoint](architecture viewpoint.md) used to frame the
+    policies, funding incentives, working arrangements and jurisdictional structure
+    that support the technical layers of the [architecture](architecture.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[enterprise viewpoint](enterprise viewpoint.md)"
+- content: "[architecture viewpoint](architecture viewpoint.md) used to frame [concerns](concern.md)
+    related to the definition of [processes](process.md) that perform surface transport
+    functions and [data flows](data flow.md) shared between these processes"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[functional viewpoint](functional viewpoint.md)"
+- content: "[architecture viewpoint](architecture viewpoint.md) used to frame [concerns](concern.md)
+    related to the assignment of functionality to [physical objects](physical object.md)
+    and the interfaces among these physical objects"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[physical viewpoint](physical viewpoint.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.3.6
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 16d371bc-4c88-51d8-a13b-126c1b69f232
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      work product establishing the conventions for the construction, interpretation and use of {{urn:iso:std:iso:14812:ed3:3.1.3.7,architecture views}} to frame specific system {{urn:iso:std:iso:14812:ed3:3.1.3.5,concerns}}
+      <img alt="architecture viewpoint Diagram" src="../../diagrams/architecture viewpoint.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Source: ISO/IEC/IEEE 42010:2011, 3.6
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: architecture viewpoint
+  language_code: eng
+  entry_status: valid
+id: fb469565-58dc-5c27-985c-f4acd355abcc

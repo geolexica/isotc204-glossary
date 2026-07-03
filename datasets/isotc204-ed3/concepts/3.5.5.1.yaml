@@ -1,0 +1,87 @@
+---
+data:
+  identifier: 3.5.5.1
+  localized_concepts:
+    eng: 4c2c8269-5f00-59a9-92a3-2697f7092933
+related:
+- content: subClassOf [its-sApplicationImplementation]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[mobility app](mobility app.md) that assists a [transport user](transport
+    user.md) in acquiring a [transport service](transport service.md) from a specific
+    business"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[B2C mobility sharing app](B2C mobility sharing app.md)"
+- content: "[mobility app](mobility app.md) that assists a [transport user](transport
+    user.md) to determine the best route to a destination"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[navigation app](navigation app.md)"
+- content: "[mobility app](mobility app.md) that assists a [transport user](transport
+    user.md) in acquiring [transport service](transport service.md) from an individual
+    that participates in the mobility app's network"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[P2P mobility sharing app](P2P mobility sharing app.md)"
+- content: "[mobility app](mobility app.md) that assists a [transport user](transport
+    user.md) in using a [public transport](public transport.md) [system](system.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[public transport app](public transport app.md)"
+- content: "[mobility app](mobility app.md) that provides information about current
+    travel conditions to a [transport user](transport user.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[real-time traveller information app](real-time traveller information app.md)"
+- content: "[P2P mobility sharing app](P2P mobility sharing app.md) for acquiring
+    a [ridesourced service](ridesourced service.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ridesourcing app](ridesourcing app.md)"
+- content: "[mobility app](mobility app.md) that assists a [transport user](transport
+    user.md) in electronically requesting a taxi"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[taxi hailing app](taxi hailing app.md)"
+- content: "[mobility app](mobility app.md) that assists a [transport user](transport
+    user.md) in planning trips that may span multiple vehicle modes or [transport
+    providers](transport provider.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[trip aggregator app](trip aggregator app.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.5.1
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 555b0b0c-bdb1-5ad4-9fd5-fb4f1c9f963e
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.2.9.4,ITS-S application implementation}} designed to assist an individual transport consumer in understanding transport-related information, making decisions, and/or acting upon decisions
+      <img alt="mobility app Diagram" src="../../diagrams/mobility app.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mobility app
+  language_code: eng
+  entry_status: valid
+id: 4c2c8269-5f00-59a9-92a3-2697f7092933

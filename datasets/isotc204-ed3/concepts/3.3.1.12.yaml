@@ -1,0 +1,70 @@
+---
+data:
+  identifier: 3.3.1.12
+  localized_concepts:
+    eng: 5cc1e736-9c04-5a4c-a222-bd7f4c223f2b
+related:
+- content: "[lane](lane.md) designed for the through movement of cycles"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[cycle lane](cycle lane.md)"
+- content: "[traffic lane](traffic lane.md) restricted to a specific subset of [road
+    vehicles](road vehicle.md) or [user](user.md) categories"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[reserved lane](reserved lane.md)"
+- content: "[footpath](footpath.md) along a [roadside](roadside.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[sidewalk](sidewalk.md)"
+- content: portion of [carriageway](carriageway.md) designed to accommodate a single
+    line of moving [road vehicles](road vehicle.md)
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[traffic lane](traffic lane.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.1.12
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 3efcd430-ad87-5f57-891f-4b3a6008d52f
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      <generic> portion of {{urn:iso:std:iso:14812:ed3:3.3.1.2,road reservation}} intended to accommodate a single line of moving {{urn:iso:std:iso:14812:ed3:3.1.1.3,material entities}} along its length
+      <img alt="lane Diagram" src="../../diagrams/lane.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      EXAMPLE: {{urn:iso:std:iso:14812:ed3:3.3.1.13,Traffic lane}}, {{urn:iso:std:iso:14812:ed3:3.3.3.1,cycle lane}}, {{urn:iso:std:iso:14812:ed3:3.3.3.4,sidewalk}}.
+      | Referencing Term | Type of Reference |
+      | --- | --- |
+      | {{urn:iso:std:iso:14812:ed3:3.3.3.1,cycle lane}} | subClassOf |
+      | {{urn:iso:std:iso:14812:ed3:3.3.3.4,sidewalk}} | subClassOf |
+      | {{urn:iso:std:iso:14812:ed3:3.3.1.13,traffic lane}} | subClassOf |
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: "{{urn:iso:std:iso:14812:ed3:3.3.1.12,Lanes}} are often bounded by lane
+      markings."
+  - content: Lanes may be significantly wider than the normal {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}}
+      width to allow variance in lane position of the vehicle as well as for various
+      vehicle dimensions.
+  - content: The "lane" nomenclature typically refers to {{urn:iso:std:iso:14812:ed3:3.7.6.3,motor
+      vehicle}} usage, but can also refer to other purposes, such as {{urn:iso:std:iso:14812:ed3:3.3.3.4,sidewalks}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lane
+  - type: expression
+    normative_status: admitted
+    designation: generic lane
+  language_code: eng
+  entry_status: valid
+id: 5cc1e736-9c04-5a4c-a222-bd7f4c223f2b

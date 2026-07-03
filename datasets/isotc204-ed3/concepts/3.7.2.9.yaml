@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 3.7.2.9
+  localized_concepts:
+    eng: ac2e0dc6-51e9-5cfb-8ca4-6fc91093e256
+related:
+- content: operatingMassOf [exactly 1 owl::Thing]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 6b8f9c80-057c-58e3-b03d-e54b8ef64c3c
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      operating mass (weight) of the vehicle according to legislation and/or regulations for the applicable region Note 1 to entry: Gross vehicle mass is often used to designate weight limits (e.g., on bridges).
+      <img alt="gross vehicle mass Diagram" src="../../diagrams/gross vehicle mass.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Admitted term: gross vehicle weight
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: gross vehicle mass
+  language_code: eng
+  entry_status: valid
+id: ac2e0dc6-51e9-5cfb-8ca4-6fc91093e256

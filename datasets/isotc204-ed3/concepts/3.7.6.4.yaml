@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.7.6.4
+  localized_concepts:
+    eng: c1dc7794-25ad-5adf-87e6-3978a7bbe542
+related:
+- content: subClassOf [vehicle]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.7.6.4
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 9bb5c350-25f5-53ec-9079-36b35e758637
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} not meeting the legal requirements to be driven in {{urn:iso:std:iso:14812:ed3:3.3.1.13,traffic lanes}} or {{urn:iso:std:iso:14812:ed3:3.3.3.1,cycle lanes}} of a {{urn:iso:std:iso:14812:ed3:3.3.5.2,road network}}
+      <img alt="non-road vehicle Diagram" src="../../diagrams/non-road vehicle.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: non-road vehicle
+  language_code: eng
+  entry_status: valid
+id: c1dc7794-25ad-5adf-87e6-3978a7bbe542

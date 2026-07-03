@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 3.4.3.1
+  localized_concepts:
+    eng: 964753af-5559-56f3-9891-a17f18cea236
+related:
+- content: subClassOf [jurisdictionalArea]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: a6ed257a-afea-53c4-b2ef-f3430c909e8e
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.4.3.5,jurisdictional area}} with a {{urn:iso:std:iso:14812:ed3:3.4.3.7,jurisdictional entity}} who is the owner of the area but excluding transport facilities managed by the local government
+      <img alt="campus Diagram" src="../../diagrams/campus.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Example 1: A point of interest (e.g., airport, university, business park, industrial area, shopping centre) that includes transport infrastructure that is managed by the local government. In this case, the government-managed transport infrastructure is a governmental area while the campus is represented by the remainder of the area.
+      Example 2: A point of interest (e.g., airport, university, business park, industrial area, shopping centre) that manages its own transport infrastructure separately from that managed by the local government. In this case, the point of interest and its own transport system are a part of the campus.
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: A campus can be privately or publicly owned.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: campus
+  language_code: eng
+  entry_status: valid
+id: 964753af-5559-56f3-9891-a17f18cea236

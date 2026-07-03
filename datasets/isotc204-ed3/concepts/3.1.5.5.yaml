@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 3.1.5.5
+  localized_concepts:
+    eng: 3c7a9cc3-dadc-583b-9311-9eb323fac2cf
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.5.5
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 2c826bba-d46f-567f-8d13-1802cfe04faf
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      communications layer in the {{urn:iso:std:iso:14812:ed3:3.1.9.4,ITS station reference architecture}} corresponding to the session, presentation and application layers of the OSI model
+      <img alt="facilities layer Diagram" src="../../diagrams/facilities layer.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Deprecated term: application layer
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: Within the US, the NTCIP standards call the facilities layer the "application
+      layer". However, as this term is easily confused with both the OSI application
+      layer and the {{urn:iso:std:iso:14812:ed3:3.1.5.1,application entity}}, the
+      term should be avoided and qualified when used (e.g. OSI application layer).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: facilities layer
+  - type: expression
+    normative_status: admitted
+    designation: ITS-S facilities layer
+  language_code: eng
+  entry_status: valid
+id: 3c7a9cc3-dadc-583b-9311-9eb323fac2cf

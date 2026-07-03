@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 3.3.1.8
+  localized_concepts:
+    eng: 32257e94-8603-561c-b0b1-8f79c76a31bb
+related:
+- content: comprises [exactly 2 owl::Thing]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: has [exactly 1 owl::Thing]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [roadway]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.1.8
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: fc9ce955-fc7e-5f90-ab07-3490a341e58e
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      having exactly two {{urn:iso:std:iso:14812:ed3:3.3.1.5,carriageways}}
+      <img alt="dual carriageway Diagram" src="../../diagrams/dual carriageway.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The "dual carriageway" term can be used to describe a {{urn:iso:std:iso:14812:ed3:3.3.5.1,road}},
+      {{urn:iso:std:iso:14812:ed3:3.3.5.7,road section}}, {{urn:iso:std:iso:14812:ed3:3.3.5.6,road
+      link}}, or {{urn:iso:std:iso:14812:ed3:3.3.5.8,road segment}}.
+  - content: The two carriageways are typically designed for travel in opposite directions.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dual carriageway
+  language_code: eng
+  entry_status: valid
+id: 32257e94-8603-561c-b0b1-8f79c76a31bb

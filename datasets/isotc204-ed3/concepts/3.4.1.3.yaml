@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 3.4.1.3
+  localized_concepts:
+    eng: 9a9bf84d-5f20-5866-9a57-d7696be5b9a1
+related:
+- content: subClassOf [spatialLocation]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: well defined geographic place described by one coordinate tuple
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[geographic point location](geographic point location.md)"
+- content: point location, which is the destination of a defined route or itinerary
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[point destination](point destination.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.4.1.3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: f8181cba-27b8-590a-8fdc-ff4e42ddf6b8
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.4.1.2,spatial location}} with no length in any of the spatial dimensions
+      <img alt="point location Diagram" src="../../diagrams/point location.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: point location
+  language_code: eng
+  entry_status: valid
+id: 9a9bf84d-5f20-5866-9a57-d7696be5b9a1

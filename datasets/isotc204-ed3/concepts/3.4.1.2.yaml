@@ -1,0 +1,77 @@
+---
+data:
+  identifier: 3.4.1.2
+  localized_concepts:
+    eng: 59e4bcaa-ead0-5dc4-9c46-acbe0f629a84
+related:
+- content: subClassOf [location]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: area location, which is the destination of a defined route or itinerary
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[area destination](area destination.md)"
+- content: "[spatial location](spatial location.md) enclosed within a two-dimensional
+    boundary or boundaries across a defined surface"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[area location](area location.md)"
+- content: well defined geographic place described by one coordinate tuple
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[geographic point location](geographic point location.md)"
+- content: "[spatial location](spatial location.md) that extends between two [point
+    locations](point location.md) along a defined path"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[linear location](linear location.md)"
+- content: point location, which is the destination of a defined route or itinerary
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[point destination](point destination.md)"
+- content: "[spatial location](spatial location.md) with no length in any of the spatial
+    dimensions"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[point location](point location.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.4.1.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 6ca39fb1-ce09-52f5-9b64-3ee0a055f9f8
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.4.1.1,location}} within three-dimensional space
+      <img alt="spatial location Diagram" src="../../diagrams/spatial location.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The "location" could be a point (consuming no space) or could consume
+      space in one, two, or three dimensions. In any case, the location is identified
+      within a larger space.
+  - content: Within ITS, locations are typically locations on or near the surface
+      of the earth.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spatial location
+  - type: expression
+    normative_status: admitted
+    designation: ITS spatial location
+  language_code: eng
+  entry_status: valid
+id: 59e4bcaa-ead0-5dc4-9c46-acbe0f629a84

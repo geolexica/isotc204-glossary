@@ -1,0 +1,58 @@
+---
+data:
+  identifier: 3.1.2.4
+  localized_concepts:
+    eng: 20714cc6-c778-5676-8247-488387270a76
+related:
+- content: designedToBenefit [some surfaceTransportSystem]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [system]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subset of [ITS](intelligent transport system.md) where information is shared
+    among [ITS stations](ITS station.md) in a manner that enables its use by multiple
+    ITS services [ITS service.md]
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[cooperative ITS](cooperative ITS.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.2.4
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 1d067383-be36-5861-ac4a-ddb304a31545
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.1.2.1,system}} comprised of information, communication, sensor and control technologies and that is designed to benefit a {{urn:iso:std:iso:14812:ed3:3.1.2.3,surface transport system}}
+      <img alt="intelligent transport system Diagram" src="../../diagrams/intelligent transport system.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Admitted term: intelligent transportation system
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: '"Intelligent transportation system" is the American English equivalent.'
+  - content: Benefits potentially include, but are not limited to, increased safety,
+      sustainability, efficiency and comfort.
+  - content: The full term (i.e. "intelligent transport system") is often used when
+      the noun is used as a subject, whereas the abbreviation (i.e. "ITS") is often
+      used to modify another noun (e.g. "Intelligent transport systems provide ITS
+      services.").
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intelligent transport system
+  - type: expression
+    normative_status: admitted
+    designation: ITS
+  language_code: eng
+  entry_status: valid
+id: 20714cc6-c778-5676-8247-488387270a76
