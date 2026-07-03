@@ -4,6 +4,12 @@ module Iso14812Import
   class ConceptBuilder
     LANGUAGE_ENG = "eng"
 
+    # Use the V3 class hierarchy — the glossarist gem's validator loads
+    # concepts via V3::ConceptDocument, which produces V3::ManagedConcept
+    # instances. Building with the top-level (legacy) classes produces
+    # files that lose UUID-vs-identifier distinction on round-trip.
+    V3 = Glossarist::V3
+
     attr_reader :edition, :content_converter, :figure_registry
 
     def initialize(edition:, content_converter:, figure_registry:)
@@ -14,7 +20,7 @@ module Iso14812Import
 
     def build(document)
       localized = build_localized(document)
-      managed_data = Glossarist::ManagedConceptData.new(
+      managed_data = V3::ManagedConceptData.new(
         id: document.clause,
         localized_concepts: { LANGUAGE_ENG => localized.uuid },
         domains: domain_refs(document),
@@ -22,7 +28,7 @@ module Iso14812Import
       )
       managed_data.localizations.store(LANGUAGE_ENG, localized)
 
-      Glossarist::ManagedConcept.new(
+      V3::ManagedConcept.new(
         data: managed_data,
         status: "valid",
         schema_version: edition.schema_version,
@@ -35,7 +41,7 @@ module Iso14812Import
     private
 
     def build_localized(document)
-      concept_data = Glossarist::ConceptData.new(
+      concept_data = V3::ConceptData.new(
         language_code: LANGUAGE_ENG,
         entry_status: "valid",
         terms: build_designations(document),
@@ -45,7 +51,7 @@ module Iso14812Import
         sources: build_sources(document),
       )
 
-      Glossarist::LocalizedConcept.new(
+      V3::LocalizedConcept.new(
         data: concept_data,
         language_code: LANGUAGE_ENG,
         entry_status: "valid",
@@ -77,12 +83,12 @@ module Iso14812Import
                  else
                    content_converter.from_markdown(document.definition_markdown)
                  end
-      [Glossarist::DetailedDefinition.new(content: content)]
+      [V3::DetailedDefinition.new(content: content)]
     end
 
     def build_detailed(items, document)
       Array(items).map do |text|
-        Glossarist::DetailedDefinition.new(content: convert_text(text, document))
+        V3::DetailedDefinition.new(content: convert_text(text, document))
       end
     end
 
@@ -98,7 +104,7 @@ module Iso14812Import
         parsed = SourceParser.parse(raw.raw_text)
         next nil if parsed.nil?
 
-        Glossarist::ConceptSource.new(
+        V3::ConceptSource.new(
           type: parsed[:type],
           status: parsed[:status],
           origin: build_citation(parsed[:origin]),
@@ -111,14 +117,14 @@ module Iso14812Import
       return nil if origin_attrs.nil?
 
       ref_attrs = origin_attrs[:ref]
-      ref = ref_attrs ? Glossarist::Citation::Ref.new(source: ref_attrs[:source]) : nil
+      ref = ref_attrs ? V3::Citation::Ref.new(source: ref_attrs[:source]) : nil
       locality_attrs = origin_attrs[:locality]
       locality = locality_attrs ? Glossarist::Locality.new(
         type: locality_attrs[:type] || "clause",
         reference_from: locality_attrs[:reference_from],
       ) : nil
 
-      Glossarist::Citation.new(ref: ref, locality: locality)
+      V3::Citation.new(ref: ref, locality: locality)
     end
 
     def build_related(document)
@@ -131,14 +137,14 @@ module Iso14812Import
           constraint: raw.constraint,
         )
         ref_hash = attrs.delete(:ref) || {}
-        attrs[:ref] = Glossarist::ConceptRef.new(source: ref_hash[:source], id: ref_hash[:id])
-        Glossarist::RelatedConcept.new(**attrs)
+        attrs[:ref] = Glossarist::V3::ConceptRef.new(source: ref_hash[:source], id: ref_hash[:id])
+        V3::RelatedConcept.new(**attrs)
       end
 
       specs = Array(document.specializations).map do |spec|
-        Glossarist::RelatedConcept.new(
+        V3::RelatedConcept.new(
           type: "narrower",
-          ref: Glossarist::ConceptRef.new(source: edition.urn, id: spec.target_name),
+          ref: Glossarist::V3::ConceptRef.new(source: edition.urn, id: spec.target_name),
           content: spec.description,
         )
       end
@@ -160,7 +166,7 @@ module Iso14812Import
              rescue Date::Error
                Date.today
              end
-      Glossarist::ConceptDate.new(date: date, type: "accepted")
+      V3::ConceptDate.new(date: date, type: "accepted")
     end
 
     def deterministic_uuid(name)

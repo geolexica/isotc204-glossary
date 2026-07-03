@@ -4,6 +4,8 @@ require "set"
 
 module Iso14812Import
   class SupersedesDeriver
+    V3 = Glossarist::V3
+
     attr_reader :newer_edition, :older_edition, :newer_concepts, :older_concepts
 
     def initialize(newer_edition:, older_edition:, newer_concepts:, older_concepts:)
@@ -45,9 +47,9 @@ module Iso14812Import
     end
 
     def supersedes_edge(clause)
-      Glossarist::RelatedConcept.new(
+      V3::RelatedConcept.new(
         type: "supersedes",
-        ref: Glossarist::ConceptRef.new(source: older_edition.urn, id: clause),
+        ref: Glossarist::V3::ConceptRef.new(source: older_edition.urn, id: clause),
       )
     end
 
