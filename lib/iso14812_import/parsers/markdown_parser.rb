@@ -61,6 +61,10 @@ module Iso14812Import
 
       def build_document(body)
         s = Splitter.new(body)
+        # Files without a Clause line (e.g. concept_registry.md) are not
+        # term definitions — return nil so each_document skips them.
+        return nil unless s.clause
+
         Document.new(
           edition: edition,
           clause: s.clause,
