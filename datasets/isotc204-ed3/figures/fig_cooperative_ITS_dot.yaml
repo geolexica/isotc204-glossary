@@ -1,0 +1,7 @@
+---
+id: fig_cooperative_ITS_dot
+identifier: fig_cooperative_ITS_dot
+images:
+- src: "../../diagrams/cooperative ITS.dot.png"
+  format: png
+  role: raster

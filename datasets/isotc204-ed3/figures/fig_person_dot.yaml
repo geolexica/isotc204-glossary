@@ -1,0 +1,7 @@
+---
+id: fig_person_dot
+identifier: fig_person_dot
+images:
+- src: "../../diagrams/person.dot.png"
+  format: png
+  role: raster

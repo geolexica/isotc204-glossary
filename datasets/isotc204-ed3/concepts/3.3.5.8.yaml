@@ -3,6 +3,9 @@ data:
   identifier: 3.3.5.8
   localized_concepts:
     eng: 5759cc04-b536-5b53-981a-5456e3dd8536
+  figures:
+  - ref: fig_road_segment_dot
+    display: road segment Diagram
 related:
 - content: subClassOf [link]
   type: broader

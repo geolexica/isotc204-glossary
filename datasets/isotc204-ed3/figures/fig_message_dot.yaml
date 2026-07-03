@@ -1,0 +1,7 @@
+---
+id: fig_message_dot
+identifier: fig_message_dot
+images:
+- src: "../../diagrams/message.dot.png"
+  format: png
+  role: raster

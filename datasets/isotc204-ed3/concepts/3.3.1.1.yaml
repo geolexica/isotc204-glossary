@@ -3,6 +3,9 @@ data:
   identifier: 3.3.1.1
   localized_concepts:
     eng: 906c280f-f6cc-5dfb-8dff-eece20b9d519
+  figures:
+  - ref: fig_cross_section_dot
+    display: cross-section Diagram
 related:
 - content: comprises [some roadReservation]
   type: related_concept

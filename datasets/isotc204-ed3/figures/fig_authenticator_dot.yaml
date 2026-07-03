@@ -1,0 +1,7 @@
+---
+id: fig_authenticator_dot
+identifier: fig_authenticator_dot
+images:
+- src: "../../diagrams/authenticator.dot.png"
+  format: png
+  role: raster

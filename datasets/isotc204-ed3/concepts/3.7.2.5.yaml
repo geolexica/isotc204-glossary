@@ -3,6 +3,9 @@ data:
   identifier: 3.7.2.5
   localized_concepts:
     eng: 4412fac4-90c5-5092-9e81-a713b37efe6a
+  figures:
+  - ref: fig_vehicle_fuel_type_dot
+    display: vehicle fuel type Diagram
 related:
 - content: fuelUsedBy [exactly 1 owl::Thing]
   type: related_concept

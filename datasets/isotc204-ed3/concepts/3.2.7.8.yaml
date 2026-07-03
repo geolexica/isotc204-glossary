@@ -3,6 +3,9 @@ data:
   identifier: 3.2.7.8
   localized_concepts:
     eng: a71a4caa-3dc6-5584-815b-fe4d0eca6af8
+  figures:
+  - ref: fig_ITS_S_node_dot
+    display: ITS-S node Diagram
 related:
 - content: comprises [some functionality]
   type: related_concept

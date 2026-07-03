@@ -7,6 +7,9 @@ data:
   - concept_id: 3.5.9
     source: urn:iso:std:iso:14812:2025
     ref_type: section
+  figures:
+  - ref: fig_Operational_model_terms
+    display: Operational model terms
 related:
 - type: supersedes
   ref:

@@ -3,6 +3,9 @@ data:
   identifier: 3.7.3.4
   localized_concepts:
     eng: 734d4a61-8faa-55dd-ba67-a6e4954088dd
+  figures:
+  - ref: fig_fallback_ready_user_dot
+    display: fallback-ready user Diagram
 related:
 - content: readyToPerform [some dynamicDrivingTask]
   type: related_concept

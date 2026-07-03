@@ -1,0 +1,7 @@
+---
+id: fig_traffic_regulation_central_system_dot
+identifier: fig_traffic_regulation_central_system_dot
+images:
+- src: "../../diagrams/traffic regulation central system.dot.png"
+  format: png
+  role: raster

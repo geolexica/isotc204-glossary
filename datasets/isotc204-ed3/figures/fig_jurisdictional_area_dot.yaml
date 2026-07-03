@@ -1,0 +1,7 @@
+---
+id: fig_jurisdictional_area_dot
+identifier: fig_jurisdictional_area_dot
+images:
+- src: "../../diagrams/jurisdictional area.dot.png"
+  format: png
+  role: raster

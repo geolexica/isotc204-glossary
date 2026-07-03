@@ -3,6 +3,9 @@ data:
   identifier: 3.8.1.2
   localized_concepts:
     eng: '0837f879-aa59-51aa-a2d3-8fffc08c13b5'
+  figures:
+  - ref: fig_payment_mode_dot
+    display: payment mode Diagram
 related:
 - content: timingAndLocationOfRemunerationTo [some serviceProvider]
   type: related_concept

@@ -1,0 +1,7 @@
+---
+id: fig_real_time_traveller_information_app_dot
+identifier: fig_real_time_traveller_information_app_dot
+images:
+- src: "../../diagrams/real-time traveller information app.dot.png"
+  format: png
+  role: raster

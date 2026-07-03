@@ -1,0 +1,7 @@
+---
+id: fig_courier_network_service_dot
+identifier: fig_courier_network_service_dot
+images:
+- src: "../../diagrams/courier network service.dot.png"
+  format: png
+  role: raster

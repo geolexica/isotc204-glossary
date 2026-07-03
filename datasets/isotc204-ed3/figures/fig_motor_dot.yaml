@@ -1,0 +1,7 @@
+---
+id: fig_motor_dot
+identifier: fig_motor_dot
+images:
+- src: "../../diagrams/motor.dot.png"
+  format: png
+  role: raster

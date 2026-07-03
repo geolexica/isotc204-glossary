@@ -3,6 +3,9 @@ data:
   identifier: 3.5.11.4
   localized_concepts:
     eng: d8a26813-c6bf-567f-a032-1398e8fa707e
+  figures:
+  - ref: fig_rideshare_service_dot
+    display: rideshare service Diagram
 related:
 - content: attrFinancialModel [has cooperative]
   type: related_concept

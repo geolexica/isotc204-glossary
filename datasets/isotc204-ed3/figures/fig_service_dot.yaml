@@ -1,0 +1,7 @@
+---
+id: fig_service_dot
+identifier: fig_service_dot
+images:
+- src: "../../diagrams/service.dot.png"
+  format: png
+  role: raster

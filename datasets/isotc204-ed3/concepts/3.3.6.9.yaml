@@ -3,6 +3,9 @@ data:
   identifier: 3.3.6.9
   localized_concepts:
     eng: 141b474e-75b6-5922-85a3-98df26eb29e2
+  figures:
+  - ref: fig_interchange_dot
+    display: interchange Diagram
 related:
 - content: aggregates [some gradeSeparatedManoeuvre]
   type: related_concept

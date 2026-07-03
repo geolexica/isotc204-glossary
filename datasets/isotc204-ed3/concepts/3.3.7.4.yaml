@@ -3,6 +3,9 @@ data:
   identifier: 3.3.7.4
   localized_concepts:
     eng: 93ab1c45-d61c-5da7-8733-46915ca5ef76
+  figures:
+  - ref: fig_movable_bridge_dot
+    display: movable bridge Diagram
 related:
 - content: subClassOf [bridge]
   type: broader

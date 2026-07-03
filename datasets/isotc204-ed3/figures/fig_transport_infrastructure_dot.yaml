@@ -1,0 +1,7 @@
+---
+id: fig_transport_infrastructure_dot
+identifier: fig_transport_infrastructure_dot
+images:
+- src: "../../diagrams/transport infrastructure.dot.png"
+  format: png
+  role: raster

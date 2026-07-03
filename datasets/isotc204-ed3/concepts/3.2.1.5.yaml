@@ -3,6 +3,9 @@ data:
   identifier: 3.2.1.5
   localized_concepts:
     eng: 443b858f-ce65-5735-8af6-c0d0dff249de
+  figures:
+  - ref: fig_vehicle_system_dot
+    display: vehicle system Diagram
 related:
 - content: subClassOf [itsComponent]
   type: broader

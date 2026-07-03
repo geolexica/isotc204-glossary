@@ -3,6 +3,9 @@ data:
   identifier: 3.2.3.3
   localized_concepts:
     eng: aa6a5f7b-30e1-5537-84d6-7ac2d6370a29
+  figures:
+  - ref: fig_connected_vehicle_roadside_equipment_dot
+    display: connected vehicle roadside equipment Diagram
 related:
 - content: subClassOf [itsRoadsideEquipment]
   type: broader

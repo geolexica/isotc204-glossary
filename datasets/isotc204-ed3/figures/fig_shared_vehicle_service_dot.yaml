@@ -1,0 +1,7 @@
+---
+id: fig_shared_vehicle_service_dot
+identifier: fig_shared_vehicle_service_dot
+images:
+- src: "../../diagrams/shared vehicle service.dot.png"
+  format: png
+  role: raster

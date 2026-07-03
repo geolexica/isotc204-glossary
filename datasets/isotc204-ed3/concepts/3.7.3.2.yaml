@@ -3,6 +3,9 @@ data:
   identifier: 3.7.3.2
   localized_concepts:
     eng: 33e80279-4d63-5a26-8741-410f91a9b0a0
+  figures:
+  - ref: fig_operational_design_domain_dot
+    display: operational design domain Diagram
 related:
 - content: forAGiven [some drivingAutomationSystem]
   type: related_concept

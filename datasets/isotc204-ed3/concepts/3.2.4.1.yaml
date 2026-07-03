@@ -3,6 +3,9 @@ data:
   identifier: 3.2.4.1
   localized_concepts:
     eng: 54ed7e9d-409b-589c-88ad-d6acf1a223a4
+  figures:
+  - ref: fig_nomadic_vehicle_device_dot
+    display: nomadic vehicle device Diagram
 related:
 - content: subClassOf [personalSystem]
   type: broader

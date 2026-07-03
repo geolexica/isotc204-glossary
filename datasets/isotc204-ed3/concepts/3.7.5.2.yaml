@@ -3,6 +3,9 @@ data:
   identifier: 3.7.5.2
   localized_concepts:
     eng: 2913ee06-e3db-56a4-b44d-9fa50f32e4ea
+  figures:
+  - ref: fig_low_speed_vehicle_dot
+    display: low-speed vehicle Diagram
 related:
 - content: subClassOf [vehicle]
   type: broader

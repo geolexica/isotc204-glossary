@@ -3,6 +3,9 @@ data:
   identifier: 3.7.2.3
   localized_concepts:
     eng: 6bf273ca-d113-57a1-aa91-59aaaf4cc4b8
+  figures:
+  - ref: fig_anonymized_vehicle_reference_dot
+    display: anonymized vehicle reference Diagram
 related:
 - content: encodedReferenceFor [exactly 1 owl::Thing]
   type: related_concept

@@ -1,0 +1,7 @@
+---
+id: fig_ridesplit_service_dot
+identifier: fig_ridesplit_service_dot
+images:
+- src: "../../diagrams/ridesplit service.dot.png"
+  format: png
+  role: raster

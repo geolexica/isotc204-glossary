@@ -1,0 +1,7 @@
+---
+id: fig_sidewalk_dot
+identifier: fig_sidewalk_dot
+images:
+- src: "../../diagrams/sidewalk.dot.png"
+  format: png
+  role: raster

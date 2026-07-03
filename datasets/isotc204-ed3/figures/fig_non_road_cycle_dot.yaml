@@ -1,0 +1,7 @@
+---
+id: fig_non_road_cycle_dot
+identifier: fig_non_road_cycle_dot
+images:
+- src: "../../diagrams/non-road cycle.dot.png"
+  format: png
+  role: raster

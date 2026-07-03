@@ -7,6 +7,9 @@ data:
   - concept_id: 3.4.1
     source: urn:iso:std:iso:14812:2025
     ref_type: section
+  figures:
+  - ref: fig_Location_type_terms
+    display: Location type terms
 related:
 - type: supersedes
   ref:

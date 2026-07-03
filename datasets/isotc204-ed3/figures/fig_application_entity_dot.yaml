@@ -1,0 +1,7 @@
+---
+id: fig_application_entity_dot
+identifier: fig_application_entity_dot
+images:
+- src: "../../diagrams/application entity.dot.png"
+  format: png
+  role: raster

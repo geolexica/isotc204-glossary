@@ -1,0 +1,7 @@
+---
+id: fig_transnet_layer_dot
+identifier: fig_transnet_layer_dot
+images:
+- src: "../../diagrams/transnet layer.dot.png"
+  format: png
+  role: raster

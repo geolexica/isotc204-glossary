@@ -1,0 +1,7 @@
+---
+id: fig_information_flow_dot
+identifier: fig_information_flow_dot
+images:
+- src: "../../diagrams/information flow.dot.png"
+  format: png
+  role: raster

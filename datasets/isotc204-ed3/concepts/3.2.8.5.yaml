@@ -3,6 +3,9 @@ data:
   identifier: 3.2.8.5
   localized_concepts:
     eng: ae3e9cc2-3f8a-5562-9ee5-09f4f5dd3c8d
+  figures:
+  - ref: fig_ITS_implementation_dot
+    display: ITS implementation Diagram
 related:
 - content: implements [some itsApplication]
   type: related_concept

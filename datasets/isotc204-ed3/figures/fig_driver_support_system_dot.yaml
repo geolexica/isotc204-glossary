@@ -1,0 +1,7 @@
+---
+id: fig_driver_support_system_dot
+identifier: fig_driver_support_system_dot
+images:
+- src: "../../diagrams/driver support system.dot.png"
+  format: png
+  role: raster

@@ -1,0 +1,7 @@
+---
+id: fig_gazetteer_dot
+identifier: fig_gazetteer_dot
+images:
+- src: "../../diagrams/gazetteer.dot.png"
+  format: png
+  role: raster

@@ -1,0 +1,7 @@
+---
+id: fig_vehicle_registration_plate_identifier_dot
+identifier: fig_vehicle_registration_plate_identifier_dot
+images:
+- src: "../../diagrams/vehicle registration plate identifier.dot.png"
+  format: png
+  role: raster

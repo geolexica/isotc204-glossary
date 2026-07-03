@@ -3,6 +3,9 @@ data:
   identifier: 3.2.1.1
   localized_concepts:
     eng: a80a48a9-56a5-522e-9b27-f384194fea5a
+  figures:
+  - ref: fig_central_system_dot
+    display: central system Diagram
 related:
 - content: subClassOf [itsComponent]
   type: broader

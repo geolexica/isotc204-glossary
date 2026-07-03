@@ -3,6 +3,9 @@ data:
   identifier: 3.2.3.1
   localized_concepts:
     eng: 912e97df-93db-5e8a-8a7d-a6c438573ad8
+  figures:
+  - ref: fig_field_support_equipment_dot
+    display: field support equipment Diagram
 related:
 - content: subClassOf [fieldSystem]
   type: broader

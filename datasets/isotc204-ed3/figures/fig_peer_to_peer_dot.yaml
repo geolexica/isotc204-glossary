@@ -1,0 +1,7 @@
+---
+id: fig_peer_to_peer_dot
+identifier: fig_peer_to_peer_dot
+images:
+- src: "../../diagrams/peer-to-peer.dot.png"
+  format: png
+  role: raster

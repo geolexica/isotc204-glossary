@@ -1,0 +1,7 @@
+---
+id: fig_architecture_model_dot
+identifier: fig_architecture_model_dot
+images:
+- src: "../../diagrams/architecture model.dot.png"
+  format: png
+  role: raster

@@ -3,6 +3,9 @@ data:
   identifier: 3.5.2.2
   localized_concepts:
     eng: d12dc163-ee8a-5b27-9d2e-f1e1fb3586b0
+  figures:
+  - ref: fig_transport_provider_dot
+    display: transport provider Diagram
 related:
 - content: delivers [some transportService]
   type: related_concept

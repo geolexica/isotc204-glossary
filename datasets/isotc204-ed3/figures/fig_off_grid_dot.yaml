@@ -1,0 +1,7 @@
+---
+id: fig_off_grid_dot
+identifier: fig_off_grid_dot
+images:
+- src: "../../diagrams/off-grid.dot.png"
+  format: png
+  role: raster

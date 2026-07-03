@@ -3,6 +3,9 @@ data:
   identifier: 3.2.2.6
   localized_concepts:
     eng: 0efbc709-7872-52b5-8a63-1deaaae113ad
+  figures:
+  - ref: fig_traffic_management_central_system_dot
+    display: traffic management central system Diagram
 related:
 - content: subClassOf [centralSystem]
   type: broader

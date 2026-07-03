@@ -1,0 +1,7 @@
+---
+id: fig_vehicle_system_dot
+identifier: fig_vehicle_system_dot
+images:
+- src: "../../diagrams/vehicle system.dot.png"
+  format: png
+  role: raster

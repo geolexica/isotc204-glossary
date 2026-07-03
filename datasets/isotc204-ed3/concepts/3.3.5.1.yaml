@@ -3,6 +3,9 @@ data:
   identifier: 3.3.5.1
   localized_concepts:
     eng: c889fb11-1a11-5095-8153-f81873d7067b
+  figures:
+  - ref: fig_road_dot
+    display: road Diagram
 related:
 - content: "[road](road.md) that has buildings, walls or fences on each side"
   type: narrower

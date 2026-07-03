@@ -3,6 +3,9 @@ data:
   identifier: 3.1.13.2
   localized_concepts:
     eng: e2c8906c-776a-5665-9e5b-9be6a1cd4459
+  figures:
+  - ref: fig_duration_dot
+    display: duration Diagram
 related:
 - content: endsAt [exactly 1 owl::Thing]
   type: related_concept

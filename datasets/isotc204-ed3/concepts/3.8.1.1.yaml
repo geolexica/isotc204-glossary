@@ -3,6 +3,9 @@ data:
   identifier: 3.8.1.1
   localized_concepts:
     eng: a079e7d0-dba2-5b61-a5ef-82fb35b408a4
+  figures:
+  - ref: fig_payment_means_dot
+    display: payment means Diagram
 related:
 - content: acceptedBy [some serviceProvider]
   type: related_concept

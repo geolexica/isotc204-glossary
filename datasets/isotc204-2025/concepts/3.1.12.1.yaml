@@ -7,6 +7,9 @@ data:
   - concept_id: 3.1.12
     source: urn:iso:std:iso:14812:2025
     ref_type: section
+  figures:
+  - ref: fig_System_engineering_terms
+    display: System engineering terms
 related:
 - type: supersedes
   ref:

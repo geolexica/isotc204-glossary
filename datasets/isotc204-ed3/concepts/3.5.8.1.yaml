@@ -3,6 +3,9 @@ data:
   identifier: 3.5.8.1
   localized_concepts:
     eng: 75bcd514-7a00-5197-af2e-4033c4ec225e
+  figures:
+  - ref: fig_financial_model_dot
+    display: financial model Diagram
 related:
 - content: type of [financial model](financial model.md) where [services](service.md)
     are provided with a profit motive

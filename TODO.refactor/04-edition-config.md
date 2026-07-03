@@ -1,7 +1,7 @@
 # 04 — Edition configuration
 
 **Phase:** B
-**Status:** todo
+**Status:** done
 **Depends on:** 02
 
 ## Goal

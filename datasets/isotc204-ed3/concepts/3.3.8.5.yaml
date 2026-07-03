@@ -3,6 +3,9 @@ data:
   identifier: 3.3.8.5
   localized_concepts:
     eng: 13634b79-6174-56b1-9519-8091bc8d1acc
+  figures:
+  - ref: fig_pick_updrop_off_area_dot
+    display: pick-up/drop-off area Diagram
 related:
 - content: for [some passenger]
   type: related_concept

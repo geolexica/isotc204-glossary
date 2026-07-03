@@ -1,0 +1,7 @@
+---
+id: fig_ITS_S_application_process_installation_dot
+identifier: fig_ITS_S_application_process_installation_dot
+images:
+- src: "../../diagrams/ITS-S application process installation.dot.png"
+  format: png
+  role: raster

@@ -3,6 +3,9 @@ data:
   identifier: 3.1.5.4
   localized_concepts:
     eng: 840cd339-a0a7-50de-a13f-a62c3fc54a1a
+  figures:
+  - ref: fig_transnet_layer_dot
+    display: transnet layer Diagram
 related:
 - type: supersedes
   ref:

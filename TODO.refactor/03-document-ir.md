@@ -1,7 +1,7 @@
 # 03 — Document IR
 
 **Phase:** B
-**Status:** todo
+**Status:** done
 **Depends on:** 02
 
 ## Goal

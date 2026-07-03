@@ -3,6 +3,9 @@ data:
   identifier: 3.3.1.8
   localized_concepts:
     eng: 32257e94-8603-561c-b0b1-8f79c76a31bb
+  figures:
+  - ref: fig_dual_carriageway_dot
+    display: dual carriageway Diagram
 related:
 - content: comprises [exactly 2 owl::Thing]
   type: related_concept

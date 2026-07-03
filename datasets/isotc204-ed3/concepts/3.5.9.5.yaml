@@ -3,6 +3,9 @@ data:
   identifier: 3.5.9.5
   localized_concepts:
     eng: 78995063-2c20-5f2c-90f7-fbbf2ce78be7
+  figures:
+  - ref: fig_dynamic_route_dot
+    display: dynamic route Diagram
 related:
 - content: subClassOf [concurrent]
   type: broader

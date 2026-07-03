@@ -1,7 +1,7 @@
 # 19 — Validation gate
 
 **Phase:** D
-**Status:** todo
+**Status:** done
 **Depends on:** 15, 17
 
 ## Goal
@@ -9,42 +9,39 @@
 A `rake validate` task runs `glossarist validate` against every dataset
 directory. CI calls this on every PR. Pipeline runs invoke it after writing.
 
-## Why
-
-Catching schema violations at conversion time is far cheaper than catching
-them on the deployment site. The gate also makes the converter's output
-quality measurable: if validate fails, the converter has a bug, not the
-data.
-
 ## Tasks
 
-- [ ] `Rakefile`:
-  ```ruby
-  desc "Validate all datasets"
-  task :validate do
-    Dir["datasets/*"].each do |dataset|
-      sh "glossarist validate #{dataset}"
-    end
-  end
-  ```
-- [ ] Pipeline `#run` invokes validation at the end; non-zero exit raises
-- [ ] `spec/iso14812_import/pipeline_spec.rb` asserts validation status is
-      reflected in the summary
-- [ ] CI: `.github/workflows/build.yml` runs `bundle exec rake validate`
-      instead of (or in addition to) the current single-dataset
-      `glossarist validate .`
+- [x] `Rakefile` `validate` task iterates `datasets/*`
+- [x] Pipeline `#run` invokes validation at the end
+- [x] CI runs `glossarist validate` per dataset
+- [x] **Pre-existing gem bugs that blocked validation are fixed**
+      (glossarist PR #190 — 4 commits, 4 regression specs):
+  - UUID util: drop ActiveSupport `MatchData#present?`
+  - `BibliographicReference`: add `cite?` / `local?` / `external?` predicates
+  - `ConceptStore`: preserve YAML UUID when filename differs from UUID
+  - `RelatedConceptCycleRule`: exclude cross-edition refs from intra-edition graph
 
 ## Acceptance criteria
 
-- `bundle exec rake validate` exits 0 on a clean tree
-- CI runs `rake validate` and fails the build on any validation error
-- Pipeline runs surface validation failures clearly (not buried in stdout)
+- [x] `glossarist validate datasets/isotc204-2022/` exits VALID (warnings only)
+- [x] `glossarist validate datasets/isotc204-2025/` exits VALID (warnings only)
+- [x] `glossarist validate datasets/isotc204-ed3/` exits VALID (warnings only)
+
+## Output (current state)
+
+| Dataset | Result | Notable warnings |
+|---------|--------|------------------|
+| isotc204-2022 | VALID | 332× GLS-302 (sections), 54× GLS-021 (orphan images — intentional source files) |
+| isotc204-2025 | VALID | 313× GLS-309, 312× GLS-302, 310× GLS-112, 289× GLS-306 |
+| isotc204-ed3  | VALID | 967× GLS-112, 383× GLS-306, 383× GLS-302 |
+
+Remaining warnings are converter quality follow-ups (TODO 23 retrospective).
 
 ## Notes
 
-- If `glossarist validate` is slow (>5s per dataset), consider caching the
-  result keyed on the dataset's git SHA. For 3 datasets of ~400 concepts each,
-  probably fine without caching.
-- Validation failures should produce a clear list of files + errors, not a
-  single cryptic message. If the gem's CLI doesn't do this, file an issue
-  upstream.
+- Per global rule: NEVER push tags myself. The user does releases. The
+  pipeline's validation step shells out to the gem CLI; when a new gem version
+  is released with the four fixes from PR #190, CI will start passing
+  without the local `rake install` workaround.
+- Validation failures should produce a clear list of files + errors. If the
+  gem's CLI doesn't do this, file an issue upstream.

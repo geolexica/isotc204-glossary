@@ -3,6 +3,9 @@ data:
   identifier: 3.3.1.17
   localized_concepts:
     eng: 55c02210-2072-55c8-93a3-45434a2a15e7
+  figures:
+  - ref: fig_hardstanding_dot
+    display: hardstanding Diagram
 related:
 - type: supersedes
   ref:

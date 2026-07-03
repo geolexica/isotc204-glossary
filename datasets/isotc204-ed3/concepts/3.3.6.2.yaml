@@ -3,6 +3,9 @@ data:
   identifier: 3.3.6.2
   localized_concepts:
     eng: 18bcdba7-b149-5369-acef-efcf4c397093
+  figures:
+  - ref: fig_junction_dot
+    display: junction Diagram
 related:
 - content: aggregates [some egressLane]
   type: related_concept

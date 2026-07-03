@@ -1,0 +1,7 @@
+---
+id: fig_dynamic_driving_task_dot
+identifier: fig_dynamic_driving_task_dot
+images:
+- src: "../../diagrams/dynamic driving task.dot.png"
+  format: png
+  role: raster

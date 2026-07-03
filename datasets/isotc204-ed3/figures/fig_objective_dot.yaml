@@ -1,0 +1,7 @@
+---
+id: fig_objective_dot
+identifier: fig_objective_dot
+images:
+- src: "../../diagrams/objective.dot.png"
+  format: png
+  role: raster

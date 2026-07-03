@@ -1,0 +1,7 @@
+---
+id: fig_mutual_benefit_dot
+identifier: fig_mutual_benefit_dot
+images:
+- src: "../../diagrams/mutual benefit.dot.png"
+  format: png
+  role: raster

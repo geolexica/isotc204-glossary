@@ -1,0 +1,7 @@
+---
+id: fig_junction_dot
+identifier: fig_junction_dot
+images:
+- src: "../../diagrams/junction.dot.png"
+  format: png
+  role: raster

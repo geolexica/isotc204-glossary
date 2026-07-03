@@ -3,6 +3,9 @@ data:
   identifier: 3.4.2.10
   localized_concepts:
     eng: 5ea52802-27dd-50bd-b622-e95815968a56
+  figures:
+  - ref: fig_infrastructure_descriptor_dot
+    display: infrastructure descriptor Diagram
 related:
 - content: helpsIdentify [some transportFacility]
   type: related_concept

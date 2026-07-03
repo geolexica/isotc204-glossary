@@ -3,6 +3,9 @@ data:
   identifier: 3.1.11.4
   localized_concepts:
     eng: 7ee9c522-5bfd-5af0-a488-7c19abadd6e4
+  figures:
+  - ref: fig_data_frame_dot
+    display: data frame Diagram
 related:
 - content: subClassOf [dataConcept]
   type: broader

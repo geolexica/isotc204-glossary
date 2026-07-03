@@ -1,0 +1,7 @@
+---
+id: fig_contractual_model_dot
+identifier: fig_contractual_model_dot
+images:
+- src: "../../diagrams/contractual model.dot.png"
+  format: png
+  role: raster

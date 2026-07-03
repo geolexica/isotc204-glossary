@@ -3,6 +3,9 @@ data:
   identifier: 3.1.2.1
   localized_concepts:
     eng: 5018b57d-bc3f-5311-bd50-3b457b00d250
+  figures:
+  - ref: fig_system_dot
+    display: system Diagram
 related:
 - content: designedFor [some user]
   type: related_concept

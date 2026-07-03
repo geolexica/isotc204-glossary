@@ -3,6 +3,9 @@ data:
   identifier: 3.5.7.5
   localized_concepts:
     eng: 7e71cca2-5555-59a3-a6f0-e4d908b92a93
+  figures:
+  - ref: fig_peer_to_peer_dot
+    display: peer-to-peer Diagram
 related:
 - content: subClassOf [contractualModel]
   type: broader

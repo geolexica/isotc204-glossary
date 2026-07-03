@@ -3,6 +3,9 @@ data:
   identifier: 3.1.2.3
   localized_concepts:
     eng: 76d915f7-c271-5bcb-adbd-ab6855b23e7c
+  figures:
+  - ref: fig_surface_transport_system_dot
+    display: surface transport system Diagram
 related:
 - content: subClassOf [transportSystem]
   type: broader

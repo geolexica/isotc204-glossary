@@ -1,0 +1,7 @@
+---
+id: fig_risk_dot
+identifier: fig_risk_dot
+images:
+- src: "../../diagrams/risk.dot.png"
+  format: png
+  role: raster

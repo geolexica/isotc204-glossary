@@ -1,0 +1,7 @@
+---
+id: fig_usable_width_dot
+identifier: fig_usable_width_dot
+images:
+- src: "../../diagrams/usable width.dot.png"
+  format: png
+  role: raster

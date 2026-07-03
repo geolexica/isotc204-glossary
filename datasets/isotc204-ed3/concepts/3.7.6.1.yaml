@@ -3,6 +3,9 @@ data:
   identifier: 3.7.6.1
   localized_concepts:
     eng: d0dde1c4-23b5-557c-a39a-b8f109aa9c74
+  figures:
+  - ref: fig_road_vehicle_dot
+    display: road vehicle Diagram
 related:
 - content: subClassOf [vehicle]
   type: broader

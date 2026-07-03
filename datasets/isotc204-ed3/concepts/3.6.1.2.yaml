@@ -3,6 +3,9 @@ data:
   identifier: 3.6.1.2
   localized_concepts:
     eng: 987c803f-73bb-5d10-9cef-bd0628282ea2
+  figures:
+  - ref: fig_road_user_dot
+    display: road user Diagram
 related:
 - content: locatedWithin [some roadReservation]
   type: related_concept

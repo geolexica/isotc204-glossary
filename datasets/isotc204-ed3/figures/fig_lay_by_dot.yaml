@@ -1,0 +1,7 @@
+---
+id: fig_lay_by_dot
+identifier: fig_lay_by_dot
+images:
+- src: "../../diagrams/lay-by.dot.png"
+  format: png
+  role: raster

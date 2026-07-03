@@ -3,6 +3,9 @@ data:
   identifier: 3.2.7.6
   localized_concepts:
     eng: 2dbc36ef-cf1b-5ff1-a1a8-f8549e363c74
+  figures:
+  - ref: fig_ITS_S_host_dot
+    display: ITS-S host Diagram
 related:
 - content: subClassOf [its-sNode]
   type: broader

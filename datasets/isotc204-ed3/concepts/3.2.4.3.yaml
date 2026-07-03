@@ -3,6 +3,9 @@ data:
   identifier: 3.2.4.3
   localized_concepts:
     eng: 6b58409b-6dd3-57ca-84ac-8563007f8d41
+  figures:
+  - ref: fig_nomadic_device_dot
+    display: nomadic device Diagram
 related:
 - content: subClassOf [personalInformationDevice]
   type: broader

@@ -1,0 +1,7 @@
+---
+id: fig_dual_carriageway_dot
+identifier: fig_dual_carriageway_dot
+images:
+- src: "../../diagrams/dual carriageway.dot.png"
+  format: png
+  role: raster

@@ -7,6 +7,9 @@ data:
   - concept_id: 3.5.11
     source: urn:iso:std:iso:14812:2025
     ref_type: section
+  figures:
+  - ref: fig_Shared_transport_service_terms
+    display: Shared transport service terms
 related:
 - type: supersedes
   ref:

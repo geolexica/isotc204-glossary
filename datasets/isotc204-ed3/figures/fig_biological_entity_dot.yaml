@@ -1,0 +1,7 @@
+---
+id: fig_biological_entity_dot
+identifier: fig_biological_entity_dot
+images:
+- src: "../../diagrams/biological entity.dot.png"
+  format: png
+  role: raster

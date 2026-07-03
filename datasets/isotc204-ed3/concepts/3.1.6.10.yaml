@@ -3,6 +3,9 @@ data:
   identifier: 3.1.6.10
   localized_concepts:
     eng: '02885181-9551-5025-89b6-745c7cde3ed3'
+  figures:
+  - ref: fig_extend_dot
+    display: extend Diagram
 related:
 - content: subClassOf [relationship]
   type: broader

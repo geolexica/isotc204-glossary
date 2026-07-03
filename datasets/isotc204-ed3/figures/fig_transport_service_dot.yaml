@@ -1,0 +1,7 @@
+---
+id: fig_transport_service_dot
+identifier: fig_transport_service_dot
+images:
+- src: "../../diagrams/transport service.dot.png"
+  format: png
+  role: raster

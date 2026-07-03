@@ -1,0 +1,7 @@
+---
+id: fig_process_specification_dot
+identifier: fig_process_specification_dot
+images:
+- src: "../../diagrams/process specification.dot.png"
+  format: png
+  role: raster

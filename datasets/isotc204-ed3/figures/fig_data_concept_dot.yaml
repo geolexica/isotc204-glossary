@@ -1,0 +1,7 @@
+---
+id: fig_data_concept_dot
+identifier: fig_data_concept_dot
+images:
+- src: "../../diagrams/data concept.dot.png"
+  format: png
+  role: raster

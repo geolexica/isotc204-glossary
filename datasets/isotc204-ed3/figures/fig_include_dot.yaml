@@ -1,0 +1,7 @@
+---
+id: fig_include_dot
+identifier: fig_include_dot
+images:
+- src: "../../diagrams/include.dot.png"
+  format: png
+  role: raster

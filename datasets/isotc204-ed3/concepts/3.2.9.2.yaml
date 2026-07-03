@@ -3,6 +3,9 @@ data:
   identifier: 3.2.9.2
   localized_concepts:
     eng: 979ed092-c230-578c-bdd9-30d347cdbda3
+  figures:
+  - ref: fig_ITS_S_application_process_dot
+    display: ITS-S application process Diagram
 related:
 - content: elementIn [some itsStation]
   type: related_concept

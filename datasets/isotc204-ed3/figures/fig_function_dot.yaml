@@ -1,0 +1,7 @@
+---
+id: fig_function_dot
+identifier: fig_function_dot
+images:
+- src: "../../diagrams/function.dot.png"
+  format: png
+  role: raster

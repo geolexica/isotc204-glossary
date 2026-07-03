@@ -3,6 +3,9 @@ data:
   identifier: 3.4.3.3
   localized_concepts:
     eng: 378c9862-30c3-5302-9711-23a3e69c0b49
+  figures:
+  - ref: fig_ISO_named_area_dot
+    display: ISO named area Diagram
 date_accepted: '2026-06-01'
 status: valid
 id: 07fd01b2-2314-542f-b952-abedcba1cc0a

@@ -1,7 +1,7 @@
 # 14 — Supersedes deriver
 
 **Phase:** B
-**Status:** todo
+**Status:** done
 **Depends on:** 05, 11
 
 ## Goal

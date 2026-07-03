@@ -1,0 +1,7 @@
+---
+id: fig_deployment_architecture_dot
+identifier: fig_deployment_architecture_dot
+images:
+- src: "../../diagrams/deployment architecture.dot.png"
+  format: png
+  role: raster

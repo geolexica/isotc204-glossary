@@ -3,6 +3,9 @@ data:
   identifier: 3.7.6.6
   localized_concepts:
     eng: 474ad3e0-0b8b-5e41-a056-e6f323964792
+  figures:
+  - ref: fig_non_road_cycle_dot
+    display: non-road cycle Diagram
 related:
 - content: subClassOf [vehicle]
   type: broader

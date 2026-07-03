@@ -3,6 +3,9 @@ data:
   identifier: 3.3.3.2
   localized_concepts:
     eng: 413aed08-c110-5b65-9d16-63229f96f0ab
+  figures:
+  - ref: fig_cycleway_dot
+    display: cycleway Diagram
 related:
 - content: comprises [some cycleLane]
   type: related_concept

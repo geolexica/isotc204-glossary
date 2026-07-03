@@ -1,0 +1,7 @@
+---
+id: fig_meta_attribute_dot
+identifier: fig_meta_attribute_dot
+images:
+- src: "../../diagrams/meta-attribute.dot.png"
+  format: png
+  role: raster

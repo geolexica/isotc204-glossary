@@ -3,6 +3,9 @@ data:
   identifier: 3.6.1.4
   localized_concepts:
     eng: 654f6670-e827-5b8f-8ed9-27fe1062e9d2
+  figures:
+  - ref: fig_pedestrian_dot
+    display: pedestrian Diagram
 related:
 - content: subClassOf [traveller]
   type: broader

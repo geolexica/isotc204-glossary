@@ -1,0 +1,7 @@
+---
+id: fig_hard_shoulder_dot
+identifier: fig_hard_shoulder_dot
+images:
+- src: "../../diagrams/hard shoulder.dot.png"
+  format: png
+  role: raster

@@ -3,6 +3,9 @@ data:
   identifier: 3.2.10.2
   localized_concepts:
     eng: e566fffe-bfe1-5480-bc34-775ba244601b
+  figures:
+  - ref: fig_sensor_dot
+    display: sensor Diagram
 related:
 - content: observesPropertyOf [some materialEntity]
   type: related_concept

@@ -3,6 +3,9 @@ data:
   identifier: 3.7.2.8
   localized_concepts:
     eng: 07fc14fc-c660-50b2-aa62-0aff0ad41350
+  figures:
+  - ref: fig_vehicle_registration_plate_identifier_dot
+    display: vehicle registration plate identifier Diagram
 related:
 - content: identifierUniqueWithinRegionFor [exactly 1 owl::Thing]
   type: related_concept

@@ -1,0 +1,7 @@
+---
+id: fig_infrastructure_descriptor_dot
+identifier: fig_infrastructure_descriptor_dot
+images:
+- src: "../../diagrams/infrastructure descriptor.dot.png"
+  format: png
+  role: raster

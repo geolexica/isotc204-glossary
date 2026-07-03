@@ -3,6 +3,9 @@ data:
   identifier: 3.3.8.6
   localized_concepts:
     eng: 348e4f11-34f9-51c0-a4ca-ed579161a564
+  figures:
+  - ref: fig_public_transport_vehicle_stop_dot
+    display: public transport vehicle stop Diagram
 related:
 - content: for [some publicTransportVehicle]
   type: related_concept

@@ -3,6 +3,9 @@ data:
   identifier: 3.1.10.4
   localized_concepts:
     eng: 982d31cf-63f6-5664-901d-2fd93e714ef1
+  figures:
+  - ref: fig_data_concept_registry_dot
+    display: data concept registry Diagram
 related:
 - content: subClassOf [dataDictionary]
   type: broader

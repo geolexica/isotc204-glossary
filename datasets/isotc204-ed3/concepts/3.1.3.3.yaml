@@ -3,6 +3,9 @@ data:
   identifier: 3.1.3.3
   localized_concepts:
     eng: b24e8ea0-19d4-5583-a1e9-091060236388
+  figures:
+  - ref: fig_architecture_framework_dot
+    display: architecture framework Diagram
 related:
 - content: conventionsPrinciplesAndPracticesFor [some architectureDescription]
   type: related_concept

@@ -3,6 +3,9 @@ data:
   identifier: 3.3.4.2
   localized_concepts:
     eng: 29656900-670e-5dce-ba00-c5e434ff4df4
+  figures:
+  - ref: fig_hard_shoulder_running_dot
+    display: hard shoulder running Diagram
 related:
 - content: operatingModeOf [some hardShoulder]
   type: related_concept

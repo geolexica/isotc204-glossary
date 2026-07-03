@@ -3,6 +3,9 @@ data:
   identifier: 3.4.1.10
   localized_concepts:
     eng: 2ea956f5-d643-511a-884e-61c96ea5d60f
+  figures:
+  - ref: fig_coordinate_tuple_dot
+    display: coordinate tuple Diagram
 related:
 - content: designates [some pointLocation]
   type: related_concept

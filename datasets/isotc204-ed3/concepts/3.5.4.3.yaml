@@ -3,6 +3,9 @@ data:
   identifier: 3.5.4.3
   localized_concepts:
     eng: 26ea6585-cafb-59a1-be73-3306a6866922
+  figures:
+  - ref: fig_ITS_SU_user_dot
+    display: ITS-SU user Diagram
 related:
 - content: has [some its-suUserNeed]
   type: related_concept

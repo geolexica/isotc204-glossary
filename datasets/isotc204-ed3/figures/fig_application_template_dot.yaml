@@ -1,0 +1,7 @@
+---
+id: fig_application_template_dot
+identifier: fig_application_template_dot
+images:
+- src: "../../diagrams/application template.dot.png"
+  format: png
+  role: raster

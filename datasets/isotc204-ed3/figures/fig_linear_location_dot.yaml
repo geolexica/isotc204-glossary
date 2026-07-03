@@ -1,0 +1,7 @@
+---
+id: fig_linear_location_dot
+identifier: fig_linear_location_dot
+images:
+- src: "../../diagrams/linear location.dot.png"
+  format: png
+  role: raster

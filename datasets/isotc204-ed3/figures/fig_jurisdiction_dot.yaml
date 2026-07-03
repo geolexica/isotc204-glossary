@@ -1,0 +1,7 @@
+---
+id: fig_jurisdiction_dot
+identifier: fig_jurisdiction_dot
+images:
+- src: "../../diagrams/jurisdiction.dot.png"
+  format: png
+  role: raster

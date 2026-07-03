@@ -3,6 +3,9 @@ data:
   identifier: 3.5.11.2
   localized_concepts:
     eng: 580c04ae-ba17-5afa-b029-244d11b30fab
+  figures:
+  - ref: fig_taxi_service_dot
+    display: taxi service Diagram
 related:
 - content: attrFinancialModel [has commercial]
   type: related_concept

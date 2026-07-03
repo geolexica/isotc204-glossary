@@ -1,0 +1,7 @@
+---
+id: fig_single_carriageway_dot
+identifier: fig_single_carriageway_dot
+images:
+- src: "../../diagrams/single carriageway.dot.png"
+  format: png
+  role: raster

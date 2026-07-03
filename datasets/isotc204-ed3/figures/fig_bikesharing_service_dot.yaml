@@ -1,0 +1,7 @@
+---
+id: fig_bikesharing_service_dot
+identifier: fig_bikesharing_service_dot
+images:
+- src: "../../diagrams/bikesharing service.dot.png"
+  format: png
+  role: raster

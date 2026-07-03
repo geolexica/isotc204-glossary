@@ -7,6 +7,9 @@ data:
   - concept_id: 3.7.4
     source: urn:iso:std:iso:14812:2025
     ref_type: section
+  figures:
+  - ref: fig_Vehicle_connectivity_terms
+    display: Vehicle connectivity terms
 related:
 - type: supersedes
   ref:

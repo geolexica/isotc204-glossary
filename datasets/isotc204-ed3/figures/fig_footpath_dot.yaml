@@ -1,0 +1,7 @@
+---
+id: fig_footpath_dot
+identifier: fig_footpath_dot
+images:
+- src: "../../diagrams/footpath.dot.png"
+  format: png
+  role: raster

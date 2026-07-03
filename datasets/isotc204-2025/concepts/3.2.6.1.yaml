@@ -7,6 +7,9 @@ data:
   - concept_id: 3.2.6
     source: urn:iso:std:iso:14812:2025
     ref_type: section
+  figures:
+  - ref: fig_Vehicle_physical_object_terms
+    display: Vehicle physical object terms
 related:
 - type: supersedes
   ref:

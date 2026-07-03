@@ -1,0 +1,7 @@
+---
+id: fig_personal_system_dot
+identifier: fig_personal_system_dot
+images:
+- src: "../../diagrams/personal system.dot.png"
+  format: png
+  role: raster

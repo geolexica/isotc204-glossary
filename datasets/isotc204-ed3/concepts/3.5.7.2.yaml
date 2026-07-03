@@ -3,6 +3,9 @@ data:
   identifier: 3.5.7.2
   localized_concepts:
     eng: 8afbdb0d-6559-5626-965a-dd415db775cd
+  figures:
+  - ref: fig_corporate_customer_model_dot
+    display: corporate customer model Diagram
 related:
 - content: subClassOf [contractualModel]
   type: broader

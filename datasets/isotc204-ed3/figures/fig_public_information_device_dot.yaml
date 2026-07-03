@@ -1,0 +1,7 @@
+---
+id: fig_public_information_device_dot
+identifier: fig_public_information_device_dot
+images:
+- src: "../../diagrams/public information device.dot.png"
+  format: png
+  role: raster

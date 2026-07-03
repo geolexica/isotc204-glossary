@@ -1,0 +1,7 @@
+---
+id: fig_transport_information_central_system_dot
+identifier: fig_transport_information_central_system_dot
+images:
+- src: "../../diagrams/transport information central system.dot.png"
+  format: png
+  role: raster

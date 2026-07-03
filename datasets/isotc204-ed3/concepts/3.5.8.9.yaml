@@ -3,6 +3,9 @@ data:
   identifier: 3.5.8.9
   localized_concepts:
     eng: 7c96e2b0-fbfa-5a3b-b8c5-480b518e06e2
+  figures:
+  - ref: fig_open_access_dot
+    display: open-access Diagram
 related:
 - content: describes [some financialModel]
   type: related_concept

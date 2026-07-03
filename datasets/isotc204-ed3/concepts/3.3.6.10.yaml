@@ -3,6 +3,9 @@ data:
   identifier: 3.3.6.10
   localized_concepts:
     eng: 2bb8fb5c-8de6-50bf-9289-335ebc35bd9e
+  figures:
+  - ref: fig_grade_separated_manoeuvre_dot
+    display: grade separated manoeuvre Diagram
 related:
 - content: subClassOf [intersectionManoeuvre]
   type: broader

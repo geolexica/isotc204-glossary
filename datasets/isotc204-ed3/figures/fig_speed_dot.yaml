@@ -1,0 +1,7 @@
+---
+id: fig_speed_dot
+identifier: fig_speed_dot
+images:
+- src: "../../diagrams/speed.dot.png"
+  format: png
+  role: raster

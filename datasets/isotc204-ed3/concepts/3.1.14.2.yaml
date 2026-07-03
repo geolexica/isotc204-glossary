@@ -3,6 +3,9 @@ data:
   identifier: 3.1.14.2
   localized_concepts:
     eng: 03271317-1a64-5597-a3fe-1f71c72a7131
+  figures:
+  - ref: fig_authenticator_dot
+    display: authenticator Diagram
 date_accepted: '2026-06-01'
 status: valid
 id: 5ddcc565-a162-51ef-ab35-795299059ef5

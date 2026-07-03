@@ -3,6 +3,9 @@ data:
   identifier: 3.1.15.1
   localized_concepts:
     eng: ac5e603a-da31-51de-85a9-40c0b3aabbb2
+  figures:
+  - ref: fig_design_dot
+    display: design Diagram
 date_accepted: '2026-06-01'
 status: valid
 id: 9fab3b3b-2119-51e2-ac13-823eea291cb6

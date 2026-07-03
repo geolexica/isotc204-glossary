@@ -3,6 +3,9 @@ data:
   identifier: 3.5.11.7
   localized_concepts:
     eng: 98f350f4-e888-5d10-a019-8d7b924e50c2
+  figures:
+  - ref: fig_courier_network_service_dot
+    display: courier network service Diagram
 related:
 - content: attrContractualModel [has peer-to-peer]
   type: related_concept

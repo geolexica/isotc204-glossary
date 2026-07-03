@@ -1,0 +1,7 @@
+---
+id: fig_communications_view_dot
+identifier: fig_communications_view_dot
+images:
+- src: "../../diagrams/communications view.dot.png"
+  format: png
+  role: raster

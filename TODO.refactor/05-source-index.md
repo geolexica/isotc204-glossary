@@ -1,7 +1,7 @@
 # 05 — Source index
 
 **Phase:** B
-**Status:** todo
+**Status:** done
 **Depends on:** 03, 04
 
 ## Goal

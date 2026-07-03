@@ -3,6 +3,9 @@ data:
   identifier: 3.6.2.3
   localized_concepts:
     eng: 856cd3f0-20cb-5d54-b6f9-3e61d2d9fd15
+  figures:
+  - ref: fig_driver_dot
+    display: driver Diagram
 related:
 - content: isA [some person]
   type: related_concept

@@ -3,6 +3,9 @@ data:
   identifier: 3.7.3.12
   localized_concepts:
     eng: fb13569f-3bd6-586e-ab36-2c0015ab226c
+  figures:
+  - ref: fig_level_4_ADS_dot
+    display: level 4 ADS Diagram
 related:
 - content: operatesWithinA [some operationalDesignDomain]
   type: related_concept

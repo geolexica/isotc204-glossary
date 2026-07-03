@@ -1,0 +1,7 @@
+---
+id: fig_campus_dot
+identifier: fig_campus_dot
+images:
+- src: "../../diagrams/campus.dot.png"
+  format: png
+  role: raster

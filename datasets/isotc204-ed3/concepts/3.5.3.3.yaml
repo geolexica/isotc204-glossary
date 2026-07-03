@@ -3,6 +3,9 @@ data:
   identifier: 3.5.3.3
   localized_concepts:
     eng: d2f542d9-d617-5a14-a00f-b1cb842257e0
+  figures:
+  - ref: fig_ITS_user_dot
+    display: ITS user Diagram
 related:
 - content: subClassOf [user]
   type: broader

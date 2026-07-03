@@ -1,0 +1,7 @@
+---
+id: fig_corporate_customer_model_dot
+identifier: fig_corporate_customer_model_dot
+images:
+- src: "../../diagrams/corporate customer model.dot.png"
+  format: png
+  role: raster

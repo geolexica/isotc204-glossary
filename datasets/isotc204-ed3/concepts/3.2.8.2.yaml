@@ -3,6 +3,9 @@ data:
   identifier: 3.2.8.2
   localized_concepts:
     eng: 35924169-1b25-599f-8ccf-18570539b9e4
+  figures:
+  - ref: fig_interoperability_design_dot
+    display: interoperability design Diagram
 related:
 - content: definesHowToProvide [some service]
   type: related_concept

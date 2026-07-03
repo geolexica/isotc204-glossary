@@ -1,0 +1,7 @@
+---
+id: fig_pick_updrop_off_area_dot
+identifier: fig_pick_updrop_off_area_dot
+images:
+- src: "../../diagrams/pick-updrop-off area.dot.png"
+  format: png
+  role: raster

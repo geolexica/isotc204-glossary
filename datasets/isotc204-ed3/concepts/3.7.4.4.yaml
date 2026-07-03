@@ -3,6 +3,9 @@ data:
   identifier: 3.7.4.4
   localized_concepts:
     eng: 7e8d1690-3835-54c1-a0b6-48abda495e8a
+  figures:
+  - ref: fig_unequipped_dot
+    display: unequipped Diagram
 related:
 - content: subClassOf [off-grid]
   type: broader

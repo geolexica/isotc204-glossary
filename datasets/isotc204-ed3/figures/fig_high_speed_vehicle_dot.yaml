@@ -1,0 +1,7 @@
+---
+id: fig_high_speed_vehicle_dot
+identifier: fig_high_speed_vehicle_dot
+images:
+- src: "../../diagrams/high-speed vehicle.dot.png"
+  format: png
+  role: raster

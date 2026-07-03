@@ -3,6 +3,9 @@ data:
   identifier: 3.7.1.4
   localized_concepts:
     eng: 1d8c3b73-4bf1-52a5-a083-219499f98c3f
+  figures:
+  - ref: fig_vehicle_input_device_dot
+    display: vehicle input device Diagram
 related:
 - content: subClassOf [materialEntity]
   type: broader

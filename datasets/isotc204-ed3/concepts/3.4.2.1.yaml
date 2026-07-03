@@ -3,6 +3,9 @@ data:
   identifier: 3.4.2.1
   localized_concepts:
     eng: 908aceed-9061-5b03-88f3-8608e5b236f5
+  figures:
+  - ref: fig_location_referencing_dot
+    display: location referencing Diagram
 related:
 - content: processToDevelop [some spatialReference]
   type: related_concept

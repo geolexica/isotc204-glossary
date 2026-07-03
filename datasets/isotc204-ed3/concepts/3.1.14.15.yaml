@@ -3,6 +3,9 @@ data:
   identifier: 3.1.14.15
   localized_concepts:
     eng: 39c8bca0-aae1-50a1-b3ae-6a4c9a99d76a
+  figures:
+  - ref: fig_trustworthiness_dot
+    display: trustworthiness Diagram
 date_accepted: '2026-06-01'
 status: valid
 id: 314a78ff-880e-55da-93fc-3e34825260e9

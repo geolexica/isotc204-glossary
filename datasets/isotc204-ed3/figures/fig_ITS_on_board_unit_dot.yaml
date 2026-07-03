@@ -1,0 +1,7 @@
+---
+id: fig_ITS_on_board_unit_dot
+identifier: fig_ITS_on_board_unit_dot
+images:
+- src: "../../diagrams/ITS on-board unit.dot.png"
+  format: png
+  role: raster

@@ -1,0 +1,7 @@
+---
+id: fig_hardstanding_dot
+identifier: fig_hardstanding_dot
+images:
+- src: "../../diagrams/hardstanding.dot.png"
+  format: png
+  role: raster

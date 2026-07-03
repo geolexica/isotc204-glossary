@@ -1,0 +1,7 @@
+---
+id: fig_pedestrian_dot
+identifier: fig_pedestrian_dot
+images:
+- src: "../../diagrams/pedestrian.dot.png"
+  format: png
+  role: raster

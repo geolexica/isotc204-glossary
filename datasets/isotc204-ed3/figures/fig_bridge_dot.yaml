@@ -1,0 +1,7 @@
+---
+id: fig_bridge_dot
+identifier: fig_bridge_dot
+images:
+- src: "../../diagrams/bridge.dot.png"
+  format: png
+  role: raster

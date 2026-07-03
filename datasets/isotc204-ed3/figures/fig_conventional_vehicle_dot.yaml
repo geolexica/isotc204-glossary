@@ -1,0 +1,7 @@
+---
+id: fig_conventional_vehicle_dot
+identifier: fig_conventional_vehicle_dot
+images:
+- src: "../../diagrams/conventional vehicle.dot.png"
+  format: png
+  role: raster

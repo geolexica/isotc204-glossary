@@ -1,0 +1,7 @@
+---
+id: fig_ITS_S_communication_unit_dot
+identifier: fig_ITS_S_communication_unit_dot
+images:
+- src: "../../diagrams/ITS-S communication unit.dot.png"
+  format: png
+  role: raster

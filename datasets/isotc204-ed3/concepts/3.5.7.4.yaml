@@ -3,6 +3,9 @@ data:
   identifier: 3.5.7.4
   localized_concepts:
     eng: e0c7a4ff-58b0-552e-9463-879354a2f959
+  figures:
+  - ref: fig_government_customer_model_dot
+    display: government customer model Diagram
 related:
 - content: subClassOf [contractualModel]
   type: broader

@@ -3,6 +3,9 @@ data:
   identifier: 3.5.9.1
   localized_concepts:
     eng: a807defc-1e9d-5109-ae9d-35b7f6ad5a09
+  figures:
+  - ref: fig_operational_model_dot
+    display: operational model Diagram
 related:
 - content: "[operational model](operational model.md) where [services](service.md)
     can be provided to multiple [users](user.md) at any one time"

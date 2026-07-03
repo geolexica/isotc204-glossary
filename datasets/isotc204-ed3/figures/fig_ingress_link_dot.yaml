@@ -1,0 +1,7 @@
+---
+id: fig_ingress_link_dot
+identifier: fig_ingress_link_dot
+images:
+- src: "../../diagrams/ingress link.dot.png"
+  format: png
+  role: raster

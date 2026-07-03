@@ -1,0 +1,7 @@
+---
+id: fig_node_dot
+identifier: fig_node_dot
+images:
+- src: "../../diagrams/node.dot.png"
+  format: png
+  role: raster

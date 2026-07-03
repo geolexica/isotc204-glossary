@@ -3,6 +3,9 @@ data:
   identifier: 3.1.14.6
   localized_concepts:
     eng: 2d23ee28-0b89-51a5-83b5-76ca675d4c82
+  figures:
+  - ref: fig_digital_signature_dot
+    display: digital signature Diagram
 date_accepted: '2026-06-01'
 status: valid
 id: c94f8fa9-d14a-5a45-805b-cbda52d8dc6d

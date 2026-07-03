@@ -1,0 +1,7 @@
+---
+id: fig_lane_dot
+identifier: fig_lane_dot
+images:
+- src: "../../diagrams/lane.dot.png"
+  format: png
+  role: raster

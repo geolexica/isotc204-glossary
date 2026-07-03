@@ -7,6 +7,11 @@ data:
   - concept_id: 3.3.3
     source: urn:iso:std:iso:14812:2025
     ref_type: section
+  figures:
+  - ref: fig_Alternate_mode_graphic
+    display: Alternate mode graphic
+  - ref: fig_Alternate_mode_infrastructure_component_terms
+    display: Alternate mode infrastructure component terms
 related:
 - type: supersedes
   ref:

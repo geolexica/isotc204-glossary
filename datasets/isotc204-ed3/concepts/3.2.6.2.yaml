@@ -3,6 +3,9 @@ data:
   identifier: 3.2.6.2
   localized_concepts:
     eng: acd11599-5309-58e0-a722-a9825a951c50
+  figures:
+  - ref: fig_ITS_on_board_unit_dot
+    display: ITS on-board unit Diagram
 related:
 - content: subClassOf [connectedUnit]
   type: broader

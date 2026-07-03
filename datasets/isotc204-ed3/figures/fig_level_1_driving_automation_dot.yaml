@@ -1,0 +1,7 @@
+---
+id: fig_level_1_driving_automation_dot
+identifier: fig_level_1_driving_automation_dot
+images:
+- src: "../../diagrams/level 1 driving automation.dot.png"
+  format: png
+  role: raster

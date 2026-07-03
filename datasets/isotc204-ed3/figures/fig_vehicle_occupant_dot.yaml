@@ -1,0 +1,7 @@
+---
+id: fig_vehicle_occupant_dot
+identifier: fig_vehicle_occupant_dot
+images:
+- src: "../../diagrams/vehicle occupant.dot.png"
+  format: png
+  role: raster

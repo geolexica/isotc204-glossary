@@ -3,6 +3,9 @@ data:
   identifier: 3.3.4.1
   localized_concepts:
     eng: d7c209ed-62f6-5219-8d47-db8cf2ddb3b9
+  figures:
+  - ref: fig_hard_shoulder_for_emergency_use_dot
+    display: hard shoulder for emergency use Diagram
 related:
 - content: operatingModeOf [some hardShoulder]
   type: related_concept

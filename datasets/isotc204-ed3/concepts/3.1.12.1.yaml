@@ -3,6 +3,9 @@ data:
   identifier: 3.1.12.1
   localized_concepts:
     eng: 14cd10de-2db9-56b5-b061-70c8eeca8edc
+  figures:
+  - ref: fig_use_case_dot
+    display: use case Diagram
 related:
 - content: aggregates [some scenario]
   type: related_concept

@@ -1,0 +1,7 @@
+---
+id: fig_dynamic_spatial_reference_dot
+identifier: fig_dynamic_spatial_reference_dot
+images:
+- src: "../../diagrams/dynamic spatial reference.dot.png"
+  format: png
+  role: raster

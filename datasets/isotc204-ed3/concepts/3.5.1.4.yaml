@@ -3,6 +3,9 @@ data:
   identifier: 3.5.1.4
   localized_concepts:
     eng: 26e5038f-5381-5b7b-acda-7c538f583010
+  figures:
+  - ref: fig_user_need_dot
+    display: user need Diagram
 related:
 - content: desiredResultsOf [some user]
   type: related_concept

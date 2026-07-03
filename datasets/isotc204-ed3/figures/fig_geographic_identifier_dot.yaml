@@ -1,0 +1,7 @@
+---
+id: fig_geographic_identifier_dot
+identifier: fig_geographic_identifier_dot
+images:
+- src: "../../diagrams/geographic identifier.dot.png"
+  format: png
+  role: raster

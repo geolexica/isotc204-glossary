@@ -7,6 +7,9 @@ data:
   - concept_id: 3.2.8
     source: urn:iso:std:iso:14812:2025
     ref_type: section
+  figures:
+  - ref: fig_ITS_application_terms
+    display: ITS application terms
 related:
 - type: supersedes
   ref:

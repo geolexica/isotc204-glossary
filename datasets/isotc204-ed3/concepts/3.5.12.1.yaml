@@ -3,6 +3,9 @@ data:
   identifier: 3.5.12.1
   localized_concepts:
     eng: 552df248-4d20-5d99-bea9-e17a1aafbd02
+  figures:
+  - ref: fig_bikesharing_service_dot
+    display: bikesharing service Diagram
 related:
 - content: subClassOf [sharedVehicleService]
   type: broader

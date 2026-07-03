@@ -1,0 +1,7 @@
+---
+id: fig_resource_dot
+identifier: fig_resource_dot
+images:
+- src: "../../diagrams/resource.dot.png"
+  format: png
+  role: raster

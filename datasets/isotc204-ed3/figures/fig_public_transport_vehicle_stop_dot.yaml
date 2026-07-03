@@ -1,0 +1,7 @@
+---
+id: fig_public_transport_vehicle_stop_dot
+identifier: fig_public_transport_vehicle_stop_dot
+images:
+- src: "../../diagrams/public transport vehicle stop.dot.png"
+  format: png
+  role: raster

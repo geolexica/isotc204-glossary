@@ -3,6 +3,9 @@ data:
   identifier: 3.5.9.2
   localized_concepts:
     eng: ec333381-bdb4-582c-bb45-867b831e5721
+  figures:
+  - ref: fig_sequential_dot
+    display: sequential Diagram
 related:
 - content: subClassOf [operationalModel]
   type: broader

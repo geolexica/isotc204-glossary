@@ -1,0 +1,7 @@
+---
+id: fig_cooperative_dot
+identifier: fig_cooperative_dot
+images:
+- src: "../../diagrams/cooperative.dot.png"
+  format: png
+  role: raster

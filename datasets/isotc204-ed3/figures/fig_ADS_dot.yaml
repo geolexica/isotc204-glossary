@@ -1,0 +1,7 @@
+---
+id: fig_ADS_dot
+identifier: fig_ADS_dot
+images:
+- src: "../../diagrams/ADS.dot.png"
+  format: png
+  role: raster

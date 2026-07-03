@@ -3,6 +3,9 @@ data:
   identifier: 3.3.7.1
   localized_concepts:
     eng: c45912d2-fd8e-5157-8a17-ea36743810f9
+  figures:
+  - ref: fig_transport_facility_dot
+    display: transport facility Diagram
 related:
 - content: "[transport facility](transport facility.md) built over a gap to provide
     a continuous travel path"

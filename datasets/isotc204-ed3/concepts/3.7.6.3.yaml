@@ -3,6 +3,9 @@ data:
   identifier: 3.7.6.3
   localized_concepts:
     eng: 435eb9c9-0120-5e6e-8893-f24fca2e1f30
+  figures:
+  - ref: fig_motor_vehicle_dot
+    display: motor vehicle Diagram
 related:
 - content: subClassOf [motorizedVehicle]
   type: broader

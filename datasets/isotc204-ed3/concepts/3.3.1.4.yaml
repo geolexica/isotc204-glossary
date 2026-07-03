@@ -3,6 +3,9 @@ data:
   identifier: 3.3.1.4
   localized_concepts:
     eng: 6c51f746-13e2-584a-aec3-541348fd8da4
+  figures:
+  - ref: fig_driving_space_dot
+    display: driving space Diagram
 related:
 - content: areaAbove [some roadway]
   type: related_concept

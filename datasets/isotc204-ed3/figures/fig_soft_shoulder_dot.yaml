@@ -1,0 +1,7 @@
+---
+id: fig_soft_shoulder_dot
+identifier: fig_soft_shoulder_dot
+images:
+- src: "../../diagrams/soft shoulder.dot.png"
+  format: png
+  role: raster

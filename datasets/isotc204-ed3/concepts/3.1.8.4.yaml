@@ -3,6 +3,9 @@ data:
   identifier: 3.1.8.4
   localized_concepts:
     eng: 60fa15f5-4bb1-5ed5-bd3c-44244362054e
+  figures:
+  - ref: fig_information_flow_dot
+    display: information flow Diagram
 related:
 - type: supersedes
   ref:

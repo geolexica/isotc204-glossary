@@ -3,6 +3,9 @@ data:
   identifier: 3.7.2.7
   localized_concepts:
     eng: 7b410b55-9776-52a5-98b0-d9c8e30a414d
+  figures:
+  - ref: fig_vehicle_load_type_dot
+    display: vehicle load type Diagram
 related:
 - content: loadCarriedBy [exactly 1 owl::Thing]
   type: related_concept

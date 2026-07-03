@@ -3,6 +3,9 @@ data:
   identifier: 3.5.6.3
   localized_concepts:
     eng: 9e7c9887-2005-59f5-adfe-6d938878a444
+  figures:
+  - ref: fig_shared_vehicle_service_dot
+    display: shared vehicle service Diagram
 related:
 - content: attrOperationalModel [has sequential]
   type: related_concept

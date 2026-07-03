@@ -3,6 +3,9 @@ data:
   identifier: 3.7.3.11
   localized_concepts:
     eng: '08209d19-3f97-575a-a3a1-d6305cd2755f'
+  figures:
+  - ref: fig_level_3_ADS_dot
+    display: level 3 ADS Diagram
 related:
 - content: designedWithExpectationOf [some fallback-readyUser]
   type: related_concept

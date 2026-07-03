@@ -3,6 +3,9 @@ data:
   identifier: 3.1.8.6
   localized_concepts:
     eng: 6e82bd07-3c2c-5624-ad18-60f83cf92802
+  figures:
+  - ref: fig_functional_object_dot
+    display: functional object Diagram
 related:
 - content: groups [some process]
   type: related_concept

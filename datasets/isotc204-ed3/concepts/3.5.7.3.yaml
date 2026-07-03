@@ -3,6 +3,9 @@ data:
   identifier: 3.5.7.3
   localized_concepts:
     eng: 79fcc707-382a-58f1-9176-acbc56930325
+  figures:
+  - ref: fig_private_customer_model_dot
+    display: private customer model Diagram
 related:
 - content: subClassOf [contractualModel]
   type: broader

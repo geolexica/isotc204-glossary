@@ -1,0 +1,7 @@
+---
+id: fig_point_destination_dot
+identifier: fig_point_destination_dot
+images:
+- src: "../../diagrams/point destination.dot.png"
+  format: png
+  role: raster

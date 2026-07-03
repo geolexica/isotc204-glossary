@@ -3,6 +3,9 @@ data:
   identifier: 3.4.2.7
   localized_concepts:
     eng: ae7af80e-3a85-599c-9176-79ec633584d4
+  figures:
+  - ref: fig_gazetteer_dot
+    display: gazetteer Diagram
 related:
 - content: aggregates [some spatialReference]
   type: related_concept

@@ -3,6 +3,9 @@ data:
   identifier: 3.5.2.4
   localized_concepts:
     eng: 6f596e6e-a34f-5fc0-b920-8e9989b51b29
+  figures:
+  - ref: fig_transport_user_need_dot
+    display: transport user need Diagram
 related:
 - content: desiredResultsOf [some transportUser]
   type: related_concept

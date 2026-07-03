@@ -3,6 +3,9 @@ data:
   identifier: 3.5.5.1
   localized_concepts:
     eng: 4c2c8269-5f00-59a9-92a3-2697f7092933
+  figures:
+  - ref: fig_mobility_app_dot
+    display: mobility app Diagram
 related:
 - content: subClassOf [its-sApplicationImplementation]
   type: broader

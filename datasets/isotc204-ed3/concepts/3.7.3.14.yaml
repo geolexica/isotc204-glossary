@@ -3,6 +3,9 @@ data:
   identifier: 3.7.3.14
   localized_concepts:
     eng: 978ab115-2860-5aa9-a91e-3cfd96a01b38
+  figures:
+  - ref: fig_conventional_vehicle_dot
+    display: conventional vehicle Diagram
 related:
 - content: subClassOf [vehicle]
   type: broader

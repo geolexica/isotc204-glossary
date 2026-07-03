@@ -3,6 +3,9 @@ data:
   identifier: 3.2.1.2
   localized_concepts:
     eng: 56a4c311-7e06-5d59-b4b2-5a0a2685d48f
+  figures:
+  - ref: fig_field_system_dot
+    display: field system Diagram
 related:
 - content: subClassOf [itsComponent]
   type: broader

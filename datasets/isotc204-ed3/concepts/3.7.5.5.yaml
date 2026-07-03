@@ -3,6 +3,9 @@ data:
   identifier: 3.7.5.5
   localized_concepts:
     eng: cbd5bced-1487-5a69-84c2-431bb616bfb3
+  figures:
+  - ref: fig_moderately_high_speed_vehicle_dot
+    display: moderately high-speed vehicle Diagram
 related:
 - content: subClassOf [vehicle]
   type: broader

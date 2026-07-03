@@ -1,7 +1,7 @@
 # 12 — Writer
 
 **Phase:** B
-**Status:** todo
+**Status:** done
 **Depends on:** 02, 11
 
 ## Goal

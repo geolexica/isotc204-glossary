@@ -1,0 +1,7 @@
+---
+id: fig_value_domain_dot
+identifier: fig_value_domain_dot
+images:
+- src: "../../diagrams/value domain.dot.png"
+  format: png
+  role: raster

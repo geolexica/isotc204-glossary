@@ -1,0 +1,7 @@
+---
+id: fig_ingress_lane_dot
+identifier: fig_ingress_lane_dot
+images:
+- src: "../../diagrams/ingress lane.dot.png"
+  format: png
+  role: raster

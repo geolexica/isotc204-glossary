@@ -1,0 +1,7 @@
+---
+id: fig_management_entity_dot
+identifier: fig_management_entity_dot
+images:
+- src: "../../diagrams/management entity.dot.png"
+  format: png
+  role: raster

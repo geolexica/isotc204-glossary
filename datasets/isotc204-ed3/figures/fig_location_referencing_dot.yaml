@@ -1,0 +1,7 @@
+---
+id: fig_location_referencing_dot
+identifier: fig_location_referencing_dot
+images:
+- src: "../../diagrams/location referencing.dot.png"
+  format: png
+  role: raster

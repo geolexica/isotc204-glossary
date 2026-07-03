@@ -3,6 +3,9 @@ data:
   identifier: 3.2.7.7
   localized_concepts:
     eng: 5e417d66-8678-551f-bd4c-d18b65016bfc
+  figures:
+  - ref: fig_ITS_S_router_dot
+    display: ITS-S router Diagram
 related:
 - content: subClassOf [its-sNode]
   type: broader

@@ -3,6 +3,9 @@ data:
   identifier: 3.2.8.4
   localized_concepts:
     eng: 5e026c98-6284-5534-92dc-6965725dc9ca
+  figures:
+  - ref: fig_application_template_dot
+    display: application template Diagram
 related:
 - content: annotatedOutlineFor [some itsApplicationSpecification]
   type: related_concept

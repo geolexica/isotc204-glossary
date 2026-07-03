@@ -1,0 +1,7 @@
+---
+id: fig_data_dictionary_dot
+identifier: fig_data_dictionary_dot
+images:
+- src: "../../diagrams/data dictionary.dot.png"
+  format: png
+  role: raster

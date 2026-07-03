@@ -1,0 +1,7 @@
+---
+id: fig_driving_automation_system_dot
+identifier: fig_driving_automation_system_dot
+images:
+- src: "../../diagrams/driving automation system.dot.png"
+  format: png
+  role: raster

@@ -3,6 +3,9 @@ data:
   identifier: 3.3.1.18
   localized_concepts:
     eng: 875445c0-4f0b-5afd-91c0-b3126f56d884
+  figures:
+  - ref: fig_shoulder_dot
+    display: shoulder Diagram
 related:
 - content: part of the paved [carriageway](carriageway.md) designed to support traffic
     loads but not normally intended for driving

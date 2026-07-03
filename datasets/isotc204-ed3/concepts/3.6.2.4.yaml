@@ -3,6 +3,9 @@ data:
   identifier: 3.6.2.4
   localized_concepts:
     eng: 90b4c926-6299-510e-beff-9e08f3338102
+  figures:
+  - ref: fig_in_vehicle_driver_dot
+    display: in-vehicle driver Diagram
 related:
 - content: subClassOf [driver]
   type: broader

@@ -1,0 +1,7 @@
+---
+id: fig_moving_walkway_dot
+identifier: fig_moving_walkway_dot
+images:
+- src: "../../diagrams/moving walkway.dot.png"
+  format: png
+  role: raster

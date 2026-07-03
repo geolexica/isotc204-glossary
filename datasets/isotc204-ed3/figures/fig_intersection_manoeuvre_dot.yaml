@@ -1,0 +1,7 @@
+---
+id: fig_intersection_manoeuvre_dot
+identifier: fig_intersection_manoeuvre_dot
+images:
+- src: "../../diagrams/intersection manoeuvre.dot.png"
+  format: png
+  role: raster

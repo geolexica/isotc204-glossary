@@ -3,6 +3,9 @@ data:
   identifier: 3.4.1.11
   localized_concepts:
     eng: fcc7d8d0-16fc-51d3-b9d5-01294098bd51
+  figures:
+  - ref: fig_point_coordinates_dot
+    display: point coordinates Diagram
 related:
 - content: subClassOf [coordinateTuple]
   type: broader

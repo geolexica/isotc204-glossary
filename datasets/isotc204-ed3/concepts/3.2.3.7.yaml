@@ -3,6 +3,9 @@ data:
   identifier: 3.2.3.7
   localized_concepts:
     eng: 8425f202-093e-58b3-8947-3e707ba05d12
+  figures:
+  - ref: fig_connected_vehicle_dot
+    display: connected vehicle Diagram
 related:
 - content: is [some connected]
   type: related_concept

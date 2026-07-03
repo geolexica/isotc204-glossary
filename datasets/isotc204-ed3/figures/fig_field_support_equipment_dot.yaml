@@ -1,0 +1,7 @@
+---
+id: fig_field_support_equipment_dot
+identifier: fig_field_support_equipment_dot
+images:
+- src: "../../diagrams/field support equipment.dot.png"
+  format: png
+  role: raster

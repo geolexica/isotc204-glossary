@@ -1,0 +1,7 @@
+---
+id: fig_instance_dot
+identifier: fig_instance_dot
+images:
+- src: "../../diagrams/instance.dot.png"
+  format: png
+  role: raster

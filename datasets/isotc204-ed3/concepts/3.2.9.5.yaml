@@ -3,6 +3,9 @@ data:
   identifier: 3.2.9.5
   localized_concepts:
     eng: 9fb6d99f-ce97-5de6-81a1-3466b98e3a7e
+  figures:
+  - ref: fig_ITS_S_application_process_installation_dot
+    display: ITS-S application process installation Diagram
 related:
 - content: installationOf [some its-sApplicationProcess]
   type: related_concept

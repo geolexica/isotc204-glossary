@@ -3,6 +3,9 @@ data:
   identifier: 3.1.4.8
   localized_concepts:
     eng: 6754d46d-32c6-5692-9594-f22c4e1bc006
+  figures:
+  - ref: fig_physical_viewpoint_dot
+    display: physical viewpoint Diagram
 related:
 - content: governs [some physicalView]
   type: related_concept

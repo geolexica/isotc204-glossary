@@ -1,0 +1,7 @@
+---
+id: fig_fixed_route_dot
+identifier: fig_fixed_route_dot
+images:
+- src: "../../diagrams/fixed route.dot.png"
+  format: png
+  role: raster

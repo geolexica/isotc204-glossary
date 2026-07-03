@@ -3,6 +3,9 @@ data:
   identifier: 3.5.6.1
   localized_concepts:
     eng: bdae5c8e-8bad-5302-a5dd-95d02c5c0783
+  figures:
+  - ref: fig_public_transport_dot
+    display: public transport Diagram
 related:
 - content: attrAccessibility [has public]
   type: related_concept

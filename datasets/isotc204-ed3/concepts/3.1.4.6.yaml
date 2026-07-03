@@ -3,6 +3,9 @@ data:
   identifier: 3.1.4.6
   localized_concepts:
     eng: 6b41c1ec-fb07-54a5-a004-ed8f24f25efd
+  figures:
+  - ref: fig_functional_viewpoint_dot
+    display: functional viewpoint Diagram
 related:
 - content: governs [some functionalView]
   type: related_concept

@@ -3,6 +3,9 @@ data:
   identifier: 3.5.10.2
   localized_concepts:
     eng: b67018bd-1ade-5773-ad9d-09eb137f0d01
+  figures:
+  - ref: fig_station_based_roundtrip_dot
+    display: station-based roundtrip Diagram
 related:
 - content: subClassOf [networkModel]
   type: broader

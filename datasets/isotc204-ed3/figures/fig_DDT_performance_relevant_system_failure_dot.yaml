@@ -1,0 +1,7 @@
+---
+id: fig_DDT_performance_relevant_system_failure_dot
+identifier: fig_DDT_performance_relevant_system_failure_dot
+images:
+- src: "../../diagrams/DDT performance-relevant system failure.dot.png"
+  format: png
+  role: raster

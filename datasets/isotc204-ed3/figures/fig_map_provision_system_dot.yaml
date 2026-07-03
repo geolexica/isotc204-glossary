@@ -1,0 +1,7 @@
+---
+id: fig_map_provision_system_dot
+identifier: fig_map_provision_system_dot
+images:
+- src: "../../diagrams/map provision system.dot.png"
+  format: png
+  role: raster

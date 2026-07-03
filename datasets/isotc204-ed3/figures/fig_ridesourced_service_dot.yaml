@@ -1,0 +1,7 @@
+---
+id: fig_ridesourced_service_dot
+identifier: fig_ridesourced_service_dot
+images:
+- src: "../../diagrams/ridesourced service.dot.png"
+  format: png
+  role: raster

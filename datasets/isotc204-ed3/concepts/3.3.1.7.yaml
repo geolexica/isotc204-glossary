@@ -3,6 +3,9 @@ data:
   identifier: 3.3.1.7
   localized_concepts:
     eng: d2fde194-bde4-57a3-af8e-127e89cf50d1
+  figures:
+  - ref: fig_single_carriageway_dot
+    display: single carriageway Diagram
 related:
 - content: comprises [exactly 1 owl::Thing]
   type: related_concept

@@ -3,6 +3,9 @@ data:
   identifier: 3.1.9.7
   localized_concepts:
     eng: 30932935-1763-5830-8ccf-4d6b4a9e3377
+  figures:
+  - ref: fig_ITS_deployment_architecture_dot
+    display: ITS deployment architecture Diagram
 related:
 - content: subClassOf [deploymentArchitecture]
   type: broader

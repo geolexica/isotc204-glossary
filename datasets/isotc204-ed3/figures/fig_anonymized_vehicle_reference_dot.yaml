@@ -1,0 +1,7 @@
+---
+id: fig_anonymized_vehicle_reference_dot
+identifier: fig_anonymized_vehicle_reference_dot
+images:
+- src: "../../diagrams/anonymized vehicle reference.dot.png"
+  format: png
+  role: raster

@@ -1,0 +1,7 @@
+---
+id: fig_payment_administration_central_system_dot
+identifier: fig_payment_administration_central_system_dot
+images:
+- src: "../../diagrams/payment administration central system.dot.png"
+  format: png
+  role: raster

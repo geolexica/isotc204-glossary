@@ -1,0 +1,7 @@
+---
+id: fig_ADS_equipped_vehicle_dot
+identifier: fig_ADS_equipped_vehicle_dot
+images:
+- src: "../../diagrams/ADS-equipped vehicle.dot.png"
+  format: png
+  role: raster

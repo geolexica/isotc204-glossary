@@ -3,6 +3,9 @@ data:
   identifier: 3.5.11.1
   localized_concepts:
     eng: 12ec5e9c-c696-5765-b13c-5c93e235da0b
+  figures:
+  - ref: fig_shuttle_service_dot
+    display: shuttle service Diagram
 related:
 - content: attrTransportItem [has passengers]
   type: related_concept

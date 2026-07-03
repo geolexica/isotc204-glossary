@@ -1,0 +1,7 @@
+---
+id: fig_fractional_ownership_dot
+identifier: fig_fractional_ownership_dot
+images:
+- src: "../../diagrams/fractional ownership.dot.png"
+  format: png
+  role: raster

@@ -3,6 +3,9 @@ data:
   identifier: 3.2.10.1
   localized_concepts:
     eng: 11dae5f1-d166-54ca-ad42-8d5084c3590d
+  figures:
+  - ref: fig_actuator_dot
+    display: actuator Diagram
 related:
 - content: changesPropertyOf [some materialEntity]
   type: related_concept

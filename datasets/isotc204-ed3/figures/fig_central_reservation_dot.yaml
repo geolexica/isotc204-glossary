@@ -1,0 +1,7 @@
+---
+id: fig_central_reservation_dot
+identifier: fig_central_reservation_dot
+images:
+- src: "../../diagrams/central reservation.dot.png"
+  format: png
+  role: raster

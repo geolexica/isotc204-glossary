@@ -1,0 +1,7 @@
+---
+id: fig_shared_transport_service_dot
+identifier: fig_shared_transport_service_dot
+images:
+- src: "../../diagrams/shared transport service.dot.png"
+  format: png
+  role: raster

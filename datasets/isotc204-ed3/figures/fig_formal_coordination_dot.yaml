@@ -1,0 +1,7 @@
+---
+id: fig_formal_coordination_dot
+identifier: fig_formal_coordination_dot
+images:
+- src: "../../diagrams/formal coordination.dot.png"
+  format: png
+  role: raster

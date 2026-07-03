@@ -1,0 +1,7 @@
+---
+id: fig_cryptography_dot
+identifier: fig_cryptography_dot
+images:
+- src: "../../diagrams/cryptography.dot.png"
+  format: png
+  role: raster

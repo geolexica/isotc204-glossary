@@ -3,6 +3,9 @@ data:
   identifier: 3.3.6.6
   localized_concepts:
     eng: c24649a8-d630-54bc-95d6-0322290815fa
+  figures:
+  - ref: fig_egress_link_dot
+    display: egress link Diagram
 related:
 - content: aggregates [some egressLane]
   type: related_concept

@@ -1,0 +1,7 @@
+---
+id: fig_use_case_dot
+identifier: fig_use_case_dot
+images:
+- src: "../../diagrams/use case.dot.png"
+  format: png
+  role: raster

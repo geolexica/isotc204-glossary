@@ -1,0 +1,7 @@
+---
+id: fig_vehicle_identifier_dot
+identifier: fig_vehicle_identifier_dot
+images:
+- src: "../../diagrams/vehicle identifier.dot.png"
+  format: png
+  role: raster

@@ -3,6 +3,9 @@ data:
   identifier: 3.4.1.1
   localized_concepts:
     eng: 7ea7ed2c-589b-5f87-8d2d-596c775bd025
+  figures:
+  - ref: fig_location_dot
+    display: location Diagram
 related:
 - content: area location, which is the destination of a defined route or itinerary
   type: narrower

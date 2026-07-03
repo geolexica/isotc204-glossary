@@ -1,0 +1,7 @@
+---
+id: fig_vehicle_input_device_dot
+identifier: fig_vehicle_input_device_dot
+images:
+- src: "../../diagrams/vehicle input device.dot.png"
+  format: png
+  role: raster

@@ -3,6 +3,9 @@ data:
   identifier: 3.2.9.1
   localized_concepts:
     eng: 7db957e8-beda-5d87-b3a7-3e2446d93f06
+  figures:
+  - ref: fig_ITS_application_role_dot
+    display: ITS application role Diagram
 related:
 - content: subClassOf [its-sUserNeed]
   type: broader

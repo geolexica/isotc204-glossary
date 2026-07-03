@@ -3,6 +3,9 @@ data:
   identifier: 3.1.11.3
   localized_concepts:
     eng: 42cea2ec-b2ba-577f-a485-40a5c7f602f7
+  figures:
+  - ref: fig_value_domain_dot
+    display: value domain Diagram
 related:
 - content: subClassOf [dataConcept]
   type: broader

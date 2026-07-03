@@ -1,0 +1,7 @@
+---
+id: fig_ultra_low_speed_vehicle_dot
+identifier: fig_ultra_low_speed_vehicle_dot
+images:
+- src: "../../diagrams/ultra-low-speed vehicle.dot.png"
+  format: png
+  role: raster

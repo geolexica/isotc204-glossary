@@ -3,6 +3,9 @@ data:
   identifier: 3.5.8.6
   localized_concepts:
     eng: a31fa4af-8366-57e0-90f5-6a3c0932d398
+  figures:
+  - ref: fig_fractional_ownership_dot
+    display: fractional ownership Diagram
 related:
 - content: subClassOf [cooperative]
   type: broader

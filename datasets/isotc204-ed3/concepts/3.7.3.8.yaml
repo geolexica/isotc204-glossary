@@ -3,6 +3,9 @@ data:
   identifier: 3.7.3.8
   localized_concepts:
     eng: 998d2cc6-1ede-5974-8213-65cf70443911
+  figures:
+  - ref: fig_level_1_driving_automation_dot
+    display: level 1 driving automation Diagram
 related:
 - content: operatesWithinA [some operationalDesignDomain]
   type: related_concept

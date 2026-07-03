@@ -7,6 +7,9 @@ data:
   - concept_id: 3.5.5
     source: urn:iso:std:iso:14812:2025
     ref_type: section
+  figures:
+  - ref: fig_ITS_S_communication_service_terms
+    display: ITS-S communication service terms
 related:
 - type: supersedes
   ref:

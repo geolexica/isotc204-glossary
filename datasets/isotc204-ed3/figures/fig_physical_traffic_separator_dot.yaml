@@ -1,0 +1,7 @@
+---
+id: fig_physical_traffic_separator_dot
+identifier: fig_physical_traffic_separator_dot
+images:
+- src: "../../diagrams/physical traffic separator.dot.png"
+  format: png
+  role: raster

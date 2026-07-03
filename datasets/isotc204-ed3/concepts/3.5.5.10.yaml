@@ -3,6 +3,9 @@ data:
   identifier: 3.5.5.10
   localized_concepts:
     eng: 49c786e4-c2b6-5eaa-a2fd-a8c9616523f8
+  figures:
+  - ref: fig_trip_aggregator_app_dot
+    display: trip aggregator app Diagram
 related:
 - content: subClassOf [mobilityApp]
   type: broader

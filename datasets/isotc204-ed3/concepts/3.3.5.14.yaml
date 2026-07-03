@@ -3,6 +3,9 @@ data:
   identifier: 3.3.5.14
   localized_concepts:
     eng: 65173e16-eec2-554c-bbde-63c7f46caf52
+  figures:
+  - ref: fig_service_alley_dot
+    display: service alley Diagram
 related:
 - content: subClassOf [alley]
   type: broader

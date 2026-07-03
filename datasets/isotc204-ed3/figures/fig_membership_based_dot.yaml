@@ -1,0 +1,7 @@
+---
+id: fig_membership_based_dot
+identifier: fig_membership_based_dot
+images:
+- src: "../../diagrams/membership-based.dot.png"
+  format: png
+  role: raster

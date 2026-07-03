@@ -3,6 +3,9 @@ data:
   identifier: 3.2.2.3
   localized_concepts:
     eng: c0e1b1bb-56b9-5a4e-9551-5be318bc1f46
+  figures:
+  - ref: fig_maintenance_and_construction_central_management_system_dot
+    display: maintenance and construction central management system Diagram
 related:
 - content: subClassOf [centralSystem]
   type: broader

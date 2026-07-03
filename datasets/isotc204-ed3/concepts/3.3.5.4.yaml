@@ -3,6 +3,9 @@ data:
   identifier: 3.3.5.4
   localized_concepts:
     eng: da97ccc5-d723-5771-87c9-9a9ae3b62f6d
+  figures:
+  - ref: fig_node_dot
+    display: node Diagram
 related:
 - type: supersedes
   ref:

@@ -3,6 +3,9 @@ data:
   identifier: 3.5.3.1
   localized_concepts:
     eng: ef5bf1f7-e7d9-5eae-82b0-8a5037546910
+  figures:
+  - ref: fig_ITS_service_dot
+    display: ITS service Diagram
 related:
 - content: for [some itsUser]
   type: related_concept

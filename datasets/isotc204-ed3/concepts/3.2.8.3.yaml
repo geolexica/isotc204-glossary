@@ -3,6 +3,9 @@ data:
   identifier: 3.2.8.3
   localized_concepts:
     eng: 7769eaf0-d447-5a77-ad95-9a32c7673eb6
+  figures:
+  - ref: fig_ITS_application_specification_dot
+    display: ITS application specification Diagram
 related:
 - content: details [some interoperabilityDesign]
   type: related_concept

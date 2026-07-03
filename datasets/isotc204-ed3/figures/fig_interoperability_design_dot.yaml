@@ -1,0 +1,7 @@
+---
+id: fig_interoperability_design_dot
+identifier: fig_interoperability_design_dot
+images:
+- src: "../../diagrams/interoperability design.dot.png"
+  format: png
+  role: raster

@@ -3,6 +3,9 @@ data:
   identifier: 3.3.2.4
   localized_concepts:
     eng: 8dc033bd-b489-50b9-ab8e-30cf8768c477
+  figures:
+  - ref: fig_kerb_dot
+    display: kerb Diagram
 related:
 - content: subClassOf [physicalTrafficSeparator]
   type: broader

@@ -1,0 +1,7 @@
+---
+id: fig_carsharing_service_dot
+identifier: fig_carsharing_service_dot
+images:
+- src: "../../diagrams/carsharing service.dot.png"
+  format: png
+  role: raster

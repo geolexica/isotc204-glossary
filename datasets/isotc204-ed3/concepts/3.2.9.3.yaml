@@ -3,6 +3,9 @@ data:
   identifier: 3.2.9.3
   localized_concepts:
     eng: b74b46ae-1cb4-58f8-96df-2dd3f6cdeab3
+  figures:
+  - ref: fig_ITS_S_application_dot
+    display: ITS-S application Diagram
 related:
 - content: residesIn [some applicationEntity]
   type: related_concept

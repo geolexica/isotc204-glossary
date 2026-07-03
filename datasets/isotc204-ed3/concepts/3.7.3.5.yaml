@@ -3,6 +3,9 @@ data:
   identifier: 3.7.3.5
   localized_concepts:
     eng: 3f2f8af6-2668-55f4-a66e-8e6d5f52b1d1
+  figures:
+  - ref: fig_DDT_performance_relevant_system_failure_dot
+    display: DDT performance-relevant system failure Diagram
 related:
 - type: supersedes
   ref:

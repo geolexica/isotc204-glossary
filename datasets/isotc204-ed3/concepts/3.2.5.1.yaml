@@ -3,6 +3,9 @@ data:
   identifier: 3.2.5.1
   localized_concepts:
     eng: e6646ba1-d2c6-58ea-8039-336df291f3cf
+  figures:
+  - ref: fig_cooperative_ITS_credentials_management_system_dot
+    display: cooperative ITS credentials management system Diagram
 related:
 - content: subClassOf [supportSystem]
   type: broader

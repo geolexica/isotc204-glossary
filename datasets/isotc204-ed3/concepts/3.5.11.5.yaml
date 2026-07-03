@@ -3,6 +3,9 @@ data:
   identifier: 3.5.11.5
   localized_concepts:
     eng: 11b17fbd-63c8-5cde-ac86-5d3ce4f6199e
+  figures:
+  - ref: fig_ridesourced_service_dot
+    display: ridesourced service Diagram
 related:
 - content: attrContractualModel [has peer-to-peer]
   type: related_concept

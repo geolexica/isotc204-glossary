@@ -1,0 +1,7 @@
+---
+id: fig_intersection_dot
+identifier: fig_intersection_dot
+images:
+- src: "../../diagrams/intersection.dot.png"
+  format: png
+  role: raster

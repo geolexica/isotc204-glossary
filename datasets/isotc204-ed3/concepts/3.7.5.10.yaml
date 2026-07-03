@@ -3,6 +3,9 @@ data:
   identifier: 3.7.5.10
   localized_concepts:
     eng: 9f55f392-aeed-5c0f-b32f-3c8e94ff8276
+  figures:
+  - ref: fig_moderate_vehicle_speed_dot
+    display: moderate vehicle speed Diagram
 related:
 - content: subClassOf [speed]
   type: broader

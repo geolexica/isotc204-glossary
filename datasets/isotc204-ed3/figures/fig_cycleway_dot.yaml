@@ -1,0 +1,7 @@
+---
+id: fig_cycleway_dot
+identifier: fig_cycleway_dot
+images:
+- src: "../../diagrams/cycleway.dot.png"
+  format: png
+  role: raster

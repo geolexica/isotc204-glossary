@@ -1,0 +1,7 @@
+---
+id: fig_concern_dot
+identifier: fig_concern_dot
+images:
+- src: "../../diagrams/concern.dot.png"
+  format: png
+  role: raster

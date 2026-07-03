@@ -1,0 +1,7 @@
+---
+id: fig_ITS_S_reference_architecture_dot
+identifier: fig_ITS_S_reference_architecture_dot
+images:
+- src: "../../diagrams/ITS-S reference architecture.dot.png"
+  format: png
+  role: raster

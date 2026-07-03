@@ -3,6 +3,9 @@ data:
   identifier: 3.1.2.4
   localized_concepts:
     eng: 20714cc6-c778-5676-8247-488387270a76
+  figures:
+  - ref: fig_intelligent_transport_system_dot
+    display: intelligent transport system Diagram
 related:
 - content: designedToBenefit [some surfaceTransportSystem]
   type: related_concept

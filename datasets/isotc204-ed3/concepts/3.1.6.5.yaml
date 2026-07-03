@@ -3,6 +3,9 @@ data:
   identifier: 3.1.6.5
   localized_concepts:
     eng: c0185211-d2d0-596f-a9ff-5b8fea5341d6
+  figures:
+  - ref: fig_formal_coordination_dot
+    display: formal coordination Diagram
 related:
 - content: subClassOf [interaction]
   type: broader

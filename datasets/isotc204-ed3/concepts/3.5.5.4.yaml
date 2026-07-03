@@ -3,6 +3,9 @@ data:
   identifier: 3.5.5.4
   localized_concepts:
     eng: 3fe6433a-40be-52a3-b0aa-f4ade4a27465
+  figures:
+  - ref: fig_navigation_app_dot
+    display: navigation app Diagram
 related:
 - content: subClassOf [mobilityApp]
   type: broader

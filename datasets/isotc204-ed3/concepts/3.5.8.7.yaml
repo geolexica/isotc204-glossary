@@ -3,6 +3,9 @@ data:
   identifier: 3.5.8.7
   localized_concepts:
     eng: 4116de12-68bd-5c3a-af7a-1f2e1dccf89c
+  figures:
+  - ref: fig_private_dot
+    display: private Diagram
 related:
 - content: subClassOf [financialModel]
   type: broader

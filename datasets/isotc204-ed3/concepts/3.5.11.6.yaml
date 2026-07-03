@@ -3,6 +3,9 @@ data:
   identifier: 3.5.11.6
   localized_concepts:
     eng: b6bfbb86-3ae4-5b43-9879-851de19947ce
+  figures:
+  - ref: fig_ridesplit_service_dot
+    display: ridesplit service Diagram
 related:
 - content: attrOperationalModel [has concurrent]
   type: related_concept

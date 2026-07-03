@@ -3,6 +3,9 @@ data:
   identifier: 3.1.3.8
   localized_concepts:
     eng: c86d6e5a-f49e-5455-b168-d9f15fc59bf9
+  figures:
+  - ref: fig_model_kind_dot
+    display: model kind Diagram
 related:
 - content: governs [some architectureModel]
   type: related_concept

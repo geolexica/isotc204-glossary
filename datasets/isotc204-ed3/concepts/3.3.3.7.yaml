@@ -3,6 +3,9 @@ data:
   identifier: 3.3.3.7
   localized_concepts:
     eng: 5a8774e1-9dd5-5763-8594-5b472f35df6e
+  figures:
+  - ref: fig_pedestrian_crossing_dot
+    display: pedestrian crossing Diagram
 related:
 - content: subClassOf [footpath]
   type: broader

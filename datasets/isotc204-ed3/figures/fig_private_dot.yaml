@@ -1,0 +1,7 @@
+---
+id: fig_private_dot
+identifier: fig_private_dot
+images:
+- src: "../../diagrams/private.dot.png"
+  format: png
+  role: raster

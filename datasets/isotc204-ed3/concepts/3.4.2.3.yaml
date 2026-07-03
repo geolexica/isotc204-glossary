@@ -3,6 +3,9 @@ data:
   identifier: 3.4.2.3
   localized_concepts:
     eng: 425dda66-6c96-52cb-a7fa-cdf754961f60
+  figures:
+  - ref: fig_dynamic_spatial_reference_dot
+    display: dynamic spatial reference Diagram
 related:
 - content: subClassOf [spatialReference]
   type: broader

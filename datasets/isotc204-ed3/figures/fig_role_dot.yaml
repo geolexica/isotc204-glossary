@@ -1,0 +1,7 @@
+---
+id: fig_role_dot
+identifier: fig_role_dot
+images:
+- src: "../../diagrams/role.dot.png"
+  format: png
+  role: raster

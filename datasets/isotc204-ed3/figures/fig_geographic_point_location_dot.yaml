@@ -1,0 +1,7 @@
+---
+id: fig_geographic_point_location_dot
+identifier: fig_geographic_point_location_dot
+images:
+- src: "../../diagrams/geographic point location.dot.png"
+  format: png
+  role: raster

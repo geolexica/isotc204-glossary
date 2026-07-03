@@ -3,6 +3,9 @@ data:
   identifier: 3.3.7.2
   localized_concepts:
     eng: 1a1ad75f-c5fc-5415-9945-d2acbb0817ad
+  figures:
+  - ref: fig_transport_infrastructure_dot
+    display: transport infrastructure Diagram
 related:
 - content: subClassOf [system]
   type: broader

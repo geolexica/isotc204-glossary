@@ -3,6 +3,9 @@ data:
   identifier: 3.4.2.4
   localized_concepts:
     eng: aed912b8-6dc2-5156-99d1-a424d1dd8279
+  figures:
+  - ref: fig_pre_coded_spatial_reference_dot
+    display: pre-coded spatial reference Diagram
 related:
 - content: subClassOf [spatialReference]
   type: broader

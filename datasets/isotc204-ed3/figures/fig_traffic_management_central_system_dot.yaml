@@ -1,0 +1,7 @@
+---
+id: fig_traffic_management_central_system_dot
+identifier: fig_traffic_management_central_system_dot
+images:
+- src: "../../diagrams/traffic management central system.dot.png"
+  format: png
+  role: raster

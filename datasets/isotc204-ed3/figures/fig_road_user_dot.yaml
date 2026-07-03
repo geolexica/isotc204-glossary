@@ -1,0 +1,7 @@
+---
+id: fig_road_user_dot
+identifier: fig_road_user_dot
+images:
+- src: "../../diagrams/road user.dot.png"
+  format: png
+  role: raster

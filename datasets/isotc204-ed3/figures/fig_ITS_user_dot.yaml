@@ -1,0 +1,7 @@
+---
+id: fig_ITS_user_dot
+identifier: fig_ITS_user_dot
+images:
+- src: "../../diagrams/ITS user.dot.png"
+  format: png
+  role: raster

@@ -3,6 +3,9 @@ data:
   identifier: 3.7.3.16
   localized_concepts:
     eng: 2bfcd775-c019-56af-a4e1-9ffcb1961dac
+  figures:
+  - ref: fig_dual_mode_vehicle_dot
+    display: dual-mode vehicle Diagram
 related:
 - content: subClassOf [ads-equippedVehicle]
   type: broader

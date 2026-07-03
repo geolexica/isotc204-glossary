@@ -1,0 +1,7 @@
+---
+id: fig_ITS_S_node_dot
+identifier: fig_ITS_S_node_dot
+images:
+- src: "../../diagrams/ITS-S node.dot.png"
+  format: png
+  role: raster

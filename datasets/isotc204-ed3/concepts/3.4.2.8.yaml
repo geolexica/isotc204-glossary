@@ -3,6 +3,9 @@ data:
   identifier: 3.4.2.8
   localized_concepts:
     eng: cc881ec7-7b3f-516b-b250-e154825a49d0
+  figures:
+  - ref: fig_network_location_dot
+    display: network location Diagram
 date_accepted: '2026-06-01'
 status: valid
 id: d94f0ed8-a9e9-5d37-816d-830ab4101806

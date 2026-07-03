@@ -3,6 +3,9 @@ data:
   identifier: 3.2.7.1
   localized_concepts:
     eng: 55dd91e2-a084-5995-bf3d-d3de921bd5d5
+  figures:
+  - ref: fig_bounded_secured_managed_domain_dot
+    display: bounded secured managed domain Diagram
 related:
 - content: represents [some environment]
   type: related_concept

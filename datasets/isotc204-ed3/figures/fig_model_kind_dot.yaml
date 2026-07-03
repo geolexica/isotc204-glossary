@@ -1,0 +1,7 @@
+---
+id: fig_model_kind_dot
+identifier: fig_model_kind_dot
+images:
+- src: "../../diagrams/model kind.dot.png"
+  format: png
+  role: raster

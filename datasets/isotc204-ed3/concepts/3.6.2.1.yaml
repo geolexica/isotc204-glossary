@@ -3,6 +3,9 @@ data:
   identifier: 3.6.2.1
   localized_concepts:
     eng: 439e7f7d-7937-52cc-8e01-be659276a6ac
+  figures:
+  - ref: fig_passenger_dot
+    display: passenger Diagram
 related:
 - content: isA [some person]
   type: related_concept

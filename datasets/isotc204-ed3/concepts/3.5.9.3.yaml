@@ -3,6 +3,9 @@ data:
   identifier: 3.5.9.3
   localized_concepts:
     eng: e8c4a343-e466-554d-a42c-8fa7909dc7ed
+  figures:
+  - ref: fig_concurrent_dot
+    display: concurrent Diagram
 related:
 - content: subClassOf [operationalModel]
   type: broader

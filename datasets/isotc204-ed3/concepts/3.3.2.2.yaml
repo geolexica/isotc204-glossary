@@ -3,6 +3,9 @@ data:
   identifier: 3.3.2.2
   localized_concepts:
     eng: 5fd5a015-bd2b-5bbb-96f0-a3e898578097
+  figures:
+  - ref: fig_central_reservation_dot
+    display: central reservation Diagram
 related:
 - content: subClassOf [physicalTrafficSeparator]
   type: broader

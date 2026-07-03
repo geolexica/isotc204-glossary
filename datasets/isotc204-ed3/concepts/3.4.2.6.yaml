@@ -3,6 +3,9 @@ data:
   identifier: 3.4.2.6
   localized_concepts:
     eng: 41a712a3-6c85-5a2e-bd0b-9932aaf95f6c
+  figures:
+  - ref: fig_geographic_identifier_dot
+    display: geographic identifier Diagram
 related:
 - content: referenceUsedBy [some spatialReference]
   type: related_concept

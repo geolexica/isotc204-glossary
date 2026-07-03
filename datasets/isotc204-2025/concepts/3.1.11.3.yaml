@@ -7,6 +7,9 @@ data:
   - concept_id: 3.1.11
     source: urn:iso:std:iso:14812:2025
     ref_type: section
+  figures:
+  - ref: fig_Data_concept_type_terms
+    display: Data concept type terms
 related:
 - type: supersedes
   ref:

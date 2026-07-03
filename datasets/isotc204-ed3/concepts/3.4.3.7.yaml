@@ -3,6 +3,9 @@ data:
   identifier: 3.4.3.7
   localized_concepts:
     eng: 8e230bee-7f2e-5f35-b903-b2ce5ed15f22
+  figures:
+  - ref: fig_jurisdictional_entity_dot
+    display: jurisdictional entity Diagram
 related:
 - content: has [some jurisdiction]
   type: related_concept

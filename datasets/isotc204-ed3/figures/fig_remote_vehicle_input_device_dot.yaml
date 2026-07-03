@@ -1,0 +1,7 @@
+---
+id: fig_remote_vehicle_input_device_dot
+identifier: fig_remote_vehicle_input_device_dot
+images:
+- src: "../../diagrams/remote vehicle input device.dot.png"
+  format: png
+  role: raster

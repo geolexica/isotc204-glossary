@@ -3,6 +3,9 @@ data:
   identifier: 3.2.7.3
   localized_concepts:
     eng: 691e38f8-9350-5059-a3ba-9e842926743c
+  figures:
+  - ref: fig_ITS_station_dot
+    display: ITS station Diagram
 related:
 - content: describedBy [some its-sReferenceArchitecture]
   type: related_concept

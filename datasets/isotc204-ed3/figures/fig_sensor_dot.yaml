@@ -1,0 +1,7 @@
+---
+id: fig_sensor_dot
+identifier: fig_sensor_dot
+images:
+- src: "../../diagrams/sensor.dot.png"
+  format: png
+  role: raster

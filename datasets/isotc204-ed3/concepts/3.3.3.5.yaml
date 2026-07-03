@@ -3,6 +3,9 @@ data:
   identifier: 3.3.3.5
   localized_concepts:
     eng: 53db688b-a482-5a9e-b124-77fbd02963b0
+  figures:
+  - ref: fig_escalator_dot
+    display: escalator Diagram
 related:
 - content: subClassOf [footpath]
   type: broader

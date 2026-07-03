@@ -1,0 +1,7 @@
+---
+id: fig_personal_information_device_dot
+identifier: fig_personal_information_device_dot
+images:
+- src: "../../diagrams/personal information device.dot.png"
+  format: png
+  role: raster

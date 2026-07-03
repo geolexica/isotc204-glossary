@@ -1,0 +1,7 @@
+---
+id: fig_transparency_dot
+identifier: fig_transparency_dot
+images:
+- src: "../../diagrams/transparency.dot.png"
+  format: png
+  role: raster

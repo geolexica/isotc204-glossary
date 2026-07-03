@@ -1,7 +1,7 @@
 # 16 — E3 markdown parser
 
 **Phase:** C
-**Status:** todo
+**Status:** done
 **Depends on:** 03, 06, 08
 
 ## Goal

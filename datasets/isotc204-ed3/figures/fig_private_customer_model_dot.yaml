@@ -1,0 +1,7 @@
+---
+id: fig_private_customer_model_dot
+identifier: fig_private_customer_model_dot
+images:
+- src: "../../diagrams/private customer model.dot.png"
+  format: png
+  role: raster

@@ -3,6 +3,9 @@ data:
   identifier: 3.5.6.4
   localized_concepts:
     eng: 37061bc3-e96e-5649-811b-6a210cf35cb0
+  figures:
+  - ref: fig_transport_sharing_dot
+    display: transport sharing Diagram
 related:
 - content: using [some sharedTransportService]
   type: related_concept

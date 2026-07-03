@@ -1,0 +1,7 @@
+---
+id: fig_government_customer_model_dot
+identifier: fig_government_customer_model_dot
+images:
+- src: "../../diagrams/government customer model.dot.png"
+  format: png
+  role: raster

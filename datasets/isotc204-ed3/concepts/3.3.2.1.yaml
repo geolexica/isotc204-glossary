@@ -3,6 +3,9 @@ data:
   identifier: 3.3.2.1
   localized_concepts:
     eng: 4e861faf-e3b4-58e4-b9e5-d07cbdbd1c07
+  figures:
+  - ref: fig_physical_traffic_separator_dot
+    display: physical traffic separator Diagram
 related:
 - content: part of the [road reservation](road reservation.md) between [carriageways](carriageway.md)
     designed for travel safety purposes

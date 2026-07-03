@@ -1,0 +1,7 @@
+---
+id: fig_escalator_dot
+identifier: fig_escalator_dot
+images:
+- src: "../../diagrams/escalator.dot.png"
+  format: png
+  role: raster

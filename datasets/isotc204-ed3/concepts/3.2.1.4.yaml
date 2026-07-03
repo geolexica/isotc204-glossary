@@ -3,6 +3,9 @@ data:
   identifier: 3.2.1.4
   localized_concepts:
     eng: 37082690-034a-529b-9bc2-3f53cc2385bc
+  figures:
+  - ref: fig_support_system_dot
+    display: support system Diagram
 related:
 - content: subClassOf [itsComponent]
   type: broader

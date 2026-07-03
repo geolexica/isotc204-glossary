@@ -3,6 +3,9 @@ data:
   identifier: 3.7.3.10
   localized_concepts:
     eng: c135fe60-57bb-5ce2-8fd7-e7ab03f96c2b
+  figures:
+  - ref: fig_ADS_dot
+    display: ADS Diagram
 related:
 - content: canControl [some ads-equippedVehicle]
   type: related_concept

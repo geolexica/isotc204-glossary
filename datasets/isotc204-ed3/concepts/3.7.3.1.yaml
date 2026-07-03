@@ -3,6 +3,9 @@ data:
   identifier: 3.7.3.1
   localized_concepts:
     eng: 76a86b07-f65c-53b1-9557-e7520055f81c
+  figures:
+  - ref: fig_dynamic_driving_task_dot
+    display: dynamic driving task Diagram
 related:
 - content: isRequiredToOperate [some vehicle]
   type: related_concept
