@@ -1,0 +1,20 @@
+---
+id: isotc204-ed3
+schema_version: '3'
+urn: urn:iso:std:iso:14812:ed3
+predecessor_urn: urn:iso:std:iso:14812:2025
+year: 2026
+ref: ISO 14812 (Edition 3, draft)
+status: current
+supersedes: isotc204-2025
+date_accepted: '2026-06-01'
+owner: ISO/TC 204
+source_repo: https://github.com/ISO-TC204/iso14812
+languages:
+  - eng
+source:
+  type: git_ref
+  repo: /Users/mulgogi/src/external/iso14812
+  ref: HEAD
+  parser: markdown
+  terms_dir: docs/terms

@@ -1,0 +1,24 @@
+---
+id: isotc204-2025
+schema_version: '3'
+urn: urn:iso:std:iso:14812:2025
+predecessor_urn: urn:iso:std:iso:ts:14812:2022
+year: 2025
+ref: ISO 14812:2025
+status: current
+supersedes: isotc204-2022
+date_accepted: '2025-12-31'
+owner: ISO/TC 204
+source_repo: https://github.com/ISO-TC204/iso14812
+languages:
+  - eng
+source:
+  type: git_ref
+  repo: /Users/mulgogi/src/external/iso14812
+  ref: dfe7e9d4
+  parser: xml
+  vocabulary_path: "14812 - Vocabulary.xml"
+  # When the file has already been extracted to a local path, override with
+  # local_override. TODO: pipeline should perform `git show ref:path` when
+  # local_override is absent.
+  local_override: /tmp/e2-vocab.xml

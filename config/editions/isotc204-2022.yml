@@ -1,0 +1,17 @@
+---
+id: isotc204-2022
+schema_version: '3'
+urn: urn:iso:std:iso:ts:14812:2022
+predecessor_urn: ~
+year: 2022
+ref: ISO/TS 14812:2022
+status: current
+supersedes: ~
+date_accepted: '2022-04-01'
+owner: ISO/TC 204
+source_repo: https://github.com/geolexica/isotc204-glossary
+languages:
+  - eng
+source:
+  type: local_path
+  parser: yaml_dir
