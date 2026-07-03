@@ -19,12 +19,11 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.2.3.2,ITS roadside equipment}} that perform {{urn:iso:std:iso:14812:ed3:3.5.3.1,ITS services}} by exchanging electronic {{urn:iso:std:iso:14812:ed3:3.1.11.5,messages}} with nearby {{urn:iso:std:iso:14812:ed3:3.2.3.7,connected vehicles}} and/or {{urn:iso:std:iso:14812:ed3:3.2.1.3,personal systems}} via short-range wireless technologies
-      <img alt="connected vehicle roadside equipment Diagram" src="../../diagrams/connected vehicle roadside equipment.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.2.3.2,ITS roadside equipment}} that perform
+      {{urn:iso:std:iso:14812:ed3:3.5.3.1,ITS services}} by exchanging electronic
+      {{urn:iso:std:iso:14812:ed3:3.1.11.5,messages}} with nearby {{urn:iso:std:iso:14812:ed3:3.2.3.7,connected
+      vehicles}} and/or {{urn:iso:std:iso:14812:ed3:3.2.1.3,personal systems}} via
+      short-range wireless technologies"
   notes:
   - content: Connected roadside equipment typically provides ITS-related functionality
       but the term includes roadside equipment that only provide the ITS service of

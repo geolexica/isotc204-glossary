@@ -21,11 +21,7 @@ data:
   definition:
   - content: |-
       conventions for a type of modelling
-      <img alt="model kind Diagram" src="../../diagrams/model kind.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Source: ISO/IEC/IEEE 42010:2011, 3.9
-      ---
-      Comment on this page
   notes:
   - content: Examples of model kinds include {{urn:iso:std:iso:14812:ed3:3.1.7.1,data
       flow}} diagrams, {{urn:iso:std:iso:14812:ed3:3.1.11.2,class}} diagrams, Petri

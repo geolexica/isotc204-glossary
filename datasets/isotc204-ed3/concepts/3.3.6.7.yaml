@@ -31,11 +31,7 @@ data:
   definition:
   - content: |-
       <junction> movement from an {{urn:iso:std:iso:14812:ed3:3.3.6.3,ingress lane}} to an {{urn:iso:std:iso:14812:ed3:3.3.6.5,egress lane}}
-      <img alt="intersection manoeuvre Diagram" src="../../diagrams/intersection manoeuvre.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Admitted term: maneuver
-      ---
-      Comment on this page
   notes:
   - content: The term "maneuver" is the American English spelling.
   terms:

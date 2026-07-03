@@ -19,12 +19,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.2.1.1,centre system}} that monitors and controls traffic and the {{urn:iso:std:iso:14812:ed3:3.3.5.2,road network}}
-      <img alt="traffic management central system Diagram" src="../../diagrams/traffic management central system.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.2.1.1,centre system}} that monitors and
+      controls traffic and the {{urn:iso:std:iso:14812:ed3:3.3.5.2,road network}}"
   terms:
   - type: expression
     normative_status: preferred

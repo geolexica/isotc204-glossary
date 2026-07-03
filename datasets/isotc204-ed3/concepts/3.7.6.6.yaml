@@ -19,12 +19,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      human-powered {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} not meeting the legal requirements to be driven in {{urn:iso:std:iso:14812:ed3:3.3.3.1,cycle lanes}}
-      <img alt="non-road cycle Diagram" src="../../diagrams/non-road cycle.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: human-powered {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} not meeting
+      the legal requirements to be driven in {{urn:iso:std:iso:14812:ed3:3.3.3.1,cycle
+      lanes}}
   terms:
   - type: expression
     normative_status: preferred

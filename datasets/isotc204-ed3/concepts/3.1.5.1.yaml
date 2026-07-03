@@ -17,11 +17,7 @@ data:
   definition:
   - content: |-
       part of the {{urn:iso:std:iso:14812:ed3:3.1.9.4,ITS station reference architecture}} that is responsible for providing ITS-related functionality
-      <img alt="application entity Diagram" src="../../diagrams/application entity.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Deprecated term: information layer
-      ---
-      Comment on this page
   notes:
   - content: Within the US, the National Transportation Communications for ITS Protocol
       (NTCIP) standards identify an "information layer" on top of the traditional

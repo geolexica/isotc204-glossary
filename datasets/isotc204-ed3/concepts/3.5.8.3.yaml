@@ -19,12 +19,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      type of {{urn:iso:std:iso:14812:ed3:3.5.8.1,financial model}} where {{urn:iso:std:iso:14812:ed3:3.5.1.1,services}} are provided by an administrative authority in an attempt to better serve societal interests
-      <img alt="public Diagram" src="../../diagrams/public.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: type of {{urn:iso:std:iso:14812:ed3:3.5.8.1,financial model}} where {{urn:iso:std:iso:14812:ed3:3.5.1.1,services}}
+      are provided by an administrative authority in an attempt to better serve societal
+      interests
   notes:
   - content: The transport service [transport service.md] is typically offered to
       the transport consumer for less than the full capital and operating cost of

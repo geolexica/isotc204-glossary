@@ -23,12 +23,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.5.11.5,ridesourced service}} that serves {{urn:iso:std:iso:14812:ed3:3.6.2.1,passengers}} {{urn:iso:std:iso:14812:ed3:3.5.9.3,concurrently}}
-      <img alt="ridesplit service Diagram" src="../../diagrams/ridesplit service.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.5.11.5,ridesourced service}} that serves
+      {{urn:iso:std:iso:14812:ed3:3.6.2.1,passengers}} {{urn:iso:std:iso:14812:ed3:3.5.9.3,concurrently}}"
   terms:
   - type: expression
     normative_status: preferred

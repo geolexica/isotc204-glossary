@@ -19,12 +19,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.3.5.5,link}} that represents a contiguous length of a {{urn:iso:std:iso:14812:ed3:3.3.5.6,road link}} characterized by the same physical characteristics
-      <img alt="road segment Diagram" src="../../diagrams/road segment.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.3.5.5,link}} that represents a contiguous
+      length of a {{urn:iso:std:iso:14812:ed3:3.3.5.6,road link}} characterized by
+      the same physical characteristics"
   notes:
   - content: The definition of road segments is highly dependent on which characteristics
       are modelled by the implementation. Characteristics that can result in a new

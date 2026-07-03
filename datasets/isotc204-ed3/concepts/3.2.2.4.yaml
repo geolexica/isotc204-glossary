@@ -19,12 +19,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.2.1.1,centre system}} that allows an {{urn:iso:std:iso:14812:ed3:3.1.1.1,entity}} to manage financial transactions related to transportation, especially the electronic transfer of funds
-      <img alt="payment administration central system Diagram" src="../../diagrams/payment administration central system.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.2.1.1,centre system}} that allows an {{urn:iso:std:iso:14812:ed3:3.1.1.1,entity}}
+      to manage financial transactions related to transportation, especially the electronic
+      transfer of funds"
   terms:
   - type: expression
     normative_status: preferred

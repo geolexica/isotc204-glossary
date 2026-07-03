@@ -17,12 +17,8 @@ data:
   definition:
   - content: |-
       {{urn:iso:std:iso:14812:ed3:3.3.5.1,road}} with separate carriageways for each direction, with limited access that prevents cross traffic on the same level, and for the exclusive use of certain classes of motor vehicles
-      <img alt="motorway Diagram" src="../../diagrams/motorway.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Admitted term: freeway
       Admitted term: interstate highway
-      ---
-      Comment on this page
   notes:
   - content: The terms "interstate highway" and "freeway" are US terms.
   terms:

@@ -40,12 +40,9 @@ data:
   definition:
   - content: |-
       description of a {{urn:iso:std:iso:14812:ed3:3.4.1.2,spatial location}} in the real world according to a defined reference system
-      <img alt="spatial reference Diagram" src="../../diagrams/spatial reference.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Admitted term: location reference
-      EXAMPLE: Coordinate tuple: 51.476852, -0.000500.
-      ---
-      Comment on this page
+  examples:
+  - content: 'Coordinate tuple: 51.476852, -0.000500.'
   notes:
   - content: It is not necessary for the rules be formal coordinates but they could
       be descriptive.

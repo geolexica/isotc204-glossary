@@ -19,15 +19,7 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      a set of permissible values
-      <img alt="value domain Diagram" src="../../diagrams/value domain.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      | Referencing Term | Type of Reference |
-      | --- | --- |
-      | {{urn:iso:std:iso:14812:ed3:3.1.11.1,data element}} | representedBy |
-      ---
-      Comment on this page
+  - content: a set of permissible values
   terms:
   - type: expression
     normative_status: preferred

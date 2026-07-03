@@ -19,12 +19,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.2.1.1,centre system}} that officially records traffic regulations in electronic form so that they can be distributed to other systems
-      <img alt="traffic regulation central system Diagram" src="../../diagrams/traffic regulation central system.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.2.1.1,centre system}} that officially
+      records traffic regulations in electronic form so that they can be distributed
+      to other systems"
   terms:
   - type: expression
     normative_status: preferred

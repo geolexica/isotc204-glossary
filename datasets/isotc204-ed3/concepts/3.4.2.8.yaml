@@ -10,12 +10,7 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      point or linear location on a network
-      <img alt="network location Diagram" src="../../diagrams/network location.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: point or linear location on a network
   terms:
   - type: expression
     normative_status: preferred

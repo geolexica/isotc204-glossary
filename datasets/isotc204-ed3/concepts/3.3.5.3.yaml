@@ -27,12 +27,7 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      representation of a {{urn:iso:std:iso:14812:ed3:3.3.5.2,road network}}
-      <img alt="road model Diagram" src="../../diagrams/road model.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: representation of a {{urn:iso:std:iso:14812:ed3:3.3.5.2,road network}}
   notes:
   - content: Road models for different {{urn:iso:std:iso:14812:ed3:3.1.2.1,systems}}
       will often define different models. For example, a public {{urn:iso:std:iso:14812:ed3:3.1.2.2,transport

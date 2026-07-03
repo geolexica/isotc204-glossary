@@ -17,11 +17,7 @@ data:
   definition:
   - content: |-
       footpath consisting of a conveyor belt for pedestrians Note 1 to entry: Moving walkways are often used in airports with long footpaths Note 2 to entry: Moving walkways assist pedestrians in traversing longer distances. Note 3 to entry: "Travellator" is a term used in Singapore.
-      <img alt="moving walkway Diagram" src="../../diagrams/moving walkway.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Admitted term: travellator
-      ---
-      Comment on this page
   terms:
   - type: expression
     normative_status: preferred

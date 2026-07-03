@@ -21,12 +21,8 @@ data:
   definition:
   - content: |-
       aggregation of one or more {{urn:iso:std:iso:14812:ed3:3.3.5.6,road links}} that represents a contiguous length of a {{urn:iso:std:iso:14812:ed3:3.3.5.1,road}} that shares the same management and operational strategies
-      <img alt="road section Diagram" src="../../diagrams/road section.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Example 1: A speed limit regulation can be applied to a road section.
       Example 2: A traffic signal timing plan is applied to one road section.
-      ---
-      Comment on this page
   notes:
   - content: Different {{urn:iso:std:iso:14812:ed3:3.3.5.3,road models}} can divide
       the same {{urn:iso:std:iso:14812:ed3:3.3.5.1,road}} into different road sections.

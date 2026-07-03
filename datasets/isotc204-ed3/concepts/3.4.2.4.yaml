@@ -27,11 +27,7 @@ data:
   definition:
   - content: |-
       {{urn:iso:std:iso:14812:ed3:3.4.2.2,spatial reference}} using a unique identifier that is agreed upon in both the sender and receiver {{urn:iso:std:iso:14812:ed3:3.1.2.1,system}} to select a {{urn:iso:std:iso:14812:ed3:3.4.1.1,location}} from a set of pre-coded locations
-      <img alt="pre-coded spatial reference Diagram" src="../../diagrams/pre-coded spatial reference.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Admitted term: pre-coded location reference
-      ---
-      Comment on this page
   terms:
   - type: expression
     normative_status: preferred

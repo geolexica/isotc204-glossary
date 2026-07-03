@@ -23,12 +23,10 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.6.2.3,driver}} that performs the {{urn:iso:std:iso:14812:ed3:3.7.3.1,dynamic driving task}} without using the {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle's}} built-in input devices to control the longitudinal and lateral movement of the vehicle
-      <img alt="remote driver Diagram" src="../../diagrams/remote driver.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.6.2.3,driver}} that performs the {{urn:iso:std:iso:14812:ed3:3.7.3.1,dynamic
+      driving task}} without using the {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle's}}
+      built-in input devices to control the longitudinal and lateral movement of the
+      vehicle"
   notes:
   - content: A remote driver can use a variety of physical input devices, but none
       that are built into the vehicle.

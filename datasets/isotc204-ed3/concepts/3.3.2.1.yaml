@@ -34,16 +34,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      mechanism used to physically separate a travelled way or pathway from the adjacent environment
-      <img alt="physical traffic separator Diagram" src="../../diagrams/physical traffic separator.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      | Referencing Term | Type of Reference |
-      | --- | --- |
-      | {{urn:iso:std:iso:14812:ed3:3.3.1.8,dual carriageway}} | has |
-      | {{urn:iso:std:iso:14812:ed3:3.3.1.9,multiple carriageway}} | has |
-      ---
-      Comment on this page
+  - content: mechanism used to physically separate a travelled way or pathway from
+      the adjacent environment
   notes:
   - content: Mechanisms include various types of barriers, such as walls, rails, pylons,
       kerbs and ditches, as well as open, unpaved space. If two streams of traffic

@@ -36,12 +36,10 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      abstract {{urn:iso:std:iso:14812:ed3:3.1.1.1,entity}} representing a managed processing and memory {{urn:iso:std:iso:14812:ed3:3.1.3.11,environment}} that provides protection from code and data that has not been determined to meet established security requirements
-      <img alt="bounded secured managed domain Diagram" src="../../diagrams/bounded secured managed domain.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: abstract {{urn:iso:std:iso:14812:ed3:3.1.1.1,entity}} representing a
+      managed processing and memory {{urn:iso:std:iso:14812:ed3:3.1.3.11,environment}}
+      that provides protection from code and data that has not been determined to
+      meet established security requirements
   terms:
   - type: expression
     normative_status: preferred

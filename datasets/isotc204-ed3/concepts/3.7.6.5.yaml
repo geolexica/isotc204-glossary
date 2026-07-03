@@ -19,12 +19,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} meeting the legal requirements to operate in {{urn:iso:std:iso:14812:ed3:3.3.3.1,cycle lanes}} and {{urn:iso:std:iso:14812:ed3:3.3.3.2,cycleways}}
-      <img alt="road cycle Diagram" src="../../diagrams/road cycle.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} meeting the legal requirements
+      to operate in {{urn:iso:std:iso:14812:ed3:3.3.3.1,cycle lanes}} and {{urn:iso:std:iso:14812:ed3:3.3.3.2,cycleways}}"
   notes:
   - content: In some countries, other special {{urn:iso:std:iso:14812:ed3:3.3.1.12,lanes}}
       could also be open to road cycles, such as bus lanes.

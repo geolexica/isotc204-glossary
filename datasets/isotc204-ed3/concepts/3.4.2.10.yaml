@@ -15,12 +15,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      descriptor that identifies infrastructure to help identify a specific location
-      <img alt="infrastructure descriptor Diagram" src="../../diagrams/infrastructure descriptor.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: descriptor that identifies infrastructure to help identify a specific
+      location
   terms:
   - type: expression
     normative_status: preferred

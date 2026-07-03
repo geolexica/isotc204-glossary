@@ -19,12 +19,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      manoeuvre that is vertically separated from one or more manoeuvres that cross its two-dimensional path
-      <img alt="grade separated manoeuvre Diagram" src="../../diagrams/grade separated manoeuvre.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: manoeuvre that is vertically separated from one or more manoeuvres that
+      cross its two-dimensional path
   terms:
   - type: expression
     normative_status: preferred

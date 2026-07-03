@@ -19,13 +19,11 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      <transport service> {{urn:iso:std:iso:14812:ed3:3.5.7.3,private customer model}} where the {{urn:iso:std:iso:14812:ed3:3.5.1.2,service provider}} is an individual
-      <img alt="peer-to-peer Diagram" src="../../diagrams/peer-to-peer.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      EXAMPLE: Ridesourcing.
-      ---
-      Comment on this page
+  - content: "<transport service> {{urn:iso:std:iso:14812:ed3:3.5.7.3,private customer
+      model}} where the {{urn:iso:std:iso:14812:ed3:3.5.1.2,service provider}} is
+      an individual"
+  examples:
+  - content: Ridesourcing.
   notes:
   - content: The customer and provider can connect and/or contract through a third-party
       {{urn:iso:std:iso:14812:ed3:3.5.1.1,service}}.

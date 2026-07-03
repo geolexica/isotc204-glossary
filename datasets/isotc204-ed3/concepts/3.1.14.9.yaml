@@ -12,11 +12,7 @@ data:
   definition:
   - content: |-
       ability to prove the occurrence of a claimed event or action and its originating entities
-      <img alt="non-repudiation Diagram" src="../../diagrams/non-repudiation.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Source: ISO/IEC 27000:2018, 3.48
-      ---
-      Comment on this page
   terms:
   - type: expression
     normative_status: preferred

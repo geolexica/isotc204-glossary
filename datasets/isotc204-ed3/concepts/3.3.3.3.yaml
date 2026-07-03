@@ -39,18 +39,7 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      area designed for the longitudinal movement of pedestrians
-      <img alt="footpath Diagram" src="../../diagrams/footpath.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      | Referencing Term | Type of Reference |
-      | --- | --- |
-      | {{urn:iso:std:iso:14812:ed3:3.3.3.5,escalator}} | subClassOf |
-      | {{urn:iso:std:iso:14812:ed3:3.3.3.6,moving walkway}} | subClassOf |
-      | {{urn:iso:std:iso:14812:ed3:3.3.3.7,pedestrian crossing}} | subClassOf |
-      | {{urn:iso:std:iso:14812:ed3:3.3.3.4,sidewalk}} | subClassOf |
-      ---
-      Comment on this page
+  - content: area designed for the longitudinal movement of pedestrians
   notes:
   - content: Regulations typically allow footpaths to be used by other {{urn:iso:std:iso:14812:ed3:3.7.5.1,ultra-low-speed
       vehicles}}, such as the users of wheelchairs and strollers.

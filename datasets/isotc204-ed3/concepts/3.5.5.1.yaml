@@ -70,12 +70,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.2.9.4,ITS-S application implementation}} designed to assist an individual transport consumer in understanding transport-related information, making decisions, and/or acting upon decisions
-      <img alt="mobility app Diagram" src="../../diagrams/mobility app.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.2.9.4,ITS-S application implementation}}
+      designed to assist an individual transport consumer in understanding transport-related
+      information, making decisions, and/or acting upon decisions"
   terms:
   - type: expression
     normative_status: preferred

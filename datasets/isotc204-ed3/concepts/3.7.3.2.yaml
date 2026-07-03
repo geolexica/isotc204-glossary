@@ -21,12 +21,8 @@ data:
   definition:
   - content: |-
       set of operating conditions under which a given {{urn:iso:std:iso:14812:ed3:3.7.3.6,driving automation system}} or feature thereof is specifically designed to function
-      <img alt="operational design domain Diagram" src="../../diagrams/operational design domain.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Example 1: {{urn:iso:std:iso:14812:ed3:3.7.3.10,ADS}} feature designed to operate a {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} only on fully access-controlled freeways in low-speed traffic, under fair weather conditions and optimal {{urn:iso:std:iso:14812:ed3:3.3.5.1,road}} maintenance conditions (e.g. good lane markings and not under construction).
       Example 2: ADS-dedicated vehicle designed to operate only within a geographically-defined area, and only during daylight at speeds not exceeding 25 mph.
-      ---
-      Comment on this page
   notes:
   - content: The conditions can include environmental, geographical, time-of-day,
       and/or other restrictions.

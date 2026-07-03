@@ -9,12 +9,6 @@ id: 07fd01b2-2314-542f-b952-abedcba1cc0a
 schema_version: '3'
 ---
 data:
-  definition:
-  - content: |-
-      <img alt="ISO named area Diagram" src="../../diagrams/ISO named area.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
   notes:
   - content: ISO 3166-2 includes codes for major subdivisions of countries and states.
   terms:

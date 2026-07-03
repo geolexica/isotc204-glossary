@@ -19,12 +19,7 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      interconnected collection of {{urn:iso:std:iso:14812:ed3:3.3.5.1,roads}}
-      <img alt="road network Diagram" src="../../diagrams/road network.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: interconnected collection of {{urn:iso:std:iso:14812:ed3:3.3.5.1,roads}}
   terms:
   - type: expression
     normative_status: preferred

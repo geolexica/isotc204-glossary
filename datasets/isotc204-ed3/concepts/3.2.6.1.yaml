@@ -25,11 +25,7 @@ data:
   definition:
   - content: |-
       {{urn:iso:std:iso:14812:ed3:3.2.1.5,vehicle system}} that provides all ITS functionality on-board the {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}}
-      <img alt="ITS on-board equipment Diagram" src="../../diagrams/ITS on-board equipment.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Admitted term: onboard equipment
-      ---
-      Comment on this page
   notes:
   - content: ITS on-board equipment relates to any functionality. When there is a
       need to distinguish between core functionality and that by a special vehicle,

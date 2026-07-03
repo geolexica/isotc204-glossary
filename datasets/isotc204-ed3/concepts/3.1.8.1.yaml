@@ -187,12 +187,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      <physical view> abstraction of a {{urn:iso:std:iso:14812:ed3:3.1.1.3,material entity}} that interacts with other abstract material entities in the provision of {{urn:iso:std:iso:14812:ed3:3.5.3.1,ITS services}}
-      <img alt="physical object Diagram" src="../../diagrams/physical object.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "<physical view> abstraction of a {{urn:iso:std:iso:14812:ed3:3.1.1.3,material
+      entity}} that interacts with other abstract material entities in the provision
+      of {{urn:iso:std:iso:14812:ed3:3.5.3.1,ITS services}}"
   notes:
   - content: Physical objects are represented as {{urn:iso:std:iso:14812:ed3:3.1.3.10,elements}}
       within the {{urn:iso:std:iso:14812:ed3:3.1.4.7,physical view}} and perform a

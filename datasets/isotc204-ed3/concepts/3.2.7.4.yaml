@@ -23,12 +23,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.1.15.3,instance}} of an physical unit produced by an {{urn:iso:std:iso:14812:ed3:3.2.7.3,ITS station}} {{urn:iso:std:iso:14812:ed3:3.1.15.2,implementation}}
-      <img alt="ITS-S unit Diagram" src="../../diagrams/ITS-S unit.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.1.15.3,instance}} of an physical unit
+      produced by an {{urn:iso:std:iso:14812:ed3:3.2.7.3,ITS station}} {{urn:iso:std:iso:14812:ed3:3.1.15.2,implementation}}"
   notes:
   - content: This is a clarification of the definition provided in ISO 21217:2020.
       While the definition for ITS station unit in ISO 21217:2020 refers to an implementation,

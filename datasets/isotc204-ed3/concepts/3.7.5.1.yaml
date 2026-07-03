@@ -21,11 +21,7 @@ data:
   definition:
   - content: |-
       {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} with a {{urn:iso:std:iso:14812:ed3:3.7.2.2,design speed}} that does not exceed {{urn:iso:std:iso:14812:ed3:3.7.5.7,ultra-low vehicle speeds}}
-      <img alt="ultra-low-speed vehicle Diagram" src="../../diagrams/ultra-low-speed vehicle.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Admitted term: pedestrian-speed vehicle
-      ---
-      Comment on this page
   notes:
   - content: The term "pedestrian speed vehicle" is allowed but the preferred term
       follows a logical progression of levels.

@@ -21,11 +21,7 @@ data:
   definition:
   - content: |-
       {{urn:iso:std:iso:14812:ed3:3.3.6.2,junction}} without any {{urn:iso:std:iso:14812:ed3:3.3.6.10,grade separated manoeuvres}}
-      <img alt="junction at grade Diagram" src="../../diagrams/junction at grade.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Admitted term: grade junction
-      ---
-      Comment on this page
   terms:
   - type: expression
     normative_status: preferred

@@ -15,12 +15,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      <architecture> component member of an {{urn:iso:std:iso:14812:ed3:3.1.3.9,architecture model}} included in an {{urn:iso:std:iso:14812:ed3:3.1.3.7,architecture view}}
-      <img alt="element Diagram" src="../../diagrams/element.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "<architecture> component member of an {{urn:iso:std:iso:14812:ed3:3.1.3.9,architecture
+      model}} included in an {{urn:iso:std:iso:14812:ed3:3.1.3.7,architecture view}}"
   terms:
   - type: expression
     normative_status: preferred

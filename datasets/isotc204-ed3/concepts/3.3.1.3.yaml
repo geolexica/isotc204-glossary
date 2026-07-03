@@ -34,17 +34,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      part of the surface of the {{urn:iso:std:iso:14812:ed3:3.3.1.2,road reservation}} primarily designed for the movement of {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicles}} that conform to a specified set of requirements
-      <img alt="roadway Diagram" src="../../diagrams/roadway.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      | Referencing Term | Type of Reference |
-      | --- | --- |
-      | {{urn:iso:std:iso:14812:ed3:3.3.1.8,dual carriageway}} | subClassOf |
-      | {{urn:iso:std:iso:14812:ed3:3.3.1.9,multiple carriageway}} | subClassOf |
-      | {{urn:iso:std:iso:14812:ed3:3.3.1.7,single carriageway}} | subClassOf |
-      ---
-      Comment on this page
+  - content: part of the surface of the {{urn:iso:std:iso:14812:ed3:3.3.1.2,road reservation}}
+      primarily designed for the movement of {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicles}}
+      that conform to a specified set of requirements
   notes:
   - content: A roadway is characterized using a {{urn:iso:std:iso:14812:ed3:3.3.1.1,cross-section}}
       of a road facility as the roadway characteristics often change along the length

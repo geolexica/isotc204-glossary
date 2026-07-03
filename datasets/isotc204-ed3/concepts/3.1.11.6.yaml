@@ -25,12 +25,8 @@ data:
   definition:
   - content: |-
       bi-directional communication sequence between two parties in accordance with predetermined protocols
-      <img alt="interface dialogue Diagram" src="../../diagrams/interface dialogue.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Admitted term: dialog
       Admitted term: dialogue
-      ---
-      Comment on this page
   notes:
   - content: The term "dialog" represents the American English spelling.
   - content: The term "dialogue" can be used when the interface context is known.

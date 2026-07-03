@@ -19,13 +19,10 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.2.1.3,personal system}} that provides public access to {{urn:iso:std:iso:14812:ed3:3.6.1.1,traveller}} information
-      <img alt="public information device Diagram" src="../../diagrams/public information device.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      EXAMPLE: Kiosk.
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.2.1.3,personal system}} that provides
+      public access to {{urn:iso:std:iso:14812:ed3:3.6.1.1,traveller}} information"
+  examples:
+  - content: Kiosk.
   terms:
   - type: expression
     normative_status: preferred

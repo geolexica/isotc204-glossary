@@ -260,20 +260,11 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      concrete or abstract thing that exists, did exist, or can possibly exist, including associations among these things
-      <img alt="entity Diagram" src="../../diagrams/entity.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      EXAMPLE: {{urn:iso:std:iso:14812:ed3:3.1.1.6,person}}, object, event, idea, process, etc.
-      | Referencing Term | Type of Reference |
-      | --- | --- |
-      | {{urn:iso:std:iso:14812:ed3:3.2.7.1,bounded secured managed domain}} | subClassOf |
-      | {{urn:iso:std:iso:14812:ed3:3.1.1.2,immaterial entity}} | subClassOf |
-      | {{urn:iso:std:iso:14812:ed3:3.1.1.3,material entity}} | subClassOf |
-      | {{urn:iso:std:iso:14812:ed3:3.5.1.2,service provider}} | subClassOf |
-      | {{urn:iso:std:iso:14812:ed3:3.5.1.3,user}} | subClassOf |
-      ---
-      Comment on this page
+  - content: concrete or abstract thing that exists, did exist, or can possibly exist,
+      including associations among these things
+  examples:
+  - content: "{{urn:iso:std:iso:14812:ed3:3.1.1.6,person}}, object, event, idea, process,
+      etc."
   terms:
   - type: expression
     normative_status: preferred

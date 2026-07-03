@@ -19,12 +19,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.4.2.4,pre-coded spatial reference}} defined within the {{urn:iso:std:iso:14812:ed3:3.3.5.2,road network}} database
-      <img alt="link location Diagram" src="../../diagrams/link location.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.4.2.4,pre-coded spatial reference}} defined
+      within the {{urn:iso:std:iso:14812:ed3:3.3.5.2,road network}} database"
   terms:
   - type: expression
     normative_status: preferred

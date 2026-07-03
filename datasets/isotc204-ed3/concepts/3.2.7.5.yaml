@@ -19,12 +19,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      physical unit in an {{urn:iso:std:iso:14812:ed3:3.2.7.4,ITS-S unit}} containing part or all of the functionality of the {{urn:iso:std:iso:14812:ed3:3.2.7.3,ITS-S}}
-      <img alt="ITS-S communication unit Diagram" src="../../diagrams/ITS-S communication unit.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: physical unit in an {{urn:iso:std:iso:14812:ed3:3.2.7.4,ITS-S unit}}
+      containing part or all of the functionality of the {{urn:iso:std:iso:14812:ed3:3.2.7.3,ITS-S}}
   notes:
   - content: In case an ITS-SU consists of a single physical unit, the ITS-SU and
       the ITS-SCU are identical. In case an ITS-SU consists of more than one ITS-SCU,

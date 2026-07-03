@@ -15,12 +15,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      communication functionality of an {{urn:iso:std:iso:14812:ed3:3.2.7.3,ITS station}} that provides the capability to connect to other nodes
-      <img alt="ITS-S service Diagram" src="../../diagrams/ITS-S service.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: communication functionality of an {{urn:iso:std:iso:14812:ed3:3.2.7.3,ITS
+      station}} that provides the capability to connect to other nodes
   notes:
   - content: The definition of ITS-S service predates the adoption of the concept
       model used for the other service terms in this standard. It is an outlier in

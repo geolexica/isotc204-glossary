@@ -23,13 +23,11 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.5.1.4,user need}} for a {{urn:iso:std:iso:14812:ed3:3.1.2.3,surface transport system}} benefit that can be met with the use of information, communication, and transducer technologies
-      <img alt="ITS user need Diagram" src="../../diagrams/ITS user need.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      EXAMPLE: Increasing safety, sustainability, efficiency and/or comfort.
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.5.1.4,user need}} for a {{urn:iso:std:iso:14812:ed3:3.1.2.3,surface
+      transport system}} benefit that can be met with the use of information, communication,
+      and transducer technologies"
+  examples:
+  - content: Increasing safety, sustainability, efficiency and/or comfort.
   terms:
   - type: expression
     normative_status: preferred

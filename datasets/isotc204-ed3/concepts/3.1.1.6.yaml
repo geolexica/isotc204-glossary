@@ -19,12 +19,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.1.1.5,biological entity}} that is a human being
-      <img alt="person Diagram" src="../../diagrams/person.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.1.1.5,biological entity}} that is a human
+      being"
   terms:
   - type: expression
     normative_status: preferred

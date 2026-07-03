@@ -10,12 +10,7 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      legal power to issue rules of behaviour for a defined area
-      <img alt="jurisdiction Diagram" src="../../diagrams/jurisdiction.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: legal power to issue rules of behaviour for a defined area
   terms:
   - type: expression
     normative_status: preferred

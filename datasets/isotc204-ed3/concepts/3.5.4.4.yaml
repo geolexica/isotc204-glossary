@@ -23,12 +23,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.5.1.4,user need}} for processing within a {{urn:iso:std:iso:14812:ed3:3.2.7.1,bounded, secure, managed domain}}
-      <img alt="ITS-SU user need Diagram" src="../../diagrams/ITS-SU user need.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.5.1.4,user need}} for processing within
+      a {{urn:iso:std:iso:14812:ed3:3.2.7.1,bounded, secure, managed domain}}"
   terms:
   - type: expression
     normative_status: preferred

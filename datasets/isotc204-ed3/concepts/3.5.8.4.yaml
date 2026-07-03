@@ -32,16 +32,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      type of {{urn:iso:std:iso:14812:ed3:3.5.8.1,financial model}} where {{urn:iso:std:iso:14812:ed3:3.5.1.3,users}} partner to defray the costs of {{urn:iso:std:iso:14812:ed3:3.5.1.1,services}}
-      <img alt="cooperative Diagram" src="../../diagrams/cooperative.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      | Referencing Term | Type of Reference |
-      | --- | --- |
-      | {{urn:iso:std:iso:14812:ed3:3.5.8.6,fractional ownership}} | subClassOf |
-      | {{urn:iso:std:iso:14812:ed3:3.5.8.5,mutual benefit}} | subClassOf |
-      ---
-      Comment on this page
+  - content: type of {{urn:iso:std:iso:14812:ed3:3.5.8.1,financial model}} where {{urn:iso:std:iso:14812:ed3:3.5.1.3,users}}
+      partner to defray the costs of {{urn:iso:std:iso:14812:ed3:3.5.1.1,services}}
   notes:
   - content: Cooperative models are exclusive {{urn:iso:std:iso:14812:ed3:3.5.8.2,commercial}}
       and {{urn:iso:std:iso:14812:ed3:3.5.8.3,public}} models.

@@ -26,12 +26,7 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      self-propelled {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}}
-      <img alt="motorized vehicle Diagram" src="../../diagrams/motorized vehicle.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: self-propelled {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}}
   terms:
   - type: expression
     normative_status: preferred

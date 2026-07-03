@@ -19,12 +19,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      input device designed to be electronically {{urn:iso:std:iso:14812:ed3:3.2.3.6,connected}} to a {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} even when the vehicle is not in close proximity
-      <img alt="remote vehicle input device Diagram" src="../../diagrams/remote vehicle input device.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: input device designed to be electronically {{urn:iso:std:iso:14812:ed3:3.2.3.6,connected}}
+      to a {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} even when the vehicle is
+      not in close proximity
   terms:
   - type: expression
     normative_status: preferred

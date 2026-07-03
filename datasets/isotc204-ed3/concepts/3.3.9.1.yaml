@@ -19,12 +19,10 @@ data:
   definition:
   - content: |-
       component of {{urn:iso:std:iso:14812:ed3:3.3.7.2,transport infrastructure}} along the roadway intended to contribute to the safety, operations, management, awareness, and comfort of movements of the {{urn:iso:std:iso:14812:ed3:3.6.1.2,road users}}
-      <img alt="road equipment Diagram" src="../../diagrams/road equipment.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Admitted term: road furniture
-      EXAMPLE: sign, traffic signal, safety rail, gantry, bus stop structure, highway safety lighting
-      ---
-      Comment on this page
+  examples:
+  - content: sign, traffic signal, safety rail, gantry, bus stop structure, highway
+      safety lighting
   notes:
   - content: ITS roadside equipment is a type of roadside equipment.
   - content: Road equipment can be next to, over, on and/or in the roadway.

@@ -15,12 +15,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      information that is exchanged between {{urn:iso:std:iso:14812:ed3:3.1.8.1,physical objects}}
-      <img alt="information flow Diagram" src="../../diagrams/information flow.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: information that is exchanged between {{urn:iso:std:iso:14812:ed3:3.1.8.1,physical
+      objects}}
   terms:
   - type: expression
     normative_status: preferred

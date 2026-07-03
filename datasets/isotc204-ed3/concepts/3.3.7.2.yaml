@@ -19,12 +19,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      system of {{urn:iso:std:iso:14812:ed3:3.3.7.1,transport facilities}} and equipment needed for a transport system
-      <img alt="transport infrastructure Diagram" src="../../diagrams/transport infrastructure.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: system of {{urn:iso:std:iso:14812:ed3:3.3.7.1,transport facilities}}
+      and equipment needed for a transport system
   notes:
   - content: Transport infrastructure typically includes or shares telecommunications
       infrastructure in the case of ITS.

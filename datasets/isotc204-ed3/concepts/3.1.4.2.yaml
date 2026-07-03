@@ -23,12 +23,10 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.1.3.6,architecture viewpoint}} used to frame {{urn:iso:std:iso:14812:ed3:3.1.3.5,concerns}} related to all layers of the Open Systems Interconnection (OSI) stack and related management and security issues
-      <img alt="communications viewpoint Diagram" src="../../diagrams/communications viewpoint.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.1.3.6,architecture viewpoint}} used to
+      frame {{urn:iso:std:iso:14812:ed3:3.1.3.5,concerns}} related to all layers of
+      the Open Systems Interconnection (OSI) stack and related management and security
+      issues"
   terms:
   - type: expression
     normative_status: preferred

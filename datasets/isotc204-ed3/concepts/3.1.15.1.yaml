@@ -12,12 +12,9 @@ data:
   definition:
   - content: |-
       the process or the result of the process to define the architecture, system elements, interfaces, and other characteristics of a system or system element
-      <img alt="design Diagram" src="../../diagrams/design.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      EXAMPLE: Example: Complete documentation for building a specific model of a smartphone
       Source: ISO/IEC/IEEE 24765:2017, definitions 1 and 2 merged, example added
-      ---
-      Comment on this page
+  examples:
+  - content: 'Example: Complete documentation for building a specific model of a smartphone'
   notes:
   - content: Design provides the detailed implementation-level physical structure,
       behaviour, temporal relationships, and other attributes of system elements.

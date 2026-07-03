@@ -19,12 +19,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      all {{urn:iso:std:iso:14812:ed3:3.3.6.3,ingress lanes}} on a {{urn:iso:std:iso:14812:ed3:3.3.5.6,road link}}
-      <img alt="ingress link Diagram" src="../../diagrams/ingress link.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: all {{urn:iso:std:iso:14812:ed3:3.3.6.3,ingress lanes}} on a {{urn:iso:std:iso:14812:ed3:3.3.5.6,road
+      link}}
   terms:
   - type: expression
     normative_status: preferred

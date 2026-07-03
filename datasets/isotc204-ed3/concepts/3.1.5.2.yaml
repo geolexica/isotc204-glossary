@@ -24,12 +24,8 @@ data:
   definition:
   - content: |-
       communications layer that corresponds to the physical and data link layers of the OSI model
-      <img alt="access layer Diagram" src="../../diagrams/access layer.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Admitted term: link layer
       Admitted term: subnet layer
-      ---
-      Comment on this page
   notes:
   - content: Within the Internet Engineering Task Force (IETF), the term "link layer"
       is used to describe the same functionality as the access layer.

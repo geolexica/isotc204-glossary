@@ -19,13 +19,11 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.5.9.1,operational model}} where {{urn:iso:std:iso:14812:ed3:3.5.1.1,services}} are provided to a single {{urn:iso:std:iso:14812:ed3:3.5.1.3,user}} at any one time
-      <img alt="sequential Diagram" src="../../diagrams/sequential.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      EXAMPLE: Traditional taxi service.
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.5.9.1,operational model}} where {{urn:iso:std:iso:14812:ed3:3.5.1.1,services}}
+      are provided to a single {{urn:iso:std:iso:14812:ed3:3.5.1.3,user}} at any one
+      time"
+  examples:
+  - content: Traditional taxi service.
   notes:
   - content: A single transport consumer can request the transport of multiple {{urn:iso:std:iso:14812:ed3:3.6.2.1,passengers}}.
   terms:

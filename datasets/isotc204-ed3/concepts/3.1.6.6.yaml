@@ -19,12 +19,10 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      <enterprise view> {{urn:iso:std:iso:14812:ed3:3.1.6.4,interaction}} between two {{urn:iso:std:iso:14812:ed3:3.1.6.1,enterprise objects}} governed by an understanding that is not documented in a formal agreement between the two parties
-      <img alt="informal coordination Diagram" src="../../diagrams/informal coordination.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "<enterprise view> {{urn:iso:std:iso:14812:ed3:3.1.6.4,interaction}}
+      between two {{urn:iso:std:iso:14812:ed3:3.1.6.1,enterprise objects}} governed
+      by an understanding that is not documented in a formal agreement between the
+      two parties"
   terms:
   - type: expression
     normative_status: preferred

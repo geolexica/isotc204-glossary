@@ -21,12 +21,9 @@ data:
   definition:
   - content: |-
       uniquely identified unit of information for human use
-      <img alt="document Diagram" src="../../diagrams/document.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      EXAMPLE: A report, specification, manual or book, in printed or electronic form.
       Source: ISO/IEC/IEEE 15289:2019, 3.1.10
-      ---
-      Comment on this page
+  examples:
+  - content: A report, specification, manual or book, in printed or electronic form.
   notes:
   - content: A document can be a single information item, or part of a larger information
       item.

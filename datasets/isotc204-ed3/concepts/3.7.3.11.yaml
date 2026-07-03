@@ -27,12 +27,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.7.3.10,ADS}} designed with the expectation that the {{urn:iso:std:iso:14812:ed3:3.7.3.4,fallback-ready user}} is available to intervene
-      <img alt="level 3 ADS Diagram" src="../../diagrams/level 3 ADS.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.7.3.10,ADS}} designed with the expectation
+      that the {{urn:iso:std:iso:14812:ed3:3.7.3.4,fallback-ready user}} is available
+      to intervene"
   notes:
   - content: Level 3 ADSs are restricted to operating within a specific {{urn:iso:std:iso:14812:ed3:3.7.3.2,operational
       design domain}}.

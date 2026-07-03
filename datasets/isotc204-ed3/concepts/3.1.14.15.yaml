@@ -12,11 +12,7 @@ data:
   definition:
   - content: |-
       ability to meet stakeholders expectations in a verifiable way
-      <img alt="trustworthiness Diagram" src="../../diagrams/trustworthiness.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Source: ISO/IEC 5723
-      ---
-      Comment on this page
   terms:
   - type: expression
     normative_status: preferred

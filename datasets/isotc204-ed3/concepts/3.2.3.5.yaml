@@ -32,12 +32,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      electronic device that is {{urn:iso:std:iso:14812:ed3:3.2.3.6,connected}} using one or more communication media
-      <img alt="connected unit Diagram" src="../../diagrams/connected unit.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: electronic device that is {{urn:iso:std:iso:14812:ed3:3.2.3.6,connected}}
+      using one or more communication media
   terms:
   - type: expression
     normative_status: preferred

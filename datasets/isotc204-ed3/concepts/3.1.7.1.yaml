@@ -15,12 +15,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      representation of data flowing between two {{urn:iso:std:iso:14812:ed3:3.1.7.2,process}} or between a process and a {{urn:iso:std:iso:14812:ed3:3.1.8.3,terminator}}
-      <img alt="data flow Diagram" src="../../diagrams/data flow.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: representation of data flowing between two {{urn:iso:std:iso:14812:ed3:3.1.7.2,process}}
+      or between a process and a {{urn:iso:std:iso:14812:ed3:3.1.8.3,terminator}}
   terms:
   - type: expression
     normative_status: preferred

@@ -19,12 +19,10 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      characteristic of a {{urn:iso:std:iso:14812:ed3:3.1.1.3,material entity}} that is equipped with enabled (i.e. on) and operational electronic communication technologies to support {{urn:iso:std:iso:14812:ed3:3.5.3.1,ITS services}}, including the means to send and receive data to and from other connected entities
-      <img alt="connected Diagram" src="../../diagrams/connected.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: characteristic of a {{urn:iso:std:iso:14812:ed3:3.1.1.3,material entity}}
+      that is equipped with enabled (i.e. on) and operational electronic communication
+      technologies to support {{urn:iso:std:iso:14812:ed3:3.5.3.1,ITS services}},
+      including the means to send and receive data to and from other connected entities
   notes:
   - content: The term "connected" does not imply support for any specific communications
       interface or ITS-S application process [ITS-S application process.md].

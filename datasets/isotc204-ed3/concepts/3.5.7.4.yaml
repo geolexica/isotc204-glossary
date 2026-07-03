@@ -19,13 +19,11 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.5.7.1,contractual model}} where the {{urn:iso:std:iso:14812:ed3:3.5.1.3,user}} is a governmental {{urn:iso:std:iso:14812:ed3:3.1.1.1,entity}}
-      <img alt="government customer model Diagram" src="../../diagrams/government customer model.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      EXAMPLE: A governmental entity using a {{urn:iso:std:iso:14812:ed3:3.5.8.2,commercial}} courier service for package delivery.
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.5.7.1,contractual model}} where the {{urn:iso:std:iso:14812:ed3:3.5.1.3,user}}
+      is a governmental {{urn:iso:std:iso:14812:ed3:3.1.1.1,entity}}"
+  examples:
+  - content: A governmental entity using a {{urn:iso:std:iso:14812:ed3:3.5.8.2,commercial}}
+      courier service for package delivery.
   terms:
   - type: expression
     normative_status: preferred

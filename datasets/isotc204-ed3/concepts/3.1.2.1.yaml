@@ -233,17 +233,7 @@ data:
   definition:
   - content: |-
       combination of interacting {{urn:iso:std:iso:14812:ed3:3.1.3.10,elements}} organized to achieve one or more stated purposes
-      <img alt="system Diagram" src="../../diagrams/system.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Source: ISO/IEC/IEEE 15288:2015, 4.1.46, modified - Notes to entry removed.
-      | Referencing Term | Type of Reference |
-      | --- | --- |
-      | {{urn:iso:std:iso:14812:ed3:3.1.2.4,intelligent transport system}} | subClassOf |
-      | {{urn:iso:std:iso:14812:ed3:3.1.8.1,physical object}} | subClassOf |
-      | {{urn:iso:std:iso:14812:ed3:3.3.7.2,transport infrastructure}} | subClassOf |
-      | {{urn:iso:std:iso:14812:ed3:3.1.2.2,transport system}} | subClassOf |
-      ---
-      Comment on this page
   terms:
   - type: expression
     normative_status: preferred

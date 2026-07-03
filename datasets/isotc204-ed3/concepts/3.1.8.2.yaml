@@ -173,12 +173,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.1.8.1,physical object}} that has been assigned one or more {{urn:iso:std:iso:14812:ed3:3.1.8.6,functional objects}} in the provision of one or more {{urn:iso:std:iso:14812:ed3:3.5.3.1,ITS services}}
-      <img alt="ITS component Diagram" src="../../diagrams/ITS component.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.1.8.1,physical object}} that has been
+      assigned one or more {{urn:iso:std:iso:14812:ed3:3.1.8.6,functional objects}}
+      in the provision of one or more {{urn:iso:std:iso:14812:ed3:3.5.3.1,ITS services}}"
   notes:
   - content: Physical objects are ITS components if they are an integral part of the
       {{urn:iso:std:iso:14812:ed3:3.1.2.1,system}}; otherwise they are {{urn:iso:std:iso:14812:ed3:3.1.8.3,terminators}}.

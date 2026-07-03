@@ -15,12 +15,7 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      type of fuel used by the vehicle
-      <img alt="vehicle fuel type Diagram" src="../../diagrams/vehicle fuel type.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: type of fuel used by the vehicle
   terms:
   - type: expression
     normative_status: preferred

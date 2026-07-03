@@ -19,13 +19,11 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      <transport service> {{urn:iso:std:iso:14812:ed3:3.5.9.3,concurrent}} operation where transported items can only be received or delivered at stopping points contained in a pre-defined sequence
-      <img alt="fixed route Diagram" src="../../diagrams/fixed route.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      EXAMPLE: Traditional fixed-route bus line.
-      ---
-      Comment on this page
+  - content: "<transport service> {{urn:iso:std:iso:14812:ed3:3.5.9.3,concurrent}}
+      operation where transported items can only be received or delivered at stopping
+      points contained in a pre-defined sequence"
+  examples:
+  - content: Traditional fixed-route bus line.
   terms:
   - type: expression
     normative_status: preferred

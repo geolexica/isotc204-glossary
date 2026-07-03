@@ -12,11 +12,7 @@ data:
   definition:
   - content: |-
       open, comprehensive and understandable presentation of information
-      <img alt="transparency Diagram" src="../../diagrams/transparency.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Source: ISO/IEC 19944-1
-      ---
-      Comment on this page
   terms:
   - type: expression
     normative_status: preferred

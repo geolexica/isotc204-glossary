@@ -32,11 +32,7 @@ data:
   definition:
   - content: |-
       {{urn:iso:std:iso:14812:ed3:3.1.2.1,system}} comprised of information, communication, sensor and control technologies and that is designed to benefit a {{urn:iso:std:iso:14812:ed3:3.1.2.3,surface transport system}}
-      <img alt="intelligent transport system Diagram" src="../../diagrams/intelligent transport system.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Admitted term: intelligent transportation system
-      ---
-      Comment on this page
   notes:
   - content: '"Intelligent transportation system" is the American English equivalent.'
   - content: Benefits potentially include, but are not limited to, increased safety,

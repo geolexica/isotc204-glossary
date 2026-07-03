@@ -38,12 +38,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      desired results of a {{urn:iso:std:iso:14812:ed3:3.5.1.3,user}} within a specified context of use
-      <img alt="user need Diagram" src="../../diagrams/user need.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: desired results of a {{urn:iso:std:iso:14812:ed3:3.5.1.3,user}} within
+      a specified context of use
   terms:
   - type: expression
     normative_status: preferred

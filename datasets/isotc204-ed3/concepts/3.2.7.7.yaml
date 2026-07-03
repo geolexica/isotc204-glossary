@@ -19,12 +19,10 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.2.7.8,ITS-S node}} comprised of routing functionalities of an {{urn:iso:std:iso:14812:ed3:3.2.7.4,ITS station unit}} used to connect two networks and to forward packets not explicitly addressed to itself
-      <img alt="ITS-S router Diagram" src="../../diagrams/ITS-S router.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.2.7.8,ITS-S node}} comprised of routing
+      functionalities of an {{urn:iso:std:iso:14812:ed3:3.2.7.4,ITS station unit}}
+      used to connect two networks and to forward packets not explicitly addressed
+      to itself"
   terms:
   - type: expression
     normative_status: preferred

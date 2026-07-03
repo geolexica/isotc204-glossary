@@ -19,13 +19,11 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} with a {{urn:iso:std:iso:14812:ed3:3.7.2.2,design speed}} in the range of {{urn:iso:std:iso:14812:ed3:3.7.5.10,moderate vehicle speeds}}
-      <img alt="moderate-speed vehicle Diagram" src="../../diagrams/moderate-speed vehicle.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      EXAMPLE: Typical side-by-side utility task vehicle (UTV).
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} with a {{urn:iso:std:iso:14812:ed3:3.7.2.2,design
+      speed}} in the range of {{urn:iso:std:iso:14812:ed3:3.7.5.10,moderate vehicle
+      speeds}}"
+  examples:
+  - content: Typical side-by-side utility task vehicle (UTV).
   terms:
   - type: expression
     normative_status: preferred

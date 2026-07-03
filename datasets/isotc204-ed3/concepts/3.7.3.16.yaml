@@ -19,12 +19,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      <driving automation> {{urn:iso:std:iso:14812:ed3:3.7.3.15,ADS-equipped vehicle}} designed for both driverless operation and operation by a conventional {{urn:iso:std:iso:14812:ed3:3.6.2.3,driver}} for complete trips
-      <img alt="dual-mode vehicle Diagram" src="../../diagrams/dual-mode vehicle.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "<driving automation> {{urn:iso:std:iso:14812:ed3:3.7.3.15,ADS-equipped
+      vehicle}} designed for both driverless operation and operation by a conventional
+      {{urn:iso:std:iso:14812:ed3:3.6.2.3,driver}} for complete trips"
   terms:
   - type: expression
     normative_status: preferred

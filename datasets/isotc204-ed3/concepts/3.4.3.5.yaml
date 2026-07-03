@@ -28,12 +28,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      territory for which a {{urn:iso:std:iso:14812:ed3:3.4.3.7,jurisdictional entity}} has the power to define rules of behaviour
-      <img alt="jurisdictional area Diagram" src="../../diagrams/jurisdictional area.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: territory for which a {{urn:iso:std:iso:14812:ed3:3.4.3.7,jurisdictional
+      entity}} has the power to define rules of behaviour
   notes:
   - content: A jurisdictional area might include non-contiguous locations.
   terms:

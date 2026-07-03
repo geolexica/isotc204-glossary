@@ -12,12 +12,10 @@ data:
   definition:
   - content: |-
       the process or the result of the process of translating a design into hardware components, software components, or both
-      <img alt="implementation Diagram" src="../../diagrams/implementation.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      EXAMPLE: Example: The process of building a specific model of a smartphone or the resultant model of smartphone
       Source: ISO/IEC/IEEE 24765:2017, definitions 1 and 2 merged with example and note added
-      ---
-      Comment on this page
+  examples:
+  - content: 'Example: The process of building a specific model of a smartphone or
+      the resultant model of smartphone'
   notes:
   - content: An implementation is the conceptual set of all instances of a product
       resulting from the translation. The set of all instances can consist of a single

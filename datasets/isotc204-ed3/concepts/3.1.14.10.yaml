@@ -12,11 +12,7 @@ data:
   definition:
   - content: |-
       result to be achieved
-      <img alt="objective Diagram" src="../../diagrams/objective.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Source: ISO/IEC 27000:2018, 3.49
-      ---
-      Comment on this page
   terms:
   - type: expression
     normative_status: preferred

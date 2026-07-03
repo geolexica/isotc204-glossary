@@ -15,12 +15,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      numeric or alphanumeric identifier or code, displayed on a registration plate attached to the vehicle, and unique within the issuing authority's region therefore usable for official identification purposes
-      <img alt="vehicle registration plate identifier Diagram" src="../../diagrams/vehicle registration plate identifier.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: numeric or alphanumeric identifier or code, displayed on a registration
+      plate attached to the vehicle, and unique within the issuing authority's region
+      therefore usable for official identification purposes
   terms:
   - type: expression
     normative_status: preferred

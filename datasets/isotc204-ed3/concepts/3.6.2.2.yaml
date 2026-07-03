@@ -23,12 +23,7 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.1.1.6,person}} in or on a {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}}
-      <img alt="vehicle occupant Diagram" src="../../diagrams/vehicle occupant.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.1.1.6,person}} in or on a {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}}"
   notes:
   - content: A vehicle occupant in a stationary vehicle is not necessarily a {{urn:iso:std:iso:14812:ed3:3.6.1.1,traveller}}.
   terms:

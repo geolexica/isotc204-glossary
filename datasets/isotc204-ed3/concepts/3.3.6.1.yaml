@@ -35,15 +35,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      space where two or more {{urn:iso:std:iso:14812:ed3:3.3.5.1,roads}} meet or cross
-      <img alt="intersection Diagram" src="../../diagrams/intersection.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      | Referencing Term | Type of Reference |
-      | --- | --- |
-      | {{urn:iso:std:iso:14812:ed3:3.3.6.2,junction}} | subClassOf |
-      ---
-      Comment on this page
+  - content: space where two or more {{urn:iso:std:iso:14812:ed3:3.3.5.1,roads}} meet
+      or cross
   notes:
   - content: Complex intersections can be viewed as multiple intersections by providing
       separate designations for distinct {{urn:iso:std:iso:14812:ed3:3.3.5.6,road

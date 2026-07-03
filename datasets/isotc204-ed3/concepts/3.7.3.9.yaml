@@ -23,12 +23,11 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.7.3.7,driver support system}} that provides sustained lateral and longitudinal {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} motion control within a specific {{urn:iso:std:iso:14812:ed3:3.7.3.2,operational design domain}} with the expectation that a conventional {{urn:iso:std:iso:14812:ed3:3.6.2.3,driver}} completes the object and event detection and response
-      <img alt="level 2 driving automation Diagram" src="../../diagrams/level 2 driving automation.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.7.3.7,driver support system}} that provides
+      sustained lateral and longitudinal {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}}
+      motion control within a specific {{urn:iso:std:iso:14812:ed3:3.7.3.2,operational
+      design domain}} with the expectation that a conventional {{urn:iso:std:iso:14812:ed3:3.6.2.3,driver}}
+      completes the object and event detection and response"
   notes:
   - content: Other driving automation levels include {{urn:iso:std:iso:14812:ed3:3.7.3.8,level
       1 driving automation}}, {{urn:iso:std:iso:14812:ed3:3.7.3.11,level 3 ADS}},

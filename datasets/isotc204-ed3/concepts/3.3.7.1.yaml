@@ -23,12 +23,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      physical structure or installation, including related site works, serving one or more transport-related purposes
-      <img alt="transport facility Diagram" src="../../diagrams/transport facility.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: physical structure or installation, including related site works, serving
+      one or more transport-related purposes
   terms:
   - type: expression
     normative_status: preferred

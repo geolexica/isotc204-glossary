@@ -15,13 +15,12 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.6.1.2,road user}} who is not protected by the body of a motor vehicle that meets local safety regulations
-      <img alt="vulnerable road user Diagram" src="../../diagrams/vulnerable road user.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      EXAMPLE: {{urn:iso:std:iso:14812:ed3:3.6.1.4,Pedestrian}}, cyclist, motorcyclist, road work personnel, horse, horseback rider, person with disabilities (e.g., wheelchair), etc.
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.6.1.2,road user}} who is not protected
+      by the body of a motor vehicle that meets local safety regulations"
+  examples:
+  - content: "{{urn:iso:std:iso:14812:ed3:3.6.1.4,Pedestrian}}, cyclist, motorcyclist,
+      road work personnel, horse, horseback rider, person with disabilities (e.g.,
+      wheelchair), etc."
   terms:
   - type: expression
     normative_status: preferred

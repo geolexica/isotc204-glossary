@@ -27,12 +27,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      provision of functionality that fulfils one or more {{urn:iso:std:iso:14812:ed3:3.5.3.4,ITS user needs}}
-      <img alt="ITS service Diagram" src="../../diagrams/ITS service.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: provision of functionality that fulfils one or more {{urn:iso:std:iso:14812:ed3:3.5.3.4,ITS
+      user needs}}
   terms:
   - type: expression
     normative_status: preferred

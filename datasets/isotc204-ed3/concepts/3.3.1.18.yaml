@@ -27,16 +27,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      either a {{urn:iso:std:iso:14812:ed3:3.3.1.19,hard shoulder}} or a {{urn:iso:std:iso:14812:ed3:3.3.1.20,soft shoulder}}
-      <img alt="shoulder Diagram" src="../../diagrams/shoulder.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      | Referencing Term | Type of Reference |
-      | --- | --- |
-      | {{urn:iso:std:iso:14812:ed3:3.3.1.19,hard shoulder}} | subClassOf |
-      | {{urn:iso:std:iso:14812:ed3:3.3.1.20,soft shoulder}} | subClassOf |
-      ---
-      Comment on this page
+  - content: either a {{urn:iso:std:iso:14812:ed3:3.3.1.19,hard shoulder}} or a {{urn:iso:std:iso:14812:ed3:3.3.1.20,soft
+      shoulder}}
   notes:
   - content: In some jurisdictions, a shoulder can be used for emergency stops and/or
       other purposes in addition to providing a clear zone for safety purposes.

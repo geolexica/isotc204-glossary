@@ -19,13 +19,12 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      <transport service> {{urn:iso:std:iso:14812:ed3:3.5.9.3,concurrent}} operation where the {{urn:iso:std:iso:14812:ed3:3.5.2.2,transport provider}} may choose to divert from its path to service a new request from another {{urn:iso:std:iso:14812:ed3:3.5.2.3,transport users}} while servicing an earlier transport user
-      <img alt="paired on-demand Diagram" src="../../diagrams/paired on-demand.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      EXAMPLE: Ridesplitting.
-      ---
-      Comment on this page
+  - content: "<transport service> {{urn:iso:std:iso:14812:ed3:3.5.9.3,concurrent}}
+      operation where the {{urn:iso:std:iso:14812:ed3:3.5.2.2,transport provider}}
+      may choose to divert from its path to service a new request from another {{urn:iso:std:iso:14812:ed3:3.5.2.3,transport
+      users}} while servicing an earlier transport user"
+  examples:
+  - content: Ridesplitting.
   terms:
   - type: expression
     normative_status: preferred

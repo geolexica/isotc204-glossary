@@ -12,11 +12,7 @@ data:
   definition:
   - content: |-
       abstraction of real-world phenomena
-      <img alt="geographic feature Diagram" src="../../diagrams/geographic feature.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Source: ISO 19101-1:2014, 4.1.11, "geographic" has been added to the term to clarify context; note 1 to entry has been replaced.
-      ---
-      Comment on this page
   notes:
   - content: Geographic features can be defined for any geographic entity that can
       be defined with geospatial boundaries, such as landmarks, buildings, transport

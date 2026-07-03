@@ -21,12 +21,7 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      ordered list of numbers that jointly designate the position of a point
-      <img alt="coordinate tuple Diagram" src="../../diagrams/coordinate tuple.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: ordered list of numbers that jointly designate the position of a point
   notes:
   - content: The number of values in a coordinate tuple is immutable.
   - content: This definition was derived by consolidating the definitions of "coordinate

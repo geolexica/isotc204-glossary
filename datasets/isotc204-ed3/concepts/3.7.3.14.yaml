@@ -19,12 +19,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      <driving automation> {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} designed to be operated by a {{urn:iso:std:iso:14812:ed3:3.1.1.6,person}} during part or all of every trip.
-      <img alt="conventional vehicle Diagram" src="../../diagrams/conventional vehicle.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "<driving automation> {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} designed
+      to be operated by a {{urn:iso:std:iso:14812:ed3:3.1.1.6,person}} during part
+      or all of every trip."
   terms:
   - type: expression
     normative_status: preferred

@@ -23,12 +23,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.3.6.2,junction}} with at least one {{urn:iso:std:iso:14812:ed3:3.3.6.10,grade separated manoeuvre}}
-      <img alt="interchange Diagram" src="../../diagrams/interchange.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.3.6.2,junction}} with at least one {{urn:iso:std:iso:14812:ed3:3.3.6.10,grade
+      separated manoeuvre}}"
   notes:
   - content: The grade separation allows {{urn:iso:std:iso:14812:ed3:3.6.1.1,travellers}}
       on the {{urn:iso:std:iso:14812:ed3:3.3.5.5,link}} to pass unimpeded through

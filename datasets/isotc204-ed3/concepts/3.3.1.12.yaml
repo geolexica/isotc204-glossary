@@ -37,18 +37,12 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      <generic> portion of {{urn:iso:std:iso:14812:ed3:3.3.1.2,road reservation}} intended to accommodate a single line of moving {{urn:iso:std:iso:14812:ed3:3.1.1.3,material entities}} along its length
-      <img alt="lane Diagram" src="../../diagrams/lane.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      EXAMPLE: {{urn:iso:std:iso:14812:ed3:3.3.1.13,Traffic lane}}, {{urn:iso:std:iso:14812:ed3:3.3.3.1,cycle lane}}, {{urn:iso:std:iso:14812:ed3:3.3.3.4,sidewalk}}.
-      | Referencing Term | Type of Reference |
-      | --- | --- |
-      | {{urn:iso:std:iso:14812:ed3:3.3.3.1,cycle lane}} | subClassOf |
-      | {{urn:iso:std:iso:14812:ed3:3.3.3.4,sidewalk}} | subClassOf |
-      | {{urn:iso:std:iso:14812:ed3:3.3.1.13,traffic lane}} | subClassOf |
-      ---
-      Comment on this page
+  - content: "<generic> portion of {{urn:iso:std:iso:14812:ed3:3.3.1.2,road reservation}}
+      intended to accommodate a single line of moving {{urn:iso:std:iso:14812:ed3:3.1.1.3,material
+      entities}} along its length"
+  examples:
+  - content: "{{urn:iso:std:iso:14812:ed3:3.3.1.13,Traffic lane}}, {{urn:iso:std:iso:14812:ed3:3.3.3.1,cycle
+      lane}}, {{urn:iso:std:iso:14812:ed3:3.3.3.4,sidewalk}}."
   notes:
   - content: "{{urn:iso:std:iso:14812:ed3:3.3.1.12,Lanes}} are often bounded by lane
       markings."

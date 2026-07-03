@@ -29,15 +29,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      information manipulation within an {{urn:iso:std:iso:14812:ed3:3.2.7.3,ITS station}} for an {{urn:iso:std:iso:14812:ed3:3.5.4.1,ITS-SU service}}
-      <img alt="ITS-S application process Diagram" src="../../diagrams/ITS-S application process.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      | Referencing Term | Type of Reference |
-      | --- | --- |
-      | {{urn:iso:std:iso:14812:ed3:3.2.8.1,ITS application}} | involves |
-      ---
-      Comment on this page
+  - content: information manipulation within an {{urn:iso:std:iso:14812:ed3:3.2.7.3,ITS
+      station}} for an {{urn:iso:std:iso:14812:ed3:3.5.4.1,ITS-SU service}}
   notes:
   - content: ITS-S application processes use ITS-S services to communicate with other
       nodes.

@@ -15,12 +15,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      descriptor that identifies a geographic characteristic to help identify a specific location
-      <img alt="geographic descriptor Diagram" src="../../diagrams/geographic descriptor.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: descriptor that identifies a geographic characteristic to help identify
+      a specific location
   terms:
   - type: expression
     normative_status: preferred

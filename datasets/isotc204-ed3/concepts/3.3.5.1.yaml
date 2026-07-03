@@ -37,18 +37,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      curvilinear length of {{urn:iso:std:iso:14812:ed3:3.3.1.3,roadway}} that shares the same {{urn:iso:std:iso:14812:ed3:3.3.5.12,road identifier}}
-      <img alt="road Diagram" src="../../diagrams/road.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      | Referencing Term | Type of Reference |
-      | --- | --- |
-      | {{urn:iso:std:iso:14812:ed3:3.3.5.11,alley}} | subClassOf |
-      | {{urn:iso:std:iso:14812:ed3:3.3.6.1,intersection}} | meetingOrCrossing |
-      | {{urn:iso:std:iso:14812:ed3:3.3.1.21,motorway}} | subClassOf |
-      | {{urn:iso:std:iso:14812:ed3:3.3.5.13,service road}} | subClassOf |
-      ---
-      Comment on this page
+  - content: curvilinear length of {{urn:iso:std:iso:14812:ed3:3.3.1.3,roadway}} that
+      shares the same {{urn:iso:std:iso:14812:ed3:3.3.5.12,road identifier}}
   notes:
   - content: A length of the {{urn:iso:std:iso:14812:ed3:3.3.5.2,road network}} may
       be referenced by multiple designators (e.g. Main Street and Route 7). In this

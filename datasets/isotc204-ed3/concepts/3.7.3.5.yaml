@@ -15,12 +15,10 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      malfunction in a {{urn:iso:std:iso:14812:ed3:3.2.1.5,vehicle system}} that prevents the {{urn:iso:std:iso:14812:ed3:3.7.3.6,driving automation system}} from reliably performing its portion of the {{urn:iso:std:iso:14812:ed3:3.7.3.1,dynamic driving task}} on a sustained basis
-      <img alt="DDT performance-relevant system failure Diagram" src="../../diagrams/DDT performance-relevant system failure.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: malfunction in a {{urn:iso:std:iso:14812:ed3:3.2.1.5,vehicle system}}
+      that prevents the {{urn:iso:std:iso:14812:ed3:3.7.3.6,driving automation system}}
+      from reliably performing its portion of the {{urn:iso:std:iso:14812:ed3:3.7.3.1,dynamic
+      driving task}} on a sustained basis
   notes:
   - content: The malfunction can be internal to the driving automation system or part
       of another vehicle system.

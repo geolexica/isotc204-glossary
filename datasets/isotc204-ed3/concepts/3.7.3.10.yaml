@@ -49,12 +49,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.7.3.6,driving automation system}} that is able to perform the entire {{urn:iso:std:iso:14812:ed3:3.7.3.1,dynamic driving task}} on a sustained basis
-      <img alt="ADS Diagram" src="../../diagrams/ADS.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.7.3.6,driving automation system}} that
+      is able to perform the entire {{urn:iso:std:iso:14812:ed3:3.7.3.1,dynamic driving
+      task}} on a sustained basis"
   notes:
   - content: The abbreviated form ("ADS") is the most preferred form and the alternative
       form ("Automated Driving System") uses initial capitals to avoid confusion with

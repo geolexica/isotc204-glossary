@@ -15,12 +15,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      reference for a vehicle derived from vehicle properties such as registration number but encoded so that it does not allow a human to identify the vehicle directly from the encoded value
-      <img alt="anonymized vehicle reference Diagram" src="../../diagrams/anonymized vehicle reference.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: reference for a vehicle derived from vehicle properties such as registration
+      number but encoded so that it does not allow a human to identify the vehicle
+      directly from the encoded value
   terms:
   - type: expression
     normative_status: preferred

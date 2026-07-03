@@ -27,13 +27,10 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.2.1.2,field system}} that performs localized {{urn:iso:std:iso:14812:ed3:3.5.3.1,ITS services}}
-      <img alt="ITS roadside equipment Diagram" src="../../diagrams/ITS roadside equipment.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      EXAMPLE: traffic signal controller, variable message sign, vehicle detection
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.2.1.2,field system}} that performs localized
+      {{urn:iso:std:iso:14812:ed3:3.5.3.1,ITS services}}"
+  examples:
+  - content: traffic signal controller, variable message sign, vehicle detection
   notes:
   - content: '"ITS roadway equipment" is used within the current version of the Architecture
       Reference for Cooperative and Intelligent Transportation (ARC-IT; see Reference

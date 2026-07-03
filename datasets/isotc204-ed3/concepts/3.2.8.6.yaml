@@ -19,12 +19,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      installation capable of performing one or more {{urn:iso:std:iso:14812:ed3:3.2.8.1,ITS applications}}
-      <img alt="ITS deployment Diagram" src="../../diagrams/ITS deployment.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: installation capable of performing one or more {{urn:iso:std:iso:14812:ed3:3.2.8.1,ITS
+      applications}}
   notes:
   - content: An ITS deployment typically refers to the support, central and roadside
       ITS stations coupled with a tacit acknowledgement of the mobile ITS stations

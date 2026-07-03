@@ -27,12 +27,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      area legally reserved for {{urn:iso:std:iso:14812:ed3:3.3.5.1,road}} transport purposes and support
-      <img alt="road reservation Diagram" src="../../diagrams/road reservation.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: area legally reserved for {{urn:iso:std:iso:14812:ed3:3.3.5.1,road}}
+      transport purposes and support
   notes:
   - content: Support includes physical equipment such as safety devices, signage and
       controller cabinets as well as access by maintenance vehicles and personnel.

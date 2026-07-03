@@ -19,13 +19,11 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.2.4.2,personal information device}} that is taken with and can be accessed by the {{urn:iso:std:iso:14812:ed3:3.6.1.1,traveller}} during a journey
-      <img alt="nomadic device Diagram" src="../../diagrams/nomadic device.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      EXAMPLE: Smartphone.
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.2.4.2,personal information device}} that
+      is taken with and can be accessed by the {{urn:iso:std:iso:14812:ed3:3.6.1.1,traveller}}
+      during a journey"
+  examples:
+  - content: Smartphone.
   terms:
   - type: expression
     normative_status: preferred

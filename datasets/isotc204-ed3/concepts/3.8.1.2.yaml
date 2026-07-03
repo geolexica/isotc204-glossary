@@ -17,12 +17,9 @@ data:
   definition:
   - content: |-
       timing and location of remuneration for services including whether the payment is required prior to, at the time of or post access to the service or commodity
-      <img alt="payment mode Diagram" src="../../diagrams/payment mode.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Admitted term: payment method
-      EXAMPLE: pre-payment
-      ---
-      Comment on this page
+  examples:
+  - content: pre-payment
   terms:
   - type: expression
     normative_status: preferred
