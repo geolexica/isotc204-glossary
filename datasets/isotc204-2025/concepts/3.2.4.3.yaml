@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 3.2.4.3
+  localized_concepts:
+    eng: fa7043df-c914-57d4-ab94-cfb7ebd53312
+  domains:
+  - concept_id: 3.2.4
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.2.4.3
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: ec7fe0a0-0a4e-5393-96d3-e05b6bd07dfe
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id3E33A4D7FC4341d981D249AC28E47690"><font color="#0000ff"><u>personal
+      information device</u></font></a></i> ( personal information device ) that is
+      taken with and can be accessed by the traveller during a journey
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nomadic device
+  language_code: eng
+  entry_status: valid
+id: fa7043df-c914-57d4-ab94-cfb7ebd53312

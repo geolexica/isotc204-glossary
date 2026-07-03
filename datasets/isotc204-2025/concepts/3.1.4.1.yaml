@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.1.4.1
+  localized_concepts:
+    eng: febbcbd2-46f9-5000-a11e-c8ef49b1af3a
+  domains:
+  - concept_id: 3.1.4
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.1.4.1
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: d36cf537-3179-539d-ad28-ab271c01e9d8
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#idBD7658051DA3495bA45E71D438FCD3DF"><font color="#0000ff">architecture
+      view</font></a></i> ( architecture view ) from the <i><a href="#idFA802A0C473248fc9F50178DD38C56D8"><font
+      color="#0000ff">communications viewpoint</font></a></i> ( communications viewpoint
+      )
+  examples: []
+  notes:
+  - content: Within ITS, the preferred model for describing the communications view
+      is based on the ITS-S reference architecture.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: communications view
+  language_code: eng
+  entry_status: valid
+id: febbcbd2-46f9-5000-a11e-c8ef49b1af3a

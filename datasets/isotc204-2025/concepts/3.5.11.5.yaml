@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 3.5.11.5
+  localized_concepts:
+    eng: 7f4f4cea-9855-53b7-ab62-3671c86169ff
+  domains:
+  - concept_id: 3.5.11
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.5.11.5
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: f1b88bb8-9230-59c2-9a69-65d1950ecc84
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id3AF823A8DE44425984FED140D4668259"><font color="#0000ff"><u>commercial</u></font></a></i>
+      ( commercial ), <i><a href="#idABEF77BE95BA45a68CF387E17E03ED81"><font color="#0000ff"><u>peer-to-peer</u></font></a></i>
+      ( peer-to-peer model ) <i><a href="#idAF252202FB50473fB51E56F3FBE6932E"><font
+      color="#0000ff"><u>shared transport service</u></font></a></i> ( shared transport
+      service ) that transports passengers
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ridesourced service
+  language_code: eng
+  entry_status: valid
+id: 7f4f4cea-9855-53b7-ab62-3671c86169ff

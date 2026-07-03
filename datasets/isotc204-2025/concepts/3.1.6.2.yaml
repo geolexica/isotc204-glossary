@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 3.1.6.2
+  localized_concepts:
+    eng: f37c7372-a0e3-5b98-80a6-d73a59ee194c
+  domains:
+  - concept_id: 3.1.6
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.1.6.2
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 3372f316-8afd-5a28-aea8-6615af6017f1
+schema_version: '3'
+---
+data:
+  definition:
+  - content: '&lt;enterprise view&gt; <i><a href="#idA9454DB86F4C47c9902B7ABEE2462EA8"><font
+      color="#0000ff"><u>element</u></font></a></i> ( element ) that represents an
+      entity that is managed, operated, referenced, and/or used to develop and provide
+      ITS'
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: resource
+  language_code: eng
+  entry_status: valid
+id: f37c7372-a0e3-5b98-80a6-d73a59ee194c

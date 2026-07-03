@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 3.1.8.7
+  localized_concepts:
+    eng: 59f6eca2-4fa4-5c7b-b857-2f98f95c9a11
+  domains:
+  - concept_id: 3.1.8
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.1.8.7
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 2f6747cc-8134-5ea4-898e-4e56ff603749
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#idEC65B14A2BF845deBCC48632F635C9FF"><font color="#0000ff"><u>functional
+      object</u></font></a></i> ( functional object ) that can be replaced and has
+      defined interfaces
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: module
+  language_code: eng
+  entry_status: valid
+id: 59f6eca2-4fa4-5c7b-b857-2f98f95c9a11

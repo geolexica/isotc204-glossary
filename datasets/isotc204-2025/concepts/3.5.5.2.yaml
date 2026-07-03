@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 3.5.5.2
+  localized_concepts:
+    eng: ad68f9a2-3c22-5be3-8ac8-e1dd59c0a992
+  domains:
+  - concept_id: 3.5.5
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.5.5.2
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: e54cab67-bf4d-5b51-b2ea-454f33ae39d6
+schema_version: '3'
+---
+data:
+  definition:
+  - content: '&lt;ITS-S&gt;<b> </b>performance of one or more tasks<b> </b>to fulfil
+      an <i><a href="#id202B9BA1EA2F4bfbA3D5BE04ACA3E2D5"><font color="#0000ff"><u>ITS-S
+      communication need</u></font></a></i> ( ITS-S communication need ) for an <i><a
+      href="#id1FC1FE8C6F1A41a7AECE0F7A9C874620"><font color="#0000ff"><u>ITS-S communication
+      user</u></font></a></i> ( ITS-S communication user )'
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S communication service
+  language_code: eng
+  entry_status: valid
+id: ad68f9a2-3c22-5be3-8ac8-e1dd59c0a992

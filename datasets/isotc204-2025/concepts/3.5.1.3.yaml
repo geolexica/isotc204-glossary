@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 3.5.1.3
+  localized_concepts:
+    eng: 253f5cca-968e-5486-a730-304bae5b891f
+  domains:
+  - concept_id: 3.5.1
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.5.1.3
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: c3c60145-75f1-58f7-9127-bbb2003bf609
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id040D6A1B412A4cc6921882357A58F747"><font color="#0000ff"><u>entity</u></font></a></i>
+      ( entity ) that has a <i><a href="#id8C060C793CE14fb88B50E52BD3A3FDE6"><font
+      color="#0000ff"><u>need</u></font></a></i> ( user need ) to be fulfilled
+  examples: []
+  notes:
+  - content: The term "consumer" can be used when fulfilling the need results in the
+      consumption of a resource.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: user
+  language_code: eng
+  entry_status: valid
+id: 253f5cca-968e-5486-a730-304bae5b891f

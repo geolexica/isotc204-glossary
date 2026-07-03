@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 3.3.1.12
+  localized_concepts:
+    eng: ea144b72-3ca2-5e6c-a4ae-28c127de502a
+  domains:
+  - concept_id: 3.3.1
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.3.1.12
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: df4243d4-5f65-53ff-9dd0-3e1459965074
+schema_version: '3'
+---
+data:
+  definition:
+  - content: '&lt;generic&gt; portion of the <i><a href="#idF9F0ACCE2D49434a803C0D87211F753A"><font
+      color="#0000ff"><u>road reservation</u></font></a></i> ( road reservation )
+      designed to accommodate a single line of moving <i><a href="#idC941C5B14FFB4aecAA18427AF3D1435A"><font
+      color="#0000ff"><u>material entities</u></font></a></i> ( material entity )
+      along its length'
+  examples:
+  - content: traffic lane, cycle lane, sidewalk
+  notes:
+  - content: Lanes are often bounded by lane markings.
+  - content: Lanes may be significantly wider than the normal vehicle width to allow
+      variance in lane position of the vehicle as well as for various vehicle dimensions.
+  - content: The "lane" nomenclature typically refers to motor vehicle usage, but
+      can also refer to other purposes, such as sidewalks.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lane
+  language_code: eng
+  entry_status: valid
+id: ea144b72-3ca2-5e6c-a4ae-28c127de502a

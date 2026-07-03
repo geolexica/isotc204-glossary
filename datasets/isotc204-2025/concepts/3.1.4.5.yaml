@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 3.1.4.5
+  localized_concepts:
+    eng: c91a1cbf-8438-5aa3-9998-6946701ba578
+  domains:
+  - concept_id: 3.1.4
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.1.4.5
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 54ed820d-fa8e-5fc4-8bac-4523ed93fbfa
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#idBD7658051DA3495bA45E71D438FCD3DF"><font color="#0000ff">architecture
+      view</font></a></i> ( architecture view ) from the <i><a href="#id44BCE17E4D7F4e10AEBDA4BEA9679B0E"><font
+      color="#0000ff">functional viewpoint</font></a></i> ( functional viewpoint )
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: functional view
+  language_code: eng
+  entry_status: valid
+id: c91a1cbf-8438-5aa3-9998-6946701ba578

@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 3.2.1.1
+  localized_concepts:
+    eng: 2ad0b1a4-77fd-55b7-8b3c-7f1d4256ff1d
+  domains:
+  - concept_id: 3.2.1
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.2.1.1
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: b1c2e52d-5dfb-5d74-8be1-54cda1fbd64e
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id3783095C41E041c8B0CC1813CBCAEE44"><font color="#0000ff"><u>ITS
+      component</u></font></a></i> ( ITS component ) that provides application, management,
+      and/or administrative functions from a centralized location (i.e., not at the
+      <i><a href="#id718D31DE1698436a9BA71D3F4512432A"><font color="#0000ff"><u>roadside</u></font></a></i>
+      ( roadside ))
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: central system
+  language_code: eng
+  entry_status: valid
+id: 2ad0b1a4-77fd-55b7-8b3c-7f1d4256ff1d

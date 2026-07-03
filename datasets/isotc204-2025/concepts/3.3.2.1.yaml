@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.3.2.1
+  localized_concepts:
+    eng: 32de8456-9c9c-5c3c-9b34-e95aa9a5e68a
+  domains:
+  - concept_id: 3.3.2
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.3.2.1
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: '06368f26-d2cd-5653-b4ab-896ef8744e1e'
+schema_version: '3'
+---
+data:
+  definition:
+  - content: mechanism used to physically separate <i><a href="#id855CC715739D462e9790E893914D8768"><font
+      color="#0000ff"><u>carriageways</u></font></a></i> ( carriageway )
+  examples: []
+  notes:
+  - content: Mechanisms include various types of barriers, such as walls, rails, pylons,
+      kerbs, and ditches, as well as open, unpaved space. If two streams of traffic
+      are only separated by paved space (including any markings and rumble strips),
+      they share a common carriageway.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: physical traffic separator
+  language_code: eng
+  entry_status: valid
+id: 32de8456-9c9c-5c3c-9b34-e95aa9a5e68a

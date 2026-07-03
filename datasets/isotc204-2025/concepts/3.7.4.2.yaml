@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.7.4.2
+  localized_concepts:
+    eng: 13fb26d3-62fd-5183-a565-b6c9e15157b4
+  domains:
+  - concept_id: 3.7.4
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.7.4.2
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 774476bb-7b14-50a0-8a7f-9fa6e8c33985
+schema_version: '3'
+---
+data:
+  definition:
+  - content: characteristic of a <i><a href="#idC941C5B14FFB4aecAA18427AF3D1435A"><font
+      color="#0000ff"><u>material entity</u></font></a></i> ( material entity ) that
+      is<font color="#313131"> equipped with communications equipment </font>that
+      is not active or is otherwise unable to send data to or receive data from <i><a
+      href="#id49FF108A0CA140d49A439CF9BBABA1BB"><font color="#0000ff"><u>connected</u></font></a></i>
+      ( connected ) entities
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unconnected
+  language_code: eng
+  entry_status: valid
+id: 13fb26d3-62fd-5183-a565-b6c9e15157b4

@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 3.7.3.2
+  localized_concepts:
+    eng: ec863636-159d-5c15-aeba-49d9fb3828e0
+  domains:
+  - concept_id: 3.7.3
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.7.3.2
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: eda3e5ec-5f3b-5859-9816-bc9127f9b9aa
+schema_version: '3'
+---
+data:
+  definition:
+  - content: set of operating conditions under which a given <i><a href="#id65AFD85E052043b0AB87514248666FFA"><font
+      color="#0000ff"><u>driving automation system</u></font></a></i> ( driving automation
+      system ) or feature thereof is specifically designed to function
+  examples:
+  - content: ADS feature designed to operate a vehicle only on fully access-controlled
+      freeways in low-speed traffic, under fair weather conditions and optimal road
+      maintenance conditions (e.g., good lane markings and not under construction).
+  - content: ADS-dedicated vehicle designed to operate only within a geographically-defined
+      area, and only during daylight at speeds not to exceed 25 mph.
+  notes:
+  - content: The conditions might include environmental, geographical, time-of-day,
+      and/or other restrictions.
+  - content: The conditions might require the presence or absence of certain traffic
+      or roadway characteristics.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: operational design domain
+  language_code: eng
+  entry_status: valid
+id: ec863636-159d-5c15-aeba-49d9fb3828e0

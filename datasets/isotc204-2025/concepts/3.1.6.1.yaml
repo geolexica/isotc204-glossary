@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 3.1.6.1
+  localized_concepts:
+    eng: 919bc700-4b10-553a-b837-2a1f967f88fd
+  domains:
+  - concept_id: 3.1.6
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.1.6.1
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: c8b79b00-1e43-592c-907d-0df455bc9cc5
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#idA9454DB86F4C47c9902B7ABEE2462EA8"><font color="#0000ff"><u>element</u></font></a></i>
+      ( element ) within an <i><a href="#id4C3EDEBD6786459a8343C1B09B870255"><font
+      color="#0000ff"><u>enterprise view</u></font></a></i> ( enterprise view ) that
+      represents an organization or individual
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: enterprise object
+  language_code: eng
+  entry_status: valid
+id: 919bc700-4b10-553a-b837-2a1f967f88fd

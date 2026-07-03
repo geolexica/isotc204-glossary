@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.3.1.10
+  localized_concepts:
+    eng: c341c7b5-3ec3-5c63-81c0-7a68d7aa10d3
+  domains:
+  - concept_id: 3.3.1
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.3.1.10
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 5cc413eb-7b5b-5ca2-870c-964f5207b51b
+schema_version: '3'
+---
+data:
+  definition:
+  - content: portion of the <i><a href="#idF9F0ACCE2D49434a803C0D87211F753A"><font
+      color="#0000ff"><u>road reservation</u></font></a></i> ( road reservation )
+      excluding all <i><a href="#id3F880EDEBFE84014A43B46167936F4B1"><font color="#0000ff"><u>roadways</u></font></a></i>
+      ( roadway ) and <i><a href="#id3F880EDEBFE84014A43B46167936F4B1"><font color="#0000ff"><u>driving
+      spaces</u></font></a></i> ( roadway )
+  examples: []
+  notes:
+  - content: Roadside, shoulder, and verge define similar but slightly different concepts.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: roadside
+  language_code: eng
+  entry_status: valid
+id: c341c7b5-3ec3-5c63-81c0-7a68d7aa10d3

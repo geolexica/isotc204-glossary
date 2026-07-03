@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 3.5.8.2
+  localized_concepts:
+    eng: 15ad0e6c-ceff-5b8c-a16e-f79f7b255c30
+  domains:
+  - concept_id: 3.5.8
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.5.8.2
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: ce191761-06af-5ce2-8201-c9e9613ccf71
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id1C9A28E75C534b08939F72CA1207904D"><font color="#0000ff"><u>financial
+      model</u></font></a></i> ( financial model ) where <i><a href="#id1C826F4DC7744eb7B8DDB33EF68A28F5"><font
+      color="#0000ff"><u>services</u></font></a></i> ( service ) are provided with
+      a profit motive
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: commercial
+  language_code: eng
+  entry_status: valid
+id: 15ad0e6c-ceff-5b8c-a16e-f79f7b255c30

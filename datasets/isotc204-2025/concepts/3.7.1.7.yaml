@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 3.7.1.7
+  localized_concepts:
+    eng: a161d515-33ee-5f6a-a6e0-80363fb50313
+  domains:
+  - concept_id: 3.7.1
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.7.1.7
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 23804de2-da98-5394-b76a-0d016e470f77
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#idD912A6773D214e72BEC85F0D9A4529FA"><font color="#0000ff"><u>input
+      device</u></font></a></i> ( input device ) designed to be electronically connected
+      to a <i><a href="#id555BFAB2A747457fB01D99511FDE885A"><font color="#0000ff"><u>vehicle</u></font></a></i>
+      ( vehicle ) even when the vehicle is not in close proximity
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: remote vehicle input device
+  language_code: eng
+  entry_status: valid
+id: a161d515-33ee-5f6a-a6e0-80363fb50313

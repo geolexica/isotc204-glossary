@@ -1,0 +1,30 @@
+---
+data:
+  identifier: 3.5.13.10
+  localized_concepts:
+    eng: 1affcc60-c7a1-5ab6-bf0f-35921f3accf3
+  domains:
+  - concept_id: 3.5.13
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: a9ffc72c-e2df-5307-8e1b-c815a50fa6ba
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id1C90ED2B61D74f899D6D199CB9A2B785"><font color="#0000ff"><u>mobility
+      app</u></font></a></i> ( mobility app ) that assists a <i><a href="#idE444860D95E5458a9BA4CF4BCE3EAD71"><font
+      color="#0000ff"><u>transport user</u></font></a></i> ( transport user ) in planning
+      trips that may span multiple vehicle modes or transport providers
+  examples: []
+  notes:
+  - content: The assistance might include reservations, ticketing, and similar services.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: trip aggregator app
+  language_code: eng
+  entry_status: valid
+id: 1affcc60-c7a1-5ab6-bf0f-35921f3accf3

@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 3.3.6.1
+  localized_concepts:
+    eng: 7ecb304c-8ab8-52ef-8078-3d9dbcf4ad3b
+  domains:
+  - concept_id: 3.3.6
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.3.6.1
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: abbc4bc4-fac8-5505-8a90-e4fb1f9a5296
+schema_version: '3'
+---
+data:
+  definition:
+  - content: space where two or more <i><a href="#id72937CE094414775B90C995DFCB64EEB"><font
+      color="#0000ff"><u>roads</u></font></a></i> ( road ) meet or cross
+  examples: []
+  notes:
+  - content: Intersections can be associated with zero junctions, such as a motorway
+      crossing a road without any connecting ramps, or can be associated with multiple
+      junctions, such as a diamond interchange.
+  - content: Complex intersections can be viewed as multiple intersections by providing
+      separate designations for distinct road links. For example, one model could
+      depict a complex intersection as being associated with multiple junctions; another
+      model could depict the same physical infrastructure as being multiple intersections
+      that are interconnected by different roads, each with its own designator (e.g.,
+      "ramp from northbound Road A to eastbound Road B").
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intersection
+  language_code: eng
+  entry_status: valid
+id: 7ecb304c-8ab8-52ef-8078-3d9dbcf4ad3b

@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 3.2.3.5
+  localized_concepts:
+    eng: '094ca7da-29d2-5163-8236-d1add5728d96'
+  domains:
+  - concept_id: 3.2.3
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.2.3.5
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: a8e67738-4f67-5ef5-a69e-96cfa801082f
+schema_version: '3'
+---
+data:
+  definition:
+  - content: electronic device that is <i><a href="#id49FF108A0CA140d49A439CF9BBABA1BB"><font
+      color="#0000ff"><u>connected</u></font></a></i> ( connected ) using one or more
+      communication media
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: connected unit
+  language_code: eng
+  entry_status: valid
+id: '094ca7da-29d2-5163-8236-d1add5728d96'

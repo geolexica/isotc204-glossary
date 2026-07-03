@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 3.7.3.13
+  localized_concepts:
+    eng: eabe8351-382c-5ea6-8e49-869f7a61d5b8
+  domains:
+  - concept_id: 3.7.3
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.7.3.13
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 83cd2e07-943b-5213-a4ea-e923c2949178
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#idE3B6FF9F65A448ffBA3B74876D599814"><font color="#0000ff"><u>ADS</u></font></a></i>
+      ( ADS ) that is capable of unconditional (i.e., not <i><a href="#id4C8C89A0369D455c9FCE6187A7DD62FC"><font
+      color="#0000ff"><u>ODD</u></font></a></i> ( operational design domain )-specific)
+      operation and providing its own <i><a href="#idDA84A3AE849442be8F2BEDE52CBDB60C"><font
+      color="#0000ff"><u>fallback</u></font></a></i> ( fallback ), without any expectation
+      that a human <i><a href="#id99035FCBCBED4af49063EB3F85FD7031"><font color="#0000ff"><u>driver</u></font></a></i>
+      ( driver ) will respond to a request to intervene
+  examples: []
+  notes:
+  - content: Other driving automation levels include "level 1 driving automation",
+      "level 2 driving automation", "level 3 ADS", and "level 4 ADS".
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: level 5 ADS
+  language_code: eng
+  entry_status: valid
+id: eabe8351-382c-5ea6-8e49-869f7a61d5b8

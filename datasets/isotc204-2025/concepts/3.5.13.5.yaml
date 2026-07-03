@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.5.13.5
+  localized_concepts:
+    eng: f210b08c-650e-590a-87e9-bc8d8f8d6243
+  domains:
+  - concept_id: 3.5.13
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.5.13.5
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 149acb2f-b248-58cc-8016-168acaa36b9a
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id1C90ED2B61D74f899D6D199CB9A2B785"><font color="#0000ff"><u>mobility
+      app</u></font></a></i> ( mobility app ) that assists a <i><a href="#idE444860D95E5458a9BA4CF4BCE3EAD71"><font
+      color="#0000ff"><u>transport user</u></font></a></i> ( transport user ) in acquiring
+      a <i><a href="#id5F69F95814304a3991719C6E60838C0A"><font color="#0000ff"><u>transport
+      service</u></font></a></i> ( transport service ) from an individual that participates
+      in the mobility app's network
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: P2P mobility sharing app
+  language_code: eng
+  entry_status: valid
+id: f210b08c-650e-590a-87e9-bc8d8f8d6243

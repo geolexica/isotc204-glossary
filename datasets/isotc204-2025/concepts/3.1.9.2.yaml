@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 3.1.9.2
+  localized_concepts:
+    eng: 52033d4d-ceeb-5882-bb2c-dfdf74853a96
+  domains:
+  - concept_id: 3.1.9
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.1.9.2
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 91d1be88-1b4f-5e93-a1d2-b3a45f72e88f
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id1977CCC04EA948719638C89546E52E47"><font color="#0000ff"><u>architecture</u></font></a></i>
+      ( architecture ) that provides a long-term vision of <i><a href="#idA9454DB86F4C47c9902B7ABEE2462EA8"><font
+      color="#0000ff"><u>system elements</u></font></a></i> ( element ) that may be
+      deployed and managed by different projects and/or entities within a geographic
+      area
+  examples: []
+  notes:
+  - content: Some countries use the term "regional architecture", but in international
+      standards, the term "regional" is avoided due to its multiple meanings.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: planning architecture
+  language_code: eng
+  entry_status: valid
+id: 52033d4d-ceeb-5882-bb2c-dfdf74853a96

@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 3.4.2.7
+  localized_concepts:
+    eng: 43ce5bb5-b9de-5b32-9a96-3cfccfdbaf59
+  domains:
+  - concept_id: 3.4.2
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.4.2.7
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: ddaf2a85-6b16-50af-af2c-3f76e36d5bf3
+schema_version: '3'
+---
+data:
+  definition:
+  - content: register of <i><a href="#id0F23B7B6B1C64d828035A246CDCC780C"><font color="#0000ff"><u>spatial
+      references</u></font></a></i> ( spatial reference ) of one or more location
+      sub-types containing some information regarding position
+  examples: []
+  notes:
+  - content: The positional information need not be coordinates but could be descriptive.
+  sources:
+  - origin:
+      ref:
+        source: ISO 19112:2019
+      locality:
+        type: clause
+        reference_from: 3.1.1
+    status: modified
+    type: authoritative
+    modification: to fit our concept model
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: gazetteer
+  language_code: eng
+  entry_status: valid
+id: 43ce5bb5-b9de-5b32-9a96-3cfccfdbaf59

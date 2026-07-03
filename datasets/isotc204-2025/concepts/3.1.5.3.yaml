@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 3.1.5.3
+  localized_concepts:
+    eng: 5e6f2590-7bbe-5720-8862-72463176304a
+  domains:
+  - concept_id: 3.1.5
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.1.5.3
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 61cc2562-ed58-5020-a793-610bf343c6b3
+schema_version: '3'
+---
+data:
+  definition:
+  - content: '&lt;ITS-S&gt; protocol layer in the <i><a href="#idCAC31494A311430cBB567F2A82C166EC"><font
+      color="#0000ff"><u>ITS station reference architecture</u></font></a></i> ( ITS-S
+      reference architecture ) containing the open systems interconnect (OSI) physical
+      and data link layer protocols for ITS communications'
+  examples: []
+  notes:
+  - content: Within the IETF, the term "link layer" is used to describe the same functionality
+      as the ITS-S access layer.
+  - content: Within the US, the NTCIP standards use the term "subnet layer" to describe
+      the same functionality as the ITS-S access layer.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S access layer
+  language_code: eng
+  entry_status: valid
+id: 5e6f2590-7bbe-5720-8862-72463176304a

@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 3.5.13.6
+  localized_concepts:
+    eng: 80f28a67-0269-57ef-9d6c-a22fa4181c24
+  domains:
+  - concept_id: 3.5.13
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.5.13.6
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: cb6361e0-849d-5621-a444-a408d742373d
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id04D43929B0A547e69C9315F341AFDC37"><font color="#0000ff"><u>P2P
+      mobility sharing app</u></font></a></i> ( P2P mobility sharing app ) for acquiring
+      a <i><a href="#idF6E55203606D4d13BCD69D3349D0AE3B"><font color="#0000ff"><u>ridesourced
+      service</u></font></a></i> ( ridesourced service )
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ridesourcing app
+  language_code: eng
+  entry_status: valid
+id: 80f28a67-0269-57ef-9d6c-a22fa4181c24

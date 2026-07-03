@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 3.3.6.6
+  localized_concepts:
+    eng: 3ce17b76-2e0f-5772-80dd-d7c66aed2627
+  domains:
+  - concept_id: 3.3.6
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.3.6.6
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 953ded1c-d2f4-523b-bdb9-8c7f70d81dc6
+schema_version: '3'
+---
+data:
+  definition:
+  - content: all <i><a href="#idCC2F0AF206E94b6c811F65B1BC7B60A7"><font color="#0000ff"><u>egress
+      lanes</u></font></a></i> ( egress lane ) on a <i><a href="#idC615C2E3B7124c83B83FE649EAF6AD04"><font
+      color="#0000ff"><u>road link</u></font></a></i> ( road segment )
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: egress link
+  language_code: eng
+  entry_status: valid
+id: 3ce17b76-2e0f-5772-80dd-d7c66aed2627

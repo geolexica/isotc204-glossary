@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 3.7.3.3
+  localized_concepts:
+    eng: d74bf261-d546-5845-b996-e78a9b5a5b23
+  domains:
+  - concept_id: 3.7.3
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.7.3.3
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: '04691a92-fd6a-566e-afa0-2754cb11ec5f'
+schema_version: '3'
+---
+data:
+  definition:
+  - content: '&lt;driving automation&gt; response by a <i><a href="#idA195A5913A44427f96436DF49EAAC159"><font
+      color="#0000ff"><u>person</u></font></a></i> ( person ) to perform the <i><a
+      href="#id53381BA7AB7F48d6AED7DBCA2D07E6C9"><font color="#0000ff"><u>DDT</u></font></a></i>
+      ( dynamic driving task ) or by an <i><a href="#idE3B6FF9F65A448ffBA3B74876D599814"><font
+      color="#0000ff"><u>ADS</u></font></a></i> ( ADS ) to achieve a minimal risk
+      condition when the response is triggered upon violation of the defined <i><a
+      href="#id4C8C89A0369D455c9FCE6187A7DD62FC"><font color="#0000ff"><u>operational
+      design domain</u></font></a></i> ( operational design domain ) constraints or
+      in response to a <i><a href="#idF18A70A730734210891943E1C5F988C3"><font color="#0000ff"><u>DDT
+      performance-relevant driving automation system failure</u></font></a></i> (
+      DDT performance-relevant system failure )'
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fallback
+  language_code: eng
+  entry_status: valid
+id: d74bf261-d546-5845-b996-e78a9b5a5b23

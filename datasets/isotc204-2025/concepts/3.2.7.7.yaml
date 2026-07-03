@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.2.7.7
+  localized_concepts:
+    eng: 28e1238a-da6d-59d2-83c2-a9439382e8cf
+  domains:
+  - concept_id: 3.2.7
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.2.7.7
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 3cd318df-d77e-5836-9e11-dbaf2d9c3d69
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id6593BC0CD60B42fbB46A55ACB3DFB56B"><font color="#0000ff"><u>functionalities</u></font></a></i>
+      ( functionality ) in an <i><a href="#id97580DA2960B420cAFA27BD0EAF104FC"><font
+      color="#0000ff"><u>ITS-S node</u></font></a></i> ( ITS-S node ) that enable
+      connecting two networks and forwarding packets not explicitly addressed to the
+      ITS-S node
+  examples: []
+  notes:
+  - content: This is a refinement of the original definition contained in ISO 21217.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S router
+  language_code: eng
+  entry_status: valid
+id: 28e1238a-da6d-59d2-83c2-a9439382e8cf

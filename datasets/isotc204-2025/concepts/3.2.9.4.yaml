@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 3.2.9.4
+  localized_concepts:
+    eng: e089efd1-88ab-5910-9e60-d03cbcad1e22
+  domains:
+  - concept_id: 3.2.9
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.2.9.4
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 697bc86d-f542-5e71-868e-1839028b8ddb
+schema_version: '3'
+---
+data:
+  definition:
+  - content: implementation of an <i><a href="#id371D609484264a3598C7092967DD21DD"><font
+      color="#0000ff"><u>ITS-S application process</u></font></a></i> ( ITS-S application
+      process ) within the <i><a href="#idB67D64896F6943cc98608CF4BB934A7D"><font
+      color="#0000ff"><u>application entity</u></font></a></i> ( application entity
+      )
+  examples: []
+  notes:
+  - content: A unique implementation is typically associated with an implementation
+      name, a version, and release number.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S application implementation
+  language_code: eng
+  entry_status: valid
+id: e089efd1-88ab-5910-9e60-d03cbcad1e22

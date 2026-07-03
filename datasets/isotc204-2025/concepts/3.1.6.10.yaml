@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 3.1.6.10
+  localized_concepts:
+    eng: 9c985922-6408-5692-af9a-c05428583a8c
+  domains:
+  - concept_id: 3.1.6
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.1.6.10
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: ce480423-9efd-57e4-9966-11ff21783249
+schema_version: '3'
+---
+data:
+  definition:
+  - content: '&lt;enterprise view&gt; <i><a href="#id15042ADE65AA448a98FF7ECFA044549B"><font
+      color="#0000ff"><u>relationship</u></font></a></i> ( relationship ) where one
+      <i><a href="#id55BD7B9720A44728AE93ED1F75D7692B"><font color="#0000ff"><u>resource</u></font></a></i>
+      ( resource ) supplements another resource'
+  examples:
+  - content: A module might extend the functionality of another module.
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: extends
+  language_code: eng
+  entry_status: valid
+id: 9c985922-6408-5692-af9a-c05428583a8c

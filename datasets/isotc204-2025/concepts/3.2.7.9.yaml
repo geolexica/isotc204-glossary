@@ -1,0 +1,26 @@
+---
+data:
+  identifier: 3.2.7.9
+  localized_concepts:
+    eng: 46a52c3d-5165-5523-ac1b-627103eed09c
+  domains:
+  - concept_id: 3.2.7
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 465289a9-b114-5a03-9617-9e13bd0a3c74
+schema_version: '3'
+---
+data:
+  definition:
+  - content: "&lt;normal English meaning&gt;"
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: functionality
+  language_code: eng
+  entry_status: valid
+id: 46a52c3d-5165-5523-ac1b-627103eed09c

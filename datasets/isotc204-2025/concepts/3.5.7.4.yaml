@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 3.5.7.4
+  localized_concepts:
+    eng: 581f42b5-0906-5e10-9810-3eaff9a6eb40
+  domains:
+  - concept_id: 3.5.7
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.5.7.4
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: c7fbcc10-51d0-5603-ad02-c214224da977
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#idB3582A5C7E9B4749A708EE0EECBCAC51"><font color="#0000ff"><u>contractual
+      model</u></font></a></i> ( contractual model ) where the <i><a href="#id8B698530E3B946b3B78C2E6C58FE87D7"><font
+      color="#0000ff"><u>user</u></font></a></i> ( user ) is a governmental entity
+  examples:
+  - content: A governmental entity using a commercial courier service for package
+      delivery
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: government customer model
+  language_code: eng
+  entry_status: valid
+id: 581f42b5-0906-5e10-9810-3eaff9a6eb40

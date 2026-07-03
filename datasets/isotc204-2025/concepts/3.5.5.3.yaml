@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 3.5.5.3
+  localized_concepts:
+    eng: 903561b5-dbb6-525e-b832-8de04ef09228
+  domains:
+  - concept_id: 3.5.5
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.5.5.3
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 2cce39cc-bd18-5e69-94af-89d3f8221dfc
+schema_version: '3'
+---
+data:
+  definition:
+  - content: '&lt;ITS-S&gt; <i><a href="#id040D6A1B412A4cc6921882357A58F747"><font
+      color="#0000ff"><u>entity</u></font></a></i> ( entity ) that has an <i><a href="#id202B9BA1EA2F4bfbA3D5BE04ACA3E2D5"><font
+      color="#0000ff"><u>ITS-S communication need</u></font></a></i> ( ITS-S communication
+      need ) to be fulfilled'
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S communication user
+  language_code: eng
+  entry_status: valid
+id: 903561b5-dbb6-525e-b832-8de04ef09228

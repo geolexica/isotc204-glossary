@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 3.2.2.1
+  localized_concepts:
+    eng: 14b2bee0-514a-511d-a166-6becc3a3ab28
+  domains:
+  - concept_id: 3.2.2
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.2.2.1
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 19777d98-2c82-5bf3-a920-69ebc5c3a7b1
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id75E3C9D3F2084e00BA93F5DD34084653"><font color="#0000ff"><u>central
+      system</u></font></a></i> ( central system ) that allows an entity to manage
+      and respond to crashes, events, disasters, evacuation orders, and other incidents
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: emergency management central system
+  language_code: eng
+  entry_status: valid
+id: 14b2bee0-514a-511d-a166-6becc3a3ab28

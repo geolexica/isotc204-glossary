@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 3.2.7.2
+  localized_concepts:
+    eng: 01de88b2-50da-5a79-869f-7cb169c3fe74
+  domains:
+  - concept_id: 3.2.7
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.2.7.2
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: e9bbf728-ac39-570c-9c24-eb7c9497019f
+schema_version: '3'
+---
+data:
+  definition:
+  - content: set of <i><a href="#id866BE3730A304564BBC18CA138D01808"><font color="#0000ff"><u>bounded
+      secured managed domains</u></font></a></i> ( bounded secured managed domain
+      ) that meet a defined set of ITS industry security requirements
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS trust domain
+  language_code: eng
+  entry_status: valid
+id: 01de88b2-50da-5a79-869f-7cb169c3fe74

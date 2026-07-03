@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 3.2.8.3
+  localized_concepts:
+    eng: 34c4ee4e-edb5-50cf-83ea-364fb1b7610d
+  domains:
+  - concept_id: 3.2.8
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.2.8.3
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 52a899f7-740c-543f-b236-ca3ebf192223
+schema_version: '3'
+---
+data:
+  definition:
+  - content: one or more documents that detail the <i><a href="#id573047514B814efe85FCFA271736EE72"><font
+      color="#0000ff"><u>interoperability design</u></font></a></i> ( interoperability
+      design ) for an <i><a href="#id1A22C407CEBA41c495E1D89FC4C87504"><font color="#0000ff"><u>ITS
+      application</u></font></a></i> ( ITS application )
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS application specification
+  language_code: eng
+  entry_status: valid
+id: 34c4ee4e-edb5-50cf-83ea-364fb1b7610d

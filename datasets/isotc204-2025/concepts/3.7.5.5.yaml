@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.7.5.5
+  localized_concepts:
+    eng: 89e4d2df-6f18-56ec-9f17-4164267dc439
+  domains:
+  - concept_id: 3.7.5
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.7.5.5
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 8917c3ed-1c95-538e-af66-2f5ce3c4ddc9
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id555BFAB2A747457fB01D99511FDE885A"><font color="#0000ff"><u>vehicle</u></font></a></i>
+      ( vehicle ) with a <i><a href="#id94141E56EA294dfb8212E7FA5553D1F6"><font color="#0000ff"><u>design
+      speed</u></font></a></i> ( design speed ) in the range of <i><a href="#idDB835A76111749c1883F689D46CC7CBF"><font
+      color="#0000ff"><u>moderately-high vehicle speeds</u></font></a></i> ( moderately
+      high vehicle speed )
+  examples:
+  - content: typical passenger car
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: moderately high-speed vehicle
+  language_code: eng
+  entry_status: valid
+id: 89e4d2df-6f18-56ec-9f17-4164267dc439

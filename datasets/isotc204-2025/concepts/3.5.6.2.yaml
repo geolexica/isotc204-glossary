@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 3.5.6.2
+  localized_concepts:
+    eng: 305cec0a-95b3-5f8f-a7eb-dcfaa33671de
+  domains:
+  - concept_id: 3.5.6
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.5.6.2
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: d8923961-0c08-5db4-b925-c09dad25863b
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id5F69F95814304a3991719C6E60838C0A"><font color="#0000ff"><u>transport
+      service</u></font></a></i> ( transport service ) that relies upon the same resources
+      to fulfil the <i><a href="#id3B0C62628A72424e98B2D5C2F2BBCD36"><font color="#0000ff"><u>transport
+      needs</u></font></a></i> ( transport need ) of multiple unrelated <i><a href="#idE444860D95E5458a9BA4CF4BCE3EAD71"><font
+      color="#0000ff"><u>transport users</u></font></a></i> ( transport user ) and
+      where the <i><a href="#idA3BC9C78F77A4be7BADD00079FED8167"><font color="#0000ff"><u>transport
+      provider</u></font></a></i> ( transport provider ) has the primary responsibility
+      for the operation of the transport mode
+  examples: []
+  notes:
+  - content: A shared transport system might not be dependent upon a vehicle and/or
+      could be multi-modal. For example, a letter courier service could rely on walking
+      and public transport.
+  - content: Responsibilities of the transport service might be further delegated
+      to others. For example, a courier service relying on public transport would
+      delegate the operation of the transport mode to the public transport operator.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: shared transport service
+  language_code: eng
+  entry_status: valid
+id: 305cec0a-95b3-5f8f-a7eb-dcfaa33671de

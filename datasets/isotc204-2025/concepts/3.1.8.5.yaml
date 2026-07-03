@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 3.1.8.5
+  localized_concepts:
+    eng: cea4092b-b4ce-55f0-a8d4-9a8b2972aa40
+  domains:
+  - concept_id: 3.1.8
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.1.8.5
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: a3227336-10a3-55d7-b803-17093020c615
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id752D601C79B54677BF47786D7FA84DBF"><font color="#0000ff"><u>information
+      flow</u></font></a></i> ( information flow ) from a <i><a href="#id8EA65F2D6F6347bf8FF4C5CD35C61C68"><font
+      color="#0000ff"><u>physical object</u></font></a></i> ( physical object ) acting
+      as an information provider and sent to another <i><a href="#id8EA65F2D6F6347bf8FF4C5CD35C61C68"><font
+      color="#0000ff"><u>physical object</u></font></a></i> ( physical object ) acting
+      as an information consumer
+  examples: []
+  notes:
+  - content: The term "information flow triple" is used extensively in the Architecture
+      Reference for Cooperative and Intelligent Transportation (ARC-IT, http://arc-it.net).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: information transfer
+  language_code: eng
+  entry_status: valid
+id: cea4092b-b4ce-55f0-a8d4-9a8b2972aa40

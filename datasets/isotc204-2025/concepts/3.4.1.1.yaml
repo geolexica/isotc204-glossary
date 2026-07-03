@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 3.4.1.1
+  localized_concepts:
+    eng: 5f369a4e-5950-5c22-86aa-7286a0cbdc00
+  domains:
+  - concept_id: 3.4.1
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.4.1.1
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: e051139f-db48-53f1-8d37-081f0bd94f0c
+schema_version: '3'
+---
+data:
+  definition:
+  - content: particular place or position
+  examples: []
+  notes:
+  - content: The term "location" by itself is a broad term that can be used to reference
+      spatial, computer memory, imaginary, and other locations.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: location
+  language_code: eng
+  entry_status: valid
+id: 5f369a4e-5950-5c22-86aa-7286a0cbdc00

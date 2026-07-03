@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 3.1.10.1
+  localized_concepts:
+    eng: 194445cb-153b-57fa-a3b5-f66be2ad8513
+  domains:
+  - concept_id: 3.1.10
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.1.10.1
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 365843d9-a260-5cd7-a237-a72bb510cd10
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id6ADFFDA7618A4047AE100991CBCE83C7"><font color="#0000ff"><u>data
+      element</u></font></a></i> ( data element ), <i><a href="#idDF674EF5FB8049aaBE03DC6E5FF03853"><font
+      color="#0000ff"><u>class</u></font></a></i> ( class ), <i><a href="#idACC1C171626D40479E3CC4C273BEA796"><font
+      color="#0000ff"><u>value domain</u></font></a></i> ( value domain ), <i><a href="#idD0B512E1030A4b998CB13473D336CBFC"><font
+      color="#0000ff"><u>data frame</u></font></a></i> ( data frame ), <i><a href="#id7E8CF3F643284ed199FEF6FA0A1FDADC"><font
+      color="#0000ff"><u>message</u></font></a></i> ( message ), <i><a href="#idA5ED9D410EE248389659C4C127C6159A"><font
+      color="#0000ff"><u>interface dialogue</u></font></a></i> ( interface dialogue
+      ), or <i><a href="#idB06371D38EFC48e299F50E38BFECA3F5"><font color="#0000ff"><u>data
+      dictionary</u></font></a></i> ( data dictionary ) defined, at a minimum, with
+      an unambiguous identifier and a definition
+  examples: []
+  notes:
+  - content: In order to exchange a value corresponding to a data concept, more information
+      than an identifier and a definition might be needed. For a property, a data
+      type is needed. Depending on the kind of property, other data elements such
+      as unit of measure, and language, might be needed as well. The additional information
+      can be given in the data dictionary, in a data specification that references
+      the data concept or associated with the data themselves.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: data concept
+  language_code: eng
+  entry_status: valid
+id: 194445cb-153b-57fa-a3b5-f66be2ad8513

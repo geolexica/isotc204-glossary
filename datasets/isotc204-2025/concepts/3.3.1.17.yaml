@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 3.3.1.17
+  localized_concepts:
+    eng: 6d6550f6-85bc-5e1c-a175-b94f73f9ee22
+  domains:
+  - concept_id: 3.3.1
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.3.1.17
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 63cf2759-4710-5e31-9d8a-4bd3b7e906a9
+schema_version: '3'
+---
+data:
+  definition:
+  - content: part of a paved carriageway that is not a traffic lane, hard shoulder,
+      or lay-by.
+  examples:
+  - content: See Figure A-23
+  notes:
+  - content: Hardstanding can include edges of a hard shoulder outside of designated
+      lane markings, slips for future connector roads, etc.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hardstanding
+  language_code: eng
+  entry_status: valid
+id: 6d6550f6-85bc-5e1c-a175-b94f73f9ee22

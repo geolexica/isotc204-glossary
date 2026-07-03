@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 3.1.7.4
+  localized_concepts:
+    eng: 98b0c754-dbeb-58ad-b00f-113762edc8d7
+  domains:
+  - concept_id: 3.1.7
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.1.7.4
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 15d1c195-6e12-5944-9bd6-1a1f3f71ba0d
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id4D42D0BA04584798BEB7CFD665901F33"><u>document</u></a></i>
+      ( document ) that defines a lowest-level <i><a href="#id6DD0743FF44F4f0e9817C766379AD954"><u>process</u></a></i>
+      ( process )
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: process specification
+  language_code: eng
+  entry_status: valid
+id: 98b0c754-dbeb-58ad-b00f-113762edc8d7

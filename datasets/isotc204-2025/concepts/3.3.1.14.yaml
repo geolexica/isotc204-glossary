@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 3.3.1.14
+  localized_concepts:
+    eng: 3da4a07c-a376-57e0-9222-4ca0ec226097
+  domains:
+  - concept_id: 3.3.1
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.3.1.14
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 68ee9750-9b34-5fff-b4e6-833888699245
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id1240152ED5B6429eA0A4B380F1D798E4"><font color="#0000ff"><u>traffic
+      lane</u></font></a></i> ( traffic lane ) restricted to a specific subset of
+      <i><a href="#idCD96217608B748ad8F85A3F4059FD426"><font color="#0000ff"><u>road
+      vehicles</u></font></a></i> ( road vehicle ) or user categories
+  examples:
+  - content: Bus lane
+  - content: High-occupancy vehicle lane
+  notes:
+  - content: A traffic lane may be reserved permanently or under certain conditions
+      or times.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reserved lane
+  language_code: eng
+  entry_status: valid
+id: 3da4a07c-a376-57e0-9222-4ca0ec226097

@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 3.3.4.1
+  localized_concepts:
+    eng: 41b938e8-8d42-5f51-973f-c2e641a78d10
+  domains:
+  - concept_id: 3.3.4
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.3.4.1
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 820c1a37-f798-59c7-ae6f-ae1d573905b5
+schema_version: '3'
+---
+data:
+  definition:
+  - content: operating mode of a hard shoulder that allows operation of emergency,
+      construction, maintenance, or other special use vehicles or for emergency stopping
+      and is prohibited for other vehicle usage
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hard shoulder for emergency use
+  language_code: eng
+  entry_status: valid
+id: 41b938e8-8d42-5f51-973f-c2e641a78d10

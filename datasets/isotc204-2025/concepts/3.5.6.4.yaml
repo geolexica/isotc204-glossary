@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 3.5.6.4
+  localized_concepts:
+    eng: 96e9bd25-f65d-55ab-9708-8266dbc13e85
+  domains:
+  - concept_id: 3.5.6
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.5.6.4
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 4fe1ed6c-d49c-5e89-8bba-f746baafda10
+schema_version: '3'
+---
+data:
+  definition:
+  - content: using a <i><a href="#idAF252202FB50473fB51E56F3FBE6932E"><font color="#0000ff"><u>shared
+      transport service</u></font></a></i> ( shared transport service )
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transport sharing
+  language_code: eng
+  entry_status: valid
+id: 96e9bd25-f65d-55ab-9708-8266dbc13e85

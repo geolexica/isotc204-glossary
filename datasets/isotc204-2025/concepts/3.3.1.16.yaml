@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 3.3.1.16
+  localized_concepts:
+    eng: e4a4eb5d-be0d-5f1f-a21c-1823ecdd6f4f
+  domains:
+  - concept_id: 3.3.1
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.3.1.16
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 2d581d6b-cb23-52d8-88b0-14b8b41b2a14
+schema_version: '3'
+---
+data:
+  definition:
+  - content: short length of paved <i><a href="#id855CC715739D462e9790E893914D8768"><font
+      color="#0000ff"><u>carriageway</u></font></a></i> ( carriageway ) at its edge
+      designed to allow a <i><a href="#id555BFAB2A747457fB01D99511FDE885A"><font color="#0000ff"><u>vehicle</u></font></a></i>
+      ( vehicle ) to draw out of the travel lanes and stop temporarily
+  examples: []
+  notes:
+  - content: Lay-bys are not part of a hard shoulder.
+  - content: Lay-bys might be used for emergency situations, picking up/dropping off
+      passengers, etc.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lay-by
+  language_code: eng
+  entry_status: valid
+id: e4a4eb5d-be0d-5f1f-a21c-1823ecdd6f4f

@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 3.7.3.5
+  localized_concepts:
+    eng: a357cb62-f8d8-546f-bb5d-836192196807
+  domains:
+  - concept_id: 3.7.3
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.7.3.5
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: a4fcf130-4fec-5d3d-b841-b1d4c8c57932
+schema_version: '3'
+---
+data:
+  definition:
+  - content: malfunction in a vehicle system that prevents the <i><a href="#id65AFD85E052043b0AB87514248666FFA"><font
+      color="#0000ff"><u>driving automation system</u></font></a></i> ( driving automation
+      system ) from reliably performing its portion of the <i><a href="#id53381BA7AB7F48d6AED7DBCA2D07E6C9"><font
+      color="#0000ff"><u>DDT</u></font></a></i> ( dynamic driving task ) on a sustained
+      basis
+  examples: []
+  notes:
+  - content: The malfunction may be internal to the driving automation system or part
+      of another vehicle system.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: DDT performance-relevant system failure
+  language_code: eng
+  entry_status: valid
+id: a357cb62-f8d8-546f-bb5d-836192196807

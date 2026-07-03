@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 3.2.8.5
+  localized_concepts:
+    eng: 26443d56-a446-534f-baf4-2ce109586990
+  domains:
+  - concept_id: 3.2.8
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.2.8.5
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 9de0b7dc-c6ed-534c-982e-ab32db67f29a
+schema_version: '3'
+---
+data:
+  definition:
+  - content: integration of each <i><a href="#id8EA65F2D6F6347bf8FF4C5CD35C61C68"><font
+      color="#0000ff"><u>physical object</u></font></a></i> ( physical object ) necessary
+      to implement one or more <i><a href="#id1A22C407CEBA41c495E1D89FC4C87504"><font
+      color="#0000ff"><u>ITS applications</u></font></a></i> ( ITS application )
+  examples: []
+  notes:
+  - content: An ITS application typically requires multiple components (e.g., an ITS-S
+      acting as a user and another ITS-S acting as a provider). An ITS implementation
+      includes a sample of each component necessary for the service but often does
+      not represent a complete deployment.
+  - content: An ITS implementation is typically used for a laboratory or other experimental
+      environment prior to a full-scale deployment.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS implementation
+  language_code: eng
+  entry_status: valid
+id: 26443d56-a446-534f-baf4-2ce109586990

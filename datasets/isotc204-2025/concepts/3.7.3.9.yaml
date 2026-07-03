@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 3.7.3.9
+  localized_concepts:
+    eng: d3ddcdde-264a-5030-9fb3-f26b619b5190
+  domains:
+  - concept_id: 3.7.3
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.7.3.9
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 58fee581-bdca-5bd6-9545-d47f66b91065
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#idB67B240E827E493eB1532275FAFAB9BE"><font color="#0000ff"><u>driver
+      support system</u></font></a></i> ( driver spport system ) that provides sustained
+      lateral and longitudinal vehicle motion control within a specific <i><a href="#id4C8C89A0369D455c9FCE6187A7DD62FC"><font
+      color="#0000ff"><u>operational design domain</u></font></a></i> ( operational
+      design domain ) with the expectation that a <i><a href="#id76D23D03F3624a68920FB5BE7FB40ED8"><font
+      color="#0000ff"><u>conventional driver</u></font></a></i> ( in-vehicle driver
+      ) completes the object and event detection and response
+  examples: []
+  notes:
+  - content: Other driving automation levels include "level 1 driving automation",
+      "level 3 ADS", "level 4 ADS", and "level 5 ADS".
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: level 2 driving automation
+  language_code: eng
+  entry_status: valid
+id: d3ddcdde-264a-5030-9fb3-f26b619b5190

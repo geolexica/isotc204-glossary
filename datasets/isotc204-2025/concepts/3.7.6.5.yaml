@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.7.6.5
+  localized_concepts:
+    eng: d3efed8d-4fc8-57d3-9626-0a9d065d628b
+  domains:
+  - concept_id: 3.7.6
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.7.6.5
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: f9cd586d-57e8-5ad2-a5e3-53bdff6fe8a3
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id555BFAB2A747457fB01D99511FDE885A"><font color="#0000ff"><u>vehicle</u></font></a></i>
+      ( vehicle ) meeting the legal requirements to operate in <i><a href="#idBE5E40CDEC8846b49D1CE99547F20B51"><font
+      color="#0000ff"><u>cycle lanes</u></font></a></i> ( cycle lane ) and <i><a href="#idC2EE18B8A32D48a0AA257E98F7AED48E"><font
+      color="#0000ff"><u>cycleways</u></font></a></i> ( cycleway )
+  examples: []
+  notes:
+  - content: In some countries, other special lanes could also be open to road cycles,
+      such as bus lanes.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: road cycle
+  language_code: eng
+  entry_status: valid
+id: d3efed8d-4fc8-57d3-9626-0a9d065d628b

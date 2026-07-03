@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 3.7.3.7
+  localized_concepts:
+    eng: ff04ff95-c5a6-51b2-8020-20346e4e21b6
+  domains:
+  - concept_id: 3.7.3
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.7.3.7
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: f45568bb-3232-5288-b870-6767d0e35757
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id65AFD85E052043b0AB87514248666FFA"><font color="#0000ff"><u>driving
+      automation system</u></font></a></i> ( driving automation system ) that is only
+      able to perform part of the <i><a href="#id53381BA7AB7F48d6AED7DBCA2D07E6C9"><font
+      color="#0000ff"><u>DDT</u></font></a></i> ( dynamic driving task )
+  examples: []
+  notes:
+  - content: Driver support systems include Level 1 and Level 2 driving automation.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: driver spport system
+  language_code: eng
+  entry_status: valid
+id: ff04ff95-c5a6-51b2-8020-20346e4e21b6

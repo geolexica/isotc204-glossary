@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 3.2.8.1
+  localized_concepts:
+    eng: 38d5d582-4f26-54f6-81b0-95ffe56053a1
+  domains:
+  - concept_id: 3.2.8
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.2.8.1
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 83f8194b-204b-5bc9-9aad-68f52cce12cc
+schema_version: '3'
+---
+data:
+  definition:
+  - content: realization of an <i><a href="#id4D485872E9EE414e9CE1AB855A03540B"><font
+      color="#0000ff"><u>ITS service</u></font></a></i> ( ITS service ) that involves
+      an association of two or more complementary <i><a href="#id371D609484264a3598C7092967DD21DD"><font
+      color="#0000ff"><u>ITS-S application processes</u></font></a></i> ( ITS-S application
+      process )
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS application
+  language_code: eng
+  entry_status: valid
+id: 38d5d582-4f26-54f6-81b0-95ffe56053a1

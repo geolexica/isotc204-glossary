@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 3.2.7.6
+  localized_concepts:
+    eng: ebe9f481-412c-5e8b-b2e6-c74acb246cce
+  domains:
+  - concept_id: 3.2.7
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.2.7.6
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 7b260dd0-8550-5083-8cf6-ce0ebe0745f4
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id6593BC0CD60B42fbB46A55ACB3DFB56B"><font color="#0000ff"><u>functionalities</u></font></a></i>
+      ( functionality ) in an <i><a href="#id97580DA2960B420cAFA27BD0EAF104FC"><font
+      color="#0000ff"><u>ITS-S node</u></font></a></i> ( ITS-S node ) other than the
+      functionalities of an <i><a href="#idDBBB2A22A7F04e468238D737A4612729"><font
+      color="#0000ff"><u>ITS-S router</u></font></a></i> ( ITS-S router ), ITS-S border
+      router, ITS-S mobile router, or an ITS-S gateway
+  examples: []
+  notes:
+  - content: ITS-S border router and ITS-S mobile router are ITS-S routers with added
+      functionality, which is why they are separately excluded from the above definition.
+  - content: ITS-S border router, ITS-S mobile router, and ITS-S gateway are defined
+      in ISO 21217.
+  - content: This is a refinement of the original definition contained in ISO 21217.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S host
+  language_code: eng
+  entry_status: valid
+id: ebe9f481-412c-5e8b-b2e6-c74acb246cce

@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.1.13.1
+  localized_concepts:
+    eng: 8436c555-66ba-5929-8cfe-bb4751e4f24a
+  domains:
+  - concept_id: 3.1.13
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.1.13.1
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: ec438e6f-54de-56d4-b6a4-c93fa65adb41
+schema_version: '3'
+---
+data:
+  definition:
+  - content: zero-dimensional geographic primitive representing position in time
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO 19108:2002, 4.1.17, note removed
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instant
+  language_code: eng
+  entry_status: valid
+id: 8436c555-66ba-5929-8cfe-bb4751e4f24a

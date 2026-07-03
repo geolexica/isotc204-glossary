@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 3.5.8.3
+  localized_concepts:
+    eng: 8ab9ca97-a435-55ed-9862-7f204a563f0e
+  domains:
+  - concept_id: 3.5.8
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.5.8.3
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: f6213104-1391-5c10-99c8-d82dde87467d
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id1C9A28E75C534b08939F72CA1207904D"><font color="#0000ff"><u>financial
+      model</u></font></a></i> ( financial model ) where <i><a href="#id1C826F4DC7744eb7B8DDB33EF68A28F5"><font
+      color="#0000ff"><u>services</u></font></a></i> ( service ) are provided by an
+      administrative authority in an attempt to better serve societal interests
+  examples: []
+  notes:
+  - content: The transport service is typically offered to the transport consumer
+      for less than the full capital and operating cost of providing the service,
+      but this is not a requirement.
+  - content: Typically, the administrative authority is a local government agency;
+      but it could be another administrative authority, such as the national government
+      or a commercial entity managing transport needs on their campus.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: public
+  language_code: eng
+  entry_status: valid
+id: 8ab9ca97-a435-55ed-9862-7f204a563f0e

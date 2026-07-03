@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 3.2.8.4
+  localized_concepts:
+    eng: 6c1f77b9-b36d-5620-bc13-4ada4f831fdd
+  domains:
+  - concept_id: 3.2.8
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.2.8.4
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 1282525b-cc91-5a05-a23c-ceb000cbce3e
+schema_version: '3'
+---
+data:
+  definition:
+  - content: defined annotated outline for an <i><a href="#id4D636FF9C4F84e41B76850FC248B4D99"><font
+      color="#0000ff"><u>ITS application specification</u></font></a></i> ( ITS application
+      specification )
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS application template
+  language_code: eng
+  entry_status: valid
+id: 6c1f77b9-b36d-5620-bc13-4ada4f831fdd

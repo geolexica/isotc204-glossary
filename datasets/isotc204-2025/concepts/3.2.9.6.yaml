@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 3.2.9.6
+  localized_concepts:
+    eng: b9664ea6-ed79-5615-81ba-bf39f4a6ade6
+  domains:
+  - concept_id: 3.2.9
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.2.9.6
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 241e9e96-458e-505b-8fe8-66c6ceba247f
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#idA70703E708334662A8EDA8C71037BAE7"><font color="#0000ff"><u>ITS-S
+      application process installation</u></font></a></i> ( ITS-S application process
+      installation ) within the <i><a href="#idB67D64896F6943cc98608CF4BB934A7D"><font
+      color="#0000ff"><u>application entity</u></font></a></i> ( application entity
+      )
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S application installation
+  language_code: eng
+  entry_status: valid
+id: b9664ea6-ed79-5615-81ba-bf39f4a6ade6

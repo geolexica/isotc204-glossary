@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.5.8.9
+  localized_concepts:
+    eng: 62dfe2b1-2902-5d67-aa92-fffbe199b2ca
+  domains:
+  - concept_id: 3.5.8
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.5.8.9
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 8ce14c4e-2f69-5977-8b85-33064eef520f
+schema_version: '3'
+---
+data:
+  definition:
+  - content: characteristic of a <i><a href="#id1C9A28E75C534b08939F72CA1207904D"><font
+      color="#0000ff"><u>financial model</u></font></a></i> ( financial model ) that
+      does not require membership within an organization to receive <i><a href="#id1C826F4DC7744eb7B8DDB33EF68A28F5"><font
+      color="#0000ff"><u>services</u></font></a></i> ( service )
+  examples: []
+  notes:
+  - content: This includes models where membership is optional and might provide extra
+      benefits.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: open-access
+  language_code: eng
+  entry_status: valid
+id: 62dfe2b1-2902-5d67-aa92-fffbe199b2ca

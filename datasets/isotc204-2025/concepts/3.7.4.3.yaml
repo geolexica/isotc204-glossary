@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 3.7.4.3
+  localized_concepts:
+    eng: a678b85f-80c7-520b-8e08-7843f8a914b2
+  domains:
+  - concept_id: 3.7.4
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.7.4.3
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 58c2730a-db41-55da-863c-80bda5d44b57
+schema_version: '3'
+---
+data:
+  definition:
+  - content: characteristic of a <i><a href="#idC941C5B14FFB4aecAA18427AF3D1435A"><font
+      color="#0000ff"><u>material entity</u></font></a></i> ( material entity ) that
+      is<font color="#313131"> or was equipped with communications equipment </font>that
+      is sufficiently physically disconnected such that the vehicle is no longer able
+      to send data to or receive data from <i><a href="#id49FF108A0CA140d49A439CF9BBABA1BB"><font
+      color="#0000ff"><u>connected</u></font></a></i> ( connected ) entities
+  examples: []
+  notes:
+  - content: The vehicle on-board equipment might still be present in the vehicle
+      and might even be partially connected, but not in any operational sense.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: disconnected
+  language_code: eng
+  entry_status: valid
+id: a678b85f-80c7-520b-8e08-7843f8a914b2

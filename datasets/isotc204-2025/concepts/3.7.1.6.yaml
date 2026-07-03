@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 3.7.1.6
+  localized_concepts:
+    eng: 83e7c081-7cbf-5cb5-a903-c10b7bdeb12c
+  domains:
+  - concept_id: 3.7.1
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.7.1.6
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 7556cbfd-f9a4-5275-86f7-05b8fad9740a
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#idD912A6773D214e72BEC85F0D9A4529FA"><font color="#0000ff"><u>input
+      device</u></font></a></i> ( input device ) capable to be carried into, or in
+      near proximity of, a <i><a href="#id555BFAB2A747457fB01D99511FDE885A"><font
+      color="#0000ff"><u>vehicle</u></font></a></i> ( vehicle ) and connected as desired
+  examples:
+  - content: A smartphone connected to a vehicle (via USB or Bluetooth) to provide
+      driver navigation on the vehicle's large screen display
+  notes:
+  - content: Nomadic devices are often more closely associated with a person than
+      they are with the vehicle.
+  - content: Nomadic input devices do not require a maintenance operation to connect
+      or disconnect.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nomadic vehicle input device
+  language_code: eng
+  entry_status: valid
+id: 83e7c081-7cbf-5cb5-a903-c10b7bdeb12c

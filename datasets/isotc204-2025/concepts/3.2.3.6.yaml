@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 3.2.3.6
+  localized_concepts:
+    eng: 79cbf392-da27-5de7-8e17-f2fcc463ea20
+  domains:
+  - concept_id: 3.2.3
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.2.3.6
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: e1953cc6-c0de-580e-ab53-e0587bdc9b2a
+schema_version: '3'
+---
+data:
+  definition:
+  - content: characteristic of a <i><a href="#idC941C5B14FFB4aecAA18427AF3D1435A"><font
+      color="#0000ff"><u>material entity</u></font></a></i> ( material entity ) that
+      is equipped with enabled (i.e., on) and operational electronic communication
+      technologies to support ITS services, including the means to send and receive
+      data to and from other connected entities
+  examples: []
+  notes:
+  - content: The term "connected" does not imply support for any specific communications
+      interface or ITS-S application process.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: connected
+  language_code: eng
+  entry_status: valid
+id: 79cbf392-da27-5de7-8e17-f2fcc463ea20

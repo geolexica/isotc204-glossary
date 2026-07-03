@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 3.5.8.6
+  localized_concepts:
+    eng: 5dc3be7a-0394-5a79-9652-1f9a05ec5a1b
+  domains:
+  - concept_id: 3.5.8
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.5.8.6
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 4f3ad0c7-066c-5b5f-9b2f-a909e9265d37
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#idBF1211A2A721402c8450C76DD85215BD"><font color="#0000ff"><u>cooperative</u></font></a></i>
+      ( cooperative ) financial model where <i><a href="#id8B698530E3B946b3B78C2E6C58FE87D7"><font
+      color="#0000ff"><u>users</u></font></a></i> ( user ) partner to support the
+      purchase, maintenance, and overhead costs associated with a <i><a href="#id1C826F4DC7744eb7B8DDB33EF68A28F5"><font
+      color="#0000ff"><u>service</u></font></a></i> ( service )
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fractional ownership
+  language_code: eng
+  entry_status: valid
+id: 5dc3be7a-0394-5a79-9652-1f9a05ec5a1b

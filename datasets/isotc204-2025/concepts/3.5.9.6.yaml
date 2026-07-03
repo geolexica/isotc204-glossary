@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 3.5.9.6
+  localized_concepts:
+    eng: ad050cd3-b16a-5f81-8dba-7dd6b74b3e96
+  domains:
+  - concept_id: 3.5.9
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.5.9.6
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 19e02248-b261-5595-9467-4f05cbbec0b9
+schema_version: '3'
+---
+data:
+  definition:
+  - content: '&lt;transport service&gt; <i><a href="#idE5D76E7905404edfBA6A94FCEC721A6A"><font
+      color="#0000ff"><u>concurrent</u></font></a></i> ( concurrent ) operation where
+      the <i><a href="#idA3BC9C78F77A4be7BADD00079FED8167"><font color="#0000ff"><u>transport
+      provider</u></font></a></i> ( transport provider ) may choose to divert from
+      its path to service a new request from another <i><a href="#idE444860D95E5458a9BA4CF4BCE3EAD71"><font
+      color="#0000ff"><u>transport user</u></font></a></i> ( transport user ) while
+      servicing an earlier transport consumer'
+  examples:
+  - content: ridesplitting
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: paired on-demand
+  language_code: eng
+  entry_status: valid
+id: ad050cd3-b16a-5f81-8dba-7dd6b74b3e96

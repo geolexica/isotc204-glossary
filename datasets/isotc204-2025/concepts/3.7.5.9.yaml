@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.7.5.9
+  localized_concepts:
+    eng: 300f080d-fbd2-5056-b9c8-a6cd7f33f8a4
+  domains:
+  - concept_id: 3.7.5
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.7.5.9
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 7c454466-5fc0-5ba6-a77d-40c9198beba1
+schema_version: '3'
+---
+data:
+  definition:
+  - content: speed of a <i><a href="#id555BFAB2A747457fB01D99511FDE885A"><font color="#0000ff"><u>vehicle</u></font></a></i>
+      ( vehicle ) that exceeds speeds typical of pedal cycles but can be reached on
+      performance pedal cycles in short bursts or by performance riders
+  examples:
+  - content: SAE J3194:2019 associates this with a top speed in the range between
+      32 km/h and 48 km/h.
+  notes:
+  - content: Local regulations for the exact speed range vary.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: moderately low vehicle speed
+  language_code: eng
+  entry_status: valid
+id: 300f080d-fbd2-5056-b9c8-a6cd7f33f8a4

@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.2.3.4
+  localized_concepts:
+    eng: '008402fb-f49f-51fa-b3a1-0a5117214106'
+  domains:
+  - concept_id: 3.2.3
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.2.3.4
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: cdeccbd0-4517-53c6-a7c3-c7c2ad398358
+schema_version: '3'
+---
+data:
+  definition:
+  - content: part of <i><a href="#id5DAF919582BA4ebcA9458826C7601B83"><font color="#0000ff"><u>ITS
+      connected roadside equipment</u></font></a></i> ( connected roadside equipment
+      ) that provides wireless connectivity to <i><a href="#id12A56C8A1EFE4cb8983C1C23C593EB84"><font
+      color="#0000ff"><u>vehicle systems</u></font></a></i> ( vehicle system ) and/or
+      <i><a href="#id3237352F30AA4cbeA2A9728C0671B5A4"><font color="#0000ff"><u>personal
+      systems</u></font></a></i> ( personal system )
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: roadside unit
+  language_code: eng
+  entry_status: valid
+id: '008402fb-f49f-51fa-b3a1-0a5117214106'

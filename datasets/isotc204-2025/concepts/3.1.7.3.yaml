@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 3.1.7.3
+  localized_concepts:
+    eng: 23c43b0e-abf0-56ba-91ea-f44c0d341681
+  domains:
+  - concept_id: 3.1.7
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.1.7.3
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: a2207e24-3054-576b-b526-32d555148b57
+schema_version: '3'
+---
+data:
+  definition:
+  - content: "&lt;functional view&gt; series of actions or activities performed by
+      some object to achieve a goal"
+  examples: []
+  notes:
+  - content: A function transforms inputs into outputs that may include the creation,
+      modification, monitoring, or destruction of elements.
+  sources:
+  - origin:
+      ref:
+        source: ISO 13537:2010, 3.2.4.3, revised to better conform to current ISO
+          terminological entry format
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: function
+  language_code: eng
+  entry_status: valid
+id: 23c43b0e-abf0-56ba-91ea-f44c0d341681

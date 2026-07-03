@@ -1,0 +1,27 @@
+---
+data:
+  identifier: 3.6.1.4
+  localized_concepts:
+    eng: cd282792-8096-5903-9457-102fabaf3b17
+  domains:
+  - concept_id: 3.6.1
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: d0d94a6f-0921-5345-a1c9-de16ab69ef42
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#idA195A5913A44427f96436DF49EAAC159"><font color="#0000ff"><u>person</u></font></a></i>
+      ( person ) who is travelling on foot
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pedestrian
+  language_code: eng
+  entry_status: valid
+id: cd282792-8096-5903-9457-102fabaf3b17

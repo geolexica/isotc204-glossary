@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 3.2.9.5
+  localized_concepts:
+    eng: b91e948f-9b3b-57fa-ab20-3f91fff59396
+  domains:
+  - concept_id: 3.2.9
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.2.9.5
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: d86f7565-40da-5982-98d0-437aad68da84
+schema_version: '3'
+---
+data:
+  definition:
+  - content: installation of an implementation of an <i><a href="#id371D609484264a3598C7092967DD21DD"><font
+      color="#0000ff"><u>ITS-S application process</u></font></a></i> ( ITS-S application
+      process ) on an <i><a href="#idF1E402D380EE478c957A2FF53D9EA0C5"><font color="#0000ff"><u>ITS
+      station</u></font></a></i> ( ITS station )
+  examples: []
+  notes:
+  - content: An implementation is typically associated with an implementation name,
+      a version, and a release number.
+  - content: An installation is typically associated with a specific license code
+      or serial number.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S application process installation
+  language_code: eng
+  entry_status: valid
+id: b91e948f-9b3b-57fa-ab20-3f91fff59396
