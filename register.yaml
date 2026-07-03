@@ -1,9 +1,0 @@
----
-schema_version: '3'
-name: Geolexica for Intelligent Transport Systems
-
-description: >-
-  Vocabulary for Intelligent Transport Systems (ITS) from ISO 14812.
-
-subregisters:
-  eng:

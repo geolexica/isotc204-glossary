@@ -1,3 +1,12 @@
-# Side effect of tc204-termbase or Relaton?
-db
-Gemfile.lock
+/.bundle/
+/.yardoc/
+/.cache/
+/.datasets/
+/coverage/
+/db/
+/Gemfile.lock
+/pkg/
+/spec/reports/
+/spec/tmp/
+/tmp/
+*.gcr
