@@ -53,7 +53,7 @@ module Iso14812Import
     private
 
     def serialize_concept(concept)
-      Glossarist::ConceptDocument.from_managed_concept(concept).to_yamls
+      Glossarist::V3::ConceptDocument.from_managed_concept(concept).to_yamls
     end
 
     def serialize_figure(entry)
