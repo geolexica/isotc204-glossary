@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 3.3.1.20
+  localized_concepts:
+    eng: fe7a6841-b62e-58de-bf5b-29860f3bd8a8
+  domains:
+  - concept_id: 3.3.1
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.3.1.20
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 8c590c00-45a4-500a-8ae6-dbe93c31b64a
+schema_version: '3'
+---
+data:
+  definition:
+  - content: unpaved part of the <i><a href="#idF9F0ACCE2D49434a803C0D87211F753A"><font
+      color="#0000ff"><u>road reservation</u></font></a></i> ( road reservation )
+      not belonging to the <i><a href="#id855CC715739D462e9790E893914D8768"><font
+      color="#0000ff"><u>carriageway</u></font></a></i> ( carriageway ) but providing
+      lateral support to it
+  examples: []
+  notes:
+  - content: Soft shoulders are not normally intended for driving.
+  - content: Soft shoulders often have a grass or gravel surface.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: soft shoulder
+  language_code: eng
+  entry_status: valid
+id: fe7a6841-b62e-58de-bf5b-29860f3bd8a8

@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 3.7.2.2
+  localized_concepts:
+    eng: 211099f1-2db3-5361-b905-855e2a2a8a97
+  domains:
+  - concept_id: 3.7.2
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.7.2.2
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 4a5469c3-e4ae-5859-9e7c-8d44d8025e49
+schema_version: '3'
+---
+data:
+  definition:
+  - content: '&lt;vehicle&gt; maximum <i><a href="#idCDB8A094578846dcB02F79FBE507F07D"><font
+      color="#0000ff"><u>speed</u></font></a></i> ( speed ) at which a <i><a href="#id555BFAB2A747457fB01D99511FDE885A"><font
+      color="#0000ff"><u>vehicle</u></font></a></i> ( vehicle ) is intended to operate
+      for a sustained period of time'
+  examples: []
+  notes:
+  - content: The term "top speed" is defined in SAE J3194:2019 in relation to powered
+      micromobility vehicles and is considered to be semantically equivalent to design
+      speed.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: design speed
+  language_code: eng
+  entry_status: valid
+id: 211099f1-2db3-5361-b905-855e2a2a8a97

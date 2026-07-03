@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.1.4.7
+  localized_concepts:
+    eng: 0b7d994f-a389-5754-b951-dcef3799d878
+  domains:
+  - concept_id: 3.1.4
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.1.4.7
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 32efd1e3-6f2c-5dec-aadc-6c13b26cd222
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#idBD7658051DA3495bA45E71D438FCD3DF"><font color="#0000ff">architecture
+      view</font></a></i> ( architecture view ) from the <i><a href="#idAB7049839C6D4f60BC7472FCFED26DB4"><font
+      color="#0000ff">physical viewpoint</font></a></i> ( physical viewpoint )
+  examples: []
+  notes:
+  - content: The term "deployment view" is sometimes used within the broader ICT community,
+      but the term "physical view" is preferred to prevent confusion between the physical
+      view of a reference architecture and any part of a deployment architecture.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: physical view
+  language_code: eng
+  entry_status: valid
+id: 0b7d994f-a389-5754-b951-dcef3799d878

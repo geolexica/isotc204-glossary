@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 3.5.2.1
+  localized_concepts:
+    eng: dff91f05-75b9-5047-88b0-0a4c397fce9f
+  domains:
+  - concept_id: 3.5.2
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.5.2.1
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 56efd0f2-cc94-592e-9bee-210b367356b2
+schema_version: '3'
+---
+data:
+  definition:
+  - content: '&lt;transport&gt; <i><a href="#id1C826F4DC7744eb7B8DDB33EF68A28F5"><font
+      color="#0000ff"><u>service</u></font></a></i> ( service ) that delivers one
+      or more <i><a href="#idC941C5B14FFB4aecAA18427AF3D1435A"><font color="#0000ff"><u>material
+      entities</u></font></a></i> ( material entity ) from one location to another
+      to satisfy a <i><a href="#id3B0C62628A72424e98B2D5C2F2BBCD36"><font color="#0000ff"><u>transport
+      need</u></font></a></i> ( transport need )'
+  examples: []
+  notes:
+  - content: The material entities delivered might be people and/or goods.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transport service
+  language_code: eng
+  entry_status: valid
+id: dff91f05-75b9-5047-88b0-0a4c397fce9f

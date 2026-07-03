@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.5.9.1
+  localized_concepts:
+    eng: 20f9024e-7bee-563f-a565-70e95550fc0f
+  domains:
+  - concept_id: 3.5.9
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.5.9.1
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 04ef90ce-afd8-53a3-8ad3-8ec64df7f638
+schema_version: '3'
+---
+data:
+  definition:
+  - content: logistical framework for the agreement between a <i><a href="#id8B7ACC49A9CB45f18C3634024C5A6318"><font
+      color="#0000ff"><u>service provider</u></font></a></i> ( service provider )
+      and a <i><a href="#id8B698530E3B946b3B78C2E6C58FE87D7"><font color="#0000ff"><u>user</u></font></a></i>
+      ( user )
+  examples: []
+  notes:
+  - content: The logistical framework might set restrictions on how a passenger and/or
+      good is received, transported, and/or delivered.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: operational model
+  language_code: eng
+  entry_status: valid
+id: 20f9024e-7bee-563f-a565-70e95550fc0f

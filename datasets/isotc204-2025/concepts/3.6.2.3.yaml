@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 3.6.2.3
+  localized_concepts:
+    eng: ed514918-fd83-5f1a-83b7-fab377ae7c07
+  domains:
+  - concept_id: 3.6.2
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.6.2.3
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: d1b83615-c635-56ea-b1a7-5c09e3796f81
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#idA195A5913A44427f96436DF49EAAC159"><font color="#0000ff"><u>person</u></font></a></i>
+      ( person ) that is currently responsible for the <i><a href="#id53381BA7AB7F48d6AED7DBCA2D07E6C9"><font
+      color="#0000ff"><u>dynamic driving task</u></font></a></i> ( dynamic driving
+      task ) for the <i><a href="#id555BFAB2A747457fB01D99511FDE885A"><font color="#0000ff"><u>vehicle</u></font></a></i>
+      ( vehicle )
+  examples: []
+  notes:
+  - content: The driver is typically onboard the vehicle but could be remote from
+      the vehicle or automated logic.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: driver
+  language_code: eng
+  entry_status: valid
+id: ed514918-fd83-5f1a-83b7-fab377ae7c07

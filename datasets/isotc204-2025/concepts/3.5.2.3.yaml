@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 3.5.2.3
+  localized_concepts:
+    eng: b68e5f6a-92b0-5024-b767-7917521865de
+  domains:
+  - concept_id: 3.5.2
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.5.2.3
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: d9394121-8538-58e4-9da5-4f85ab5b7073
+schema_version: '3'
+---
+data:
+  definition:
+  - content: '&lt;transport&gt; <i><a href="#id8B698530E3B946b3B78C2E6C58FE87D7"><font
+      color="#0000ff"><u>consumer</u></font></a></i> ( user ) that has a <i><a href="#id3B0C62628A72424e98B2D5C2F2BBCD36"><font
+      color="#0000ff"><u>transport need</u></font></a></i> ( transport need ) to be
+      fulfilled'
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transport user
+  language_code: eng
+  entry_status: valid
+id: b68e5f6a-92b0-5024-b767-7917521865de

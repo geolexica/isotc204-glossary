@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 3.7.3.4
+  localized_concepts:
+    eng: 5d37c7af-f6a1-5a16-b4bf-1800c904911e
+  domains:
+  - concept_id: 3.7.3
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.7.3.4
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: c2ecef1e-9a04-511a-a6b0-9c7492634d77
+schema_version: '3'
+---
+data:
+  definition:
+  - content: '&lt;driving automation&gt; <i><a href="#idA195A5913A44427f96436DF49EAAC159"><font
+      color="#0000ff"><u>person</u></font></a></i> ( person ) who is able to operate
+      the vehicle if the <i><a href="#id0D13CFB7427A423d9DBC082B91FCEE24"><font color="#0000ff"><u>Level
+      3 ADS</u></font></a></i> ( level 3 ADS ) issues a request to intervene or if
+      s/he otherwise identifies a condition that requires intervention to perform
+      the <i><a href="#id53381BA7AB7F48d6AED7DBCA2D07E6C9"><font color="#0000ff"><u>DDT</u></font></a></i>
+      ( dynamic driving task )'
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fallback-ready user
+  language_code: eng
+  entry_status: valid
+id: 5d37c7af-f6a1-5a16-b4bf-1800c904911e

@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 3.2.9.1
+  localized_concepts:
+    eng: 165fef84-2963-5929-a703-926dca622dc0
+  domains:
+  - concept_id: 3.2.9
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.2.9.1
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 6fd1d1e2-07cd-51a7-b86c-79b625697a7b
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#idAE2F5ED40F9549e2A07B4C547A3C4CF4"><font color="#0000ff"><u>ITS-S
+      user need</u></font></a></i> ( ITS-S user need ) expressed as a formal set of
+      interoperability requirements that need to be fulfilled to satisfy a portion
+      of functionality of an <i><a href="#id1A22C407CEBA41c495E1D89FC4C87504"><font
+      color="#0000ff"><u>ITS application</u></font></a></i> ( ITS application )
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS application role
+  language_code: eng
+  entry_status: valid
+id: 165fef84-2963-5929-a703-926dca622dc0

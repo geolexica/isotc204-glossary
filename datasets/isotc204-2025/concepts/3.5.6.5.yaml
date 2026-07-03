@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 3.5.6.5
+  localized_concepts:
+    eng: 83d5c17f-71c7-54ea-8501-3bed81ea7682
+  domains:
+  - concept_id: 3.5.6
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.5.6.5
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: bddfb2ee-29a1-58a1-9089-a53f4cc4fe1f
+schema_version: '3'
+---
+data:
+  definition:
+  - content: using a <i><a href="#id8C73DE6A6FCF4643AE8C1A25A4E4C9CF"><font color="#0000ff"><u>shared
+      vehicle service</u></font></a></i> ( shared vehicle service )
+  examples: []
+  notes:
+  - content: This term can be specialized by replacing "vehicle" with any defined
+      vehicle type; however, in some cases the preferred form is to consolidate terms
+      (e.g., "carsharing" rather than "passenger car sharing").
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vehicle sharing
+  language_code: eng
+  entry_status: valid
+id: 83d5c17f-71c7-54ea-8501-3bed81ea7682

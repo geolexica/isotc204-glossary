@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.6.2.4
+  localized_concepts:
+    eng: f9a8806a-ccad-5d69-b7f9-2e5cdc34fcb8
+  domains:
+  - concept_id: 3.6.2
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.6.2.4
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 7cf0086f-b261-566b-96c9-d3d0bfb6926f
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id99035FCBCBED4af49063EB3F85FD7031"><font color="#0000ff"><u>driver</u></font></a></i>
+      ( driver ) that performs the <i><a href="#id53381BA7AB7F48d6AED7DBCA2D07E6C9"><font
+      color="#0000ff"><u>dynamic driving task</u></font></a></i> ( dynamic driving
+      task ) using the vehicle's <i><a href="#id9FA5E7B96F34461bAF17E2FB61512F95"><font
+      color="#0000ff"><u>built-in input devices</u></font></a></i> ( built-in vehicle
+      input device ) to control the longitudinal and lateral movement of the vehicle
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: in-vehicle driver
+  language_code: eng
+  entry_status: valid
+id: f9a8806a-ccad-5d69-b7f9-2e5cdc34fcb8

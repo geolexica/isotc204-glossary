@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 3.1.2.4
+  localized_concepts:
+    eng: beeb556b-761f-5755-84f7-d91594e54045
+  domains:
+  - concept_id: 3.1.2
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.1.2.4
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 519ba769-10fa-5fb1-ae0d-95c9db0ecf2e
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id9F9DE40282B84b8aAD4F618C7836F09E"><font color="#0000ff"><u>system</u></font></a></i>
+      ( system ) comprised of information, communication, sensor, and control technologies
+      and that is designed to benefit a <i><a href="#id261629D58D7B439b8DAE5905D2EEF4D5"><font
+      color="#0000ff"><u>surface transport system</u></font></a></i> ( surface transport
+      system )
+  examples: []
+  notes:
+  - content: There is not complete agreement on the precise limits of ITS. Currently,
+      the term is almost exclusively applied to ground-based travel of goods and people
+      over significant distances. The term is viewed as including ferry systems, which
+      often form an integral part of a local surface transport system; it is less
+      clear if it includes long-distance sea-fairing ships. ITS is also generally
+      applied to transport systems that cover a considerable distance (e.g., control
+      systems for factory conveyance technologies are not often referred to as "ITS").
+      Some have suggested that air travel, which is arguably a transport system designed
+      to move physical entities between points on the surface of the earth, should
+      be included in the scope of the term, but this perspective is not universally
+      accepted. It is expected that the exact limits of the term will be further refined
+      as the technology matures.
+  - content: '"Intelligent transportation system" is the American English equivalent.'
+  - content: Benefits potentially include, but are not limited to, increased safety,
+      sustainability, efficiency, and comfort.
+  - content: The long form (i.e., "intelligent transport system") is often used when
+      the noun is used as a subject, whereas the abbreviation (i.e., "ITS") is often
+      used to modify another noun (e.g., "Intelligent transport systems provide ITS
+      services.").
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intelligent transport system
+  language_code: eng
+  entry_status: valid
+id: beeb556b-761f-5755-84f7-d91594e54045

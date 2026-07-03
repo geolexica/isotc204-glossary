@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 3.1.8.2
+  localized_concepts:
+    eng: 391e866d-114a-5e16-a4f9-3630b0880c0c
+  domains:
+  - concept_id: 3.1.8
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.1.8.2
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 3b0ef1a0-1281-540a-832b-64c791391c82
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id3783095C41E041c8B0CC1813CBCAEE44"><font color="#0000ff"><u>physical
+      object</u></font></a></i> ( ITS component ) that has been assigned one or more
+      <i><a href="#idEC65B14A2BF845deBCC48632F635C9FF"><font color="#0000ff"><u>functional
+      objects</u></font></a></i> ( functional object ) in the provision of one or
+      more <i><a href="#id4D485872E9EE414e9CE1AB855A03540B"><font color="#0000ff"><u>ITS
+      services</u></font></a></i> ( ITS service )
+  examples: []
+  notes:
+  - content: Physical objects are ITS components if they are an integral part of the
+      system; otherwise they are terminators.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS component
+  language_code: eng
+  entry_status: valid
+id: 391e866d-114a-5e16-a4f9-3630b0880c0c

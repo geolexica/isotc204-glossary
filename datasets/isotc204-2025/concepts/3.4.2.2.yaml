@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 3.4.2.2
+  localized_concepts:
+    eng: cd7ff57a-0282-5c2f-8b6b-6704f3648dad
+  domains:
+  - concept_id: 3.4.2
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.4.2.2
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 90acb687-66b8-5f61-8f18-4377e3e04847
+schema_version: '3'
+---
+data:
+  definition:
+  - content: description of a <i><a href="#id3A8D97796CC142fa8882F36C623AA755"><font
+      color="#0000ff"><u>spatial location</u></font></a></i> ( spatial location )
+      in the real world according to a defined reference system
+  examples:
+  - content: 'Coordinate tuple: 51.476852, -0.000500'
+  notes:
+  - content: The rules need not be formal coordinates but could be descriptive.
+  - content: The term "location reference" has been used within ITS, but the term
+      "spatial reference" is preferred to better align with activities of ISO/TC 211.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spatial reference
+  language_code: eng
+  entry_status: valid
+id: cd7ff57a-0282-5c2f-8b6b-6704f3648dad

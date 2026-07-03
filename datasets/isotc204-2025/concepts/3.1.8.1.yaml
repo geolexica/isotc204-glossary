@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 3.1.8.1
+  localized_concepts:
+    eng: b587206b-8ce1-5da7-9e36-dc5f15aaa9f3
+  domains:
+  - concept_id: 3.1.8
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.1.8.1
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 8aa7f50d-c222-5d58-8bc9-a5c5e68a3d83
+schema_version: '3'
+---
+data:
+  definition:
+  - content: '&lt;physical view&gt; abstraction of a <i><a href="#idC941C5B14FFB4aecAA18427AF3D1435A"><font
+      color="#0000ff"><u>material entity</u></font></a></i> ( material entity ) that
+      interacts with other abstract material entities in the provision of <i><a href="#id4D485872E9EE414e9CE1AB855A03540B"><font
+      color="#0000ff"><u>ITS services</u></font></a></i> ( ITS service )'
+  examples: []
+  notes:
+  - content: Physical objects are represented as elements within the physical view
+      and perform a role. Physical objects can be implemented as cloud-based systems.
+  - content: 'Within many ITS reference architectures, physical objects are placed
+      into one of five categories: centre, support, field, vehicle, or traveller.'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: physical object
+  language_code: eng
+  entry_status: valid
+id: b587206b-8ce1-5da7-9e36-dc5f15aaa9f3

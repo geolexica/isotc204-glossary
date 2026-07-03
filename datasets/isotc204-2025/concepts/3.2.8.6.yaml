@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 3.2.8.6
+  localized_concepts:
+    eng: 10687dd4-0db9-5923-8532-caede1724f7b
+  domains:
+  - concept_id: 3.2.8
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.2.8.6
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 987426bb-473a-5caf-bc07-6fb929cf0948
+schema_version: '3'
+---
+data:
+  definition:
+  - content: installation capable of performing one or more <i><a href="#id1A22C407CEBA41c495E1D89FC4C87504"><font
+      color="#0000ff"><u>ITS applications</u></font></a></i> ( ITS application )
+  examples: []
+  notes:
+  - content: An ITS deployment typically refers to the support, central and roadside
+      ITS stations coupled with a tacit acknowledgement of the mobile ITS stations
+      that will communicate with the support, central, or roadside ITS stations.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS deployment
+  language_code: eng
+  entry_status: valid
+id: 10687dd4-0db9-5923-8532-caede1724f7b

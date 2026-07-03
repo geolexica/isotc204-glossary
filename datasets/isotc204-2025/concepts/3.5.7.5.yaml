@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 3.5.7.5
+  localized_concepts:
+    eng: f2f51154-7419-5e81-a329-3274c80ffbd0
+  domains:
+  - concept_id: 3.5.7
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.5.7.5
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: c4fcc27a-1801-596d-9709-121f5130105d
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#idB3A5B0B94EE3469a910FC48F00AD16B4"><font color="#0000ff"><u>private
+      customer model</u></font></a></i> ( private customer model ) where the <i><a
+      href="#id8B7ACC49A9CB45f18C3634024C5A6318"><font color="#0000ff"><u>service
+      provider</u></font></a></i> ( service provider ) is an individual
+  examples:
+  - content: ridesourcing
+  notes:
+  - content: The service provider and user can connect and/or contract through a third-party
+      service.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: peer-to-peer model
+  language_code: eng
+  entry_status: valid
+id: f2f51154-7419-5e81-a329-3274c80ffbd0

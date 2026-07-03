@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 3.1.11.1
+  localized_concepts:
+    eng: 70b033bb-5a89-5298-8d51-af26a25083ba
+  domains:
+  - concept_id: 3.1.11
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.1.11.1
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 84657a5b-3c97-53c3-81d9-75407ddbdf7d
+schema_version: '3'
+---
+data:
+  definition:
+  - content: unit of data that is considered in context to be indivisible and which
+      includes an unambiguous representational form
+  examples: []
+  notes:
+  - content: A data element considered indivisible in one context (e.g., location)
+      may be divisible in another context (e.g., latitude, longitude, and elevation).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: data element
+  language_code: eng
+  entry_status: valid
+id: 70b033bb-5a89-5298-8d51-af26a25083ba

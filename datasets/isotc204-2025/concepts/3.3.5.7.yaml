@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 3.3.5.7
+  localized_concepts:
+    eng: bc53fb12-64ab-57e8-9f72-c7ce1ed46043
+  domains:
+  - concept_id: 3.3.5
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.3.5.7
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: c5238455-e8d7-56de-9997-be4edc845220
+schema_version: '3'
+---
+data:
+  definition:
+  - content: aggregation of one or more <i><a href="#idE86C320F77B445a18BB03478ACD8CBB2"><font
+      color="#0000ff"><u>road links</u></font></a></i> ( road link ) that represents
+      a contiguous length of a <i><a href="#id72937CE094414775B90C995DFCB64EEB"><font
+      color="#0000ff"><u>road</u></font></a></i> ( road ) that shares the same management
+      and operational strategies
+  examples:
+  - content: A traffic signal timing plan is applied to one road section.
+  notes:
+  - content: Different road models might divide the same road into different road
+      sections.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: road section
+  language_code: eng
+  entry_status: valid
+id: bc53fb12-64ab-57e8-9f72-c7ce1ed46043

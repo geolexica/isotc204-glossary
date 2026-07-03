@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 3.5.4.2
+  localized_concepts:
+    eng: 54118f3a-f203-53bd-a3a3-7f4400e0c03f
+  domains:
+  - concept_id: 3.5.4
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.5.4.2
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 527ad185-33d7-59e6-a332-ca58a38c8bfa
+schema_version: '3'
+---
+data:
+  definition:
+  - content: '&lt;ITS-S&gt; <i><a href="#idF1E402D380EE478c957A2FF53D9EA0C5"><font
+      color="#0000ff"><u>ITS-S</u></font></a></i> ( ITS station ) that delivers one
+      or more <i><a href="#idED2A90BFB7F249ffBB47A5827835D6E0"><font color="#0000ff"><u>ITS-S
+      services</u></font></a></i> ( ITS-S service )'
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S service provider
+  language_code: eng
+  entry_status: valid
+id: 54118f3a-f203-53bd-a3a3-7f4400e0c03f

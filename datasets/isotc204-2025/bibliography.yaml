@@ -1,0 +1,76 @@
+---
+bibliography:
+- id: ref_001
+  reference: ISO/IEC TS29003:2018, 3.12, modified to add reference to biological entity
+    definition
+  title: ISO/IEC TS29003:2018
+- id: ref_002
+  reference: ISO/IEC/IEEE 15288:2015, 4.1.46
+  title: ISO/IEC/IEEE 15288:2015
+- id: ref_003
+  reference: ISO/IEC/IEEE 42010:2011, 3.2
+  title: ISO/IEC/IEEE 42010:2011
+- id: ref_004
+  reference: ISO/IEC/IEEE 42010:2011, 3.3
+  title: ISO/IEC/IEEE 42010:2011
+- id: ref_005
+  reference: ISO/IEC/IEEE 42010:2011, 3.4
+  title: ISO/IEC/IEEE 42010:2011
+- id: ref_006
+  reference: ISO/IEC/IEEE 42010:2011, 3.5
+  title: ISO/IEC/IEEE 42010:2011
+- id: ref_007
+  reference: ISO/IEC/IEEE 42010:2011, 3.6
+  title: ISO/IEC/IEEE 42010:2011
+- id: ref_008
+  reference: ISO/IEC/IEEE 42010:2011, 3.7
+  title: ISO/IEC/IEEE 42010:2011
+- id: ref_009
+  reference: ISO/IEC/IEEE 42010:2011, 3.8
+  title: ISO/IEC/IEEE 42010:2011
+- id: ref_010
+  reference: ISO/IEC/IEEE 42010:2011, 3.9
+  title: ISO/IEC/IEEE 42010:2011
+- id: ref_011
+  reference: ISO/IEC/IEEE 42010:2011, 3.10
+  title: ISO/IEC/IEEE 42010:2011
+- id: ref_012
+  reference: ISO/IEC/IEEE 15289:2019 (en), 3.1.10
+  title: ISO/IEC/IEEE 15289:2019 (en)
+- id: ref_013
+  reference: ISO 13537:2010, 3.2.4.3, revised to better conform to current ISO terminological
+    entry format
+  title: ISO 13537:2010
+- id: ref_014
+  reference: ISO 22745-2:2010, B.2.16
+  title: ISO 22745-2:2010
+- id: ref_015
+  reference: ISO/IEC 11179-1:2015, 3.3.18, term changed to "class" and notes added
+  title: ISO/IEC 11179-1:2015
+- id: ref_016
+  reference: ISO/IEC 11179-3:2013(en), 3.2.121
+  title: ISO/IEC 11179-3:2013(en)
+- id: ref_017
+  reference: ISO/IEC 25062:2006(en), A.17, added the context of a use case
+  title: ISO/IEC 25062:2006(en)
+- id: ref_018
+  reference: ISO/IEC/IEEE 26515:2011(en), 4.15
+  title: ISO/IEC/IEEE 26515:2011(en)
+- id: ref_019
+  reference: ISO 19108:2002, 4.1.17, note removed
+  title: ISO 19108:2002
+- id: ref_020
+  reference: ISO 12353-1:2002, 4.2.12, example and note added
+  title: ISO 12353-1:2002
+- id: ref_021
+  reference: ISO 19145:2013, 4.1.11, added note
+  title: ISO 19145:2013
+- id: ref_022
+  reference: ISO 19112:2019, 3.1.1, modified to fit our concept model
+  title: ISO 19112:2019
+- id: ref_023
+  reference: ISO 19112:2019, 3.1.2, note and deprecated term added
+  title: ISO 19112:2019
+- id: ref_024
+  reference: Adapted from ISO 25060:2010(en), 2.25
+  title: Adapted from ISO 25060:2010(en)

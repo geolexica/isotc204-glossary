@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 3.1.9.1
+  localized_concepts:
+    eng: f805c7ac-d2ca-5495-abab-e6ba0f079724
+  domains:
+  - concept_id: 3.1.9
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.1.9.1
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 24a7bf33-c505-54dc-9e2f-c4b70688235d
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id1977CCC04EA948719638C89546E52E47"><font color="#0000ff"><u>architecture</u></font></a></i>
+      ( architecture ) that provides a template solution for <i><a href="#id0875724C4E4C4527A11C1B5977FA6250"><font
+      color="#0000ff"><u>planning</u></font></a></i> ( planning architecture ) and
+      <i><a href="#id78E7722880BD47d7BEB75B27B5842A74"><font color="#0000ff"><u>deployment
+      architectures</u></font></a></i> ( deployment architecture )
+  examples: []
+  notes:
+  - content: Interface standards are based on a reference architecture, which should
+      be explicitly described.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference architecture
+  language_code: eng
+  entry_status: valid
+id: f805c7ac-d2ca-5495-abab-e6ba0f079724

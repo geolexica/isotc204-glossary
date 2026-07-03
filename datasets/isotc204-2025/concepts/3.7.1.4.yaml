@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 3.7.1.4
+  localized_concepts:
+    eng: c765c9d8-c902-58d2-ab91-f930b199a626
+  domains:
+  - concept_id: 3.7.1
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.7.1.4
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: c20fc692-ad33-5cf1-89cf-0af762affda0
+schema_version: '3'
+---
+data:
+  definition:
+  - content: '&lt;vehicle&gt; <i><a href="#idC941C5B14FFB4aecAA18427AF3D1435A"><font
+      color="#0000ff"><u>material entity</u></font></a></i> ( material entity ) that
+      can affect the <i><a href="#id555BFAB2A747457fB01D99511FDE885A"><font color="#0000ff"><u>vehicle''s</u></font></a></i>
+      ( vehicle ) operation'
+  examples:
+  - content: steering wheel, lever, pedal, knob, button, touch screen
+  notes:
+  - content: Input devices include those used to control the motion of the vehicle
+      (e.g., a brake pedal), the state of vehicular equipment (e.g., headlight control),
+      the configuration of the vehicle (e.g., temperature control), etc.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: input device
+  language_code: eng
+  entry_status: valid
+id: c765c9d8-c902-58d2-ab91-f930b199a626

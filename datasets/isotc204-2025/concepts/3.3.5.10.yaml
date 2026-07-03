@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 3.3.5.10
+  localized_concepts:
+    eng: 5c89117a-ba60-5074-ab7f-58d2abd6e7cb
+  domains:
+  - concept_id: 3.3.5
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.3.5.10
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 71b3e06c-4a95-5940-b118-786cc636e172
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id72937CE094414775B90C995DFCB64EEB"><font color="#0000ff"><u>link</u></font></a></i>
+      ( road ) that represents a contiguous length of a <i><a href="#idE28C5D7863C84be78BBC6FDBB1153BBB"><font
+      color="#0000ff"><u>lane link</u></font></a></i> ( lane link ) characterized
+      by the same physical characteristics
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lane segment
+  language_code: eng
+  entry_status: valid
+id: 5c89117a-ba60-5074-ab7f-58d2abd6e7cb

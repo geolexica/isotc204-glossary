@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 3.7.6.1
+  localized_concepts:
+    eng: d19b702a-590c-56d3-83f7-e066e5b1fa59
+  domains:
+  - concept_id: 3.7.6
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.7.6.1
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 3cf7ffe4-4ace-512d-8137-351da3e792b1
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id555BFAB2A747457fB01D99511FDE885A"><font color="#0000ff"><u>vehicle</u></font></a></i>
+      ( vehicle ) meeting the requirements to operate within the <i><a href="#id3F880EDEBFE84014A43B46167936F4B1"><font
+      color="#0000ff"><u>driving space</u></font></a></i> ( roadway ) of a <i><a href="#id72937CE094414775B90C995DFCB64EEB"><font
+      color="#0000ff"><u>road</u></font></a></i> ( road )
+  examples: []
+  notes:
+  - content: al entity
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: road vehicle
+  language_code: eng
+  entry_status: valid
+id: d19b702a-590c-56d3-83f7-e066e5b1fa59

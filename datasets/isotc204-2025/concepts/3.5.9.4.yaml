@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 3.5.9.4
+  localized_concepts:
+    eng: 4a23a951-d70d-5063-85ca-7e0101e0ab39
+  domains:
+  - concept_id: 3.5.9
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.5.9.4
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 13b437a6-3235-5669-a7df-3219f1149053
+schema_version: '3'
+---
+data:
+  definition:
+  - content: '&lt;transport service&gt; <i><a href="#idE5D76E7905404edfBA6A94FCEC721A6A"><font
+      color="#0000ff"><u>concurrent</u></font></a></i> ( concurrent ) operation where
+      transported items can only be received or delivered at stopping points contained
+      in a pre-defined sequence'
+  examples:
+  - content: Traditional fixed-route bus line
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fixed route
+  language_code: eng
+  entry_status: valid
+id: 4a23a951-d70d-5063-85ca-7e0101e0ab39

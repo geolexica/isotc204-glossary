@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 3.3.1.5
+  localized_concepts:
+    eng: bf31130c-2b6c-5f48-a573-23a453009281
+  domains:
+  - concept_id: 3.3.1
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.3.1.5
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 3c47c2b6-2a13-5bbc-b2b1-ae2482a97505
+schema_version: '3'
+---
+data:
+  definition:
+  - content: contiguous area of <i><a href="#id3F880EDEBFE84014A43B46167936F4B1"><font
+      color="#0000ff"><u>roadway</u></font></a></i> ( roadway ) along a <i><a href="#idC615C2E3B7124c83B83FE649EAF6AD04"><font
+      color="#0000ff"><u>road segment</u></font></a></i> ( road segment )
+  examples: []
+  notes:
+  - content: A carriageway is comprised of one or more traffic lanes (i.e., the travelled
+      way) and could include shoulders and lay-bys.
+  - content: Carriageways are separated by physical traffic separators.
+  - content: When looking at a cross-section of the road reservation, the driving
+      space consists of all of the carriageways.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: carriageway
+  language_code: eng
+  entry_status: valid
+id: bf31130c-2b6c-5f48-a573-23a453009281

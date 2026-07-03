@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 3.1.3.1
+  localized_concepts:
+    eng: 9a60e239-88c7-56ad-a42f-a73740ab13c8
+  domains:
+  - concept_id: 3.1.3
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.1.3.1
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: e009a15a-4a44-5771-a901-cacd6e08e8dd
+schema_version: '3'
+---
+data:
+  definition:
+  - content: '&lt;system&gt; fundamental concepts or properties of a system in its
+      <i><a href="#idBCD10BE481B544698858512B057E1D40"><font color="#0000ff"><u>environment</u></font></a></i>
+      ( environment ) embodied in its <i><a href="#idA9454DB86F4C47c9902B7ABEE2462EA8"><font
+      color="#0000ff"><u>elements</u></font></a></i> ( element ), relationships, and
+      in the principles of its design and evolution'
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC/IEEE 42010:2011, 3.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: architecture
+  language_code: eng
+  entry_status: valid
+id: 9a60e239-88c7-56ad-a42f-a73740ab13c8

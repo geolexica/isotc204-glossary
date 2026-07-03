@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 3.1.6.3
+  localized_concepts:
+    eng: a7cae678-5f5d-550f-a17f-9cff96613c8d
+  domains:
+  - concept_id: 3.1.6
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.1.6.3
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 883f4a77-e849-5c7c-b5ff-b633bbe4ce43
+schema_version: '3'
+---
+data:
+  definition:
+  - content: uniquely identified unit of information for human use
+  examples:
+  - content: A report, specification, manual, or book, in printed or electronic form.
+  notes:
+  - content: A document can be a single information item, or part of a larger information
+      item.
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC/IEEE 15289:2019 (en), 3.1.10
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: document
+  language_code: eng
+  entry_status: valid
+id: a7cae678-5f5d-550f-a17f-9cff96613c8d

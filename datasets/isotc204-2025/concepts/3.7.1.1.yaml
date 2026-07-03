@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 3.7.1.1
+  localized_concepts:
+    eng: 755a63bc-87c2-5967-982a-950f852c3233
+  domains:
+  - concept_id: 3.7.1
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.7.1.1
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: f8c0149f-cc5c-5059-858f-e17b7a307511
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#idC941C5B14FFB4aecAA18427AF3D1435A"><font color="#0000ff"><u>material
+      entity</u></font></a></i> ( material entity )<font color="#042655"> designed
+      to transport people or physical goods by changing its physical position</font>
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vehicle
+  language_code: eng
+  entry_status: valid
+id: 755a63bc-87c2-5967-982a-950f852c3233

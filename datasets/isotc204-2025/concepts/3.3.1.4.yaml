@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 3.3.1.4
+  localized_concepts:
+    eng: 249730a7-fb77-54a2-95cc-687fa93d4bda
+  domains:
+  - concept_id: 3.3.1
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.3.1.4
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 62a1349a-72e2-5ce9-aa0c-ddfdb318b9a4
+schema_version: '3'
+---
+data:
+  definition:
+  - content: area above the <i><a href="#id3F880EDEBFE84014A43B46167936F4B1"><font
+      color="#0000ff"><u>roadway</u></font></a></i> ( roadway ) that is primarily
+      intended for the movement of <i><a href="#id555BFAB2A747457fB01D99511FDE885A"><font
+      color="#0000ff"><u>vehicles</u></font></a></i> ( vehicle )
+  examples: []
+  notes:
+  - content: In practice, the driving space design considers a variety of issues,
+      which might result in suboptimal road segments that violate normal design guidelines.
+      Such locations are typically posted with warning signs, but they are still "designed
+      for the movement of vehicles."
+  - content: While the driving space is designed with certain vehicle characteristics
+      in mind, local regulations typically allow a wider set of vehicles to use the
+      driving space.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: driving space
+  language_code: eng
+  entry_status: valid
+id: 249730a7-fb77-54a2-95cc-687fa93d4bda

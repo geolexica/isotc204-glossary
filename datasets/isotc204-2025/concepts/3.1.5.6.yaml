@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.1.5.6
+  localized_concepts:
+    eng: 94ed2341-49ba-5a26-a19f-de422042c5b1
+  domains:
+  - concept_id: 3.1.5
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.1.5.6
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 07b30cd5-b3f5-5e6f-933d-2f219ad21408
+schema_version: '3'
+---
+data:
+  definition:
+  - content: '&lt;ITS-S&gt; part of the <i><a href="#idCAC31494A311430cBB567F2A82C166EC"><font
+      color="#0000ff"><u>ITS station reference architecture</u></font></a></i> ( ITS-S
+      reference architecture ) that is responsible for management of communications
+      and configuration information for the local <i><a href="#id8EA65F2D6F6347bf8FF4C5CD35C61C68"><font
+      color="#0000ff"><u>physical object</u></font></a></i> ( physical object ) and
+      possibly remote physical objects'
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: management entity
+  language_code: eng
+  entry_status: valid
+id: 94ed2341-49ba-5a26-a19f-de422042c5b1

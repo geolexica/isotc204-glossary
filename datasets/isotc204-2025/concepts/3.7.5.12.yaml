@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 3.7.5.12
+  localized_concepts:
+    eng: f9dd4def-8846-5ebe-a39f-2e1838fa3366
+  domains:
+  - concept_id: 3.7.5
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.7.5.12
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: e543239f-a608-5c99-8ecd-b241e7999ea1
+schema_version: '3'
+---
+data:
+  definition:
+  - content: speed of a <i><a href="#id555BFAB2A747457fB01D99511FDE885A"><font color="#0000ff"><u>vehicle</u></font></a></i>
+      ( vehicle ) that exceeds free flow motorway speeds by a factor of two or more
+  examples:
+  - content: A speed in excess of 198 km/h.
+  notes:
+  - content: Local regulations for the exact speed range vary.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: high vehicle speed
+  language_code: eng
+  entry_status: valid
+id: f9dd4def-8846-5ebe-a39f-2e1838fa3366

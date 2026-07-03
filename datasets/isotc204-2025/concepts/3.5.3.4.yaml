@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 3.5.3.4
+  localized_concepts:
+    eng: ae1b93b7-c50d-5506-9b51-7da7f7225380
+  domains:
+  - concept_id: 3.5.3
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.5.3.4
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 6683eba9-bb87-51c4-80e3-e74cbfcac53c
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id8C060C793CE14fb88B50E52BD3A3FDE6"><font color="#0000ff"><u>need</u></font></a></i>
+      ( user need ) of an entity external to the intelligent transport system for
+      a <i><a href="#id261629D58D7B439b8DAE5905D2EEF4D5"><font color="#0000ff"><u>surface
+      transport system</u></font></a></i> ( surface transport system ) benefit that
+      can be met with the use of information, communication, sensor, and/or control
+      technologies
+  examples:
+  - content: Increasing safety, sustainability, efficiency, and/or comfort
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS user need
+  language_code: eng
+  entry_status: valid
+id: ae1b93b7-c50d-5506-9b51-7da7f7225380

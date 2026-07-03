@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 3.2.1.2
+  localized_concepts:
+    eng: 3920200a-9600-5d21-a916-c9322881c688
+  domains:
+  - concept_id: 3.2.1
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.2.1.2
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 4f495b0a-a601-55d3-8e8d-c4a18fc3fd6c
+schema_version: '3'
+---
+data:
+  definition:
+  - content: infrastructure-based <i><a href="#id3783095C41E041c8B0CC1813CBCAEE44"><font
+      color="#0000ff"><u>ITS component</u></font></a></i> ( ITS component ) located
+      outside of a data centre that is designed to provide local processing or routing
+      services while stationary
+  examples:
+  - content: traffic detector, camera, signal controller, message sign, tolling station
+  notes:
+  - content: Field systems can be permanently installed or transportable.
+  - content: The term "roadside system" is typically used to describe field systems
+      along a roadside but can also be used to refer to kiosks and any other systems.
+  - content: Typically, field systems are located along the roadside.
+  - content: Typically, the operation of a field system is governed by management
+      functions running in a centre system.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: field system
+  language_code: eng
+  entry_status: valid
+id: 3920200a-9600-5d21-a916-c9322881c688

@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 3.7.3.16
+  localized_concepts:
+    eng: ec1d70c9-ad27-5e26-9e17-deb70acb8337
+  domains:
+  - concept_id: 3.7.3
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.7.3.16
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 4be06727-f548-5c5d-87ad-e76f3f6d5028
+schema_version: '3'
+---
+data:
+  definition:
+  - content: '&lt;driving automation&gt;<i> </i><i><a href="#idA7CF87D985684eceB59879EF59C87184"><font
+      color="#0000ff"><u>ADS-equipped vehicle</u></font></a></i> ( ADS-equipped vehicle
+      ) designed for both <i>driverless operation </i>and operation by a <i><a href="#id76D23D03F3624a68920FB5BE7FB40ED8"><font
+      color="#0000ff"><u>conventional driver</u></font></a></i> ( in-vehicle driver
+      )<i> </i>for complete <i>trips</i>'
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dual-mode vehicle
+  language_code: eng
+  entry_status: valid
+id: ec1d70c9-ad27-5e26-9e17-deb70acb8337

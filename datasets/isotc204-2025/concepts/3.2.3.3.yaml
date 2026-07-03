@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 3.2.3.3
+  localized_concepts:
+    eng: cb8822d6-b1ca-5c90-aaeb-e5b37cf3eec7
+  domains:
+  - concept_id: 3.2.3
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.2.3.3
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: b5676c3b-cbf2-5ca9-829c-0823c57f5d71
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#idB6702EA11A52412eA44F00E7A7D44F40"><font color="#0000ff"><u>ITS
+      roadside equipment</u></font></a></i> ( ITS roadside equipment ) that performs
+      <i><a href="#id4D485872E9EE414e9CE1AB855A03540B"><font color="#0000ff"><u>ITS
+      services</u></font></a></i> ( ITS service ) by exchanging electronic messages
+      with nearby <i><a href="#id12A56C8A1EFE4cb8983C1C23C593EB84"><font color="#0000ff"><u>vehicle
+      systems</u></font></a></i> ( vehicle system ) and/or <i><a href="#id3237352F30AA4cbeA2A9728C0671B5A4"><font
+      color="#0000ff"><u>personal systems</u></font></a></i> ( personal system ) via
+      short-range wireless technologies
+  examples: []
+  notes:
+  - content: Connected roadside equipment typically provides ITS-related functionality
+      but the term includes roadside equipment that only provide the ITS service of
+      routing for short-range ireless technologies.
+  - content: The term "connected vehicle roadside equipment" is used within the current
+      version of the Architecture Reference for Cooperative and Intelligent Transportation
+      (ARC-IT, http://arc-it.net).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: connected roadside equipment
+  language_code: eng
+  entry_status: valid
+id: cb8822d6-b1ca-5c90-aaeb-e5b37cf3eec7

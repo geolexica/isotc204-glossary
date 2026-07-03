@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 3.2.6.1
+  localized_concepts:
+    eng: deb0ae5b-2a3c-593b-9809-2bdb0820ae50
+  domains:
+  - concept_id: 3.2.6
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.2.6.1
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 47dd56c4-9a14-5bcd-9d9c-d1bd33a4c4ca
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id12A56C8A1EFE4cb8983C1C23C593EB84"><font color="#0000ff"><u>vehicle
+      system</u></font></a></i> ( vehicle system ) that provides all ITS functionality
+      on-board the <i><a href="#id555BFAB2A747457fB01D99511FDE885A"><font color="#0000ff"><u>vehicle</u></font></a></i>
+      ( vehicle )
+  examples: []
+  notes:
+  - content: ITS on-board equipment relates to any functionality. When there is a
+      need to distinguish between core functionality and that by a special vehicle,
+      the term can be further refined by indicating the type of vehicle to which the
+      on-board equipment relates. For example, emergency vehicle on-board equipment
+      can provide specialized functionality.
+  - content: The on-board equipment may also perform other functions.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS on-board equipment
+  language_code: eng
+  entry_status: valid
+id: deb0ae5b-2a3c-593b-9809-2bdb0820ae50

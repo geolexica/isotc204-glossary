@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.1.11.5
+  localized_concepts:
+    eng: 6a1720f2-1744-5ba5-984c-d880022feac0
+  domains:
+  - concept_id: 3.1.11
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.1.11.5
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: f47f4ab2-dd02-5693-9b5c-3b4b854d37b9
+schema_version: '3'
+---
+data:
+  definition:
+  - content: grouping of <i><a href="#id6ADFFDA7618A4047AE100991CBCE83C7"><font color="#0000ff"><u>data
+      elements</u></font></a></i> ( data element ), <i><a href="#idD0B512E1030A4b998CB13473D336CBFC"><font
+      color="#0000ff"><u>data frames</u></font></a></i> ( data frame ), or <i><a href="#id6ADFFDA7618A4047AE100991CBCE83C7"><font
+      color="#0000ff"><u>data elements</u></font></a></i> ( data element ) and <i><a
+      href="#idD0B512E1030A4b998CB13473D336CBFC"><font color="#0000ff"><u>data frames</u></font></a></i>
+      ( data frame )<b> </b>that is used to convey a complete set of information
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: message
+  language_code: eng
+  entry_status: valid
+id: 6a1720f2-1744-5ba5-984c-d880022feac0

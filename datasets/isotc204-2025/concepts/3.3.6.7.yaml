@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 3.3.6.7
+  localized_concepts:
+    eng: ff129258-6567-5a1f-a2c2-83b44f67285c
+  domains:
+  - concept_id: 3.3.6
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.3.6.7
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 7199341c-aa25-5631-947c-3d45d81ab7e2
+schema_version: '3'
+---
+data:
+  definition:
+  - content: '&lt;junction&gt; movement from an <i><a href="#idA779A8E79A9446949679D6C81EA7934A"><font
+      color="#0000ff"><u>ingress lane</u></font></a></i> ( ingress lane ) to an <i><a
+      href="#idCC2F0AF206E94b6c811F65B1BC7B60A7"><font color="#0000ff"><u>egress lane</u></font></a></i>
+      ( egress lane )'
+  examples: []
+  notes:
+  - content: The term "maneuver" is the American English spelling.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intersection manoeuvre
+  language_code: eng
+  entry_status: valid
+id: ff129258-6567-5a1f-a2c2-83b44f67285c

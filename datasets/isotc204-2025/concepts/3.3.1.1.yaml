@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 3.3.1.1
+  localized_concepts:
+    eng: 4301d029-46be-57a3-9284-423208aead14
+  domains:
+  - concept_id: 3.3.1
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.3.1.1
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 1d25841c-a9d7-5d4a-be77-6c306831ec5f
+schema_version: '3'
+---
+data:
+  definition:
+  - content: transverse view of road geometry
+  examples:
+  - content: Figure A-23
+  notes:
+  - content: The transverse view provides a vertical section of the ground and carriageway
+      at right angles to the centre line of the carriageway.
+  sources:
+  - origin:
+      ref:
+        source: ISO 12353-1:2002, 4.2.12, example and note added
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cross-section
+  language_code: eng
+  entry_status: valid
+id: 4301d029-46be-57a3-9284-423208aead14

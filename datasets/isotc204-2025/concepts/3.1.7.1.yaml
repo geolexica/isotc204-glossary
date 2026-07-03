@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 3.1.7.1
+  localized_concepts:
+    eng: 4b22bab3-72f7-5ca3-9c0b-581dd3146766
+  domains:
+  - concept_id: 3.1.7
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.1.7.1
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: c98c4f0e-b678-56e0-a75c-588ceb8344d4
+schema_version: '3'
+---
+data:
+  definition:
+  - content: representation of data flowing between two <i><a href="#id6DD0743FF44F4f0e9817C766379AD954"><font
+      color="#0000ff">processes</font></a></i> ( process ) or between a process and
+      a <i><a href="#id98ACC203E1E34474AF1A04245619E6BF"><font color="#0000ff">terminator</font></a></i>
+      ( terminator )
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: data flow
+  language_code: eng
+  entry_status: valid
+id: 4b22bab3-72f7-5ca3-9c0b-581dd3146766

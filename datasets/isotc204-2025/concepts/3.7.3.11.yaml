@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 3.7.3.11
+  localized_concepts:
+    eng: 53e1827e-019a-5266-aa82-4a8095cdcb32
+  domains:
+  - concept_id: 3.7.3
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.7.3.11
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 15d99827-87df-5444-abcd-bbec32af6970
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#idE3B6FF9F65A448ffBA3B74876D599814"><font color="#0000ff"><u>ADS</u></font></a></i>
+      ( ADS ) designed with the expectation that the <i><a href="#id4B4E9E64261E4f09B7F7579C8389B23F"><font
+      color="#0000ff"><u>fallback-ready user</u></font></a></i> ( fallback-ready user
+      ) is available to intervene
+  examples: []
+  notes:
+  - content: Level 3 ADSs are restricted to operating within a specific ODD.
+  - content: Other driving automation levels include "level 1 driving automation",
+      "level 2 driving automation", "level 4 ADS", and "level 5 ADS".
+  - content: The user might need to intervene due to an ADS-issued request, a DDT
+      performance-relevant system failure, or other reasons.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: level 3 ADS
+  language_code: eng
+  entry_status: valid
+id: 53e1827e-019a-5266-aa82-4a8095cdcb32

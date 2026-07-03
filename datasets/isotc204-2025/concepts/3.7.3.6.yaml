@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 3.7.3.6
+  localized_concepts:
+    eng: 3aafc2d5-9c8e-5d21-9359-46bd17491cda
+  domains:
+  - concept_id: 3.7.3
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.7.3.6
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: e2c307c3-52a9-5388-bd9d-cb34a5e7e511
+schema_version: '3'
+---
+data:
+  definition:
+  - content: hardware and software <i><a href="#id9F9DE40282B84b8aAD4F618C7836F09E"><font
+      color="#0000ff"><u>system</u></font></a></i> ( system ) that is able to perform
+      part or all of the <i><a href="#id53381BA7AB7F48d6AED7DBCA2D07E6C9"><font color="#0000ff"><u>DDT</u></font></a></i>
+      ( dynamic driving task ) on a sustained basis
+  examples: []
+  notes:
+  - content: In contrast to this generic term for any level 1-5 system, the specific
+      term for a level 3-5 system is "Automated Driving System (ADS)." Given the similarity
+      between the generic term, "driving automation system," and the level 3-5-specific
+      term, "Automated Driving System," the latter term is intentionally capitalized
+      when spelled out and reduced to its acronym, "ADS", as much as possible, while
+      "driving automation system" should not be.
+  - content: A driving automation system includes any system capable of level 1-5
+      driving automation.
+  - content: Driving automation levels are defined in ISO/SAE 22736, which is also
+      known as SAE J3016.
+  - content: Driving automation levels include "level 1 driving automation", "level
+      2 driving automation", "level 3 ADS", "level 4 ADS", and "level 5 ADS".
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: driving automation system
+  language_code: eng
+  entry_status: valid
+id: 3aafc2d5-9c8e-5d21-9359-46bd17491cda

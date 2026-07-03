@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 3.2.1.4
+  localized_concepts:
+    eng: f4d2417d-d425-5d49-a6dd-b8d157ed1e91
+  domains:
+  - concept_id: 3.2.1
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.2.1.4
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: ba4e7916-f818-54da-8a3e-e64ea9d9909c
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id3783095C41E041c8B0CC1813CBCAEE44"><font color="#0000ff"><u>ITS
+      component</u></font></a></i> ( ITS component ) that provides services in support
+      of one or more other ITS components
+  examples:
+  - content: Data distribution system, network time source, cooperative ITS credentials
+      management system
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: support system
+  language_code: eng
+  entry_status: valid
+id: f4d2417d-d425-5d49-a6dd-b8d157ed1e91

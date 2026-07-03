@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 3.1.1.5
+  localized_concepts:
+    eng: 6cfe1955-639f-5a0e-8c73-6536bdfe2b7e
+  domains:
+  - concept_id: 3.1.1
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.1.1.5
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: e1da75f3-3920-5e27-92a3-a6c86031a97e
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#idC941C5B14FFB4aecAA18427AF3D1435A"><font color="#0000ff"><u>material
+      entity</u></font></a></i> ( material entity ) that was or is a living organism
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: biological entity
+  language_code: eng
+  entry_status: valid
+id: 6cfe1955-639f-5a0e-8c73-6536bdfe2b7e

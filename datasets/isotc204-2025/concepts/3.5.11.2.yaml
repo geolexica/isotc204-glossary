@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 3.5.11.2
+  localized_concepts:
+    eng: 12c49ee6-6fbd-5c09-aeb4-66f65d04f8d9
+  domains:
+  - concept_id: 3.5.11
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.5.11.2
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: d5003e6d-071a-5c10-aee6-1fc472223824
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id3AF823A8DE44425984FED140D4668259"><font color="#0000ff"><u>commercial</u></font></a></i>
+      ( commercial ) <i><a href="#idAF252202FB50473fB51E56F3FBE6932E"><font color="#0000ff"><u>shared
+      transport service</u></font></a></i> ( shared transport service ) that transports
+      passengers <i><a href="#idED3C7DDD53C34d7a87F9BF037CB98B16"><font color="#0000ff"><u>sequentially</u></font></a></i>
+      ( sequential )
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: taxi service
+  language_code: eng
+  entry_status: valid
+id: 12c49ee6-6fbd-5c09-aeb4-66f65d04f8d9

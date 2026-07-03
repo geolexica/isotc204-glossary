@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 3.1.5.1
+  localized_concepts:
+    eng: 4684c079-bb48-5ef0-a64e-2d829fb73a44
+  domains:
+  - concept_id: 3.1.5
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.1.5.1
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: e4ec07a8-95e6-5c0f-a047-fd2b62ed4a8e
+schema_version: '3'
+---
+data:
+  definition:
+  - content: '&lt;ITS-S&gt; part of the <i><a href="#idCAC31494A311430cBB567F2A82C166EC"><font
+      color="#0000ff"><u>ITS station reference architecture</u></font></a></i> ( ITS-S
+      reference architecture ) that is responsible for providing ITS-related functionality'
+  examples: []
+  notes:
+  - content: Within the US, the NTCIP standards identify an "information layer" on
+      top of the traditional OSI stack; however, the purpose of this layer includes
+      both information configuration and functionality. The ITS-S reference architecture
+      separates these two roles between the management entity and the application
+      entity.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: application entity
+  language_code: eng
+  entry_status: valid
+id: 4684c079-bb48-5ef0-a64e-2d829fb73a44

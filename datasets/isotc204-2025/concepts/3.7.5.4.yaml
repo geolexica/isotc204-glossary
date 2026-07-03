@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.7.5.4
+  localized_concepts:
+    eng: 3adfb6e6-0d88-5c10-92a7-e7f9937f81fe
+  domains:
+  - concept_id: 3.7.5
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.7.5.4
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 7c66f5f3-779e-5d0b-8080-fa018c907882
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id555BFAB2A747457fB01D99511FDE885A"><font color="#0000ff"><u>vehicle</u></font></a></i>
+      ( vehicle ) with a <i><a href="#id94141E56EA294dfb8212E7FA5553D1F6"><font color="#0000ff"><u>design
+      speed</u></font></a></i> ( design speed ) in the range of <i><a href="#id4872741586D64a2183735162D83FA308"><font
+      color="#0000ff"><u>moderate vehicle speeds</u></font></a></i> ( moderate vehicle
+      speed )
+  examples:
+  - content: typical side-by-side utility task vehicle (UTV)
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: moderate-speed vehicle
+  language_code: eng
+  entry_status: valid
+id: 3adfb6e6-0d88-5c10-92a7-e7f9937f81fe

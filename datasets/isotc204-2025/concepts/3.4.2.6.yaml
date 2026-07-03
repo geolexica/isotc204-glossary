@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 3.4.2.6
+  localized_concepts:
+    eng: deb54aa4-bc62-54ce-ab38-9e1b341a0976
+  domains:
+  - concept_id: 3.4.2
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.4.2.6
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 61893f11-c288-5670-8077-fe6e448d6d73
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id0F23B7B6B1C64d828035A246CDCC780C"><font color="#0000ff"><u>spatial
+      reference</u></font></a></i> ( spatial reference ) in the form of a label or
+      code
+  examples:
+  - content: '"Spain" is an example of a label (country name); "SW1P 3AD" is an example
+      of a code (postcode).'
+  notes:
+  - content: The term "location code" has been used previously in ISO/TC 204 standards,
+      but "geographic identifier" is preferred to be more consistent with ISO/TC 211
+      work.
+  sources:
+  - origin:
+      ref:
+        source: ISO 19112:2019, 3.1.2, note and deprecated term added
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: geographic identifier
+  language_code: eng
+  entry_status: valid
+id: deb54aa4-bc62-54ce-ab38-9e1b341a0976

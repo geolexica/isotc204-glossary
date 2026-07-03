@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 3.7.3.15
+  localized_concepts:
+    eng: 0c31a0a6-86ec-5565-95c0-093fd75ead0b
+  domains:
+  - concept_id: 3.7.3
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.7.3.15
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 32d0223d-24b5-54f7-bc54-04672bfece62
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id555BFAB2A747457fB01D99511FDE885A"><font color="#0000ff"><u>vehicle</u></font></a></i>
+      ( vehicle ) integrated with an <i><a href="#idE3B6FF9F65A448ffBA3B74876D599814"><font
+      color="#0000ff"><u>ADS</u></font></a></i> ( ADS )
+  examples: []
+  notes:
+  - content: The terms "automated vehicle" and "AV" are often used in a colloquial
+      form, however, these terms might be used to mean either an "ADS-equipped vehicle"
+      or a "vehicle with an engaged ADS". The term "ADS-equipped vehicle" is preferred
+      since it is more precise and descriptive in its meaning.
+  - content: The term "autonomous vehicle" is also often used in a colloquial form
+      and is even less well defined. The term is particularly problematic because
+      the word "autonomous" has been used for a long time in the robotics and artificial
+      intelligence research communities to signify systems that have the ability and
+      authority to make decisions independently and self-sufficiently. Due to its
+      imprecise and overly broad meaning, use of the term "autonomous vehicle" is
+      discouraged.
+  - content: This term can, and when possible should be, refined by identifying the
+      level of automation. For example, the terms "level 5 ADS-equipped vehicle" and
+      "level 5 automated vehicle" should be interpreted as "ADS-equipped vehicle where
+      the ADS is a level 5 ADS."
+  - content: This term only describes the capabilities of the vehicle, not its operational
+      state. In other words, the term applies as long as the ADS is connected to the
+      vehicle, whether the DDT is actively engaged or not.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ADS-equipped vehicle
+  language_code: eng
+  entry_status: valid
+id: 0c31a0a6-86ec-5565-95c0-093fd75ead0b

@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 3.7.3.10
+  localized_concepts:
+    eng: 9a6edc70-4dd4-5c42-a7bc-01fc5501eebb
+  domains:
+  - concept_id: 3.7.3
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.7.3.10
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: a0398f8f-6544-532a-9663-8ca848ec6009
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id65AFD85E052043b0AB87514248666FFA"><font color="#0000ff"><u>driving
+      automation system</u></font></a></i> ( driving automation system ) that is able
+      to perform the entire <i><a href="#id53381BA7AB7F48d6AED7DBCA2D07E6C9"><font
+      color="#0000ff"><u>DDT</u></font></a></i> ( dynamic driving task ) on a sustained
+      basis
+  examples: []
+  notes:
+  - content: The abbreviated form ("ADS") is the most preferred form and the alternate
+      form ("Automated Driving System") uses initial capitals to avoid confusion with
+      the more general "driving automation system".
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ADS
+  language_code: eng
+  entry_status: valid
+id: 9a6edc70-4dd4-5c42-a7bc-01fc5501eebb

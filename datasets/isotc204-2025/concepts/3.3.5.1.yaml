@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 3.3.5.1
+  localized_concepts:
+    eng: dbe66184-4c78-591f-ad1e-9861c4f6830e
+  domains:
+  - concept_id: 3.3.5
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.3.5.1
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: b62757ce-79e0-5a33-8af7-a4ab976dd701
+schema_version: '3'
+---
+data:
+  definition:
+  - content: curvilinear length of <i><a href="#id3F880EDEBFE84014A43B46167936F4B1"><font
+      color="#0000ff"><u>roadway</u></font></a></i> ( roadway ) that shares the same
+      identification
+  examples: []
+  notes:
+  - content: A length of the road network may be referenced by multiple designators
+      (e.g., Main Street and Route 7). In this case, there would be two "roads" that
+      share the same set of "carriageways".
+  - content: A road can change directions at a junction.
+  - content: The identification is generally a name or number.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: road
+  language_code: eng
+  entry_status: valid
+id: dbe66184-4c78-591f-ad1e-9861c4f6830e

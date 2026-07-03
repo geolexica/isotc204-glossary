@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 3.2.3.1
+  localized_concepts:
+    eng: 1924df65-5463-5224-8183-5cb49697c2fd
+  domains:
+  - concept_id: 3.2.3
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.2.3.1
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 6cf57bf4-94f3-5ec3-ac11-e232d8e9ac5d
+schema_version: '3'
+---
+data:
+  definition:
+  - content: portable <i><a href="#idC7D0D59CB4CF482c92AAA0D821A13A05"><font color="#0000ff"><u>field
+      system</u></font></a></i> ( field system ) used by field personnel to locally
+      troubleshoot, initialize, reprogram, and test infrastructure equipment
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: field support equipment
+  language_code: eng
+  entry_status: valid
+id: 1924df65-5463-5224-8183-5cb49697c2fd

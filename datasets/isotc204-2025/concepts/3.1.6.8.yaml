@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 3.1.6.8
+  localized_concepts:
+    eng: 4a3650c9-2e02-5d55-9838-ab93e92b4c2a
+  domains:
+  - concept_id: 3.1.6
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.1.6.8
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 767a64c2-5155-5baa-a28d-8c2cd6a8210e
+schema_version: '3'
+---
+data:
+  definition:
+  - content: '&lt;enterprise view&gt; <i><a href="#idA9454DB86F4C47c9902B7ABEE2462EA8"><font
+      color="#0000ff"><u>element</u></font></a></i> ( element ) that represents an
+      association between two <i><a href="#id55BD7B9720A44728AE93ED1F75D7692B"><font
+      color="#0000ff"><u>resources</u></font></a></i> ( resource )'
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relationship
+  language_code: eng
+  entry_status: valid
+id: 4a3650c9-2e02-5d55-9838-ab93e92b4c2a

@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 3.5.9.2
+  localized_concepts:
+    eng: a4338d2c-5961-5748-b673-c65cd2d308fd
+  domains:
+  - concept_id: 3.5.9
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.5.9.2
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 1ff23a3f-59cc-533f-8e03-6e9540391e16
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id9EE684356599469b905CF09986D497E9"><font color="#0000ff"><u>operational
+      model</u></font></a></i> ( operational model ) where <i><a href="#id1C826F4DC7744eb7B8DDB33EF68A28F5"><font
+      color="#0000ff"><u>services</u></font></a></i> ( service ) are provided to a
+      single <i><a href="#id8B698530E3B946b3B78C2E6C58FE87D7"><font color="#0000ff"><u>user</u></font></a></i>
+      ( user ) at any one time
+  examples:
+  - content: traditional taxi service
+  notes:
+  - content: A single transport consumer might request the transport of multiple passengers.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sequential
+  language_code: eng
+  entry_status: valid
+id: a4338d2c-5961-5748-b673-c65cd2d308fd

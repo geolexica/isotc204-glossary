@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 3.4.1.6
+  localized_concepts:
+    eng: ef73951d-fc36-56f7-a8d8-37d1c76244dc
+  domains:
+  - concept_id: 3.4.1
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.4.1.6
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 15ee48ea-756e-5d41-99d5-759aa60f4cc4
+schema_version: '3'
+---
+data:
+  definition:
+  - content: <i><a href="#id3A8D97796CC142fa8882F36C623AA755"><font color="#0000ff"><u>spatial
+      location</u></font></a></i> ( spatial location ) enclosed within two-dimensional
+      boundary/boundaries across a defined surface
+  examples:
+  - content: British Isles
+  notes:
+  - content: The boundary may consist of a single (e.g., a circle) or multiple (e.g.,
+      the boundaries of city limits) curvilinear lines and might consist of multiple
+      enclosed areas.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: area location
+  language_code: eng
+  entry_status: valid
+id: ef73951d-fc36-56f7-a8d8-37d1c76244dc

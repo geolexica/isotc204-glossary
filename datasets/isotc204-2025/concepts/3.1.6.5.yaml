@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.1.6.5
+  localized_concepts:
+    eng: 42a1a0d7-38ff-5e5f-abdf-5904c95395db
+  domains:
+  - concept_id: 3.1.6
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.1.6.5
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 286c62b5-e956-5ac4-996f-a9e16ff2595d
+schema_version: '3'
+---
+data:
+  definition:
+  - content: '&lt;enterprise view&gt; <i><a href="#id266739C36D20412dBADD84864A84FB14"><font
+      color="#0000ff"><u>interaction</u></font></a></i> ( interaction ) between two
+      <i><a href="#idFE675C964126463bBB0CAB673DBFF9C7"><font color="#0000ff"><u>enterprise
+      objects</u></font></a></i> ( enterprise object ) governed by a documented agreement'
+  examples:
+  - content: A road operator might enter into formal agreement(s) with the owner of
+      a road and the owner(s) of the associated roadside equipment.
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: formal coordination
+  language_code: eng
+  entry_status: valid
+id: 42a1a0d7-38ff-5e5f-abdf-5904c95395db

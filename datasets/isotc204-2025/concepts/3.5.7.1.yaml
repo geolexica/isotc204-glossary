@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.5.7.1
+  localized_concepts:
+    eng: 16a324c7-ea5a-5944-9cab-16d675f40682
+  domains:
+  - concept_id: 3.5.7
+    source: urn:iso:std:iso:14812:2025
+    ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:ts:14812:2022
+    id: 3.5.7.1
+date_accepted: '2025-12-31T00:00:00+00:00'
+status: valid
+id: 69cc7c78-39db-5769-8fc1-94b87a91dda3
+schema_version: '3'
+---
+data:
+  definition:
+  - content: legal framework for the agreement between a <i><a href="#id8B7ACC49A9CB45f18C3634024C5A6318"><font
+      color="#0000ff"><u>service provider</u></font></a></i> ( service provider )
+      and a <i><a href="#id8B698530E3B946b3B78C2E6C58FE87D7"><font color="#0000ff"><u>user</u></font></a></i>
+      ( user )
+  examples: []
+  notes:
+  - content: Contracts might be via a third party, implied or verbal, especially in
+      the case of peer-to-peer.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: contractual model
+  language_code: eng
+  entry_status: valid
+id: 16a324c7-ea5a-5944-9cab-16d675f40682
