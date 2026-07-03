@@ -35,36 +35,50 @@ jobs:
           fi
           echo "version=${VERSION}" >> "$GITHUB_OUTPUT"
 
-      - name: Build standard GCR package
+      - name: Build one GCR per dataset
         run: |
-          glossarist package . -o "isotc204-${{ steps.version.outputs.version }}.gcr" \
-            --shortname isotc204 \
-            --version "${{ steps.version.outputs.version }}" \
-            --title "ISO/TC 204 ITS Vocabulary" \
-            --owner "ISO/TC 204"
+          VERSION="${{ steps.version.outputs.version }}"
+          for dataset in datasets/*; do
+            name=$(basename "$dataset")
+            echo "::group::Packaging $name"
+            glossarist package "$dataset" \
+              -o "${name}-${VERSION}.gcr" \
+              --shortname "$name" \
+              --version "$VERSION" \
+              --title "ISO/TC 204 ITS Vocabulary (${name})" \
+              --owner "ISO/TC 204"
+            glossarist package "$dataset" \
+              -o "${name}-${VERSION}-full.gcr" \
+              --shortname "$name" \
+              --version "$VERSION" \
+              --title "ISO/TC 204 ITS Vocabulary (${name})" \
+              --owner "ISO/TC 204" \
+              --compiled-formats tbx,jsonld,turtle,jsonl
+            # Unversioned alias for "latest of this edition"
+            cp "${name}-${VERSION}.gcr" "${name}.gcr"
+            cp "${name}-${VERSION}-full.gcr" "${name}-full.gcr"
+            echo "::endgroup::"
+          done
 
-      - name: Build full GCR package (with compiled formats)
+      - name: Collect release files
         run: |
-          glossarist package . -o "isotc204-${{ steps.version.outputs.version }}-full.gcr" \
-            --shortname isotc204 \
-            --version "${{ steps.version.outputs.version }}" \
-            --title "ISO/TC 204 ITS Vocabulary" \
-            --owner "ISO/TC 204" \
-            --compiled-formats tbx,jsonld,turtle,jsonl
-
-      - name: Create unversioned aliases
-        run: |
-          cp "isotc204-${{ steps.version.outputs.version }}.gcr" isotc204.gcr
-          cp "isotc204-${{ steps.version.outputs.version }}-full.gcr" isotc204-full.gcr
+          mkdir -p release-assets
+          cp datasets/*/*.gcr release-assets/ 2>/dev/null || true
+          ls -la release-assets/
 
       - name: Publish GitHub Release
         uses: softprops/action-gh-release@v2
         with:
           tag_name: v${{ steps.version.outputs.version }}
-          name: "GCR Package v${{ steps.version.outputs.version }}"
-          body: "Auto-generated GCR package containing ISO/TC 204 ITS concepts."
+          name: "GCR Packages v${{ steps.version.outputs.version }}"
+          body: |
+            Auto-generated GCR packages for ISO/TC 204 ITS vocabulary.
+
+            One package per dataset edition (lineage series):
+            - `isotc204-2022-*.gcr` — Edition 1 (ISO/TS 14812:2022)
+            - `isotc204-2025-*.gcr` — Edition 2 (ISO 14812:2025)
+            - `isotc204-ed3-*.gcr`  — Edition 3 (draft)
+
+            Each edition has a standard and a `-full` (compiled formats) variant.
           files: |
-            isotc204-${{ steps.version.outputs.version }}.gcr
-            isotc204.gcr
-            isotc204-${{ steps.version.outputs.version }}-full.gcr
-            isotc204-full.gcr
+            release-assets/*.gcr

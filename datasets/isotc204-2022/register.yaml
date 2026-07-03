@@ -1,0 +1,26 @@
+---
+schema_type: glossarist
+schema_version: '3'
+id: isotc204-2022
+urn: urn:iso:std:iso:ts:14812:2022
+urnAliases:
+  - urn:iso:std:iso:14812:2022
+ref: ISO/TS 14812:2022
+refAliases:
+  - ISO 14812:2022
+year: 2022
+status: current
+owner: ISO/TC 204
+sourceRepo: https://github.com/geolexica/isotc204-glossary
+languages:
+  - eng
+languageOrder:
+  - eng
+ordering: systematic
+name:
+  eng: ISO/TC 204 ITS Vocabulary (Edition 1, 2022)
+description:
+  eng: >-
+    Edition 1 of the ISO/TC 204 Intelligent Transport Systems vocabulary,
+    originally published as ISO/TS 14812:2022 and imported from the
+    ISO/TC 204 Multi-Lingual Glossary of Terms spreadsheet.

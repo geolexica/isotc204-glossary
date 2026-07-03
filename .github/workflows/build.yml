@@ -11,7 +11,7 @@ on:
 
 jobs:
   validate:
-    name: Validate concepts
+    name: Validate datasets
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -22,11 +22,16 @@ jobs:
 
       - run: gem install glossarist
 
-      - name: Validate with glossarist
-        run: glossarist validate .
+      - name: Validate each dataset
+        run: |
+          for dataset in datasets/*; do
+            echo "::group::Validating $dataset"
+            glossarist validate "$dataset"
+            echo "::endgroup::"
+          done
 
   test-package:
-    name: Test GCR package
+    name: Test GCR packages
     needs: validate
     runs-on: ubuntu-latest
     steps:
@@ -38,14 +43,24 @@ jobs:
 
       - run: gem install glossarist
 
-      - name: Test package build
+      - name: Build one GCR per dataset
         run: |
-          glossarist package . -o test-isotc204.gcr \
-            --shortname isotc204 \
-            --version "0.0.0-test"
+          for dataset in datasets/*; do
+            name=$(basename "$dataset")
+            echo "::group::Packaging $name"
+            glossarist package "$dataset" -o "test-${name}.gcr" \
+              --shortname "$name" \
+              --version "0.0.0-test"
+            echo "::endgroup::"
+          done
 
-      - name: Verify package
-        run: test -f test-isotc204.gcr && echo "Package built successfully"
+      - name: Verify packages
+        run: |
+          for dataset in datasets/*; do
+            name=$(basename "$dataset")
+            test -f "test-${name}.gcr" || exit 1
+          done
+          echo "All packages built successfully"
 
   build-release:
     name: Build and release
