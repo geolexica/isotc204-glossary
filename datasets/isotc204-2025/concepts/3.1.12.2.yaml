@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.12.2
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: '059a5ebc-1f18-5840-a5c0-73f17dcbfd0e'
 schema_version: '3'
@@ -21,8 +21,6 @@ data:
   definition:
   - content: "&lt;use case&gt; a description of the sequence of events from the user's
       perspective to perform a task in a specified context"
-  examples: []
-  notes: []
   sources:
   - origin:
       ref:
@@ -34,4 +32,5 @@ data:
     designation: scenario
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 122c0790-79c2-5575-985d-201a67c66f42

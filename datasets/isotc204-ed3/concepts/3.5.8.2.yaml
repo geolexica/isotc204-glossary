@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.5.8.2
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 478f32f2-f2e5-5f07-b63f-0385a3586a50
 schema_version: '3'
@@ -25,12 +25,11 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: commercial
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 37ca21eb-653e-5166-864e-113a4f871fcd

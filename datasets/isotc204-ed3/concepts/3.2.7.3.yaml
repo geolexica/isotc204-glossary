@@ -20,7 +20,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.2.7.3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 2f9addef-2e22-5860-830f-619c65683037
 schema_version: '3'
@@ -33,7 +33,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The ITS station reference architecture is defined in ISO 21217.
   - content: This complements the ISO 21217:2020 definition (which identifies the
@@ -47,4 +46,5 @@ data:
     designation: ITS-S
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 691e38f8-9350-5059-a3ba-9e842926743c

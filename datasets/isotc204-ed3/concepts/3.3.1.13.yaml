@@ -18,7 +18,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.3.1.13
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 49b25a0f-25fa-5a1f-a009-ba11b22136b1
 schema_version: '3'
@@ -31,7 +31,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: A traffic lane can be bi-directional, such as a single lane {{urn:iso:std:iso:14812:ed3:3.3.5.1,road}},
       a two-way turn/overtaking lane, or a reversible flow lane.
@@ -49,4 +48,5 @@ data:
     designation: lane
   language_code: eng
   entry_status: valid
+  annotations: []
 id: ea674731-c4fa-5ca2-8367-40f81b8be44c

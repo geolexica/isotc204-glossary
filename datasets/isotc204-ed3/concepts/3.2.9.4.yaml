@@ -70,7 +70,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.2.9.4
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: a31be227-b794-5622-977f-0c2ff4fcf7ec
 schema_version: '3'
@@ -83,7 +83,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: An implementation is typically associated with an implementation name,
       a version and release number.
@@ -93,4 +92,5 @@ data:
     designation: ITS-S application implementation
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 84466c79-1e30-5629-bb29-a752cc91e590

@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.7.2.1
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 3459195b-c4af-500b-ad1b-d45884fdcad6
 schema_version: '3'
@@ -22,7 +22,6 @@ data:
   - content: rate of change of a <i><a href="#idC941C5B14FFB4aecAA18427AF3D1435A"><font
       color="#0000ff"><u>material entities</u></font></a></i> ( material entity )
       position with respect to a frame of reference
-  examples: []
   notes:
   - content: Speed is a function of time.
   - content: Speed is the scalar absolute value (magnitude) of velocity.
@@ -32,4 +31,5 @@ data:
     designation: speed
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 8be2aecb-a7a9-5f74-90dc-5692184a439b

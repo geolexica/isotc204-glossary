@@ -166,7 +166,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.8.2
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 7cd38136-6edc-540f-8eb5-85af1fe73353
 schema_version: '3'
@@ -179,7 +179,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: Physical objects are ITS components if they are an integral part of the
       {{urn:iso:std:iso:14812:ed3:3.1.2.1,system}}; otherwise they are {{urn:iso:std:iso:14812:ed3:3.1.8.3,terminators}}.
@@ -189,4 +188,5 @@ data:
     designation: ITS component
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 650acd2f-4574-5095-8820-784a96315ae9

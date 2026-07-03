@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.3.3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 3bd45555-3ad5-5933-8d1a-68c82e4867d0
 schema_version: '3'
@@ -28,12 +28,11 @@ data:
       Source: ISO/IEC/IEEE 42010:2011, 3.4
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: architecture framework
   language_code: eng
   entry_status: valid
+  annotations: []
 id: b24e8ea0-19d4-5583-a1e9-091060236388

@@ -8,7 +8,7 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: e76aa771-0c18-5f1f-b8b4-4511fa02b3e5
 schema_version: '3'
@@ -21,12 +21,11 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: vehicle registration plate identifier
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 07fc14fc-c660-50b2-aa62-0aff0ad41350

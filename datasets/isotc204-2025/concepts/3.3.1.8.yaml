@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.3.1.8
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 5b6ce910-4a7d-5280-8fee-e275e322a32c
 schema_version: '3'
@@ -22,7 +22,6 @@ data:
   - content: <i><a href="#id3F880EDEBFE84014A43B46167936F4B1"><font color="#0000ff"><u>roadway</u></font></a></i>
       ( roadway ) comprised of exactly two <i><a href="#id855CC715739D462e9790E893914D8768"><font
       color="#0000ff"><u>carriageways</u></font></a></i> ( carriageway )
-  examples: []
   notes:
   - content: The PIARC term is "dual carriageway road" and is recognized as a preferred
       term. Per the definitions provided in this document, "dual carriageway road
@@ -36,4 +35,5 @@ data:
     designation: dual carriageway road segment
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 5c4d2892-6a4c-5017-81a2-9581fdc0d83a

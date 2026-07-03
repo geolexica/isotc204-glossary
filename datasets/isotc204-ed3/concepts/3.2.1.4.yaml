@@ -25,7 +25,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.2.1.4
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 6c53f0ef-1415-5aa1-a817-69f0e249c36a
 schema_version: '3'
@@ -39,8 +39,6 @@ data:
       EXAMPLE: Data distribution {{urn:iso:std:iso:14812:ed3:3.1.2.1,system}}, network time source, {{urn:iso:std:iso:14812:ed3:3.2.5.1,cooperative ITS credentials management system}}.
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
@@ -50,4 +48,5 @@ data:
     designation: ITS support system
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 37082690-034a-529b-9bc2-3f53cc2385bc

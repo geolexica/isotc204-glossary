@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.2.3.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: f629c3a2-27d3-5e8c-be5c-3b3138afb4b6
 schema_version: '3'
@@ -25,8 +25,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
@@ -36,4 +34,5 @@ data:
     designation: ITS field support equipment
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 912e97df-93db-5e8a-8a7d-a6c438573ad8

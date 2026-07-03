@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.7.3.2
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: eda3e5ec-5f3b-5859-9816-bc9127f9b9aa
 schema_version: '3'
@@ -39,4 +39,5 @@ data:
     designation: operational design domain
   language_code: eng
   entry_status: valid
+  annotations: []
 id: ec863636-159d-5c15-aeba-49d9fb3828e0

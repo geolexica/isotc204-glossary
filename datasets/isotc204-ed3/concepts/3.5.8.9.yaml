@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.5.8.9
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: b05a31c9-3311-5916-bb14-2a01535a6530
 schema_version: '3'
@@ -25,7 +25,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: This includes models where membership is optional and can provide extra
       benefits.
@@ -35,4 +34,5 @@ data:
     designation: open-access
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 7c96e2b0-fbfa-5a3b-b8c5-480b518e06e2

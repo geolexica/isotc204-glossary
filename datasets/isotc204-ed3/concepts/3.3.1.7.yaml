@@ -16,7 +16,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.3.1.7
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 6f677598-7cda-5bf2-98bf-74d7cf71dab1
 schema_version: '3'
@@ -29,7 +29,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: A single carriageway {{urn:iso:std:iso:14812:ed3:3.3.5.8,road segment}}
       could have multiple {{urn:iso:std:iso:14812:ed3:3.3.1.12,lanes}} and could allow
@@ -43,4 +42,5 @@ data:
     designation: single carriageway
   language_code: eng
   entry_status: valid
+  annotations: []
 id: d2fde194-bde4-57a3-af8e-127e89cf50d1

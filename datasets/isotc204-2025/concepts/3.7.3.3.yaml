@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.7.3.3
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: '04691a92-fd6a-566e-afa0-2754cb11ec5f'
 schema_version: '3'
@@ -30,12 +30,11 @@ data:
       in response to a <i><a href="#idF18A70A730734210891943E1C5F988C3"><font color="#0000ff"><u>DDT
       performance-relevant driving automation system failure</u></font></a></i> (
       DDT performance-relevant system failure )'
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: fallback
   language_code: eng
   entry_status: valid
+  annotations: []
 id: d74bf261-d546-5845-b996-e78a9b5a5b23

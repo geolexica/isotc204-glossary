@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.3.2
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 38cd6e19-143d-5261-8fa3-bbef97d18f24
 schema_version: '3'
@@ -22,7 +22,6 @@ data:
   - content: <i><a href="#id040D6A1B412A4cc6921882357A58F747"><font color="#0000ff"><u>entity</u></font></a></i>
       ( entity ) that delivers one or more <i><a href="#id4D485872E9EE414e9CE1AB855A03540B"><font
       color="#0000ff"><u>ITS services</u></font></a></i> ( ITS service )
-  examples: []
   notes:
   - content: Cooperative ITS services often require multiple entities cooperatively
       working together to provide a unified service where the individual entities
@@ -33,4 +32,5 @@ data:
     designation: ITS service provider
   language_code: eng
   entry_status: valid
+  annotations: []
 id: addd145a-1734-52ce-bdb9-b18c1219c131

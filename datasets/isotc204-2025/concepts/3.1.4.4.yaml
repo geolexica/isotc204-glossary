@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.4.4
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: a5e576bd-5600-55fa-b5a8-14e0cb3ab7b3
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       viewpoint</u></font></a></i> ( architecture viewpoint ) used to frame the policies,
       funding incentives, working arrangements, and jurisdictional structure that
       support the technical layers of the architecture
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: enterprise viewpoint
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 07a918f0-8fa1-5c3a-9094-18875a2aa305

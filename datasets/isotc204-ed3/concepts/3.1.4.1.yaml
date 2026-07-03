@@ -16,7 +16,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.4.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 5e7b7124-f917-57d2-abae-ab0821f5923d
 schema_version: '3'
@@ -29,7 +29,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: Within ITS, the preferred model for describing the communications view
       is based on the {{urn:iso:std:iso:14812:ed3:3.1.9.4,ITS-S reference architecture}}.
@@ -39,4 +38,5 @@ data:
     designation: communications view
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 056ec9e0-23de-5994-b721-a00a811ae36b

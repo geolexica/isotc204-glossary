@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.3.3.3
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: f1f468ea-20f5-5134-baf3-9f531e87915c
 schema_version: '3'
@@ -21,7 +21,6 @@ data:
   definition:
   - content: <i><a href="#idDAF8D75AA574422cADE5F6D094406BB4"><font color="#0000ff"><u>lane</u></font></a></i>
       ( lane ) primarily designed for the movement of pedestrians
-  examples: []
   notes:
   - content: A paved footway is called a "pavement" in the British English.
   - content: Regulations typically allow footways to be used by other ultra-low speed
@@ -32,4 +31,5 @@ data:
     designation: footway
   language_code: eng
   entry_status: valid
+  annotations: []
 id: d128c8cb-1b0f-5737-b70f-92f31aa642e0

@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.1.4
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: '0438d141-9d5f-58b1-b556-c75b32b43d4d'
 schema_version: '3'
@@ -21,8 +21,6 @@ data:
   definition:
   - content: factor or condition necessary to achieve desired results within a specified
       context of use
-  examples: []
-  notes: []
   sources:
   - origin:
       ref:
@@ -34,4 +32,5 @@ data:
     designation: user need
   language_code: eng
   entry_status: valid
+  annotations: []
 id: a14eb4b5-3f11-5979-9109-570b18c3a47b

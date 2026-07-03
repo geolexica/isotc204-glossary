@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.7.6.4
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 9bb5c350-25f5-53ec-9079-36b35e758637
 schema_version: '3'
@@ -25,12 +25,11 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: non-road vehicle
   language_code: eng
   entry_status: valid
+  annotations: []
 id: c1dc7794-25ad-5adf-87e6-3978a7bbe542

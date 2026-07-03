@@ -16,7 +16,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.3.5.9
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 1ef5f82e-a2d0-59d4-8dbb-e8e1891f9940
 schema_version: '3'
@@ -29,7 +29,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: A {{urn:iso:std:iso:14812:ed3:3.3.5.10,lane segment}} can start or end
       at {{urn:iso:std:iso:14812:ed3:3.4.1.2,spatial locations}} other than the start
@@ -43,4 +42,5 @@ data:
     designation: lane link
   language_code: eng
   entry_status: valid
+  annotations: []
 id: b8fcccc9-3b96-5c27-a3e9-70ba382e58af

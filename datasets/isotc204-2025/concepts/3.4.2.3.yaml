@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.4.2.3
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 44c62246-d0d2-5492-9b8c-49d55dccbfc2
 schema_version: '3'
@@ -22,12 +22,11 @@ data:
   - content: <i><a href="#id0F23B7B6B1C64d828035A246CDCC780C"><font color="#0000ff"><u>spatial
       reference</u></font></a></i> ( spatial reference ) generated on-the-fly based
       on geographic properties in a digital map database
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: dynamic spatial reference
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 73ca23ff-bf24-525f-b477-310e9b6bbd3c

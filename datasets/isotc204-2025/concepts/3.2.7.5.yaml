@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.2.7.5
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 57255cb4-cdf8-53f2-9f5f-90fdcee86019
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       color="#0000ff"><u>ITS-SU</u></font></a></i> ( ITS-S unit ) containing part
       or all of the functionality of an <i><a href="#idF1E402D380EE478c957A2FF53D9EA0C5"><font
       color="#0000ff"><u>ITS-S</u></font></a></i> ( ITS station )
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: ITS-S communication unit
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 28754f16-37ba-510c-8493-e1d37269c507

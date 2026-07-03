@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.7.5.8
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: c26de872-e94d-531f-b33a-0322232ca2c4
 schema_version: '3'
@@ -32,4 +32,5 @@ data:
     designation: low vehicle speed
   language_code: eng
   entry_status: valid
+  annotations: []
 id: d8c379f2-8afd-5910-856a-c9751f003db6

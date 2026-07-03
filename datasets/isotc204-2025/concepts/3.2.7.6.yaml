@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.2.7.6
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 7b260dd0-8550-5083-8cf6-ce0ebe0745f4
 schema_version: '3'
@@ -25,7 +25,6 @@ data:
       functionalities of an <i><a href="#idDBBB2A22A7F04e468238D737A4612729"><font
       color="#0000ff"><u>ITS-S router</u></font></a></i> ( ITS-S router ), ITS-S border
       router, ITS-S mobile router, or an ITS-S gateway
-  examples: []
   notes:
   - content: ITS-S border router and ITS-S mobile router are ITS-S routers with added
       functionality, which is why they are separately excluded from the above definition.
@@ -38,4 +37,5 @@ data:
     designation: ITS-S host
   language_code: eng
   entry_status: valid
+  annotations: []
 id: ebe9f481-412c-5e8b-b2e6-c74acb246cce

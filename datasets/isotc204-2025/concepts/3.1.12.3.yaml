@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.12.3
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 7a7b96a6-ae49-5bc2-bccf-7e86f700be73
 schema_version: '3'
@@ -20,8 +20,6 @@ schema_version: '3'
 data:
   definition:
   - content: specified responsibilities
-  examples: []
-  notes: []
   sources:
   - origin:
       ref:
@@ -33,4 +31,5 @@ data:
     designation: role
   language_code: eng
   entry_status: valid
+  annotations: []
 id: ec7e3ec3-c720-5155-979f-ae5c2498c30b

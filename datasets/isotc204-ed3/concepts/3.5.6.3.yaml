@@ -31,7 +31,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.5.6.3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 74d94445-260c-53d5-9812-338fb853befd
 schema_version: '3'
@@ -44,7 +44,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: As there should only be one operator of a vehicle at any time, a shared
       vehicle service should use a sequential operational model.
@@ -56,4 +55,5 @@ data:
     designation: shared vehicle service
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 9e7c9887-2005-59f5-adfe-6d938878a444

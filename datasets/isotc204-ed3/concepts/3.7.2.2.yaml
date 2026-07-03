@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.7.2.2
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 25ca5d54-331c-5e97-a4de-a78b50345940
 schema_version: '3'
@@ -26,7 +26,6 @@ data:
       Admitted term: top speed
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The term "top speed" is defined in SAE J3194 in relation to powered micromobility
       vehicles and is considered to be semantically equivalent to design speed.
@@ -39,4 +38,5 @@ data:
     designation: vehicle design speed
   language_code: eng
   entry_status: valid
+  annotations: []
 id: ad65b2a6-e21e-5701-90ed-112b4e161987

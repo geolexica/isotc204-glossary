@@ -8,7 +8,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.3.1.11
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 676744fd-e8ce-5431-88c5-2455e3ef0cb4
 schema_version: '3'
@@ -21,7 +21,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: A verge can separate two {{urn:iso:std:iso:14812:ed3:3.3.1.12,lanes}}
       of different modes, separate a {{urn:iso:std:iso:14812:ed3:3.3.1.13,traffic
@@ -34,4 +33,5 @@ data:
     designation: verge
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 609178b6-27d6-5a45-b55d-37b219158a1d

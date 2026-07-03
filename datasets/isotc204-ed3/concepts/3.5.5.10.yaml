@@ -8,7 +8,7 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: f4c79f07-c95a-57e5-9357-730d7ae667d6
 schema_version: '3'
@@ -21,7 +21,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The assistance can include reservations, ticketing and similar {{urn:iso:std:iso:14812:ed3:3.5.1.1,services}}.
   terms:
@@ -30,4 +29,5 @@ data:
     designation: trip aggregator app
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 49c786e4-c2b6-5eaa-a2fd-a8c9616523f8

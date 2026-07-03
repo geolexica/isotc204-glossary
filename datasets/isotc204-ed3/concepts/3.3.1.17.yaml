@@ -8,7 +8,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.3.1.17
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 181f07ed-491a-5169-9dd2-e3cf9e1a8487
 schema_version: '3'
@@ -25,7 +25,6 @@ data:
       | {{urn:iso:std:iso:14812:ed3:3.3.1.5,carriageway}} | comprises |
       ---
       Comment on this page
-  examples: []
   notes:
   - content: Hardstanding can include edges of a hard shoulder outside of designated
       lane markings, slips for future connector {{urn:iso:std:iso:14812:ed3:3.3.5.1,roads}},
@@ -36,4 +35,5 @@ data:
     designation: hardstanding
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 55c02210-2072-55c8-93a3-45434a2a15e7

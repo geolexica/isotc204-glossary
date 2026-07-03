@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.7.3.6
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: e2c307c3-52a9-5388-bd9d-cb34a5e7e511
 schema_version: '3'
@@ -23,7 +23,6 @@ data:
       color="#0000ff"><u>system</u></font></a></i> ( system ) that is able to perform
       part or all of the <i><a href="#id53381BA7AB7F48d6AED7DBCA2D07E6C9"><font color="#0000ff"><u>DDT</u></font></a></i>
       ( dynamic driving task ) on a sustained basis
-  examples: []
   notes:
   - content: In contrast to this generic term for any level 1-5 system, the specific
       term for a level 3-5 system is "Automated Driving System (ADS)." Given the similarity
@@ -43,4 +42,5 @@ data:
     designation: driving automation system
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 3aafc2d5-9c8e-5d21-9359-46bd17491cda

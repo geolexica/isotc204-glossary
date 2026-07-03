@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.11.1
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 49b24b22-be48-57a4-839d-6362af6088fd
 schema_version: '3'
@@ -23,7 +23,6 @@ data:
       transport service</u></font></a></i> ( shared transport service ) that transports
       passengers between two specified <i><a href="#id3A8D97796CC142fa8882F36C623AA755"><font
       color="#0000ff"><u>locations</u></font></a></i> ( spatial location )
-  examples: []
   notes:
   - content: Each location might be defined as point, linear, or area locations; however,
       the areas of the two locations should not overlap.
@@ -33,4 +32,5 @@ data:
     designation: shuttle service
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 0f86d159-a77c-51bb-b9ef-513251f30c86

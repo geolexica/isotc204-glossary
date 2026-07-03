@@ -22,7 +22,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.2.9.2
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 484bc81e-dd9e-5ada-b997-31adeb7052bf
 schema_version: '3'
@@ -38,7 +38,6 @@ data:
       | {{urn:iso:std:iso:14812:ed3:3.2.8.1,ITS application}} | involves |
       ---
       Comment on this page
-  examples: []
   notes:
   - content: ITS-S application processes use ITS-S services to communicate with other
       nodes.
@@ -50,4 +49,5 @@ data:
     designation: ITS-S application process
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 979ed092-c230-578c-bdd9-30d347cdbda3

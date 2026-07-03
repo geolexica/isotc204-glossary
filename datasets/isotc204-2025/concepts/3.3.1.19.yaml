@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.3.1.19
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 163dccb1-e72e-58ff-900d-c3bde3473657
 schema_version: '3'
@@ -22,7 +22,6 @@ data:
   - content: part of the paved <i><a href="#id855CC715739D462e9790E893914D8768"><font
       color="#0000ff"><u>carriageway</u></font></a></i> ( carriageway ) designed to
       support traffic loads but not normally intended for driving
-  examples: []
   notes:
   - content: A hard shoulder can be narrow or wide enough for a traffic lane.
   - content: A hard shoulder can have a surface that discourages usage as a driving
@@ -33,4 +32,5 @@ data:
     designation: hard shoulder
   language_code: eng
   entry_status: valid
+  annotations: []
 id: bf0d75d4-a82e-566c-9820-c678cca3c65e

@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.9.4
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 13b437a6-3235-5669-a7df-3219f1149053
 schema_version: '3'
@@ -25,11 +25,11 @@ data:
       in a pre-defined sequence'
   examples:
   - content: Traditional fixed-route bus line
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: fixed route
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 4a23a951-d70d-5063-85ca-7e0101e0ab39

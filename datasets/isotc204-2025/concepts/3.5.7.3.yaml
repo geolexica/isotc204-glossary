@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.7.3
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 4c451cdc-61d7-5886-b0b5-976877ded53a
 schema_version: '3'
@@ -22,12 +22,11 @@ data:
   - content: <i><a href="#idB3582A5C7E9B4749A708EE0EECBCAC51"><font color="#0000ff"><u>contractual
       model</u></font></a></i> ( contractual model ) where the <i><a href="#id8B698530E3B946b3B78C2E6C58FE87D7"><font
       color="#0000ff"><u>user</u></font></a></i> ( user ) is an individual
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: private customer model
   language_code: eng
   entry_status: valid
+  annotations: []
 id: b4bb3729-bd6c-5d53-8aff-74f9c09cd32c

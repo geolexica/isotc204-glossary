@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.4.2.6
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: fe130253-3536-50a1-b6c9-95f3104eb5ce
 schema_version: '3'
@@ -28,7 +28,6 @@ data:
       Source: ISO 19112:2019, 3.1.2, modified - Note 1 to entry and deprecated term added.
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The term "location code" has been used previously in ISO/TC 204 documents,
       but "geographic identifier" is preferred to better align with the activities
@@ -39,4 +38,5 @@ data:
     designation: geographic identifier
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 41a712a3-6c85-5a2e-bd0b-9932aaf95f6c

@@ -30,7 +30,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.3.1.12
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 3efcd430-ad87-5f57-891f-4b3a6008d52f
 schema_version: '3'
@@ -49,7 +49,6 @@ data:
       | {{urn:iso:std:iso:14812:ed3:3.3.1.13,traffic lane}} | subClassOf |
       ---
       Comment on this page
-  examples: []
   notes:
   - content: "{{urn:iso:std:iso:14812:ed3:3.3.1.12,Lanes}} are often bounded by lane
       markings."
@@ -67,4 +66,5 @@ data:
     designation: generic lane
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 5cc1e736-9c04-5a4c-a222-bd7f4c223f2b

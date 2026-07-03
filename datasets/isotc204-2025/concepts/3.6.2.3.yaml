@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.6.2.3
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: d1b83615-c635-56ea-b1a7-5c09e3796f81
 schema_version: '3'
@@ -24,7 +24,6 @@ data:
       color="#0000ff"><u>dynamic driving task</u></font></a></i> ( dynamic driving
       task ) for the <i><a href="#id555BFAB2A747457fB01D99511FDE885A"><font color="#0000ff"><u>vehicle</u></font></a></i>
       ( vehicle )
-  examples: []
   notes:
   - content: The driver is typically onboard the vehicle but could be remote from
       the vehicle or automated logic.
@@ -34,4 +33,5 @@ data:
     designation: driver
   language_code: eng
   entry_status: valid
+  annotations: []
 id: ed514918-fd83-5f1a-83b7-fab377ae7c07

@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.2.1
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 56efd0f2-cc94-592e-9bee-210b367356b2
 schema_version: '3'
@@ -25,7 +25,6 @@ data:
       entities</u></font></a></i> ( material entity ) from one location to another
       to satisfy a <i><a href="#id3B0C62628A72424e98B2D5C2F2BBCD36"><font color="#0000ff"><u>transport
       need</u></font></a></i> ( transport need )'
-  examples: []
   notes:
   - content: The material entities delivered might be people and/or goods.
   terms:
@@ -34,4 +33,5 @@ data:
     designation: transport service
   language_code: eng
   entry_status: valid
+  annotations: []
 id: dff91f05-75b9-5047-88b0-0a4c397fce9f

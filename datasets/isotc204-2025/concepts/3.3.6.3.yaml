@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.3.6.3
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 8b1195e3-d6ff-5474-b57e-c5984daa2f92
 schema_version: '3'
@@ -22,12 +22,11 @@ data:
   - content: <i><a href="#id1240152ED5B6429eA0A4B380F1D798E4"><font color="#0000ff"><u>traffic
       lane</u></font></a></i> ( traffic lane ) designed for entering a <i><a href="#id6C52075FBEAD42d4B0FB9C8A7F8FD833"><font
       color="#0000ff"><u>junction</u></font></a></i> ( junction )
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: ingress lane
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 17a45015-6f43-5e27-a92c-dd7532056f68

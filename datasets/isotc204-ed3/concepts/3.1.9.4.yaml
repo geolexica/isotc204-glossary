@@ -36,7 +36,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.9.4
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: e16a8ff3-332f-5479-ab31-3ab8007fc1b7
 schema_version: '3'
@@ -49,7 +49,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The ITS-S reference architecture provides a model for describing communication.
   terms:
@@ -58,4 +57,5 @@ data:
     designation: ITS-S reference architecture
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 0ae185d8-cf34-581f-b018-1535a857a8c6

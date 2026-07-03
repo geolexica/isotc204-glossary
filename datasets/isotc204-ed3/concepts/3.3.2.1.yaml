@@ -27,7 +27,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.3.2.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: '090dda7f-e3c2-54f1-ad16-50fb01491fd8'
 schema_version: '3'
@@ -44,7 +44,6 @@ data:
       | {{urn:iso:std:iso:14812:ed3:3.3.1.9,multiple carriageway}} | has |
       ---
       Comment on this page
-  examples: []
   notes:
   - content: Mechanisms include various types of barriers, such as walls, rails, pylons,
       kerbs and ditches, as well as open, unpaved space. If two streams of traffic
@@ -58,4 +57,5 @@ data:
     designation: physical traffic separator
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 4e861faf-e3b4-58e4-b9e5-d07cbdbd1c07

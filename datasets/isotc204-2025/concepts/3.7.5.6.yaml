@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.7.5.6
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: e4b11a3a-e36d-5abc-9f98-84adb1b42668
 schema_version: '3'
@@ -27,11 +27,11 @@ data:
   examples:
   - content: high-speed train
   - content: racing car
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: high-speed vehicle
   language_code: eng
   entry_status: valid
+  annotations: []
 id: f53b1c70-78f8-504c-b7b3-aff4d54cbbd7

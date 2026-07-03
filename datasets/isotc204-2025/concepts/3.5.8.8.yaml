@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.8.8
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: ea3a4a44-8c84-53f1-9838-7e6929154289
 schema_version: '3'
@@ -24,7 +24,6 @@ data:
       requires <i><a href="#id8B698530E3B946b3B78C2E6C58FE87D7"><font color="#0000ff"><u>users</u></font></a></i>
       ( user ) to enter into an agreement prior to receiving <i><a href="#id1C826F4DC7744eb7B8DDB33EF68A28F5"><font
       color="#0000ff"><u>services</u></font></a></i> ( service )
-  examples: []
   notes:
   - content: The agreement might be associated with fees.
   - content: The agreement might be minimal, such as collecting user information for
@@ -37,4 +36,5 @@ data:
     designation: membership-based
   language_code: eng
   entry_status: valid
+  annotations: []
 id: f1c92d52-43c5-58ef-906c-0dabf8d26e59

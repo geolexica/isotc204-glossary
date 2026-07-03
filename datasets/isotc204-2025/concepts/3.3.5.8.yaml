@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.3.5.8
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 720d9700-e7c7-5407-993f-95e4ebacd4c0
 schema_version: '3'
@@ -23,7 +23,6 @@ data:
       ( road ) that represents a contiguous length of a <i><a href="#idE86C320F77B445a18BB03478ACD8CBB2"><font
       color="#0000ff"><u>road link</u></font></a></i> ( road link ) characterized
       by the same physical characteristics
-  examples: []
   notes:
   - content: The definition of road segments is highly dependent on what characteristics
       are modelled by the implementation. Characteristics that might result in a new
@@ -35,4 +34,5 @@ data:
     designation: road segment
   language_code: eng
   entry_status: valid
+  annotations: []
 id: '018ed886-b723-557e-9e05-64312effff6c'

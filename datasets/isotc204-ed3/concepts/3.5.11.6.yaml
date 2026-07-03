@@ -16,7 +16,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.5.11.6
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: dc98f761-f208-53f8-953e-9885c3595499
 schema_version: '3'
@@ -29,12 +29,11 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: ridesplit service
   language_code: eng
   entry_status: valid
+  annotations: []
 id: b6bfbb86-3ae4-5b43-9879-851de19947ce

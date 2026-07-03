@@ -20,7 +20,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.3.1.2
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: e88af14e-34b2-5bb6-9d64-8fc386ca9890
 schema_version: '3'
@@ -33,7 +33,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: Support includes physical equipment such as safety devices, signage and
       controller cabinets as well as access by maintenance vehicles and personnel.
@@ -50,4 +49,5 @@ data:
     designation: easement
   language_code: eng
   entry_status: valid
+  annotations: []
 id: e4998d15-5b30-5700-b4dc-c3cfd86a8b2a

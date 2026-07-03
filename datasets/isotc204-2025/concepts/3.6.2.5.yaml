@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.6.2.5
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: a1d638cc-66b1-558d-870d-5c931efaac48
 schema_version: '3'
@@ -25,7 +25,6 @@ data:
       task ) without using the vehicle's <i><a href="#id9FA5E7B96F34461bAF17E2FB61512F95"><font
       color="#0000ff"><u>built-in input devices</u></font></a></i> ( built-in vehicle
       input device ) to control the longitudinal and lateral movement of the vehicle
-  examples: []
   notes:
   - content: A remote driver may use a variety of physical input devices, but not
       any that are built into the vehicle.
@@ -35,4 +34,5 @@ data:
     designation: remote driver
   language_code: eng
   entry_status: valid
+  annotations: []
 id: adafe937-c957-55aa-abd9-198460602758

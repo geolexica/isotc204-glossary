@@ -21,7 +21,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[governmental area](governmental area.md)"
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 5edfea40-bf5c-5897-9334-ac9481b24c3b
 schema_version: '3'
@@ -34,7 +34,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: A jurisdictional area might include non-contiguous locations.
   terms:
@@ -43,4 +42,5 @@ data:
     designation: jurisdictional area
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 4294ade1-3e96-5d5a-8066-358e01fd54f9

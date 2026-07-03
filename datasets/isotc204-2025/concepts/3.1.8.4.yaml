@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.8.4
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 84bb2adc-b4f5-5c1a-94a3-1e6c394b5b26
 schema_version: '3'
@@ -21,12 +21,11 @@ data:
   definition:
   - content: information that is exchanged between <i><a href="#id8EA65F2D6F6347bf8FF4C5CD35C61C68"><font
       color="#0000ff"><u>physical objects</u></font></a></i> ( physical object )
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: information flow
   language_code: eng
   entry_status: valid
+  annotations: []
 id: abc9ca56-a16d-5049-80f5-e2df2e4bbebd

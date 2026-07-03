@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.7.3.16
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 924f835c-2d29-53ae-9eab-24c0bab614ec
 schema_version: '3'
@@ -25,8 +25,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
@@ -36,4 +34,5 @@ data:
     designation: driving automation dual-mode vehicle
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 2bfcd775-c019-56af-a4e1-9ffcb1961dac

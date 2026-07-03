@@ -45,7 +45,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.4.1.2
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 6ca39fb1-ce09-52f5-9b64-3ee0a055f9f8
 schema_version: '3'
@@ -58,7 +58,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The "location" could be a point (consuming no space) or could consume
       space in one, two, or three dimensions. In any case, the location is identified
@@ -74,4 +73,5 @@ data:
     designation: ITS spatial location
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 59e4bcaa-ead0-5dc4-9c46-acbe0f629a84

@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.13.1
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 8d5c6492-2d6f-5106-b8be-7e94234e79d0
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       application implementation</u></font></a></i> ( ITS-S application implementation
       ) designed to assist an individual transport consumer in understanding transport-related
       information, making decisions, and/or acting upon decisions
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: mobility app
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 8096c1b2-4d76-52a4-ae3a-56afe613d24e

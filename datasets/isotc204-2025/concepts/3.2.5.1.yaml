@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.2.5.1
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: df1fa054-5762-5f5d-8195-327e15464a0f
 schema_version: '3'
@@ -22,12 +22,11 @@ data:
   - content: <i><a href="#id23E6CD14703145869348FF4FB599A887"><font color="#0000ff"><u>support
       system</u></font></a></i> ( support system ) that enables trusted communications
       among ITS components and protects data from unauthorized access
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: cooperative ITS credentials management system
   language_code: eng
   entry_status: valid
+  annotations: []
 id: ce76b3c7-70ec-56cf-b18d-e9c009a7957a

@@ -16,7 +16,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.5.3.4
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: a5b32a08-78b8-5949-92fc-0a675c81698f
 schema_version: '3'
@@ -30,8 +30,6 @@ data:
       EXAMPLE: Increasing safety, sustainability, efficiency and/or comfort.
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
@@ -41,4 +39,5 @@ data:
     designation: user need
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 44e2b5a6-8975-59d4-8483-b4a58e346f22

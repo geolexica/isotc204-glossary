@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.4.2.1
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: c1e3e489-78b0-507b-8c99-1784f45a59ef
 schema_version: '3'
@@ -22,12 +22,11 @@ data:
   - content: process used to develop a <i><a href="#id0F23B7B6B1C64d828035A246CDCC780C"><font
       color="#0000ff"><u>spatial reference</u></font></a></i> ( spatial reference
       )
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: location referencing
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 884572f8-87bb-5d45-91a3-f4c5e738e013

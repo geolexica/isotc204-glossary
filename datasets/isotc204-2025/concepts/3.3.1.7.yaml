@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.3.1.7
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 7dd03262-ad2e-549e-ab4e-6ad0bb7b7812
 schema_version: '3'
@@ -22,7 +22,6 @@ data:
   - content: <i><a href="#id3F880EDEBFE84014A43B46167936F4B1"><font color="#0000ff"><u>roadway</u></font></a></i>
       ( roadway ) comprised of exactly one <i><a href="#id855CC715739D462e9790E893914D8768"><font
       color="#0000ff"><u>carriageway</u></font></a></i> ( carriageway )
-  examples: []
   notes:
   - content: The PIARC term is "single carriageway road" and is recognized as a preferred
       term. Per the definitions provided in this document, "single carriageway road
@@ -37,4 +36,5 @@ data:
     designation: single carriageway road segment
   language_code: eng
   entry_status: valid
+  annotations: []
 id: b7a14279-489e-5619-a5c6-dc869193695b

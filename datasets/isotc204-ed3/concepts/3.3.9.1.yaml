@@ -10,7 +10,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[traffic control device](traffic control device.md)"
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: a34b40d7-2961-51c9-a057-f3700c15334e
 schema_version: '3'
@@ -25,7 +25,6 @@ data:
       EXAMPLE: sign, traffic signal, safety rail, gantry, bus stop structure, highway safety lighting
       ---
       Comment on this page
-  examples: []
   notes:
   - content: ITS roadside equipment is a type of roadside equipment.
   - content: Road equipment can be next to, over, on and/or in the roadway.
@@ -36,4 +35,5 @@ data:
     designation: road equipment
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 9078a856-a775-5db2-8cef-eb24abbff29f

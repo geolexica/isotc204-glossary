@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.3.1.11
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 4350b249-3d46-53b1-9a0c-d7ad41bcf138
 schema_version: '3'
@@ -22,7 +22,6 @@ data:
   - content: unpaved part of the <i><a href="#id718D31DE1698436a9BA71D3F4512432A"><font
       color="#0000ff"><u>roadside</u></font></a></i> ( roadside ) designed for travel
       safety purposes
-  examples: []
   notes:
   - content: A verge can separate two lanes of different modes, separate a traffic
       lane from a ditch, or separate a lane from another safety hazard.
@@ -34,4 +33,5 @@ data:
     designation: verge
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 9948e798-4ec9-56cf-a7eb-f52589daaf96

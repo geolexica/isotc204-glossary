@@ -24,7 +24,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.5.11.7
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: a48e6d93-4ca7-5d77-a1bf-cf4d8857844b
 schema_version: '3'
@@ -37,7 +37,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The goods are typically small packages, letters, food, etc.
   terms:
@@ -46,4 +45,5 @@ data:
     designation: courier network service
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 98f350f4-e888-5d10-a019-8d7b924e50c2

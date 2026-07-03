@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.3.6.7
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 7199341c-aa25-5631-947c-3d45d81ab7e2
 schema_version: '3'
@@ -23,7 +23,6 @@ data:
       color="#0000ff"><u>ingress lane</u></font></a></i> ( ingress lane ) to an <i><a
       href="#idCC2F0AF206E94b6c811F65B1BC7B60A7"><font color="#0000ff"><u>egress lane</u></font></a></i>
       ( egress lane )'
-  examples: []
   notes:
   - content: The term "maneuver" is the American English spelling.
   terms:
@@ -32,4 +31,5 @@ data:
     designation: intersection manoeuvre
   language_code: eng
   entry_status: valid
+  annotations: []
 id: ff129258-6567-5a1f-a2c2-83b44f67285c

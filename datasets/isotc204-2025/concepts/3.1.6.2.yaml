@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.6.2
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 3372f316-8afd-5a28-aea8-6615af6017f1
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       color="#0000ff"><u>element</u></font></a></i> ( element ) that represents an
       entity that is managed, operated, referenced, and/or used to develop and provide
       ITS'
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: resource
   language_code: eng
   entry_status: valid
+  annotations: []
 id: f37c7372-a0e3-5b98-80a6-d73a59ee194c

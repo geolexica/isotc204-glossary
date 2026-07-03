@@ -16,7 +16,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.3.6.9
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: da02ed72-8cfc-57ec-aff1-95e2f1b86250
 schema_version: '3'
@@ -29,7 +29,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The grade separation allows {{urn:iso:std:iso:14812:ed3:3.6.1.1,travellers}}
       on the {{urn:iso:std:iso:14812:ed3:3.3.5.5,link}} to pass unimpeded through
@@ -43,4 +42,5 @@ data:
     designation: interchange
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 141b474e-75b6-5922-85a3-98df26eb29e2

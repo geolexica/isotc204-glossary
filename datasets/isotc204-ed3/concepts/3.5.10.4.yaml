@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.5.10.4
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: c268059e-c1be-5bac-a0be-bd931e85c0d0
 schema_version: '3'
@@ -25,7 +25,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The basic criteria typically include geographic limits and requirements
       related to legal and safe locations.
@@ -35,4 +34,5 @@ data:
     designation: free-floating
   language_code: eng
   entry_status: valid
+  annotations: []
 id: cb7fb9ce-4eb4-5eb4-8998-6f17c3d11112

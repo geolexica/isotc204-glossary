@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.7.6.3
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 11c08369-66fc-5dcd-bdb3-6c9d3040fc96
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       ( motorized vehicle ) <i><a href="#idCD96217608B748ad8F85A3F4059FD426"><font
       color="#0000ff"><u>road vehicle</u></font></a></i> ( road vehicle ) allowed
       to operate in the same driving spaces as motorized passenger cars
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: motor vehicle
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 38e8b226-0e00-51a6-a30d-383f2464d1f1

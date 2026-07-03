@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.11.4
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 153699cd-1c45-5a2f-936e-49f71021e793
 schema_version: '3'
@@ -28,7 +28,6 @@ data:
       | {{urn:iso:std:iso:14812:ed3:3.1.11.5,message}} | contains |
       ---
       Comment on this page
-  examples: []
   notes:
   - content: A data frame can contain other data frames.
   - content: The grouping can be a set, sequence or a choice.
@@ -38,4 +37,5 @@ data:
     designation: data frame
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 7ee9c522-5bfd-5af0-a488-7c19abadd6e4

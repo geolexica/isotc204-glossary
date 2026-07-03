@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.12.2
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 4c8425c7-f625-558c-bc0d-73d69e407220
 schema_version: '3'
@@ -22,7 +22,6 @@ data:
   - content: <i><a href="#id8C73DE6A6FCF4643AE8C1A25A4E4C9CF"><font color="#0000ff"><u>shared
       vehicle service</u></font></a></i> ( shared vehicle service ) that shares passenger
       cars
-  examples: []
   notes:
   - content: The term "passenger car sharing service" is admitted but means the same
       thing.
@@ -32,4 +31,5 @@ data:
     designation: carsharing service
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 7f582ec1-df55-5ced-93cf-c81d8ba8d165

@@ -3,7 +3,7 @@ data:
   identifier: 3.1.14.12
   localized_concepts:
     eng: 7966b8a9-f8eb-5727-ab19-c157bedea848
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 9507e615-ed1e-55f5-b2f8-a13775c62983
 schema_version: '3'
@@ -17,12 +17,11 @@ data:
       Source: ISO/IEC 27000:2018, 3.61
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: risk
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 7966b8a9-f8eb-5727-ab19-c157bedea848

@@ -224,7 +224,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.2.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 12000eea-fe7f-5e47-b293-047f21d2c300
 schema_version: '3'
@@ -244,12 +244,11 @@ data:
       | {{urn:iso:std:iso:14812:ed3:3.1.2.2,transport system}} | subClassOf |
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: system
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 5018b57d-bc3f-5311-bd50-3b457b00d250

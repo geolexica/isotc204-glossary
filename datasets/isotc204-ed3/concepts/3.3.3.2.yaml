@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.3.3.2
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: b475bdbd-419c-53e6-8627-e06002cb70cc
 schema_version: '3'
@@ -25,7 +25,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: Local legislation can allow cycleways to be used by a variety of {{urn:iso:std:iso:14812:ed3:3.7.5.3,moderately
       low-speed vehicles}} (e.g. low-speed scooters, skateboards, etc.) and can share
@@ -40,4 +39,5 @@ data:
     designation: cycle track
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 413aed08-c110-5b65-9d16-63229f96f0ab

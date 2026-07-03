@@ -22,7 +22,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.8.6
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 3ced41ee-499f-52aa-bf15-bdf9c5343ec4
 schema_version: '3'
@@ -36,7 +36,6 @@ data:
       EXAMPLE: A vehicle OBE can include a "vehicle basic safety" functional object.
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The term "module" is used by the European FRAME architecture while the
       Architecture Reference for Cooperative and Intelligent Transportation (ARC-IT)
@@ -50,4 +49,5 @@ data:
     designation: ITS functional object
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 6e82bd07-3c2c-5624-ad18-60f83cf92802

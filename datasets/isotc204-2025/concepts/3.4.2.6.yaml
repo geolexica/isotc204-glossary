@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.4.2.6
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 61893f11-c288-5670-8077-fe6e448d6d73
 schema_version: '3'
@@ -40,4 +40,5 @@ data:
     designation: geographic identifier
   language_code: eng
   entry_status: valid
+  annotations: []
 id: deb54aa4-bc62-54ce-ab38-9e1b341a0976

@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.11.3
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 5b7b4d93-13b6-5193-b7e6-0b1afb2f52e2
 schema_version: '3'
@@ -20,12 +20,11 @@ schema_version: '3'
 data:
   definition:
   - content: a set of permissible values
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: value domain
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 9f01306d-8a59-59e1-baa1-b672df78432e

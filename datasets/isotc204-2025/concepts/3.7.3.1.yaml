@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.7.3.1
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 6bb5d4e1-33d6-5d76-93b4-8ea96ea68192
 schema_version: '3'
@@ -22,7 +22,6 @@ data:
   - content: all real-time operational and tactical functions required to operate
       a <i><a href="#id555BFAB2A747457fB01D99511FDE885A"><font color="#0000ff"><u>vehicle</u></font></a></i>
       ( vehicle ) in on-road traffic
-  examples: []
   notes:
   - content: The DDT includes lateral vehicle motion control, longitudinal vehicle
       motion control, monitoring the driving environment, object and event response
@@ -35,4 +34,5 @@ data:
     designation: dynamic driving task
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 7f170721-d7e2-5f7f-bf69-e7d1557e1495

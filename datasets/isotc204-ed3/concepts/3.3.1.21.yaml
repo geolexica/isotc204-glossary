@@ -8,7 +8,7 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 99019443-0883-5372-900c-8b55ad57d6b2
 schema_version: '3'
@@ -23,7 +23,6 @@ data:
       Admitted term: interstate highway
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The terms "interstate highway" and "freeway" are US terms.
   terms:
@@ -32,4 +31,5 @@ data:
     designation: motorway
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 67c1cc96-7059-550b-b941-cea835212a5a

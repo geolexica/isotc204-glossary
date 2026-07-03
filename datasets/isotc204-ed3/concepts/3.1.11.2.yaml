@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.11.2
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 97459a79-24c1-5284-81d9-08e2f2ab931b
 schema_version: '3'
@@ -30,7 +30,6 @@ data:
       | {{urn:iso:std:iso:14812:ed3:3.1.11.1,data element}} | describes |
       ---
       Comment on this page
-  examples: []
   notes:
   - content: Some ISO/TC 204 documents use the term "object class" for consistency
       with ISO 11179-1, but within ITS, the term "class" is more generally understood.
@@ -41,4 +40,5 @@ data:
     designation: class
   language_code: eng
   entry_status: valid
+  annotations: []
 id: a400adb0-445f-5b66-81a8-7d701f88717b

@@ -18,7 +18,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.2.1.5
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 1a42a4aa-4f7d-58d0-ab73-a38c2a491c8e
 schema_version: '3'
@@ -31,8 +31,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
@@ -42,4 +40,5 @@ data:
     designation: ITS vehicle system
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 443b858f-ce65-5735-8af6-c0d0dff249de

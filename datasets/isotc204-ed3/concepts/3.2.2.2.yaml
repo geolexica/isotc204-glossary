@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.2.2.2
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 4e5d3352-96bf-55b0-9d81-90cde973801a
 schema_version: '3'
@@ -25,12 +25,11 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: fleet and freight management central system
   language_code: eng
   entry_status: valid
+  annotations: []
 id: '08b18ee0-b962-5a2d-a4c7-cbb6e78c5aa7'

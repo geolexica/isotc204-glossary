@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.3.3
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 9966e887-5b02-5c89-93ae-5d4e67ae2a81
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       ( entity ) that has an <i><a href="#idC312FB0B6C1140db86F158458C5AC4B8"><font
       color="#0000ff"><u>ITS user need</u></font></a></i> ( ITS user need ) to be
       fulfilled
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: ITS user
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 2ed25c29-5b1c-59f1-a029-84992ff207a6

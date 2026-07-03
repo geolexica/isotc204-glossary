@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.5.12.2
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 50762760-2e23-5632-b09f-ff299407ac7b
 schema_version: '3'
@@ -26,7 +26,6 @@ data:
       Admitted term: passenger car sharing service
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The term "passenger car sharing service" is admitted but has the same
       meaning.
@@ -36,4 +35,5 @@ data:
     designation: carsharing service
   language_code: eng
   entry_status: valid
+  annotations: []
 id: a5fe9365-4309-542b-8132-ee7f547b54b9

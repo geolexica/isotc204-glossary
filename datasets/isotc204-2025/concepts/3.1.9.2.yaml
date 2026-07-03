@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.9.2
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 91d1be88-1b4f-5e93-a1d2-b3a45f72e88f
 schema_version: '3'
@@ -24,7 +24,6 @@ data:
       color="#0000ff"><u>system elements</u></font></a></i> ( element ) that may be
       deployed and managed by different projects and/or entities within a geographic
       area
-  examples: []
   notes:
   - content: Some countries use the term "regional architecture", but in international
       standards, the term "regional" is avoided due to its multiple meanings.
@@ -34,4 +33,5 @@ data:
     designation: planning architecture
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 52033d4d-ceeb-5882-bb2c-dfdf74853a96

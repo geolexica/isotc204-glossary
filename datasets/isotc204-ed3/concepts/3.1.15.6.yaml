@@ -3,7 +3,7 @@ data:
   identifier: 3.1.15.6
   localized_concepts:
     eng: 027a438c-340b-572b-9b17-22ea0a2a9218
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 4082d971-b316-50e8-8d76-f01e45b41af1
 schema_version: '3'
@@ -18,7 +18,6 @@ data:
       Source: ISO/IEC/IEEE 24765:2017, example and note added
       ---
       Comment on this page
-  examples: []
   notes:
   - content: A device can conform to multiple requirements specifications, each with
       a different focus.
@@ -28,4 +27,5 @@ data:
     designation: requirements specification
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 027a438c-340b-572b-9b17-22ea0a2a9218

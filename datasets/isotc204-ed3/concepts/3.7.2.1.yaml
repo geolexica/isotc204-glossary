@@ -50,7 +50,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.7.2.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 978fd346-c9d6-5f8d-ac3f-67d10ee21bed
 schema_version: '3'
@@ -71,7 +71,6 @@ data:
       | {{urn:iso:std:iso:14812:ed3:3.7.5.7,ultra-low vehicle speed}} | subClassOf |
       ---
       Comment on this page
-  examples: []
   notes:
   - content: Speed is a function of time.
   - content: Speed is the scalar absolute value (magnitude) of velocity.
@@ -81,4 +80,5 @@ data:
     designation: speed
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 555bb012-ed9e-523e-9ea7-8c46567de5c0

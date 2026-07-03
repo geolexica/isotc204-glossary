@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.7.3.14
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 10068be3-94f9-5119-8d8d-c768644f63cd
 schema_version: '3'
@@ -25,8 +25,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
@@ -36,4 +34,5 @@ data:
     designation: automation-equipped conventional vehicle
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 978ab115-2860-5aa9-a91e-3cfd96a01b38

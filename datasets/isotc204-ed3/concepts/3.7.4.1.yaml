@@ -34,7 +34,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.7.4.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: c8430153-f269-5a47-894c-9152537a5d7c
 schema_version: '3'
@@ -52,8 +52,6 @@ data:
       | {{urn:iso:std:iso:14812:ed3:3.7.4.4,unequipped}} | subClassOf |
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
@@ -63,4 +61,5 @@ data:
     designation: ITS off-grid
   language_code: eng
   entry_status: valid
+  annotations: []
 id: b17942ee-2f04-5d35-91df-dbd861fae0bd

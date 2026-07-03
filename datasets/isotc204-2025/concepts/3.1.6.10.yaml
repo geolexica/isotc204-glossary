@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.6.10
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: ce480423-9efd-57e4-9966-11ff21783249
 schema_version: '3'
@@ -25,11 +25,11 @@ data:
       ( resource ) supplements another resource'
   examples:
   - content: A module might extend the functionality of another module.
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: extends
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 9c985922-6408-5692-af9a-c05428583a8c

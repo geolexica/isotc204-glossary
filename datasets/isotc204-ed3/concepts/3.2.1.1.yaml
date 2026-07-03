@@ -65,7 +65,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.2.1.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 19ff292f-383f-57fd-9f9f-260be056e75c
 schema_version: '3'
@@ -78,8 +78,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
@@ -89,4 +87,5 @@ data:
     designation: ITS central system
   language_code: eng
   entry_status: valid
+  annotations: []
 id: a80a48a9-56a5-522e-9b27-f384194fea5a

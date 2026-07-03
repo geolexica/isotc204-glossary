@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.2.6.2
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 61316593-0955-5d15-bf1b-5c1d740f6655
 schema_version: '3'
@@ -26,7 +26,6 @@ data:
       Admitted term: onboard unit
       ---
       Comment on this page
-  examples: []
   notes:
   - content: An OBU implementation can also include ITS functionality.
   terms:
@@ -41,4 +40,5 @@ data:
     designation: on-board unit
   language_code: eng
   entry_status: valid
+  annotations: []
 id: acd11599-5309-58e0-a722-a9825a951c50

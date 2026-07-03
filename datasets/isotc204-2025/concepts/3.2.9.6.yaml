@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.2.9.6
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 241e9e96-458e-505b-8fe8-66c6ceba247f
 schema_version: '3'
@@ -24,12 +24,11 @@ data:
       installation ) within the <i><a href="#idB67D64896F6943cc98608CF4BB934A7D"><font
       color="#0000ff"><u>application entity</u></font></a></i> ( application entity
       )
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: ITS-S application installation
   language_code: eng
   entry_status: valid
+  annotations: []
 id: b9664ea6-ed79-5615-81ba-bf39f4a6ade6

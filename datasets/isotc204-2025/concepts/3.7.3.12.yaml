@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.7.3.12
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 32a8a870-2579-5a8f-99a6-57cabb4072f1
 schema_version: '3'
@@ -26,7 +26,6 @@ data:
       ( fallback ), without any expectation that a human <i><a href="#id99035FCBCBED4af49063EB3F85FD7031"><font
       color="#0000ff"><u>driver</u></font></a></i> ( driver ) will respond to a request
       to intervene
-  examples: []
   notes:
   - content: Other driving automation levels include "level 1 driving automation",
       "level 2 driving automation", "level 3 ADS", and "level 5 ADS".
@@ -36,4 +35,5 @@ data:
     designation: level 4 ADS
   language_code: eng
   entry_status: valid
+  annotations: []
 id: e2a9c0a9-31c9-5603-a012-d06980c018fa

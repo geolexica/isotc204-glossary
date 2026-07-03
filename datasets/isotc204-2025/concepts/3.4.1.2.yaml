@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.4.1.2
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 4ee47c3b-0755-58a6-9ca1-a4ce85f83763
 schema_version: '3'
@@ -21,7 +21,6 @@ data:
   definition:
   - content: <i><a href="#idDA3B34E1052A42fd993CBD5F6ED740E6"><font color="#0000ff"><u>location</u></font></a></i>
       ( location ) within three-dimensional space
-  examples: []
   notes:
   - content: The "location" could be a point (consuming no space) or could consume
       space in one, two, or three dimensions. In any case, the location is identified
@@ -34,4 +33,5 @@ data:
     designation: spatial location
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 4a270a6d-9ba9-5fa6-860e-e16fe9c8fc1b

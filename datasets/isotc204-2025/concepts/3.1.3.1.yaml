@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.3.1
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: e009a15a-4a44-5771-a901-cacd6e08e8dd
 schema_version: '3'
@@ -24,8 +24,6 @@ data:
       ( environment ) embodied in its <i><a href="#idA9454DB86F4C47c9902B7ABEE2462EA8"><font
       color="#0000ff"><u>elements</u></font></a></i> ( element ), relationships, and
       in the principles of its design and evolution'
-  examples: []
-  notes: []
   sources:
   - origin:
       ref:
@@ -37,4 +35,5 @@ data:
     designation: architecture
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 9a60e239-88c7-56ad-a42f-a73740ab13c8

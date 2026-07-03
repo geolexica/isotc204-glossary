@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.6.5
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 219e10f5-f265-5962-98ea-40c1a5e9a92a
 schema_version: '3'
@@ -26,8 +26,6 @@ data:
       EXAMPLE: A road operator can enter into formal agreement(s) with the owner of a {{urn:iso:std:iso:14812:ed3:3.3.5.1,road}} and the owner(s) of the associated {{urn:iso:std:iso:14812:ed3:3.2.3.2,ITS roadside equipment}}.
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
@@ -37,4 +35,5 @@ data:
     designation: enterprise view formal coordination
   language_code: eng
   entry_status: valid
+  annotations: []
 id: c0185211-d2d0-596f-a9ff-5b8fea5341d6

@@ -20,7 +20,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.3.5.6
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: c692f2e1-3710-564a-a8ae-703cf09e4069
 schema_version: '3'
@@ -33,7 +33,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The operational characteristics of the nodes would relate to the type
       of {{urn:iso:std:iso:14812:ed3:3.3.5.3,road model}}. For example, a traffic
@@ -45,4 +44,5 @@ data:
     designation: road link
   language_code: eng
   entry_status: valid
+  annotations: []
 id: a9ed7e18-c6ac-5c47-90a3-97c1175d2178

@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.3.3.4
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: bc943bc0-5dbd-5b53-830a-6d811ccd33e8
 schema_version: '3'
@@ -22,12 +22,11 @@ data:
   - content: <i><a href="#id5B3BE81CF43C4c4bA8E9EEF5E12EDA6C"><font color="#0000ff"><u>footway</u></font></a></i>
       ( footway ) along a <i><a href="#id718D31DE1698436a9BA71D3F4512432A"><font color="#0000ff"><u>roadside</u></font></a></i>
       ( roadside )
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: sidewalk
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 8d1a6bba-7b39-52c4-8171-0183f26725ea

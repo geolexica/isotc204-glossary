@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.2.1.4
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: ba4e7916-f818-54da-8a3e-e64ea9d9909c
 schema_version: '3'
@@ -25,11 +25,11 @@ data:
   examples:
   - content: Data distribution system, network time source, cooperative ITS credentials
       management system
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: support system
   language_code: eng
   entry_status: valid
+  annotations: []
 id: f4d2417d-d425-5d49-a6dd-b8d157ed1e91

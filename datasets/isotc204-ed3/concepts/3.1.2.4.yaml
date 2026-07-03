@@ -23,7 +23,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.2.4
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 1d067383-be36-5861-ac4a-ddb304a31545
 schema_version: '3'
@@ -37,7 +37,6 @@ data:
       Admitted term: intelligent transportation system
       ---
       Comment on this page
-  examples: []
   notes:
   - content: '"Intelligent transportation system" is the American English equivalent.'
   - content: Benefits potentially include, but are not limited to, increased safety,
@@ -55,4 +54,5 @@ data:
     designation: ITS
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 20714cc6-c778-5676-8247-488387270a76

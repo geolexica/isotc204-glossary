@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.3.6.2
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 48f3dacd-cbb3-57ce-932b-f60b986dc83c
 schema_version: '3'
@@ -22,12 +22,11 @@ data:
   - content: <i><a href="#idA3C484DBF15D4b338F5C8C0A15EA4F2E"><font color="#0000ff"><u>intersection</u></font></a></i>
       ( intersection ) that allows travellers to change <i><a href="#id72937CE094414775B90C995DFCB64EEB"><font
       color="#0000ff"><u>roads</u></font></a></i> ( road )
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: junction
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 79f0faf5-4c67-5082-ad96-e099c7eb740f

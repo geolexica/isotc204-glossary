@@ -24,7 +24,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.4.7
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 147309b1-6aa5-5a46-a239-2cff524923a5
 schema_version: '3'
@@ -37,7 +37,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The term "deployment view" is sometimes used within the broader ICT community,
       but the term "physical view" is preferred to prevent confusion between the physical
@@ -49,4 +48,5 @@ data:
     designation: physical view
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 8d9f6a3e-f1fd-5648-990a-1e87effddfe4

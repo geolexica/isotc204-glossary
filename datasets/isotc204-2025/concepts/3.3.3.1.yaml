@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.3.3.1
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: be2d760c-63f3-57ab-b8ee-ea8c382a054f
 schema_version: '3'
@@ -21,7 +21,6 @@ data:
   definition:
   - content: <i><a href="#idDAF8D75AA574422cADE5F6D094406BB4"><font color="#0000ff"><u>lane</u></font></a></i>
       ( lane ) designed for the through movement of cycles
-  examples: []
   notes:
   - content: Cycle lanes are typically much narrower than traffic lanes.
   - content: Cycle lanes are typically part of either a carriageway or a cycleway.
@@ -34,4 +33,5 @@ data:
     designation: cycle lane
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 680a7b9a-51f7-5bc0-b5a8-9f078ac3482b

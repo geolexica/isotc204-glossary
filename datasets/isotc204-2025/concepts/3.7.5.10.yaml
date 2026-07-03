@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.7.5.10
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 057f8bca-9032-5571-8205-a64cff6b40be
 schema_version: '3'
@@ -33,4 +33,5 @@ data:
     designation: moderate vehicle speed
   language_code: eng
   entry_status: valid
+  annotations: []
 id: c313bf67-4bca-5ed1-bd5c-2cbeadb219bb

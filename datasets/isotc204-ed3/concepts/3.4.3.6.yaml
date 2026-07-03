@@ -8,7 +8,7 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 9ff6dec5-89ee-54e9-b79b-b90b6f1593a3
 schema_version: '3'
@@ -21,7 +21,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: A geofence can be used to electronically represent a jurisdictional boundary.
   terms:
@@ -30,4 +29,5 @@ data:
     designation: jurisdictional boundary
   language_code: eng
   entry_status: valid
+  annotations: []
 id: d925b3d8-4791-5c08-91b5-48498a2607f1

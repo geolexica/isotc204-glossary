@@ -32,7 +32,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.2.1.2
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: a69eddf4-8509-58fe-a02c-4e43beaa5593
 schema_version: '3'
@@ -46,7 +46,6 @@ data:
       EXAMPLE: Traffic detector, camera, signal controller, message sign, tolling station.
       ---
       Comment on this page
-  examples: []
   notes:
   - content: Field systems can be permanently installed or transportable.
   - content: The term "roadside system" is typically used to describe field systems
@@ -66,4 +65,5 @@ data:
     designation: roadside system
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 56a4c311-7e06-5d59-b4b2-5a0a2685d48f

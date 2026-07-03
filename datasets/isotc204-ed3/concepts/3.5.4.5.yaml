@@ -8,7 +8,7 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: b75555d2-4c6e-5728-8c77-eda674607832
 schema_version: '3'
@@ -21,7 +21,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The definition of ITS-S service predates the adoption of the concept
       model used for the other service terms in this standard. It is an outlier in
@@ -35,4 +34,5 @@ data:
     designation: ITS-S service
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 37763b1c-56be-53a1-9cb2-5dccc6bb33a5

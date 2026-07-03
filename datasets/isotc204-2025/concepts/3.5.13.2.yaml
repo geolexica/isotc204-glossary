@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.13.2
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: dddb3b93-f2c4-5509-9e95-33f8abd70f90
 schema_version: '3'
@@ -24,12 +24,11 @@ data:
       color="#0000ff"><u>transport user</u></font></a></i> ( transport user ) in acquiring
       a <i><a href="#id5F69F95814304a3991719C6E60838C0A"><font color="#0000ff"><u>transport
       service</u></font></a></i> ( transport service ) from a specific business
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: B2C mobility sharing app
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 1f696f51-e60c-57e4-83bc-2c7f0b7341bd

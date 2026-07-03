@@ -25,7 +25,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.5.8.4
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: e485b985-d591-589b-9398-9cf0bf1a2bc3
 schema_version: '3'
@@ -42,7 +42,6 @@ data:
       | {{urn:iso:std:iso:14812:ed3:3.5.8.5,mutual benefit}} | subClassOf |
       ---
       Comment on this page
-  examples: []
   notes:
   - content: Cooperative models are exclusive {{urn:iso:std:iso:14812:ed3:3.5.8.2,commercial}}
       and {{urn:iso:std:iso:14812:ed3:3.5.8.3,public}} models.
@@ -52,4 +51,5 @@ data:
     designation: cooperative
   language_code: eng
   entry_status: valid
+  annotations: []
 id: e7d26f9f-fac1-5c35-9d24-27ab64476d62

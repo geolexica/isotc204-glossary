@@ -26,7 +26,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.6.2.3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: b7173b36-5ab8-5f22-85fc-cd570de8c177
 schema_version: '3'
@@ -43,7 +43,6 @@ data:
       | {{urn:iso:std:iso:14812:ed3:3.6.2.5,remote driver}} | subClassOf |
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The driver is typically on-board the vehicle but could be remote from
       the vehicle or automated logic.
@@ -53,4 +52,5 @@ data:
     designation: driver
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 856cd3f0-20cb-5d54-b6f9-3e61d2d9fd15

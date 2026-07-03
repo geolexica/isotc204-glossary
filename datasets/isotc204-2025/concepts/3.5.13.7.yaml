@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.13.7
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 25c90b3b-8444-57da-998b-4f0383d3a5d6
 schema_version: '3'
@@ -24,7 +24,6 @@ data:
       color="#0000ff"><u>transport user</u></font></a></i> ( transport user ) in using
       a <i><a href="#id8D4AD407A8594d13A4947E6EA66408A6"><font color="#0000ff"><u>public
       transport</u></font></a></i> ( public transport ) system
-  examples: []
   notes:
   - content: A public transport app might include features such as viewing maps, searching
       routes and schedules, real-time arrival information, ticketing, electronic boarding
@@ -35,4 +34,5 @@ data:
     designation: public transport app
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 606b3307-6361-586d-b994-bcea0f1a67c8

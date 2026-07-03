@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.13.9
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 80040d5f-24e4-53c9-b3b6-faa4a4decff1
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       app</u></font></a></i> ( mobility app ) that assists a <i><a href="#idE444860D95E5458a9BA4CF4BCE3EAD71"><font
       color="#0000ff"><u>transport user</u></font></a></i> ( transport user ) in electronically
       requesting a taxi
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: taxi hailing app
   language_code: eng
   entry_status: valid
+  annotations: []
 id: b2595bce-6b12-5d8c-823a-8797ac3592db

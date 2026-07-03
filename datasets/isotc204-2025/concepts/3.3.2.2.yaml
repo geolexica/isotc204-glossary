@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.3.2.2
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 49b41997-0a8d-5cd4-b600-090482dda2c9
 schema_version: '3'
@@ -23,7 +23,6 @@ data:
       reservation</u></font></a></i> ( road reservation ) between <i><a href="#id855CC715739D462e9790E893914D8768"><font
       color="#0000ff"><u>carriageways</u></font></a></i> ( carriageway ) designed
       for travel safety purposes
-  examples: []
   notes:
   - content: A central reservation can be paved or unpaved and can be equipped with
       a safety barrier, rails, or other devices.
@@ -33,4 +32,5 @@ data:
     designation: central reservation
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 32808ccd-c0b4-5aea-af84-e6ace9c79828

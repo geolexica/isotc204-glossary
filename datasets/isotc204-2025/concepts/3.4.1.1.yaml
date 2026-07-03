@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.4.1.1
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: e051139f-db48-53f1-8d37-081f0bd94f0c
 schema_version: '3'
@@ -20,7 +20,6 @@ schema_version: '3'
 data:
   definition:
   - content: particular place or position
-  examples: []
   notes:
   - content: The term "location" by itself is a broad term that can be used to reference
       spatial, computer memory, imaginary, and other locations.
@@ -30,4 +29,5 @@ data:
     designation: location
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 5f369a4e-5950-5c22-86aa-7286a0cbdc00

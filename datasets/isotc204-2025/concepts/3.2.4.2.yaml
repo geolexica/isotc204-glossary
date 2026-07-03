@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.2.4.2
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: bbe8e12b-3506-5ff8-b053-e75895a70907
 schema_version: '3'
@@ -24,11 +24,11 @@ data:
       traveller information
   examples:
   - content: personal computer
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: personal information device
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 64643d61-3eac-558b-9f36-9cbe6577735f

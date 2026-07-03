@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.2.9.5
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: d86f7565-40da-5982-98d0-437aad68da84
 schema_version: '3'
@@ -23,7 +23,6 @@ data:
       color="#0000ff"><u>ITS-S application process</u></font></a></i> ( ITS-S application
       process ) on an <i><a href="#idF1E402D380EE478c957A2FF53D9EA0C5"><font color="#0000ff"><u>ITS
       station</u></font></a></i> ( ITS station )
-  examples: []
   notes:
   - content: An implementation is typically associated with an implementation name,
       a version, and a release number.
@@ -35,4 +34,5 @@ data:
     designation: ITS-S application process installation
   language_code: eng
   entry_status: valid
+  annotations: []
 id: b91e948f-9b3b-57fa-ab20-3f91fff59396

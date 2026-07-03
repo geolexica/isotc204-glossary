@@ -253,7 +253,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.1.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 2437fa0f-7752-53a7-a61b-d925ee26ed0b
 schema_version: '3'
@@ -274,12 +274,11 @@ data:
       | {{urn:iso:std:iso:14812:ed3:3.5.1.3,user}} | subClassOf |
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: entity
   language_code: eng
   entry_status: valid
+  annotations: []
 id: a97d60a7-6136-580e-a1f7-c9b2e9b08b9d

@@ -24,7 +24,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.5.11.3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 58f9dac0-3ccf-5635-98e4-f8d403315337
 schema_version: '3'
@@ -37,12 +37,11 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: taxi-share service
   language_code: eng
   entry_status: valid
+  annotations: []
 id: db7217dc-013f-5baf-a329-2e39d4978c1c

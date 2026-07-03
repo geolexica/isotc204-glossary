@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.5.7
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 6ad72632-b71a-534c-bd97-e39eb7f3c247
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       color="#0000ff"><u>ITS station reference architecture</u></font></a></i> ( ITS-S
       reference architecture ) that is responsible for providing privacy, communication
       security, and system security'
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: security entity
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 261e2439-ad0d-5581-8fa4-a0bf758db7d2

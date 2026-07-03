@@ -14,7 +14,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[ridesourcing app](ridesourcing app.md)"
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 8cd77fd8-b1d8-5453-aad9-78f26726b1be
 schema_version: '3'
@@ -27,12 +27,11 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: P2P mobility sharing app
   language_code: eng
   entry_status: valid
+  annotations: []
 id: fe3b7619-dae6-525f-a459-0f288dd57f37

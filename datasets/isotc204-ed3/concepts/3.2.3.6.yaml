@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.2.3.6
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: af84c3da-46f0-5d67-94d7-e4833bc8b251
 schema_version: '3'
@@ -25,7 +25,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The term "connected" does not imply support for any specific communications
       interface or ITS-S application process [ITS-S application process.md].
@@ -38,4 +37,5 @@ data:
     designation: ITS connected
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 0fb6ad68-09d5-5038-b2da-da695626865f

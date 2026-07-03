@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.11.6
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: fcbd615e-29fd-59f7-a3e6-cf493a22065d
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       service</u></font></a></i> ( ridesourced service ) that serves passengers <i><a
       href="#idE5D76E7905404edfBA6A94FCEC721A6A"><font color="#0000ff"><u>concurrently</u></font></a></i>
       ( concurrent )
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: ridesplit service
   language_code: eng
   entry_status: valid
+  annotations: []
 id: a37836c5-c6d6-5485-95e5-148d573367d4

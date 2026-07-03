@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.3.1.14
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 5082a32b-273a-5e37-ac80-ae593545094c
 schema_version: '3'
@@ -27,7 +27,6 @@ data:
       Example 2: High-occupancy vehicle lane.
       ---
       Comment on this page
-  examples: []
   notes:
   - content: A traffic lane may be reserved permanently or under certain conditions
       or times.
@@ -37,4 +36,5 @@ data:
     designation: reserved lane
   language_code: eng
   entry_status: valid
+  annotations: []
 id: c1c685a4-a9f4-530a-9c79-e0de3707b6e7

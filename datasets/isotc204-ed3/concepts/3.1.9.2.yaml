@@ -18,7 +18,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.9.2
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: f9599b0c-1786-5cf6-8aa5-0e9bd2690fc9
 schema_version: '3'
@@ -32,7 +32,6 @@ data:
       Admitted term: regional architecture
       ---
       Comment on this page
-  examples: []
   notes:
   - content: Some countries use the term "regional architecture", but in International
       Standards, the term "regional" is avoided due to its multiple meanings.
@@ -42,4 +41,5 @@ data:
     designation: planning architecture
   language_code: eng
   entry_status: valid
+  annotations: []
 id: cfacd6df-210a-5c76-b7ae-5d42b069d7f3

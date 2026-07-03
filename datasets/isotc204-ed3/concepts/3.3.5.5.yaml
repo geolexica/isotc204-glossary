@@ -36,7 +36,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.3.5.5
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 8ee2a54b-75df-59bd-8426-3fb2b442dfbc
 schema_version: '3'
@@ -55,7 +55,6 @@ data:
       | {{urn:iso:std:iso:14812:ed3:3.3.5.8,road segment}} | subClassOf |
       ---
       Comment on this page
-  examples: []
   notes:
   - content: A link can be curvilinear and can have various attributes such as width.
   terms:
@@ -64,4 +63,5 @@ data:
     designation: link
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 21e4facd-0314-543c-ba8e-c1f7ae9318f4

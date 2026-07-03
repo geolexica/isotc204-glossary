@@ -24,7 +24,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.9.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: f5b65524-4679-50f0-b25d-e7778846f2fb
 schema_version: '3'
@@ -37,7 +37,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: Interface standards are based on a reference architecture, which should
       be explicitly described.
@@ -47,4 +46,5 @@ data:
     designation: reference architecture
   language_code: eng
   entry_status: valid
+  annotations: []
 id: '019bbe12-4748-5f91-89f2-0451a25c94b9'

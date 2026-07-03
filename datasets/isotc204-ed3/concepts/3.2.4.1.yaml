@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.2.4.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: cd39b243-bfcd-5e92-97e9-5606b44c19ed
 schema_version: '3'
@@ -26,8 +26,6 @@ data:
       Admitted term: external in-vehicle device
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
@@ -37,4 +35,5 @@ data:
     designation: carry-in vehicle device
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 54ed7e9d-409b-589c-88ad-d6acf1a223a4

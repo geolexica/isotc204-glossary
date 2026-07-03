@@ -29,7 +29,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.7.3.15
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 2295da2b-33aa-52c3-88ad-612650850c6f
 schema_version: '3'
@@ -45,7 +45,6 @@ data:
       Deprecated term: autonomous vehicle
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The term "autonomous vehicle" is also often used in a colloquial form
       and is even less well defined. The term is particularly problematic because
@@ -72,4 +71,5 @@ data:
     designation: ADS-equipped vehicle
   language_code: eng
   entry_status: valid
+  annotations: []
 id: fee9ba95-8c58-5bb5-9582-d27ec16b83f0

@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.1.6
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 2f2f0e35-6831-571e-b2ea-fd1b7190ef62
 schema_version: '3'
@@ -21,8 +21,6 @@ data:
   definition:
   - content: <i><a href="#idBFF7F45423994d21BDE8FD5BEE09F6FD"><font color="#0000ff"><u>biological
       entity</u></font></a></i> ( biological entity ) that is a human being
-  examples: []
-  notes: []
   sources:
   - origin:
       ref:
@@ -39,4 +37,5 @@ data:
     designation: person
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 1bc35229-622f-5275-b233-fb9243f09b52

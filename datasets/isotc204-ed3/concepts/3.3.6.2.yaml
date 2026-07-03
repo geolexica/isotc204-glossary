@@ -32,7 +32,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.3.6.2
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: '08f8a67b-ddc4-58bf-bf32-d1165a408abb'
 schema_version: '3'
@@ -50,12 +50,11 @@ data:
       | {{urn:iso:std:iso:14812:ed3:3.3.6.8,junction at grade}} | subClassOf |
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: junction
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 18bcdba7-b149-5369-acef-efcf4c397093

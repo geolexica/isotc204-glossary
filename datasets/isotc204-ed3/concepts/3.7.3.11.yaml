@@ -20,7 +20,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.7.3.11
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 4399c801-dc70-5e8d-afd8-8f379a27ba6b
 schema_version: '3'
@@ -33,7 +33,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: Level 3 ADSs are restricted to operating within a specific {{urn:iso:std:iso:14812:ed3:3.7.3.2,operational
       design domain}}.
@@ -55,4 +54,5 @@ data:
     designation: level 3 Automated Driving System
   language_code: eng
   entry_status: valid
+  annotations: []
 id: '08209d19-3f97-575a-a3a1-d6305cd2755f'

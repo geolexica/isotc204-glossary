@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.3.4
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: be9a8505-1c62-5c06-bc9c-979bcedfb638
 schema_version: '3'
@@ -26,8 +26,6 @@ data:
       Source: ISO/IEC/IEEE 42010:2011, 3.10
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
@@ -37,4 +35,5 @@ data:
     designation: system stakeholder
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 1f7a73cd-ae7a-501f-a917-91803bed997d

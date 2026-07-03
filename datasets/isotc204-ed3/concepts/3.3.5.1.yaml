@@ -30,7 +30,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.3.5.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 8a0f51b3-bd46-5af0-91b4-af7169c9b80f
 schema_version: '3'
@@ -49,7 +49,6 @@ data:
       | {{urn:iso:std:iso:14812:ed3:3.3.5.13,service road}} | subClassOf |
       ---
       Comment on this page
-  examples: []
   notes:
   - content: A length of the {{urn:iso:std:iso:14812:ed3:3.3.5.2,road network}} may
       be referenced by multiple designators (e.g. Main Street and Route 7). In this
@@ -63,4 +62,5 @@ data:
     designation: road
   language_code: eng
   entry_status: valid
+  annotations: []
 id: c889fb11-1a11-5095-8153-f81873d7067b

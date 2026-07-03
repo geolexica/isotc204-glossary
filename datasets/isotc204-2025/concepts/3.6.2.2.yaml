@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.6.2.2
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 786063ba-241c-5a15-8a19-ed20bde06b5b
 schema_version: '3'
@@ -22,7 +22,6 @@ data:
   - content: <i><a href="#idA195A5913A44427f96436DF49EAAC159"><font color="#0000ff"><u>person</u></font></a></i>
       ( person ) in or on a <i><a href="#id555BFAB2A747457fB01D99511FDE885A"><font
       color="#0000ff"><u>vehicle</u></font></a></i> ( vehicle )
-  examples: []
   notes:
   - content: A vehicle occupant in a stationary vehicle is not necessarily a traveller.
   terms:
@@ -31,4 +30,5 @@ data:
     designation: vehicle occupant
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 4fde5fc6-23b8-59e4-8419-e07ecde14be3

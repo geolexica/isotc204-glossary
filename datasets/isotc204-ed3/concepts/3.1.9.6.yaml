@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.9.6
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 7ead800b-5e9e-59dc-9182-b5a0e9ebee82
 schema_version: '3'
@@ -25,12 +25,11 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: ITS planning architecture
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 35050eef-d37a-5515-aa74-1da586c4a53f

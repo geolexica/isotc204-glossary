@@ -8,7 +8,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.3.5.4
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: be72acdd-8407-5b2e-973f-47e1f409c653
 schema_version: '3'
@@ -21,7 +21,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The point location typically represents a point along the {{urn:iso:std:iso:14812:ed3:3.3.5.1,road}}
       which can be used to designate the {{urn:iso:std:iso:14812:ed3:3.4.1.2,spatial
@@ -37,4 +36,5 @@ data:
     designation: road network node
   language_code: eng
   entry_status: valid
+  annotations: []
 id: da97ccc5-d723-5771-87c9-9a9ae3b62f6d

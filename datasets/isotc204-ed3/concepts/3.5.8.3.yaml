@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.5.8.3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 119773df-dbe0-539c-a17e-34fb25f658b2
 schema_version: '3'
@@ -25,7 +25,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The transport service [transport service.md] is typically offered to
       the transport consumer for less than the full capital and operating cost of
@@ -40,4 +39,5 @@ data:
     designation: public
   language_code: eng
   entry_status: valid
+  annotations: []
 id: b29031b2-26d8-5723-870f-b23d45f7dc88

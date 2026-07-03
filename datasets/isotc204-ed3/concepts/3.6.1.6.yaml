@@ -8,7 +8,7 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: d2588c6e-81ac-5a5c-8d47-5e94114ceecf
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       EXAMPLE: {{urn:iso:std:iso:14812:ed3:3.6.2.2,vehicle occupants}}
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: protected road user
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 1ef23fa7-c1e5-5f2a-a589-5bc664703ce3

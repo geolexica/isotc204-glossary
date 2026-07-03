@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.2.5
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 33ff02d4-e3bf-5477-bd6a-52a1974f1efb
 schema_version: '3'
@@ -24,12 +24,11 @@ data:
       color="#0000ff"><u>ITS stations</u></font></a></i> ( ITS station ) in a manner
       that enables its use by multiple <i><a href="#id4D485872E9EE414e9CE1AB855A03540B"><font
       color="#0000ff"><u>ITS services</u></font></a></i> ( ITS service )
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: cooperative ITS
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 68f8e830-78a5-5e74-8290-7768c147a04b

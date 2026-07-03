@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.5.6.5
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: ac0fe7d7-12f7-554a-846e-11e7f87facea
 schema_version: '3'
@@ -25,7 +25,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: This term can be specialized by replacing "vehicle" with any defined
       vehicle type. However, in some cases the preferred form is to consolidate terms
@@ -36,4 +35,5 @@ data:
     designation: vehicle sharing
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 8019523e-4683-58a5-9cd3-b36a91d65fc5

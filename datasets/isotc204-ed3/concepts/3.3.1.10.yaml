@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.3.1.10
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 7b37e3df-4594-566d-8d85-d058d869f6a6
 schema_version: '3'
@@ -25,7 +25,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: "{{urn:iso:std:iso:14812:ed3:3.3.1.10,Roadside}}, {{urn:iso:std:iso:14812:ed3:3.3.1.18,shoulder}}
       and {{urn:iso:std:iso:14812:ed3:3.3.1.11,verge}} define similar but slightly
@@ -36,4 +35,5 @@ data:
     designation: roadside
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 7807f148-6061-5534-aba9-632835653abb

@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.2.8.2
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: ef73a8f6-5f73-5085-bb98-e01c1b68c2c8
 schema_version: '3'
@@ -23,7 +23,6 @@ data:
       color="#0000ff"><u>physical objects</u></font></a></i> ( physical object ) interoperate
       to provide a <i><a href="#id1C826F4DC7744eb7B8DDB33EF68A28F5"><font color="#0000ff"><u>service</u></font></a></i>
       ( service )
-  examples: []
   notes:
   - content: Characteristics often include but are not limited to functional, performance,
       and interface requirements.
@@ -33,4 +32,5 @@ data:
     designation: interoperability design
   language_code: eng
   entry_status: valid
+  annotations: []
 id: bad94739-759b-512d-9fb4-cf57772757a1

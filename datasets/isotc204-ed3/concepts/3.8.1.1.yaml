@@ -8,7 +8,7 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: a6dd76f8-50e5-5c02-bf38-a9a58a0041e6
 schema_version: '3'
@@ -22,12 +22,11 @@ data:
       EXAMPLE: token, stored electronic account, fleet card, bank account, credit card, contract
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: payment means
   language_code: eng
   entry_status: valid
+  annotations: []
 id: a079e7d0-dba2-5b61-a5ef-82fb35b408a4

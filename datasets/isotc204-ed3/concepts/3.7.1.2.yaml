@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.7.1.2
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 7ea085d9-3123-564f-a4ef-2622e30a3f4a
 schema_version: '3'
@@ -29,12 +29,11 @@ data:
       | {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} | has |
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: motor
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 76574937-6fc0-53ee-a5df-e50160c9c773

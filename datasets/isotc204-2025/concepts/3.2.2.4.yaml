@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.2.2.4
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 54313772-8c16-5213-8e66-9a53a2aee8bc
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       system</u></font></a></i> ( central system ) that allows an entity to manage
       financial transactions related to transportation, especially the electronic
       transfer of funds
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: payment administration central system
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 96dd62ab-355c-5426-8a40-5c35d571d12e

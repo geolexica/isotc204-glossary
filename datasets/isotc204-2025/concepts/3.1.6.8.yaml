@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.6.8
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 767a64c2-5155-5baa-a28d-8c2cd6a8210e
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       color="#0000ff"><u>element</u></font></a></i> ( element ) that represents an
       association between two <i><a href="#id55BD7B9720A44728AE93ED1F75D7692B"><font
       color="#0000ff"><u>resources</u></font></a></i> ( resource )'
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: relationship
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 4a3650c9-2e02-5d55-9838-ab93e92b4c2a

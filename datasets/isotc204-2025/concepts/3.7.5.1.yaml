@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.7.5.1
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 62b0f31a-5399-5e2e-af2e-2d14bf0c115e
 schema_version: '3'
@@ -24,7 +24,6 @@ data:
       speed</u></font></a></i> ( design speed ) that does not exceed <i><a href="#idF8EB867A8B6E4325B76F49E87B1DF605"><font
       color="#0000ff"><u>ultra-low vehicle speeds</u></font></a></i> ( ultra-low vehicle
       speed )
-  examples: []
   notes:
   - content: The term "pedestrian speed vehicle" is allowed but the preferred term
       follows a logical progression of levels.
@@ -34,4 +33,5 @@ data:
     designation: ultra-low-speed vehicle
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 10761c8c-39aa-5150-a763-9de3110690bd

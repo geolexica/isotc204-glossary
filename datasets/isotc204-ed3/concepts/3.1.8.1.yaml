@@ -180,7 +180,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.8.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: cd9dfcb3-b919-511e-9fe8-aa295d09e457
 schema_version: '3'
@@ -193,7 +193,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: Physical objects are represented as {{urn:iso:std:iso:14812:ed3:3.1.3.10,elements}}
       within the {{urn:iso:std:iso:14812:ed3:3.1.4.7,physical view}} and perform a
@@ -210,4 +209,5 @@ data:
     designation: ITS physical object
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 67be43f7-98f5-50d6-9459-599e6ba7fe34

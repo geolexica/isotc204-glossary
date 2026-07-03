@@ -34,7 +34,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.7.3.7
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 68dcf19d-ccb3-5dc7-866c-01499253187a
 schema_version: '3'
@@ -47,7 +47,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: Driver support systems include {{urn:iso:std:iso:14812:ed3:3.7.3.8,level
       1 driving automation}} and {{urn:iso:std:iso:14812:ed3:3.7.3.9,level 2 driving
@@ -58,4 +57,5 @@ data:
     designation: driver support system
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 01a6e55f-dde4-5548-af70-f8b22720841f

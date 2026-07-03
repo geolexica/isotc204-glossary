@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.7.2
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 6e02cb29-02b5-5e86-92de-f2fd94758cc1
 schema_version: '3'
@@ -22,12 +22,11 @@ data:
   - content: '&lt;functional view&gt; series of one or more functions in support of
       an <i><a href="#id4D485872E9EE414e9CE1AB855A03540B"><font color="#0000ff"><u>ITS
       service</u></font></a></i> ( ITS service )'
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: process
   language_code: eng
   entry_status: valid
+  annotations: []
 id: f68f2987-9324-5fdb-95a1-cf6550821453

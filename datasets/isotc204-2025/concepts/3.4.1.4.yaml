@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.4.1.4
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: d24fe612-0924-53db-97aa-159ef054c2e5
 schema_version: '3'
@@ -20,7 +20,6 @@ schema_version: '3'
 data:
   definition:
   - content: well defined geographic place described by one coordinate tuple
-  examples: []
   notes:
   - content: The "geolocation" term is a short version of the term used within some
       ITS communities.
@@ -35,4 +34,5 @@ data:
     designation: geographic point location
   language_code: eng
   entry_status: valid
+  annotations: []
 id: e632a760-263d-5de0-90c1-59776b74b4de

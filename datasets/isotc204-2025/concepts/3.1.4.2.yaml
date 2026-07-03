@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.4.2
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 737c29ed-91f6-534a-96aa-f34750c72ebd
 schema_version: '3'
@@ -22,12 +22,11 @@ data:
   - content: <i><a href="#id2D6E2A89A52E4a689CD868265F24A29E"><font color="#0000ff"><u>architecture
       viewpoint</u></font></a></i> ( architecture viewpoint ) used to frame concerns
       related to all layers of the OSI stack and related management and security issues
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: communications viewpoint
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 11212233-93cb-535b-b65d-e3871be6a87a

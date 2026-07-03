@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.7.5.12
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: e543239f-a608-5c99-8ecd-b241e7999ea1
 schema_version: '3'
@@ -31,4 +31,5 @@ data:
     designation: high vehicle speed
   language_code: eng
   entry_status: valid
+  annotations: []
 id: f9dd4def-8846-5ebe-a39f-2e1838fa3366

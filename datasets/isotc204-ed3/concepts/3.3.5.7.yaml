@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.3.5.7
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 0d0c2b64-0039-59b4-837c-b68cdf2d1e4e
 schema_version: '3'
@@ -27,7 +27,6 @@ data:
       Example 2: A traffic signal timing plan is applied to one road section.
       ---
       Comment on this page
-  examples: []
   notes:
   - content: Different {{urn:iso:std:iso:14812:ed3:3.3.5.3,road models}} can divide
       the same {{urn:iso:std:iso:14812:ed3:3.3.5.1,road}} into different road sections.
@@ -37,4 +36,5 @@ data:
     designation: road section
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 893abdbe-6444-54fc-8cf1-db77c50e04b1

@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.7.5.12
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 932c67a4-2f84-5039-9691-326c383f5874
 schema_version: '3'
@@ -26,7 +26,6 @@ data:
       EXAMPLE: A speed in excess of 198 km/h.
       ---
       Comment on this page
-  examples: []
   notes:
   - content: Local regulations for the exact speed range vary.
   terms:
@@ -35,4 +34,5 @@ data:
     designation: high vehicle speed
   language_code: eng
   entry_status: valid
+  annotations: []
 id: fa49d75c-e132-51ca-8c05-2deac9823908

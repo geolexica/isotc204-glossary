@@ -8,7 +8,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.13.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 18608096-a440-5908-b06d-3fe9f1deb21f
 schema_version: '3'
@@ -27,12 +27,11 @@ data:
       | {{urn:iso:std:iso:14812:ed3:3.3.5.5,link}} | connects |
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: instant
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 17e32e2d-ba42-5e88-bf00-4407fcb41869

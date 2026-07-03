@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.6.3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: ae83514e-7f2f-50fb-84ba-44a271e254d3
 schema_version: '3'
@@ -27,7 +27,6 @@ data:
       Source: ISO/IEC/IEEE 15289:2019, 3.1.10
       ---
       Comment on this page
-  examples: []
   notes:
   - content: A document can be a single information item, or part of a larger information
       item.
@@ -37,4 +36,5 @@ data:
     designation: document
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 26387d39-06eb-5585-aca6-059decf003be

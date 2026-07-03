@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.7.3.10
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: a0398f8f-6544-532a-9663-8ca848ec6009
 schema_version: '3'
@@ -24,7 +24,6 @@ data:
       to perform the entire <i><a href="#id53381BA7AB7F48d6AED7DBCA2D07E6C9"><font
       color="#0000ff"><u>DDT</u></font></a></i> ( dynamic driving task ) on a sustained
       basis
-  examples: []
   notes:
   - content: The abbreviated form ("ADS") is the most preferred form and the alternate
       form ("Automated Driving System") uses initial capitals to avoid confusion with
@@ -35,4 +34,5 @@ data:
     designation: ADS
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 9a6edc70-4dd4-5c42-a7bc-01fc5501eebb

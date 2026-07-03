@@ -65,7 +65,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.7.3.6
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: e30fe05c-fddb-51c1-a689-a5e10127bd72
 schema_version: '3'
@@ -78,7 +78,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: A driving automation system includes any system capable of level 1-5
       driving automation.
@@ -100,4 +99,5 @@ data:
     designation: driving automation system
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 5658570f-1d84-5b6c-aa0a-32e7947665c8

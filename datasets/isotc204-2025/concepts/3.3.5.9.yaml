@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.3.5.9
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: af6c50c0-b3fc-57e2-a4a4-69644d42f041
 schema_version: '3'
@@ -22,7 +22,6 @@ data:
   - content: <i><a href="#id72937CE094414775B90C995DFCB64EEB"><font color="#0000ff"><u>link</u></font></a></i>
       ( road ) that represents a lane of a <i><a href="#idE86C320F77B445a18BB03478ACD8CBB2"><font
       color="#0000ff"><u>road link</u></font></a></i> ( road link )
-  examples: []
   notes:
   - content: A lane segment might start or end at locations other than the start or
       end of the corresponding road segment (e.g., a lane may start mid-block).
@@ -34,4 +33,5 @@ data:
     designation: lane link
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 36d9a618-4abd-5144-86f6-87735d8b2a78

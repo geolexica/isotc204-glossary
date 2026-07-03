@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.6.2.1
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 26476329-3129-56c0-b088-6cf6bb53a1a5
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       ( person ) who has a reservation to travel or is travelling in a <i><a href="#id555BFAB2A747457fB01D99511FDE885A"><font
       color="#0000ff"><u>vehicle</u></font></a></i> ( vehicle ) except for any crew,
       staff, or drivers
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: passenger
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 023e5532-6cd5-50af-8265-88e42b3d80a5

@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.3.5.3
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: af77c03f-964c-540f-aa5e-01cf40ece4b6
 schema_version: '3'
@@ -21,7 +21,6 @@ data:
   definition:
   - content: representation of a <i><a href="#idEF0DB12C0BE247319EF2AC75AC234F8F"><font
       color="#0000ff"><u>road network</u></font></a></i> ( road network )
-  examples: []
   notes:
   - content: Road models for different systems will often define different models.
       For example, a public transport system might define road links based on the
@@ -33,4 +32,5 @@ data:
     designation: road model
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 58b43808-37cf-5a5c-a306-5f210fd00542

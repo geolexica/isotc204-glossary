@@ -3,7 +3,7 @@ data:
   identifier: 3.1.14.4
   localized_concepts:
     eng: b3b241d2-f955-5f54-a833-439400c63d80
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: c2f72e05-ff40-5a37-a024-033bd8b6c85d
 schema_version: '3'
@@ -17,12 +17,11 @@ data:
       Source: ISO/IEC 22739:2018
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: cryptography
   language_code: eng
   entry_status: valid
+  annotations: []
 id: b3b241d2-f955-5f54-a833-439400c63d80

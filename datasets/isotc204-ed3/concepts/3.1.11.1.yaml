@@ -20,7 +20,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.1.11.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 56a2b5e4-1673-52eb-ab94-95b1f9c15771
 schema_version: '3'
@@ -36,7 +36,6 @@ data:
       | {{urn:iso:std:iso:14812:ed3:3.1.11.5,message}} | contains |
       ---
       Comment on this page
-  examples: []
   notes:
   - content: This definition states that a data element is "indivisible" in a given
       context. This means it is possible for a data element considered indivisible
@@ -48,4 +47,5 @@ data:
     designation: data element
   language_code: eng
   entry_status: valid
+  annotations: []
 id: de156f02-367d-5a14-94b7-97353a02e17a

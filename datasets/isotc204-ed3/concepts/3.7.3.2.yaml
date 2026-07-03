@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.7.3.2
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: ec6b2f59-8641-565a-8c7e-13bd2d01e891
 schema_version: '3'
@@ -27,7 +27,6 @@ data:
       Example 2: ADS-dedicated vehicle designed to operate only within a geographically-defined area, and only during daylight at speeds not exceeding 25 mph.
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The conditions can include environmental, geographical, time-of-day,
       and/or other restrictions.
@@ -42,4 +41,5 @@ data:
     designation: ODD
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 33e80279-4d63-5a26-8741-410f91a9b0a0

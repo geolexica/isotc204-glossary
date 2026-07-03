@@ -8,7 +8,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.7.3.5
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: d5f2e427-0d36-59d2-a012-289948e9a663
 schema_version: '3'
@@ -21,7 +21,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The malfunction can be internal to the driving automation system or part
       of another vehicle system.
@@ -31,4 +30,5 @@ data:
     designation: DDT performance-relevant system failure
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 3f2f8af6-2668-55f4-a66e-8e6d5f52b1d1

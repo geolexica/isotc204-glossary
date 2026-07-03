@@ -20,7 +20,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.3.5.3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 3e49c2e5-216c-55e9-b410-8e138e05f2ac
 schema_version: '3'
@@ -33,7 +33,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: Road models for different {{urn:iso:std:iso:14812:ed3:3.1.2.1,systems}}
       will often define different models. For example, a public {{urn:iso:std:iso:14812:ed3:3.1.2.2,transport
@@ -46,4 +45,5 @@ data:
     designation: road model
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 8a123639-7955-55cb-8a5c-af3ec9bccf5e

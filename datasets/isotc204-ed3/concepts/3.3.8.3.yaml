@@ -20,7 +20,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[parking space for permit holders](parking space for permit holders.md)"
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 9616b3ee-2ef7-504f-9431-71be27778b3a
 schema_version: '3'
@@ -33,12 +33,11 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: parking space
   language_code: eng
   entry_status: valid
+  annotations: []
 id: f7318939-2883-53d7-84cb-9a9e3c722003

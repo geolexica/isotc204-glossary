@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.3.1.20
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 8c590c00-45a4-500a-8ae6-dbe93c31b64a
 schema_version: '3'
@@ -24,7 +24,6 @@ data:
       not belonging to the <i><a href="#id855CC715739D462e9790E893914D8768"><font
       color="#0000ff"><u>carriageway</u></font></a></i> ( carriageway ) but providing
       lateral support to it
-  examples: []
   notes:
   - content: Soft shoulders are not normally intended for driving.
   - content: Soft shoulders often have a grass or gravel surface.
@@ -34,4 +33,5 @@ data:
     designation: soft shoulder
   language_code: eng
   entry_status: valid
+  annotations: []
 id: fe7a6841-b62e-58de-bf5b-29860f3bd8a8

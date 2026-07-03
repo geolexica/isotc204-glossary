@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.3.2.3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 7270fc44-86ce-5f58-b63d-00969b4bb01b
 schema_version: '3'
@@ -27,7 +27,6 @@ data:
       Admitted term: concrete barrier
       ---
       Comment on this page
-  examples: []
   notes:
   - content: Jersey barriers are typically modular. They are typically made of concrete
       but can also be made with other materials such as plastic filled with water
@@ -38,4 +37,5 @@ data:
     designation: Jersey barrier
   language_code: eng
   entry_status: valid
+  annotations: []
 id: e0dddd7e-dab3-50ba-af9a-7036696cb429

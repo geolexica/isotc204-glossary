@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.6.1.2
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 6a8eb5d6-827b-5fe8-a8bd-633bd268a837
 schema_version: '3'
@@ -25,11 +25,11 @@ data:
   examples:
   - content: pedestrians, road work personnel, vehicle occupants, occupied and unoccupied
       vehicles, horses, etc.
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: road user
   language_code: eng
   entry_status: valid
+  annotations: []
 id: b4736168-d560-58a5-af42-7e4d07bd91eb

@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.7.3.17
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 80cf2d39-e8f2-55a6-bdf4-5278ce5890ea
 schema_version: '3'
@@ -22,12 +22,11 @@ data:
   - content: <i><a href="#idA7CF87D985684eceB59879EF59C87184"><font color="#0000ff"><u>ADS-equipped
       vehicle</u></font></a></i> ( ADS-equipped vehicle ) designed for only <i>driverless
       operation </i>for complete <i>trips</i>
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: ADS-dedicated vehicle
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 58de9f59-cdc6-54c8-bb51-db43b4c77984

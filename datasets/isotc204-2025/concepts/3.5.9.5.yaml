@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.5.9.5
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 0bfaeefa-8b60-5358-a205-6f3fc2f29fe9
 schema_version: '3'
@@ -36,4 +36,5 @@ data:
     designation: dynamic route
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 6bf8ca39-c284-58d7-976c-b9d0793a77e5

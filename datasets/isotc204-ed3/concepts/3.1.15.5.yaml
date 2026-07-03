@@ -3,7 +3,7 @@ data:
   identifier: 3.1.15.5
   localized_concepts:
     eng: 9da070ca-c210-5f72-a282-c0c86c2a2d10
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: cd11749e-b76b-5e7a-ad26-399e88aa8b45
 schema_version: '3'
@@ -18,12 +18,11 @@ data:
       Source: ISO/IEC/IEEE 24765:2017, example added
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: requirement
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 9da070ca-c210-5f72-a282-c0c86c2a2d10

@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.2.8.5
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: ad2c36dd-8f9a-56fd-9f82-a41513726934
 schema_version: '3'
@@ -25,7 +25,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: An ITS application typically requires multiple components (e.g. an ITS-S
       acting as a user and another ITS-S acting as a provider). An ITS implementation
@@ -39,4 +38,5 @@ data:
     designation: ITS implementation
   language_code: eng
   entry_status: valid
+  annotations: []
 id: ae3e9cc2-3f8a-5562-9ee5-09f4f5dd3c8d

@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.3.2.3
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: d2394d78-42fe-56a2-9515-faca7fda83dd
 schema_version: '3'
@@ -24,7 +24,6 @@ data:
       of a wall with a wide, sloped base designed to divert vehicles back into their
       <i><a href="#id1240152ED5B6429eA0A4B380F1D798E4"><font color="#0000ff"><u>traffic
       lane</u></font></a></i> ( traffic lane )
-  examples: []
   notes:
   - content: Jersey barriers are typically modular. They are typically made of concrete
       but can also be made with other materials such as plastic filled with water
@@ -35,4 +34,5 @@ data:
     designation: Jersey barrier
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 3af5d463-f9dc-5f51-8fff-fd54208bd463

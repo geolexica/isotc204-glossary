@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.6.5
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 286c62b5-e956-5ac4-996f-a9e16ff2595d
 schema_version: '3'
@@ -26,11 +26,11 @@ data:
   examples:
   - content: A road operator might enter into formal agreement(s) with the owner of
       a road and the owner(s) of the associated roadside equipment.
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: formal coordination
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 42a1a0d7-38ff-5e5f-abdf-5904c95395db

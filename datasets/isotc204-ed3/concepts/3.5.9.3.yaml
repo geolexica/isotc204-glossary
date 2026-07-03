@@ -34,7 +34,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.5.9.3
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 3a285ad1-5e53-5c93-8416-ca835b6a922d
 schema_version: '3'
@@ -52,12 +52,11 @@ data:
       | {{urn:iso:std:iso:14812:ed3:3.5.9.6,paired on-demand}} | subClassOf |
       ---
       Comment on this page
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: concurrent
   language_code: eng
   entry_status: valid
+  annotations: []
 id: e8c4a343-e466-554d-a42c-8fa7909dc7ed

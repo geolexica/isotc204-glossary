@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.13.2
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 91a1d33e-13d7-5e7b-9ac5-080070891b02
 schema_version: '3'
@@ -21,12 +21,11 @@ data:
   definition:
   - content: time between two <i><a href="#id150D2AD67B234518A162F2C1483BB4F8"><font
       color="#0000ff"><u>instants</u></font></a></i> ( instant )
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: duration
   language_code: eng
   entry_status: valid
+  annotations: []
 id: dffe1b00-091c-52cb-8df0-c434e8c8143b

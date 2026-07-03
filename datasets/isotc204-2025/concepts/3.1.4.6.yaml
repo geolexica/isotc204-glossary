@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.4.6
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 9a31a3a5-2a6a-53a9-a7e8-5ca9258eea31
 schema_version: '3'
@@ -23,12 +23,11 @@ data:
       viewpoint</u></font></a></i> ( architecture viewpoint ) used to frame concerns
       related to the definition of processes that perform surface transport functions
       and data flows shared between these processes
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: functional viewpoint
   language_code: eng
   entry_status: valid
+  annotations: []
 id: a911311b-a808-5728-a9ab-ef089be10d5d

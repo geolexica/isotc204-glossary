@@ -16,7 +16,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.2.8.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: a5529351-3ca8-5b71-947c-7bf3302f762a
 schema_version: '3'
@@ -29,7 +29,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: An ITS application can also involve associations with nodes that are
       not ITS stations.
@@ -41,4 +40,5 @@ data:
     designation: ITS application
   language_code: eng
   entry_status: valid
+  annotations: []
 id: '03629ed8-2b35-57d2-9052-da163d9240ad'

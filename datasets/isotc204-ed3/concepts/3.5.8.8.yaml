@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.5.8.8
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 51bbbf20-6c6c-5811-a6c8-6426fa7d57c8
 schema_version: '3'
@@ -25,7 +25,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The agreement can be associated with fees.
   - content: The agreement can be minimal, such as collecting user information for
@@ -39,4 +38,5 @@ data:
     designation: membership-based
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 3e136874-3c13-563b-865a-4362c239c155

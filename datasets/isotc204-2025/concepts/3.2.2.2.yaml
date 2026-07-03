@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.2.2.2
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: f15da323-1241-50fe-8a8d-1dc9c34d7733
 schema_version: '3'
@@ -22,12 +22,11 @@ data:
   - content: <i><a href="#id75E3C9D3F2084e00BA93F5DD34084653"><font color="#0000ff"><u>central
       system</u></font></a></i> ( central system ) that allows a fleet or freight
       operator to manage and control its personnel, equipment,  and/or freight
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: fleet and freight management central system
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 8b91fa82-4f3e-5dc4-8db4-d778719d752a

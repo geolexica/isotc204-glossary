@@ -16,7 +16,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.7.3.8
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 03e427a8-6b0d-59cf-bc8e-4b0b2ea7e207
 schema_version: '3'
@@ -29,7 +29,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: Other driving automation levels include {{urn:iso:std:iso:14812:ed3:3.7.3.9,level
       2 driving automation}}, {{urn:iso:std:iso:14812:ed3:3.7.3.11,level 3 ADS}},
@@ -44,4 +43,5 @@ data:
     designation: driver assistance
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 998d2cc6-1ede-5974-8213-65cf70443911

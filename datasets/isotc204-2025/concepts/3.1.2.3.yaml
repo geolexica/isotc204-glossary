@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.1.2.3
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: e08feac0-ca55-5ef9-b3e8-cf29cbb403bb
 schema_version: '3'
@@ -23,7 +23,6 @@ data:
       system</u></font></a></i> ( transport system ) designed to move <i><a href="#idC941C5B14FFB4aecAA18427AF3D1435A"><font
       color="#0000ff"><u>material entities</u></font></a></i> ( material entity )
       across the surface or near-surface of the Earth
-  examples: []
   notes:
   - content: A surface transport system might include tunnels, bridges, and similar
       elements.
@@ -33,4 +32,5 @@ data:
     designation: surface transport system
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 4bd2ae41-9896-56ef-85fc-c1c5d7dbf4ae

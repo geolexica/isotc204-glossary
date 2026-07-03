@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.7.3.8
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 4819db57-5630-5d75-ba55-3a19e3e9e25c
 schema_version: '3'
@@ -27,7 +27,6 @@ data:
       that a <i><a href="#id76D23D03F3624a68920FB5BE7FB40ED8"><font color="#0000ff"><u>conventional
       driver</u></font></a></i> ( in-vehicle driver ) completes the dynamic driving
       task
-  examples: []
   notes:
   - content: Other driving automation levels include "level 2 driving automation",
       "level 3 ADS", "level 4 ADS", and "level 5 ADS".
@@ -37,4 +36,5 @@ data:
     designation: level 1 driving automation
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 7b6da970-c85d-56aa-b228-c341a2203d2d

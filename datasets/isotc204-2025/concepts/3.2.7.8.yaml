@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.2.7.8
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 326740d2-7690-51bf-861f-c0f8a3bc92cf
 schema_version: '3'
@@ -24,12 +24,11 @@ data:
       to the <i><a href="#idF1E402D380EE478c957A2FF53D9EA0C5"><font color="#0000ff"><u>ITS
       station</u></font></a></i> ( ITS station ) internal network or comprises an
       entire ITS-S unit
-  examples: []
-  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: ITS-S node
   language_code: eng
   entry_status: valid
+  annotations: []
 id: c4b092a2-51f1-55e7-a897-f96d5ee9f7ac

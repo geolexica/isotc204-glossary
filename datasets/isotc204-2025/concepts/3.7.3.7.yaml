@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.7.3.7
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: f45568bb-3232-5288-b870-6767d0e35757
 schema_version: '3'
@@ -23,7 +23,6 @@ data:
       automation system</u></font></a></i> ( driving automation system ) that is only
       able to perform part of the <i><a href="#id53381BA7AB7F48d6AED7DBCA2D07E6C9"><font
       color="#0000ff"><u>DDT</u></font></a></i> ( dynamic driving task )
-  examples: []
   notes:
   - content: Driver support systems include Level 1 and Level 2 driving automation.
   terms:
@@ -32,4 +31,5 @@ data:
     designation: driver spport system
   language_code: eng
   entry_status: valid
+  annotations: []
 id: ff04ff95-c5a6-51b2-8020-20346e4e21b6

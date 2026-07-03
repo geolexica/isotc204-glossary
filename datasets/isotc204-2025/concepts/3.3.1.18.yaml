@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.3.1.18
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 181c1f0b-b237-59e5-a369-9aff1d1681bc
 schema_version: '3'
@@ -22,7 +22,6 @@ data:
   - content: either a <i><a href="#idE4E923A99DE642ddA086B6556B1D8CA7"><font color="#0000ff"><u>hard
       shoulder</u></font></a></i> ( hard shoulder ) or a <i><a href="#id96C94C547EA7427dB675A3BD87BF1D35"><font
       color="#0000ff"><u>soft shoulder</u></font></a></i> ( soft shoulder )
-  examples: []
   notes:
   - content: In some jurisdictions, a shoulder can be used for emergency stops and/or
       other purposes in addition to providing a clear zone for safety purposes.
@@ -33,4 +32,5 @@ data:
     designation: shoulder
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 8f459e74-dcaa-5781-83a9-f36d0c80e483

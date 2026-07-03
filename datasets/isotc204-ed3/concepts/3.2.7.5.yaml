@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.2.7.5
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 19d18bd3-029d-57ae-931f-879076ec9fb4
 schema_version: '3'
@@ -25,7 +25,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: In case an ITS-SU consists of a single physical unit, the ITS-SU and
       the ITS-SCU are identical. In case an ITS-SU consists of more than one ITS-SCU,
@@ -43,4 +42,5 @@ data:
     designation: ITS-SCU
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 933034ba-673d-5845-b39a-c2d8feaabee1

@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:ts:14812:2022
     id: 3.2.7.3
-date_accepted: '2025-12-31T00:00:00+00:00'
+date_accepted: '2025-12-31'
 status: valid
 id: 38fb3b96-4ad6-5892-9743-e8dc8d696b22
 schema_version: '3'
@@ -24,7 +24,6 @@ data:
       that is able to meet requirements of the <i><a href="#id9A44E9204B4D46caAAE8F28547675FDE"><font
       color="#0000ff"><u>ITS trust domain</u></font></a></i> ( ITS trust domain )
       within which it wishes to participate
-  examples: []
   notes:
   - content: The ITS station reference architecture is defined in ISO 21217.
   terms:
@@ -33,4 +32,5 @@ data:
     designation: ITS station
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 42a3b9b6-9cdb-5afd-afbb-412afa087437

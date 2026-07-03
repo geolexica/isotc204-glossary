@@ -12,7 +12,7 @@ related:
   ref:
     source: urn:iso:std:iso:14812:2025
     id: 3.7.3.1
-date_accepted: '2026-06-01T00:00:00+00:00'
+date_accepted: '2026-06-01'
 status: valid
 id: 8e83b008-008e-5f90-97c2-17f5afdd40d1
 schema_version: '3'
@@ -25,7 +25,6 @@ data:
       </object>
       ---
       Comment on this page
-  examples: []
   notes:
   - content: The DDT excludes strategic functions such as trip scheduling and selection
       of destinations and waypoints.
@@ -41,4 +40,5 @@ data:
     designation: DDT
   language_code: eng
   entry_status: valid
+  annotations: []
 id: 76a86b07-f65c-53b1-9557-e7520055f81c
