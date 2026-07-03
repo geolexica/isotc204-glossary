@@ -3,6 +3,9 @@ data:
   identifier: 3.3.9.2
   localized_concepts:
     eng: 21af5c2a-446d-5174-b423-fa8484b76909
+  figures:
+  - ref: fig_traffic_control_device_dot
+    display: traffic control device Diagram
 related:
 - content: subClassOf [roadEquipment]
   type: broader

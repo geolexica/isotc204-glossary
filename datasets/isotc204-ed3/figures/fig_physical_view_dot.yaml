@@ -1,0 +1,7 @@
+---
+id: fig_physical_view_dot
+identifier: fig_physical_view_dot
+images:
+- src: "../../diagrams/physical view.dot.png"
+  format: png
+  role: raster

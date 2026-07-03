@@ -1,0 +1,7 @@
+---
+id: fig_information_security_incident_dot
+identifier: fig_information_security_incident_dot
+images:
+- src: "../../diagrams/information security incident.dot.png"
+  format: png
+  role: raster

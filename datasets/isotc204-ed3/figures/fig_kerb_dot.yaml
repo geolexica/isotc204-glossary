@@ -1,0 +1,7 @@
+---
+id: fig_kerb_dot
+identifier: fig_kerb_dot
+images:
+- src: "../../diagrams/kerb.dot.png"
+  format: png
+  role: raster

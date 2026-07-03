@@ -7,6 +7,9 @@ data:
   - concept_id: 3.5.13
     source: urn:iso:std:iso:14812:2025
     ref_type: section
+  figures:
+  - ref: fig_Transport_service_application_terms
+    display: Transport service application terms
 date_accepted: '2025-12-31'
 status: valid
 id: a9ffc72c-e2df-5307-8e1b-c815a50fa6ba

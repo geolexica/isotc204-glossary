@@ -3,6 +3,9 @@ data:
   identifier: 3.6.1.6
   localized_concepts:
     eng: 1ef23fa7-c1e5-5f2a-a589-5bc664703ce3
+  figures:
+  - ref: fig_protected_road_user_dot
+    display: protected road user Diagram
 related:
 - content: subClassOf [roadUser]
   type: broader

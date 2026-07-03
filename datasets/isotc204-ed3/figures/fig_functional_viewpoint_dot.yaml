@@ -1,0 +1,7 @@
+---
+id: fig_functional_viewpoint_dot
+identifier: fig_functional_viewpoint_dot
+images:
+- src: "../../diagrams/functional viewpoint.dot.png"
+  format: png
+  role: raster

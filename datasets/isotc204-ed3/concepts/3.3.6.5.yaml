@@ -3,6 +3,9 @@ data:
   identifier: 3.3.6.5
   localized_concepts:
     eng: be6f31b2-6555-501b-8819-5c7f7066e420
+  figures:
+  - ref: fig_egress_lane_dot
+    display: egress lane Diagram
 related:
 - content: exitFor [some junction]
   type: related_concept

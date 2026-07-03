@@ -1,0 +1,7 @@
+---
+id: fig_block_face_dot
+identifier: fig_block_face_dot
+images:
+- src: "../../diagrams/block-face.dot.png"
+  format: png
+  role: raster

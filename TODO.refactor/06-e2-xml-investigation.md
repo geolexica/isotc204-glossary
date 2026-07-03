@@ -1,7 +1,7 @@
 # 06 — E2 XML investigation
 
 **Phase:** B
-**Status:** todo
+**Status:** done
 **Depends on:** nothing (investigation only)
 
 ## Goal

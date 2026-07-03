@@ -3,6 +3,9 @@ data:
   identifier: 3.3.5.5
   localized_concepts:
     eng: 21e4facd-0314-543c-ba8e-c1f7ae9318f4
+  figures:
+  - ref: fig_link_dot
+    display: link Diagram
 related:
 - content: connects [exactly 2 owl::Thing]
   type: related_concept

@@ -1,0 +1,7 @@
+---
+id: fig_enterprise_viewpoint_dot
+identifier: fig_enterprise_viewpoint_dot
+images:
+- src: "../../diagrams/enterprise viewpoint.dot.png"
+  format: png
+  role: raster

@@ -3,6 +3,9 @@ data:
   identifier: 3.3.7.3
   localized_concepts:
     eng: f3b85492-3fd5-5651-8ad9-36807a124dee
+  figures:
+  - ref: fig_bridge_dot
+    display: bridge Diagram
 related:
 - content: subClassOf [transportFacility]
   type: broader

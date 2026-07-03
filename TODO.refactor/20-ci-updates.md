@@ -1,7 +1,7 @@
 # 20 — CI updates
 
 **Phase:** D
-**Status:** todo
+**Status:** done
 **Depends on:** 19
 
 ## Goal

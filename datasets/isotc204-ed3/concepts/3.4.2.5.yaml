@@ -3,6 +3,9 @@ data:
   identifier: 3.4.2.5
   localized_concepts:
     eng: 6975e98e-e281-579a-93a7-c9361478a638
+  figures:
+  - ref: fig_link_location_dot
+    display: link location Diagram
 related:
 - content: subClassOf [pre-codedSpatialReference]
   type: broader

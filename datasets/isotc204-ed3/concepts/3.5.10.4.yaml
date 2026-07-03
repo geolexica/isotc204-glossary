@@ -3,6 +3,9 @@ data:
   identifier: 3.5.10.4
   localized_concepts:
     eng: cb7fb9ce-4eb4-5eb4-8998-6f17c3d11112
+  figures:
+  - ref: fig_free_floating_dot
+    display: free-floating Diagram
 related:
 - content: subClassOf [networkModel]
   type: broader

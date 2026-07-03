@@ -3,6 +3,9 @@ data:
   identifier: 3.1.5.3
   localized_concepts:
     eng: 638c1ea0-285c-5b4c-9d96-fe4f59890e5d
+  figures:
+  - ref: fig_ITS_S_access_layer_dot
+    display: ITS-S access layer Diagram
 related:
 - content: subClassOf [accessLayer]
   type: broader

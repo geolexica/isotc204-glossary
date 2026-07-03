@@ -3,6 +3,9 @@ data:
   identifier: 3.1.3.5
   localized_concepts:
     eng: a45351ac-e776-5745-8cbb-fc8ce06f823e
+  figures:
+  - ref: fig_concern_dot
+    display: concern Diagram
 related:
 - type: supersedes
   ref:

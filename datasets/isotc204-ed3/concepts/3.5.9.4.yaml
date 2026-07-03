@@ -3,6 +3,9 @@ data:
   identifier: 3.5.9.4
   localized_concepts:
     eng: 1df11163-0979-5679-8c0e-5e79273d6c2a
+  figures:
+  - ref: fig_fixed_route_dot
+    display: fixed route Diagram
 related:
 - content: subClassOf [concurrent]
   type: broader

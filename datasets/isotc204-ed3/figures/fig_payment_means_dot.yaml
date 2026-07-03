@@ -1,0 +1,7 @@
+---
+id: fig_payment_means_dot
+identifier: fig_payment_means_dot
+images:
+- src: "../../diagrams/payment means.dot.png"
+  format: png
+  role: raster

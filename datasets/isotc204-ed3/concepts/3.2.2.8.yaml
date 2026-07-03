@@ -3,6 +3,9 @@ data:
   identifier: 3.2.2.8
   localized_concepts:
     eng: 27a1c608-d9a7-57d8-8521-5be2c285d68e
+  figures:
+  - ref: fig_transport_information_central_system_dot
+    display: transport information central system Diagram
 related:
 - content: subClassOf [centralSystem]
   type: broader

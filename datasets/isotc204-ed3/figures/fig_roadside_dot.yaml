@@ -1,0 +1,7 @@
+---
+id: fig_roadside_dot
+identifier: fig_roadside_dot
+images:
+- src: "../../diagrams/roadside.dot.png"
+  format: png
+  role: raster

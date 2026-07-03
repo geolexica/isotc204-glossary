@@ -3,6 +3,9 @@ data:
   identifier: 3.4.1.2
   localized_concepts:
     eng: 59e4bcaa-ead0-5dc4-9c46-acbe0f629a84
+  figures:
+  - ref: fig_spatial_location_dot
+    display: spatial location Diagram
 related:
 - content: subClassOf [location]
   type: broader

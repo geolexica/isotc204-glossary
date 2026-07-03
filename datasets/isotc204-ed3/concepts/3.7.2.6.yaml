@@ -3,6 +3,9 @@ data:
   identifier: 3.7.2.6
   localized_concepts:
     eng: 35c7aa1c-7b88-5787-bc77-8686a599ae46
+  figures:
+  - ref: fig_vehicle_identifier_dot
+    display: vehicle identifier Diagram
 related:
 - content: globallyUniqueIdentifierFor [exactly 1 owl::Thing]
   type: related_concept

@@ -3,6 +3,9 @@ data:
   identifier: 3.5.8.4
   localized_concepts:
     eng: e7d26f9f-fac1-5c35-9d24-27ab64476d62
+  figures:
+  - ref: fig_cooperative_dot
+    display: cooperative Diagram
 related:
 - content: subClassOf [financialModel]
   type: broader

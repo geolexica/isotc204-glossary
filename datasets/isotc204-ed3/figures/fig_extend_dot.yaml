@@ -1,0 +1,7 @@
+---
+id: fig_extend_dot
+identifier: fig_extend_dot
+images:
+- src: "../../diagrams/extend.dot.png"
+  format: png
+  role: raster

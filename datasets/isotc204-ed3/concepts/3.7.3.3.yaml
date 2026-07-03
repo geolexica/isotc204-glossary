@@ -3,6 +3,9 @@ data:
   identifier: 3.7.3.3
   localized_concepts:
     eng: 1432e6d4-2c97-5404-8e6f-18fea182b8a4
+  figures:
+  - ref: fig_fallback_dot
+    display: fallback Diagram
 related:
 - content: mayBeCausedBy [some ddtPerformance-relevantSystemFailure]
   type: related_concept

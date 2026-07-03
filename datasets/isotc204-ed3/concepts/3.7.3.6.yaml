@@ -3,6 +3,9 @@ data:
   identifier: 3.7.3.6
   localized_concepts:
     eng: 5658570f-1d84-5b6c-aa0a-32e7947665c8
+  figures:
+  - ref: fig_driving_automation_system_dot
+    display: driving automation system Diagram
 related:
 - content: performsPartOrAllOf [some dynamicDrivingTask]
   type: related_concept

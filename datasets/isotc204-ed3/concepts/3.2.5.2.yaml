@@ -3,6 +3,9 @@ data:
   identifier: 3.2.5.2
   localized_concepts:
     eng: 4adaf2fa-d826-5c80-96c8-b059a4a44228
+  figures:
+  - ref: fig_map_provision_system_dot
+    display: map provision system Diagram
 related:
 - content: subClassOf [supportSystem]
   type: broader

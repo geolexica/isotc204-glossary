@@ -1,0 +1,7 @@
+---
+id: fig_transport_user_dot
+identifier: fig_transport_user_dot
+images:
+- src: "../../diagrams/transport user.dot.png"
+  format: png
+  role: raster

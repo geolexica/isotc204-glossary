@@ -1,0 +1,7 @@
+---
+id: fig_access_layer_dot
+identifier: fig_access_layer_dot
+images:
+- src: "../../diagrams/access layer.dot.png"
+  format: png
+  role: raster

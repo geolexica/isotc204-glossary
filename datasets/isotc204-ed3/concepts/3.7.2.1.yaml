@@ -3,6 +3,9 @@ data:
   identifier: 3.7.2.1
   localized_concepts:
     eng: 555bb012-ed9e-523e-9ea7-8c46567de5c0
+  figures:
+  - ref: fig_speed_dot
+    display: speed Diagram
 related:
 - content: rateOfChangeOfPositionOf [exactly 1 owl::Thing]
   type: related_concept

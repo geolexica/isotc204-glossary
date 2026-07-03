@@ -1,0 +1,7 @@
+---
+id: fig_ITS_S_unit_dot
+identifier: fig_ITS_S_unit_dot
+images:
+- src: "../../diagrams/ITS-S unit.dot.png"
+  format: png
+  role: raster

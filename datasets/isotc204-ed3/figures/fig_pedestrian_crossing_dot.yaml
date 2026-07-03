@@ -1,0 +1,7 @@
+---
+id: fig_pedestrian_crossing_dot
+identifier: fig_pedestrian_crossing_dot
+images:
+- src: "../../diagrams/pedestrian crossing.dot.png"
+  format: png
+  role: raster

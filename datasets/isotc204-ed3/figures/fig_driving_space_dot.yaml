@@ -1,0 +1,7 @@
+---
+id: fig_driving_space_dot
+identifier: fig_driving_space_dot
+images:
+- src: "../../diagrams/driving space.dot.png"
+  format: png
+  role: raster

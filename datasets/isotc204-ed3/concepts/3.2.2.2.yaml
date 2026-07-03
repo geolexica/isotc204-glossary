@@ -3,6 +3,9 @@ data:
   identifier: 3.2.2.2
   localized_concepts:
     eng: '08b18ee0-b962-5a2d-a4c7-cbb6e78c5aa7'
+  figures:
+  - ref: fig_fleet_and_freight_management_central_system_dot
+    display: fleet and freight management central system Diagram
 related:
 - content: subClassOf [centralSystem]
   type: broader

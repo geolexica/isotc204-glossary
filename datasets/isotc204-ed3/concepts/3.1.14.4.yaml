@@ -3,6 +3,9 @@ data:
   identifier: 3.1.14.4
   localized_concepts:
     eng: b3b241d2-f955-5f54-a833-439400c63d80
+  figures:
+  - ref: fig_cryptography_dot
+    display: cryptography Diagram
 date_accepted: '2026-06-01'
 status: valid
 id: c2f72e05-ff40-5a37-a024-033bd8b6c85d

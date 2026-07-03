@@ -1,0 +1,7 @@
+---
+id: fig_reference_architecture_dot
+identifier: fig_reference_architecture_dot
+images:
+- src: "../../diagrams/reference architecture.dot.png"
+  format: png
+  role: raster

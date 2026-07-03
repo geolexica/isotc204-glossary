@@ -1,0 +1,7 @@
+---
+id: fig_information_transfer_dot
+identifier: fig_information_transfer_dot
+images:
+- src: "../../diagrams/information transfer.dot.png"
+  format: png
+  role: raster

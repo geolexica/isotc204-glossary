@@ -3,6 +3,9 @@ data:
   identifier: 3.1.8.5
   localized_concepts:
     eng: 012b43a9-79b0-5fe8-b3d3-151f722466a4
+  figures:
+  - ref: fig_information_transfer_dot
+    display: information transfer Diagram
 related:
 - content: contentsOf [some informationFlow]
   type: related_concept

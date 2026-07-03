@@ -3,6 +3,9 @@ data:
   identifier: 3.2.9.4
   localized_concepts:
     eng: 84466c79-1e30-5629-bb29-a752cc91e590
+  figures:
+  - ref: fig_ITS_S_application_implementation_dot
+    display: ITS-S application implementation Diagram
 related:
 - content: implementationOf [some its-sApplication]
   type: related_concept

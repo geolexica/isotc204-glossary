@@ -3,6 +3,9 @@ data:
   identifier: 3.1.4.7
   localized_concepts:
     eng: 8d9f6a3e-f1fd-5648-990a-1e87effddfe4
+  figures:
+  - ref: fig_physical_view_dot
+    display: physical view Diagram
 related:
 - content: aggregates [some physicalObject]
   type: related_concept

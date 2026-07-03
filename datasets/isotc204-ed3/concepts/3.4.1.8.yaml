@@ -3,6 +3,9 @@ data:
   identifier: 3.4.1.8
   localized_concepts:
     eng: 1b4f79d2-8a13-5f9b-b194-cbf8378a73a2
+  figures:
+  - ref: fig_point_destination_dot
+    display: point destination Diagram
 related:
 - content: subClassOf [pointLocation]
   type: broader

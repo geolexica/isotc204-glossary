@@ -1,7 +1,7 @@
 # 02 — Project skeleton
 
 **Phase:** B
-**Status:** todo
+**Status:** done
 **Depends on:** 01
 
 ## Goal

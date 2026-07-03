@@ -3,6 +3,9 @@ data:
   identifier: 3.5.5.7
   localized_concepts:
     eng: 28dc3c24-c55c-5946-b22b-81f2e7a195a0
+  figures:
+  - ref: fig_public_transport_app_dot
+    display: public transport app Diagram
 related:
 - content: subClassOf [mobilityApp]
   type: broader

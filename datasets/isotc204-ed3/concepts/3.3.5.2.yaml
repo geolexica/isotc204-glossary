@@ -3,6 +3,9 @@ data:
   identifier: 3.3.5.2
   localized_concepts:
     eng: b496b612-aa40-52cf-bab1-3ccb20186cf6
+  figures:
+  - ref: fig_road_network_dot
+    display: road network Diagram
 related:
 - content: aggregates [some road]
   type: related_concept

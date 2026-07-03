@@ -1,0 +1,7 @@
+---
+id: fig_fleet_and_freight_management_central_system_dot
+identifier: fig_fleet_and_freight_management_central_system_dot
+images:
+- src: "../../diagrams/fleet and freight management central system.dot.png"
+  format: png
+  role: raster

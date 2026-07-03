@@ -1,0 +1,7 @@
+---
+id: fig_duration_dot
+identifier: fig_duration_dot
+images:
+- src: "../../diagrams/duration.dot.png"
+  format: png
+  role: raster

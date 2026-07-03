@@ -3,6 +3,9 @@ data:
   identifier: 3.3.3.6
   localized_concepts:
     eng: 62616d3e-86ba-5d94-87a7-a8f5467656dd
+  figures:
+  - ref: fig_moving_walkway_dot
+    display: moving walkway Diagram
 related:
 - content: subClassOf [footpath]
   type: broader

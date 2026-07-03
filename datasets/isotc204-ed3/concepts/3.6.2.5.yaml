@@ -3,6 +3,9 @@ data:
   identifier: 3.6.2.5
   localized_concepts:
     eng: 11fec3d3-b58e-541e-9637-8fb18fa41430
+  figures:
+  - ref: fig_remote_driver_dot
+    display: remote driver Diagram
 related:
 - content: subClassOf [driver]
   type: broader

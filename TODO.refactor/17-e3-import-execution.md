@@ -1,7 +1,7 @@
 # 17 — E3 import execution
 
 **Phase:** C
-**Status:** todo
+**Status:** done
 **Depends on:** 16, 15
 
 ## Goal

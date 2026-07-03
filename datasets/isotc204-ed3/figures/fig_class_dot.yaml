@@ -1,0 +1,7 @@
+---
+id: fig_class_dot
+identifier: fig_class_dot
+images:
+- src: "../../diagrams/class.dot.png"
+  format: png
+  role: raster

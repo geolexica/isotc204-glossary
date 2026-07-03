@@ -1,0 +1,7 @@
+---
+id: fig_requirements_specification_dot
+identifier: fig_requirements_specification_dot
+images:
+- src: "../../diagrams/requirements specification.dot.png"
+  format: png
+  role: raster

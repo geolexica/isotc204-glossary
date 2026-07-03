@@ -1,0 +1,7 @@
+---
+id: fig_shoulder_dot
+identifier: fig_shoulder_dot
+images:
+- src: "../../diagrams/shoulder.dot.png"
+  format: png
+  role: raster

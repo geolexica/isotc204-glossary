@@ -7,6 +7,9 @@ data:
   - concept_id: 3.7.2
     source: urn:iso:std:iso:14812:2025
     ref_type: section
+  figures:
+  - ref: fig_Vehicle_attribute_terms
+    display: Vehicle attribute terms
 related:
 - type: supersedes
   ref:

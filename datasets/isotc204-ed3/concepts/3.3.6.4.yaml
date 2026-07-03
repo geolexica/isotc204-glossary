@@ -3,6 +3,9 @@ data:
   identifier: 3.3.6.4
   localized_concepts:
     eng: ee059515-fbbf-5395-a1e3-c49a2443ad27
+  figures:
+  - ref: fig_ingress_link_dot
+    display: ingress link Diagram
 related:
 - content: aggregates [some ingressLane]
   type: related_concept

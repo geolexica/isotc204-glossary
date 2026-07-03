@@ -3,6 +3,9 @@ data:
   identifier: 3.1.5.5
   localized_concepts:
     eng: 3c7a9cc3-dadc-583b-9311-9eb323fac2cf
+  figures:
+  - ref: fig_facilities_layer_dot
+    display: facilities layer Diagram
 related:
 - type: supersedes
   ref:

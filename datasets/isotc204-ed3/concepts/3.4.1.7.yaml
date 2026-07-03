@@ -3,6 +3,9 @@ data:
   identifier: 3.4.1.7
   localized_concepts:
     eng: b72c4c6f-bed4-5317-acbe-293290164d81
+  figures:
+  - ref: fig_geographic_feature_dot
+    display: geographic feature Diagram
 date_accepted: '2026-06-01'
 status: valid
 id: d0f202dd-4d9f-5d67-97ef-3300e0c44e0f

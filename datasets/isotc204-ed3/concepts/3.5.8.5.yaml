@@ -3,6 +3,9 @@ data:
   identifier: 3.5.8.5
   localized_concepts:
     eng: e86c8242-76ba-5ddd-baec-fc5ea9d3d25f
+  figures:
+  - ref: fig_mutual_benefit_dot
+    display: mutual benefit Diagram
 related:
 - content: subClassOf [cooperative]
   type: broader

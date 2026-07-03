@@ -1,0 +1,7 @@
+---
+id: fig_ITS_application_role_dot
+identifier: fig_ITS_application_role_dot
+images:
+- src: "../../diagrams/ITS application role.dot.png"
+  format: png
+  role: raster

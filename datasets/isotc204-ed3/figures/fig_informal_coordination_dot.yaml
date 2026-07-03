@@ -1,0 +1,7 @@
+---
+id: fig_informal_coordination_dot
+identifier: fig_informal_coordination_dot
+images:
+- src: "../../diagrams/informal coordination.dot.png"
+  format: png
+  role: raster

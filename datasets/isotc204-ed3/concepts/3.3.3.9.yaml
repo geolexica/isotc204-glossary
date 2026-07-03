@@ -3,6 +3,9 @@ data:
   identifier: 3.3.3.9
   localized_concepts:
     eng: 2f078aa5-ce4d-5853-a4f8-42d2241bc1d5
+  figures:
+  - ref: fig_block_face_dot
+    display: block-face Diagram
 related:
 - content: endsAt [some intersection]
   type: related_concept

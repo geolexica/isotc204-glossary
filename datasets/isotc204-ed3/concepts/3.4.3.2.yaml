@@ -3,6 +3,9 @@ data:
   identifier: 3.4.3.2
   localized_concepts:
     eng: 8693c327-9780-5e2b-b91a-6df8a4556110
+  figures:
+  - ref: fig_governmental_area_dot
+    display: governmental area Diagram
 related:
 - content: subClassOf [jurisdictionalArea]
   type: broader

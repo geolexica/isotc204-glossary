@@ -1,0 +1,7 @@
+---
+id: fig_trip_aggregator_app_dot
+identifier: fig_trip_aggregator_app_dot
+images:
+- src: "../../diagrams/trip aggregator app.dot.png"
+  format: png
+  role: raster

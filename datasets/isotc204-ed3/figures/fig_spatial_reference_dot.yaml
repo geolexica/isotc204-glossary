@@ -1,0 +1,7 @@
+---
+id: fig_spatial_reference_dot
+identifier: fig_spatial_reference_dot
+images:
+- src: "../../diagrams/spatial reference.dot.png"
+  format: png
+  role: raster

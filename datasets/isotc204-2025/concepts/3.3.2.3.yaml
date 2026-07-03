@@ -7,6 +7,9 @@ data:
   - concept_id: 3.3.2
     source: urn:iso:std:iso:14812:2025
     ref_type: section
+  figures:
+  - ref: fig_Physical_traffic_separator_terms
+    display: Physical traffic separator terms
 related:
 - type: supersedes
   ref:

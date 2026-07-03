@@ -1,0 +1,7 @@
+---
+id: fig_financial_model_dot
+identifier: fig_financial_model_dot
+images:
+- src: "../../diagrams/financial model.dot.png"
+  format: png
+  role: raster

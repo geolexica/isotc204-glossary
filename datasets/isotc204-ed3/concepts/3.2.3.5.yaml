@@ -3,6 +3,9 @@ data:
   identifier: 3.2.3.5
   localized_concepts:
     eng: b521b2be-69ad-5d3b-8bc5-04a52aff9ae6
+  figures:
+  - ref: fig_connected_unit_dot
+    display: connected unit Diagram
 related:
 - content: is [some connected]
   type: related_concept

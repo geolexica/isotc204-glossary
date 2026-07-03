@@ -1,0 +1,7 @@
+---
+id: fig_dual_mode_vehicle_dot
+identifier: fig_dual_mode_vehicle_dot
+images:
+- src: "../../diagrams/dual-mode vehicle.dot.png"
+  format: png
+  role: raster

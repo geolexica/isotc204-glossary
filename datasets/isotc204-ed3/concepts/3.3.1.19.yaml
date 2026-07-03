@@ -3,6 +3,9 @@ data:
   identifier: 3.3.1.19
   localized_concepts:
     eng: 3754c1e5-7ce6-56b0-a092-93b3474e9970
+  figures:
+  - ref: fig_hard_shoulder_dot
+    display: hard shoulder Diagram
 related:
 - content: subClassOf [shoulder]
   type: broader

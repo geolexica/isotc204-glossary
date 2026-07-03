@@ -3,6 +3,9 @@ data:
   identifier: 3.1.5.7
   localized_concepts:
     eng: a749f90b-dc89-53b7-b540-687e9fc122ff
+  figures:
+  - ref: fig_security_entity_dot
+    display: security entity Diagram
 related:
 - type: supersedes
   ref:

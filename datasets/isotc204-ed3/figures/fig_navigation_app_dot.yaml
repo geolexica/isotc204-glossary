@@ -1,0 +1,7 @@
+---
+id: fig_navigation_app_dot
+identifier: fig_navigation_app_dot
+images:
+- src: "../../diagrams/navigation app.dot.png"
+  format: png
+  role: raster

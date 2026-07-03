@@ -7,6 +7,9 @@ data:
   - concept_id: 3.5.4
     source: urn:iso:std:iso:14812:2025
     ref_type: section
+  figures:
+  - ref: fig_ITS_S_service_terms
+    display: ITS-S service terms
 related:
 - type: supersedes
   ref:

@@ -1,0 +1,7 @@
+---
+id: fig_connected_vehicle_dot
+identifier: fig_connected_vehicle_dot
+images:
+- src: "../../diagrams/connected vehicle.dot.png"
+  format: png
+  role: raster

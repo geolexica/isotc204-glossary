@@ -3,6 +3,9 @@ data:
   identifier: 3.3.3.1
   localized_concepts:
     eng: 388305de-097f-59dc-b765-a0e24284f4b9
+  figures:
+  - ref: fig_cycle_lane_dot
+    display: cycle lane Diagram
 related:
 - content: subClassOf [lane]
   type: broader

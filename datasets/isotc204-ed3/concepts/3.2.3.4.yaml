@@ -3,6 +3,9 @@ data:
   identifier: 3.2.3.4
   localized_concepts:
     eng: f5a448d9-ce32-5f01-84fa-6265c07b3490
+  figures:
+  - ref: fig_roadside_unit_dot
+    display: roadside unit Diagram
 related:
 - content: subClassOf [connectedUnit]
   type: broader

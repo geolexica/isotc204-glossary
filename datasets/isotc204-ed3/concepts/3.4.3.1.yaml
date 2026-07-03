@@ -3,6 +3,9 @@ data:
   identifier: 3.4.3.1
   localized_concepts:
     eng: 964753af-5559-56f3-9891-a17f18cea236
+  figures:
+  - ref: fig_campus_dot
+    display: campus Diagram
 related:
 - content: subClassOf [jurisdictionalArea]
   type: broader

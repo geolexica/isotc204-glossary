@@ -7,6 +7,13 @@ data:
   - concept_id: 3.3.1
     source: urn:iso:std:iso:14812:2025
     ref_type: section
+  figures:
+  - ref: fig_Hardstanding
+    display: Hardstanding
+  - ref: fig_Road_reservation_component_graphic
+    display: Road reservation component graphic
+  - ref: fig_Road_reservation_component_terms
+    display: Road reservation component terms
 related:
 - type: supersedes
   ref:

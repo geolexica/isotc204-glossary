@@ -3,6 +3,9 @@ data:
   identifier: 3.2.4.2
   localized_concepts:
     eng: 7a8d8a99-c2b2-5492-86a5-dfce38fc682c
+  figures:
+  - ref: fig_personal_information_device_dot
+    display: personal information device Diagram
 related:
 - content: subClassOf [personalSystem]
   type: broader

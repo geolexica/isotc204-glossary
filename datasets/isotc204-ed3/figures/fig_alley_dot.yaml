@@ -1,0 +1,7 @@
+---
+id: fig_alley_dot
+identifier: fig_alley_dot
+images:
+- src: "../../diagrams/alley.dot.png"
+  format: png
+  role: raster

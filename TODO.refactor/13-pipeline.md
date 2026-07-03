@@ -1,7 +1,7 @@
 # 13 — Pipeline
 
 **Phase:** B
-**Status:** todo
+**Status:** done
 **Depends on:** 02–12
 
 ## Goal

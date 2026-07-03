@@ -1,0 +1,7 @@
+---
+id: fig_sequential_dot
+identifier: fig_sequential_dot
+images:
+- src: "../../diagrams/sequential.dot.png"
+  format: png
+  role: raster

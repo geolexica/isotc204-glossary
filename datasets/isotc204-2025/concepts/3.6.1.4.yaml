@@ -7,6 +7,9 @@ data:
   - concept_id: 3.6.1
     source: urn:iso:std:iso:14812:2025
     ref_type: section
+  figures:
+  - ref: fig_Traveller_terms
+    display: Traveller terms
 date_accepted: '2025-12-31'
 status: valid
 id: d0d94a6f-0921-5345-a1c9-de16ab69ef42

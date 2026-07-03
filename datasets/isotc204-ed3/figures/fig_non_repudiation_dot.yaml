@@ -1,0 +1,7 @@
+---
+id: fig_non_repudiation_dot
+identifier: fig_non_repudiation_dot
+images:
+- src: "../../diagrams/non-repudiation.dot.png"
+  format: png
+  role: raster

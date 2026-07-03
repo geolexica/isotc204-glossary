@@ -1,0 +1,7 @@
+---
+id: fig_ITS_S_application_implementation_dot
+identifier: fig_ITS_S_application_implementation_dot
+images:
+- src: "../../diagrams/ITS-S application implementation.dot.png"
+  format: png
+  role: raster

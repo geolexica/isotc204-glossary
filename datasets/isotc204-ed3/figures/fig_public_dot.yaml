@@ -1,0 +1,7 @@
+---
+id: fig_public_dot
+identifier: fig_public_dot
+images:
+- src: "../../diagrams/public.dot.png"
+  format: png
+  role: raster

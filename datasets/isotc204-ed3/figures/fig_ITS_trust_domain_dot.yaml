@@ -1,0 +1,7 @@
+---
+id: fig_ITS_trust_domain_dot
+identifier: fig_ITS_trust_domain_dot
+images:
+- src: "../../diagrams/ITS trust domain.dot.png"
+  format: png
+  role: raster

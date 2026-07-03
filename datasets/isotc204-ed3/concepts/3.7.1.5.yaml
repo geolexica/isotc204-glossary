@@ -3,6 +3,9 @@ data:
   identifier: 3.7.1.5
   localized_concepts:
     eng: a05bf4fa-5ac9-5aa4-bb6e-0627e26d677a
+  figures:
+  - ref: fig_built_in_vehicle_input_device_dot
+    display: built-in vehicle input device Diagram
 related:
 - content: subClassOf [vehicleInputDevice]
   type: broader

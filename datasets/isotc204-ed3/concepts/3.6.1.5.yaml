@@ -3,6 +3,9 @@ data:
   identifier: 3.6.1.5
   localized_concepts:
     eng: 650362a0-02a3-51ca-a4f7-815543e61f57
+  figures:
+  - ref: fig_vulnerable_road_user_dot
+    display: vulnerable road user Diagram
 related:
 - content: subClassOf [roadUser]
   type: broader

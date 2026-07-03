@@ -1,0 +1,7 @@
+---
+id: fig_open_access_dot
+identifier: fig_open_access_dot
+images:
+- src: "../../diagrams/open-access.dot.png"
+  format: png
+  role: raster

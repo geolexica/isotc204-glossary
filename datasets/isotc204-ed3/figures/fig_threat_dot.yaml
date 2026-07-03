@@ -1,0 +1,7 @@
+---
+id: fig_threat_dot
+identifier: fig_threat_dot
+images:
+- src: "../../diagrams/threat.dot.png"
+  format: png
+  role: raster

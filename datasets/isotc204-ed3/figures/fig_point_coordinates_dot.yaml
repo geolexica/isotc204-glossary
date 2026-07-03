@@ -1,0 +1,7 @@
+---
+id: fig_point_coordinates_dot
+identifier: fig_point_coordinates_dot
+images:
+- src: "../../diagrams/point coordinates.dot.png"
+  format: png
+  role: raster

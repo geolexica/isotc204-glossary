@@ -3,6 +3,9 @@ data:
   identifier: 3.1.11.2
   localized_concepts:
     eng: a400adb0-445f-5b66-81a8-7d701f88717b
+  figures:
+  - ref: fig_class_dot
+    display: class Diagram
 related:
 - content: subClassOf [dataConcept]
   type: broader

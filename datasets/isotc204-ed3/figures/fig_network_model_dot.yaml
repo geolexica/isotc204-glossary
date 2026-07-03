@@ -1,0 +1,7 @@
+---
+id: fig_network_model_dot
+identifier: fig_network_model_dot
+images:
+- src: "../../diagrams/network model.dot.png"
+  format: png
+  role: raster

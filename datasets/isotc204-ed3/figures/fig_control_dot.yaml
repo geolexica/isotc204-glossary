@@ -1,0 +1,7 @@
+---
+id: fig_control_dot
+identifier: fig_control_dot
+images:
+- src: "../../diagrams/control.dot.png"
+  format: png
+  role: raster

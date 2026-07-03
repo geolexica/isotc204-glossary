@@ -3,6 +3,9 @@ data:
   identifier: 3.1.11.6
   localized_concepts:
     eng: ffb2737e-8d34-500c-85a6-934bc636ae2c
+  figures:
+  - ref: fig_interface_dialogue_dot
+    display: interface dialogue Diagram
 related:
 - content: subClassOf [dataConcept]
   type: broader

@@ -3,6 +3,9 @@ data:
   identifier: 3.7.6.4
   localized_concepts:
     eng: c1dc7794-25ad-5adf-87e6-3978a7bbe542
+  figures:
+  - ref: fig_non_road_vehicle_dot
+    display: non-road vehicle Diagram
 related:
 - content: subClassOf [vehicle]
   type: broader

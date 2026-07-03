@@ -3,6 +3,9 @@ data:
   identifier: 3.3.6.1
   localized_concepts:
     eng: 0dac05cb-24ba-546b-8f81-a257e61edb4f
+  figures:
+  - ref: fig_intersection_dot
+    display: intersection Diagram
 related:
 - content: meetingOrCrossing [min 2 owl::Thing]
   type: related_concept

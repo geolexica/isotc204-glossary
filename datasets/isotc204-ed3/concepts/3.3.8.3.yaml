@@ -3,6 +3,9 @@ data:
   identifier: 3.3.8.3
   localized_concepts:
     eng: f7318939-2883-53d7-84cb-9a9e3c722003
+  figures:
+  - ref: fig_parking_space_dot
+    display: parking space Diagram
 related:
 - content: store [max 1 owl::Thing]
   type: related_concept

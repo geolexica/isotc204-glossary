@@ -1,0 +1,7 @@
+---
+id: fig_interface_dialogue_dot
+identifier: fig_interface_dialogue_dot
+images:
+- src: "../../diagrams/interface dialogue.dot.png"
+  format: png
+  role: raster

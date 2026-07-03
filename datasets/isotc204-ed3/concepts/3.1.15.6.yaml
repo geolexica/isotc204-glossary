@@ -3,6 +3,9 @@ data:
   identifier: 3.1.15.6
   localized_concepts:
     eng: 027a438c-340b-572b-9b17-22ea0a2a9218
+  figures:
+  - ref: fig_requirements_specification_dot
+    display: requirements specification Diagram
 date_accepted: '2026-06-01'
 status: valid
 id: 4082d971-b316-50e8-8d76-f01e45b41af1

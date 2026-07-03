@@ -3,6 +3,9 @@ data:
   identifier: 3.7.4.1
   localized_concepts:
     eng: b17942ee-2f04-5d35-91df-dbd861fae0bd
+  figures:
+  - ref: fig_off_grid_dot
+    display: off-grid Diagram
 related:
 - content: characteristicOf [some materialEntity]
   type: related_concept

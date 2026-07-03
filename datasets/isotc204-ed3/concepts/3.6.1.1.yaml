@@ -3,6 +3,9 @@ data:
   identifier: 3.6.1.1
   localized_concepts:
     eng: a71d4671-0df2-546f-9f49-f622a8273d20
+  figures:
+  - ref: fig_traveller_dot
+    display: traveller Diagram
 related:
 - content: isA [some person]
   type: related_concept

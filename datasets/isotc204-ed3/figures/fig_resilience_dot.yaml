@@ -1,0 +1,7 @@
+---
+id: fig_resilience_dot
+identifier: fig_resilience_dot
+images:
+- src: "../../diagrams/resilience.dot.png"
+  format: png
+  role: raster

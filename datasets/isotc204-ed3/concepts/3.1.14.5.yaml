@@ -3,6 +3,9 @@ data:
   identifier: 3.1.14.5
   localized_concepts:
     eng: 1e9d1c64-447e-5600-b53a-a91234c823f6
+  figures:
+  - ref: fig_data_privacy_dot
+    display: data privacy Diagram
 date_accepted: '2026-06-01'
 status: valid
 id: e37eb09d-5cde-5862-8201-fec3bbf2d17b

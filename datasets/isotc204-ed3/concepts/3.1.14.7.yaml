@@ -3,6 +3,9 @@ data:
   identifier: 3.1.14.7
   localized_concepts:
     eng: 6edffee5-3d8f-579b-9ee9-6cdc92f75ac3
+  figures:
+  - ref: fig_information_security_event_dot
+    display: information security event Diagram
 date_accepted: '2026-06-01'
 status: valid
 id: ab0674b4-2d07-518e-814c-1c50bf36646f

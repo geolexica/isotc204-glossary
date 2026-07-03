@@ -1,0 +1,7 @@
+---
+id: fig_connected_unit_dot
+identifier: fig_connected_unit_dot
+images:
+- src: "../../diagrams/connected unit.dot.png"
+  format: png
+  role: raster

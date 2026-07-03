@@ -1,0 +1,7 @@
+---
+id: fig_verge_dot
+identifier: fig_verge_dot
+images:
+- src: "../../diagrams/verge.dot.png"
+  format: png
+  role: raster

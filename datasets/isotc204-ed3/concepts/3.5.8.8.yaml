@@ -3,6 +3,9 @@ data:
   identifier: 3.5.8.8
   localized_concepts:
     eng: 3e136874-3c13-563b-865a-4362c239c155
+  figures:
+  - ref: fig_membership_based_dot
+    display: membership-based Diagram
 related:
 - content: describes [some financialModel]
   type: related_concept

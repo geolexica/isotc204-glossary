@@ -1,7 +1,7 @@
 # 07 — E2 XML parser
 
 **Phase:** B
-**Status:** todo
+**Status:** done
 **Depends on:** 03, 06
 
 ## Goal

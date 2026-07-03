@@ -3,6 +3,9 @@ data:
   identifier: 3.3.5.11
   localized_concepts:
     eng: 4f65a2e4-c7a7-54ec-a358-e2237075ecfd
+  figures:
+  - ref: fig_alley_dot
+    display: alley Diagram
 related:
 - content: subClassOf [road]
   type: broader

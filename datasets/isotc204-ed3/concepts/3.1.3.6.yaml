@@ -3,6 +3,9 @@ data:
   identifier: 3.1.3.6
   localized_concepts:
     eng: fb469565-58dc-5c27-985c-f4acd355abcc
+  figures:
+  - ref: fig_architecture_viewpoint_dot
+    display: architecture viewpoint Diagram
 related:
 - content: aggregates [some modelKind]
   type: related_concept

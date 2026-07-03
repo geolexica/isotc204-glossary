@@ -1,0 +1,7 @@
+---
+id: fig_public_transport_app_dot
+identifier: fig_public_transport_app_dot
+images:
+- src: "../../diagrams/public transport app.dot.png"
+  format: png
+  role: raster

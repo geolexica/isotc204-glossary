@@ -3,6 +3,9 @@ data:
   identifier: 3.3.6.3
   localized_concepts:
     eng: a93b62e2-59bf-50f7-93a5-d046da2d7929
+  figures:
+  - ref: fig_ingress_lane_dot
+    display: ingress lane Diagram
 related:
 - content: entryFor [some junction]
   type: related_concept

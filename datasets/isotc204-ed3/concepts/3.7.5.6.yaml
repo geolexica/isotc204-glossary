@@ -3,6 +3,9 @@ data:
   identifier: 3.7.5.6
   localized_concepts:
     eng: e0bb3219-1d46-59d0-8908-cf2e02f38c2b
+  figures:
+  - ref: fig_high_speed_vehicle_dot
+    display: high-speed vehicle Diagram
 related:
 - content: subClassOf [vehicle]
   type: broader

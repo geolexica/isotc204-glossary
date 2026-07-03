@@ -3,6 +3,9 @@ data:
   identifier: 3.3.6.8
   localized_concepts:
     eng: 1187e9c1-b952-5a00-b084-892bb440b325
+  figures:
+  - ref: fig_junction_at_grade_dot
+    display: junction at grade Diagram
 related:
 - content: subClassOf [junction]
   type: broader

@@ -3,6 +3,9 @@ data:
   identifier: 3.3.1.10
   localized_concepts:
     eng: 7807f148-6061-5534-aba9-632835653abb
+  figures:
+  - ref: fig_roadside_dot
+    display: roadside Diagram
 related:
 - content: comprises [some verge]
   type: related_concept

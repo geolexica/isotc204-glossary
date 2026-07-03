@@ -3,6 +3,9 @@ data:
   identifier: 3.1.14.11
   localized_concepts:
     eng: 6443256a-29bf-5bd9-8b45-06e281165a0f
+  figures:
+  - ref: fig_resilience_dot
+    display: resilience Diagram
 date_accepted: '2026-06-01'
 status: valid
 id: 99bda327-72c1-52da-a96c-05ef9f6ecfaf

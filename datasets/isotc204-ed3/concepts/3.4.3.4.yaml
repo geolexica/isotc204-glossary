@@ -3,6 +3,9 @@ data:
   identifier: 3.4.3.4
   localized_concepts:
     eng: e4557802-184d-5e47-8760-dcbbd37d235a
+  figures:
+  - ref: fig_jurisdiction_dot
+    display: jurisdiction Diagram
 date_accepted: '2026-06-01'
 status: valid
 id: 44ae1344-944b-5a19-ac8b-6ffc45ce6a9d

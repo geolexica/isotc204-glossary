@@ -3,6 +3,9 @@ data:
   identifier: 3.3.3.8
   localized_concepts:
     eng: bc2eb83f-f60a-5402-ae4b-7b4c0658bbb4
+  figures:
+  - ref: fig_shared_space_dot
+    display: shared space Diagram
 date_accepted: '2026-06-01'
 status: valid
 id: 918ead5d-8320-51bb-9640-cb38decf4a56

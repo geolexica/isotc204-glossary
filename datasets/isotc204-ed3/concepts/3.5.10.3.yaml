@@ -3,6 +3,9 @@ data:
   identifier: 3.5.10.3
   localized_concepts:
     eng: 45310490-09c4-50cc-b1e6-52c40929e751
+  figures:
+  - ref: fig_station_based_one_way_dot
+    display: station-based one-way Diagram
 related:
 - content: subClassOf [networkModel]
   type: broader

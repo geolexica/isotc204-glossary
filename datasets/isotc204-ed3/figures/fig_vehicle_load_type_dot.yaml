@@ -1,0 +1,7 @@
+---
+id: fig_vehicle_load_type_dot
+identifier: fig_vehicle_load_type_dot
+images:
+- src: "../../diagrams/vehicle load type.dot.png"
+  format: png
+  role: raster

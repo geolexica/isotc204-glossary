@@ -1,0 +1,7 @@
+---
+id: fig_functional_object_dot
+identifier: fig_functional_object_dot
+images:
+- src: "../../diagrams/functional object.dot.png"
+  format: png
+  role: raster

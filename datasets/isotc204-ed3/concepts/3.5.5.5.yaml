@@ -3,6 +3,9 @@ data:
   identifier: 3.5.5.5
   localized_concepts:
     eng: fe3b7619-dae6-525f-a459-0f288dd57f37
+  figures:
+  - ref: fig_P2P_mobility_sharing_app_dot
+    display: P2P mobility sharing app Diagram
 related:
 - content: subClassOf [mobilityApp]
   type: broader

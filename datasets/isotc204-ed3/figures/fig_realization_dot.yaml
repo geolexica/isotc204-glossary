@@ -1,0 +1,7 @@
+---
+id: fig_realization_dot
+identifier: fig_realization_dot
+images:
+- src: "../../diagrams/realization.dot.png"
+  format: png
+  role: raster

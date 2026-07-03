@@ -7,6 +7,9 @@ data:
   - concept_id: 3.2.9
     source: urn:iso:std:iso:14812:2025
     ref_type: section
+  figures:
+  - ref: fig_ITS_S_application_process_terms
+    display: ITS-S application process terms
 related:
 - type: supersedes
   ref:

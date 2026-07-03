@@ -3,6 +3,9 @@ data:
   identifier: 3.3.9.1
   localized_concepts:
     eng: 9078a856-a775-5db2-8cef-eb24abbff29f
+  figures:
+  - ref: fig_road_equipment_dot
+    display: road equipment Diagram
 related:
 - content: "[road equipment](road equipment.md) used to visually, audibly, or tangibly
     convey regulatory, advisory, or guidance information to [road users](road user.md)"

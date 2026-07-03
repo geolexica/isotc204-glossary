@@ -3,6 +3,9 @@ data:
   identifier: 3.5.11.3
   localized_concepts:
     eng: db7217dc-013f-5baf-a329-2e39d4978c1c
+  figures:
+  - ref: fig_taxi_share_service_dot
+    display: taxi-share service Diagram
 related:
 - content: attrFinancialModel [has commercial]
   type: related_concept

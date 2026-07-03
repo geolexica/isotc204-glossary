@@ -1,0 +1,7 @@
+---
+id: fig_bounded_secured_managed_domain_dot
+identifier: fig_bounded_secured_managed_domain_dot
+images:
+- src: "../../diagrams/bounded secured managed domain.dot.png"
+  format: png
+  role: raster

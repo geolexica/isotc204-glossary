@@ -3,6 +3,9 @@ data:
   identifier: 3.6.2.2
   localized_concepts:
     eng: fed0d7f7-a180-57ac-8f4e-c40952ef70e9
+  figures:
+  - ref: fig_vehicle_occupant_dot
+    display: vehicle occupant Diagram
 related:
 - content: isA [some person]
   type: related_concept

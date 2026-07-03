@@ -1,0 +1,7 @@
+---
+id: fig_multiple_carriageway_dot
+identifier: fig_multiple_carriageway_dot
+images:
+- src: "../../diagrams/multiple carriageway.dot.png"
+  format: png
+  role: raster

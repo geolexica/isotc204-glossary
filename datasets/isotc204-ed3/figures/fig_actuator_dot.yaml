@@ -1,0 +1,7 @@
+---
+id: fig_actuator_dot
+identifier: fig_actuator_dot
+images:
+- src: "../../diagrams/actuator.dot.png"
+  format: png
+  role: raster

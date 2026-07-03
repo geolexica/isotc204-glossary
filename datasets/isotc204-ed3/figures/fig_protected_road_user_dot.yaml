@@ -1,0 +1,7 @@
+---
+id: fig_protected_road_user_dot
+identifier: fig_protected_road_user_dot
+images:
+- src: "../../diagrams/protected road user.dot.png"
+  format: png
+  role: raster

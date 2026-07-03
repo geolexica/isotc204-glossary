@@ -1,0 +1,7 @@
+---
+id: fig_egress_lane_dot
+identifier: fig_egress_lane_dot
+images:
+- src: "../../diagrams/egress lane.dot.png"
+  format: png
+  role: raster

@@ -1,0 +1,7 @@
+---
+id: fig_traveller_dot
+identifier: fig_traveller_dot
+images:
+- src: "../../diagrams/traveller.dot.png"
+  format: png
+  role: raster

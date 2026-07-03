@@ -1,0 +1,7 @@
+---
+id: fig_motorized_vehicle_dot
+identifier: fig_motorized_vehicle_dot
+images:
+- src: "../../diagrams/motorized vehicle.dot.png"
+  format: png
+  role: raster

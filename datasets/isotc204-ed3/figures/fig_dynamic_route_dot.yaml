@@ -1,0 +1,7 @@
+---
+id: fig_dynamic_route_dot
+identifier: fig_dynamic_route_dot
+images:
+- src: "../../diagrams/dynamic route.dot.png"
+  format: png
+  role: raster

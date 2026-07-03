@@ -1,0 +1,7 @@
+---
+id: fig_road_equipment_dot
+identifier: fig_road_equipment_dot
+images:
+- src: "../../diagrams/road equipment.dot.png"
+  format: png
+  role: raster

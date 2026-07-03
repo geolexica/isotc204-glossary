@@ -20,6 +20,9 @@ module Iso14812Import
     end
 
     class XmlWalker
+      FIGURE_SRC_RE = /src=["']([^"']+)["']/.freeze
+      FIGURE_ALT_RE = /alt=["']([^"']+)["']/.freeze
+
       attr_reader :edition, :io_or_path
 
       def initialize(edition:, io_or_path:)
@@ -28,8 +31,11 @@ module Iso14812Import
       end
 
       def walk(&block)
+        # Trigger autoload of Document (which also defines FigureRef,
+        # SourceCitation, etc.) before walking begins.
+        Iso14812Import::Document
         doc = Nokogiri::XML(read_source) { |config| config.strict }
-        walk_packages(doc.root, breadcrumbs: [], &block) if doc.root
+        walk_packages(doc.root, breadcrumbs: [], figures: [], &block) if doc.root
       end
 
       private
@@ -40,27 +46,54 @@ module Iso14812Import
         File.read(@io_or_path, encoding: "utf-8")
       end
 
-      def walk_packages(element, breadcrumbs:, &block)
+      # Figures accumulate as we descend through packages. Each <figure>
+      # element inside a <package> is collected and attached to every
+      # <term> in that package (and sub-packages, via propagation through
+      # the figures argument).
+      def walk_packages(element, breadcrumbs:, figures:, &block)
         section = section_from(element, breadcrumbs)
         new_breadcrumbs = section ? breadcrumbs + [section.clause] : breadcrumbs
+        new_figures = figures + collect_figures(element)
 
         element.children.each do |child|
           local_name = local_name(child)
           case local_name
           when "package"
-            walk_packages(child, breadcrumbs: new_breadcrumbs, &block)
+            walk_packages(child, breadcrumbs: new_breadcrumbs,
+                                 figures: new_figures, &block)
           when "term"
-            build_and_yield(child, new_breadcrumbs, &block)
+            build_and_yield(child, new_breadcrumbs, new_figures, &block)
           end
         end
       end
 
-      def build_and_yield(term_element, breadcrumbs)
-        document = build_document(term_element, breadcrumbs)
+      def collect_figures(package_element)
+        package_element.children
+          .select { |c| local_name(c) == "figure" }
+          .filter_map { |f| build_figure_ref(f) }
+      end
+
+      def build_figure_ref(figure_element)
+        img_html = cdata_of(figure_element, "img") ||
+          text_of(figure_element, "img")
+        return nil unless img_html
+
+        src = img_html[FIGURE_SRC_RE, 1]
+        return nil unless src
+
+        Iso14812Import::FigureRef.new(
+          src: src,
+          alt: img_html[FIGURE_ALT_RE, 1],
+          caption: text_of(figure_element, "name"),
+        )
+      end
+
+      def build_and_yield(term_element, breadcrumbs, figures)
+        document = build_document(term_element, breadcrumbs, figures)
         yield document if document.valid?
       end
 
-      def build_document(term_element, breadcrumbs)
+      def build_document(term_element, breadcrumbs, figures)
         Document.new(
           edition: edition,
           clause: text_of(term_element, "clause"),
@@ -74,7 +107,7 @@ module Iso14812Import
           sources: source_texts_of(term_element).map { |s| SourceCitation.new(raw_text: s) },
           relationships: [],
           specializations: [],
-          figures: [],
+          figures: figures,
           breadcrumb_sections: breadcrumbs,
           history_notes: [],
         )

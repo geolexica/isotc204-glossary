@@ -1,0 +1,7 @@
+---
+id: fig_built_in_vehicle_input_device_dot
+identifier: fig_built_in_vehicle_input_device_dot
+images:
+- src: "../../diagrams/built-in vehicle input device.dot.png"
+  format: png
+  role: raster

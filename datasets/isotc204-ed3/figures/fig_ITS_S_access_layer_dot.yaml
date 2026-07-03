@@ -1,0 +1,7 @@
+---
+id: fig_ITS_S_access_layer_dot
+identifier: fig_ITS_S_access_layer_dot
+images:
+- src: "../../diagrams/ITS-S access layer.dot.png"
+  format: png
+  role: raster

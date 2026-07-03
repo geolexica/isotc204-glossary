@@ -3,6 +3,9 @@ data:
   identifier: 3.2.3.2
   localized_concepts:
     eng: 9c41b916-0e45-577a-8dde-5d70eb3347b6
+  figures:
+  - ref: fig_ITS_roadside_equipment_dot
+    display: ITS roadside equipment Diagram
 related:
 - content: subClassOf [fieldSystem]
   type: broader

@@ -3,6 +3,9 @@ data:
   identifier: 3.2.7.4
   localized_concepts:
     eng: 035e7dcb-3ecf-56f7-8f83-92f64498349b
+  figures:
+  - ref: fig_ITS_S_unit_dot
+    display: ITS-S unit Diagram
 related:
 - content: comprises [some its-sCommunicationUnit]
   type: related_concept

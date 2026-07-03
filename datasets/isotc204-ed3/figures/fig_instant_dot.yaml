@@ -1,0 +1,7 @@
+---
+id: fig_instant_dot
+identifier: fig_instant_dot
+images:
+- src: "../../diagrams/instant.dot.png"
+  format: png
+  role: raster

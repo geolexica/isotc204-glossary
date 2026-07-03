@@ -1,0 +1,7 @@
+---
+id: fig_station_based_one_way_dot
+identifier: fig_station_based_one_way_dot
+images:
+- src: "../../diagrams/station-based one-way.dot.png"
+  format: png
+  role: raster

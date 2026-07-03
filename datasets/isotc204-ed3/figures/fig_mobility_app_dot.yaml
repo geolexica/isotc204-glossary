@@ -1,0 +1,7 @@
+---
+id: fig_mobility_app_dot
+identifier: fig_mobility_app_dot
+images:
+- src: "../../diagrams/mobility app.dot.png"
+  format: png
+  role: raster

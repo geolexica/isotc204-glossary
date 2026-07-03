@@ -1,0 +1,7 @@
+---
+id: fig_ITS_station_dot
+identifier: fig_ITS_station_dot
+images:
+- src: "../../diagrams/ITS station.dot.png"
+  format: png
+  role: raster

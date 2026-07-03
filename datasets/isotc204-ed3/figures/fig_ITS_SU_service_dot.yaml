@@ -1,0 +1,7 @@
+---
+id: fig_ITS_SU_service_dot
+identifier: fig_ITS_SU_service_dot
+images:
+- src: "../../diagrams/ITS-SU service.dot.png"
+  format: png
+  role: raster

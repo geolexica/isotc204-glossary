@@ -3,6 +3,9 @@ data:
   identifier: 3.1.10.1
   localized_concepts:
     eng: c4eb0eb5-e1d8-573a-bd2f-28a81df0e3a9
+  figures:
+  - ref: fig_data_concept_dot
+    display: data concept Diagram
 related:
 - content: describes [some entity]
   type: related_concept

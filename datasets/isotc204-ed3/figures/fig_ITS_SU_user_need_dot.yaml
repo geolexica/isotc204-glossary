@@ -1,0 +1,7 @@
+---
+id: fig_ITS_SU_user_need_dot
+identifier: fig_ITS_SU_user_need_dot
+images:
+- src: "../../diagrams/ITS-SU user need.dot.png"
+  format: png
+  role: raster

@@ -1,0 +1,7 @@
+---
+id: fig_travelled_way_dot
+identifier: fig_travelled_way_dot
+images:
+- src: "../../diagrams/travelled way.dot.png"
+  format: png
+  role: raster

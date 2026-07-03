@@ -1,0 +1,7 @@
+---
+id: fig_operational_model_dot
+identifier: fig_operational_model_dot
+images:
+- src: "../../diagrams/operational model.dot.png"
+  format: png
+  role: raster

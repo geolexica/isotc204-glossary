@@ -3,6 +3,9 @@ data:
   identifier: 3.1.15.4
   localized_concepts:
     eng: 11896aea-3078-5546-8498-26539c5d92b3
+  figures:
+  - ref: fig_realization_dot
+    display: realization Diagram
 date_accepted: '2026-06-01'
 status: valid
 id: ab22830e-3479-54ad-a030-3694a665b1cc

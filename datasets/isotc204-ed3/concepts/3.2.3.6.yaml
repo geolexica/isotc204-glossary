@@ -3,6 +3,9 @@ data:
   identifier: 3.2.3.6
   localized_concepts:
     eng: 0fb6ad68-09d5-5038-b2da-da695626865f
+  figures:
+  - ref: fig_connected_dot
+    display: connected Diagram
 related:
 - content: characteristicOf [some materialEntity]
   type: related_concept

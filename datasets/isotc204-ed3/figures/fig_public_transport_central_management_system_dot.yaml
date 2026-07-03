@@ -1,0 +1,7 @@
+---
+id: fig_public_transport_central_management_system_dot
+identifier: fig_public_transport_central_management_system_dot
+images:
+- src: "../../diagrams/public transport central management system.dot.png"
+  format: png
+  role: raster

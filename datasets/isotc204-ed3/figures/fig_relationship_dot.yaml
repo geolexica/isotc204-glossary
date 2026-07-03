@@ -1,0 +1,7 @@
+---
+id: fig_relationship_dot
+identifier: fig_relationship_dot
+images:
+- src: "../../diagrams/relationship.dot.png"
+  format: png
+  role: raster

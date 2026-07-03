@@ -1,0 +1,7 @@
+---
+id: fig_remote_driver_dot
+identifier: fig_remote_driver_dot
+images:
+- src: "../../diagrams/remote driver.dot.png"
+  format: png
+  role: raster

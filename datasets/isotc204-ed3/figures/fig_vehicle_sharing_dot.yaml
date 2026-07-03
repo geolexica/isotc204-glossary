@@ -1,0 +1,7 @@
+---
+id: fig_vehicle_sharing_dot
+identifier: fig_vehicle_sharing_dot
+images:
+- src: "../../diagrams/vehicle sharing.dot.png"
+  format: png
+  role: raster

@@ -1,0 +1,7 @@
+---
+id: fig_P2P_mobility_sharing_app_dot
+identifier: fig_P2P_mobility_sharing_app_dot
+images:
+- src: "../../diagrams/P2P mobility sharing app.dot.png"
+  format: png
+  role: raster

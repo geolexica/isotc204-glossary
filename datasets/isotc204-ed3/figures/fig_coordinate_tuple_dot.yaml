@@ -1,0 +1,7 @@
+---
+id: fig_coordinate_tuple_dot
+identifier: fig_coordinate_tuple_dot
+images:
+- src: "../../diagrams/coordinate tuple.dot.png"
+  format: png
+  role: raster

@@ -1,0 +1,7 @@
+---
+id: fig_road_cycle_dot
+identifier: fig_road_cycle_dot
+images:
+- src: "../../diagrams/road cycle.dot.png"
+  format: png
+  role: raster

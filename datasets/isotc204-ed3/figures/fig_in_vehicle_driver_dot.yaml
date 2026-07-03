@@ -1,0 +1,7 @@
+---
+id: fig_in_vehicle_driver_dot
+identifier: fig_in_vehicle_driver_dot
+images:
+- src: "../../diagrams/in-vehicle driver.dot.png"
+  format: png
+  role: raster

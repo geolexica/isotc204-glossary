@@ -3,6 +3,9 @@ data:
   identifier: 3.1.6.4
   localized_concepts:
     eng: 148903dd-8596-5599-b077-32b240324482
+  figures:
+  - ref: fig_interaction_dot
+    display: interaction Diagram
 related:
 - content: "<enterprise view> [interaction](interaction.md) between two [enterprise
     objects](enterprise object.md) governed by a documented agreement"

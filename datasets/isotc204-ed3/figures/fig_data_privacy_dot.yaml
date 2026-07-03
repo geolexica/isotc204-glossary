@@ -1,0 +1,7 @@
+---
+id: fig_data_privacy_dot
+identifier: fig_data_privacy_dot
+images:
+- src: "../../diagrams/data privacy.dot.png"
+  format: png
+  role: raster

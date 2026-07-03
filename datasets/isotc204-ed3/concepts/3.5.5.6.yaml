@@ -3,6 +3,9 @@ data:
   identifier: 3.5.5.6
   localized_concepts:
     eng: 57cae2a3-2299-57d4-a176-b2ff115fb4f9
+  figures:
+  - ref: fig_ridesourcing_app_dot
+    display: ridesourcing app Diagram
 related:
 - content: subClassOf [p2pMobilitySharingApp]
   type: broader

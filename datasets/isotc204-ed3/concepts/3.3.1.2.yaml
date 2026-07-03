@@ -3,6 +3,9 @@ data:
   identifier: 3.3.1.2
   localized_concepts:
     eng: e4998d15-5b30-5700-b4dc-c3cfd86a8b2a
+  figures:
+  - ref: fig_road_reservation_dot
+    display: road reservation Diagram
 related:
 - content: comprises [some roadway]
   type: related_concept

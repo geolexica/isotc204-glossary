@@ -3,6 +3,9 @@ data:
   identifier: 3.3.2.3
   localized_concepts:
     eng: e0dddd7e-dab3-50ba-af9a-7036696cb429
+  figures:
+  - ref: fig_Jersey_barrier_dot
+    display: Jersey barrier Diagram
 related:
 - content: subClassOf [physicalTrafficSeparator]
   type: broader

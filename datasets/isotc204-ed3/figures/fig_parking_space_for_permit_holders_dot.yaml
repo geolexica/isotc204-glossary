@@ -1,0 +1,7 @@
+---
+id: fig_parking_space_for_permit_holders_dot
+identifier: fig_parking_space_for_permit_holders_dot
+images:
+- src: "../../diagrams/parking space for permit holders.dot.png"
+  format: png
+  role: raster

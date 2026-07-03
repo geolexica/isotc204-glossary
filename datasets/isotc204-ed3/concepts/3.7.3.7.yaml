@@ -3,6 +3,9 @@ data:
   identifier: 3.7.3.7
   localized_concepts:
     eng: 01a6e55f-dde4-5548-af70-f8b22720841f
+  figures:
+  - ref: fig_driver_support_system_dot
+    display: driver support system Diagram
 related:
 - content: performsPartOf [some dynamicDrivingTask]
   type: related_concept

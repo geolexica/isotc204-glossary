@@ -3,6 +3,9 @@ data:
   identifier: 3.2.8.6
   localized_concepts:
     eng: dda4a77b-cfdd-5564-bb9f-d1b6d397205d
+  figures:
+  - ref: fig_ITS_deployment_dot
+    display: ITS deployment Diagram
 related:
 - content: installationOf [some itsImplementation]
   type: related_concept

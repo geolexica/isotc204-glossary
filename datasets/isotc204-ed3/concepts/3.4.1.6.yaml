@@ -3,6 +3,9 @@ data:
   identifier: 3.4.1.6
   localized_concepts:
     eng: fcd08a2d-fa1e-545c-9d72-aec055323cc8
+  figures:
+  - ref: fig_area_location_dot
+    display: area location Diagram
 related:
 - content: subClassOf [spatialLocation]
   type: broader

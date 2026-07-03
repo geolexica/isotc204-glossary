@@ -3,6 +3,9 @@ data:
   identifier: 3.3.5.9
   localized_concepts:
     eng: b8fcccc9-3b96-5c27-a3e9-70ba382e58af
+  figures:
+  - ref: fig_lane_link_dot
+    display: lane link Diagram
 related:
 - content: constitutes [some laneSegment]
   type: related_concept

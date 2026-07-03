@@ -1,0 +1,7 @@
+---
+id: fig_ITS_deployment_dot
+identifier: fig_ITS_deployment_dot
+images:
+- src: "../../diagrams/ITS deployment.dot.png"
+  format: png
+  role: raster

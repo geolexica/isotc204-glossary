@@ -1,0 +1,7 @@
+---
+id: fig_scenario_dot
+identifier: fig_scenario_dot
+images:
+- src: "../../diagrams/scenario.dot.png"
+  format: png
+  role: raster

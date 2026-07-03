@@ -3,6 +3,9 @@ data:
   identifier: 3.3.5.7
   localized_concepts:
     eng: 893abdbe-6444-54fc-8cf1-db77c50e04b1
+  figures:
+  - ref: fig_road_section_dot
+    display: road section Diagram
 related:
 - content: aggregates [some roadLink]
   type: related_concept

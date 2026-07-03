@@ -1,0 +1,7 @@
+---
+id: fig_motorway_dot
+identifier: fig_motorway_dot
+images:
+- src: "../../diagrams/motorway.dot.png"
+  format: png
+  role: raster

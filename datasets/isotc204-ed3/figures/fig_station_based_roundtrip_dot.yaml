@@ -1,0 +1,7 @@
+---
+id: fig_station_based_roundtrip_dot
+identifier: fig_station_based_roundtrip_dot
+images:
+- src: "../../diagrams/station-based roundtrip.dot.png"
+  format: png
+  role: raster

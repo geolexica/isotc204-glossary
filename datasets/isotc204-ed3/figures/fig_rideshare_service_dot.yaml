@@ -1,0 +1,7 @@
+---
+id: fig_rideshare_service_dot
+identifier: fig_rideshare_service_dot
+images:
+- src: "../../diagrams/rideshare service.dot.png"
+  format: png
+  role: raster

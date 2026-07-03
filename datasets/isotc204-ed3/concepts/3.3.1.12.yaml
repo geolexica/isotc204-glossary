@@ -3,6 +3,9 @@ data:
   identifier: 3.3.1.12
   localized_concepts:
     eng: 5cc1e736-9c04-5a4c-a222-bd7f4c223f2b
+  figures:
+  - ref: fig_lane_dot
+    display: lane Diagram
 related:
 - content: "[lane](lane.md) designed for the through movement of cycles"
   type: narrower

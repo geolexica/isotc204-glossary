@@ -3,6 +3,9 @@ data:
   identifier: 3.7.1.2
   localized_concepts:
     eng: 76574937-6fc0-53ee-a5df-e50160c9c773
+  figures:
+  - ref: fig_motor_dot
+    display: motor Diagram
 related:
 - content: subClassOf [materialEntity]
   type: broader

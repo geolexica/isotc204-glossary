@@ -3,6 +3,9 @@ data:
   identifier: 3.5.4.4
   localized_concepts:
     eng: dbbde180-7d31-5a9c-9676-3d839c8efec1
+  figures:
+  - ref: fig_ITS_SU_user_need_dot
+    display: ITS-SU user need Diagram
 related:
 - content: requiresProcessingWithin [some boundedSecuredManagedDomain]
   type: related_concept

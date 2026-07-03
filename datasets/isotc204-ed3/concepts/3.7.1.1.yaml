@@ -3,6 +3,9 @@ data:
   identifier: 3.7.1.1
   localized_concepts:
     eng: 92a8b59e-9690-52d9-98bd-8fae5da05aa2
+  figures:
+  - ref: fig_vehicle_dot
+    display: vehicle Diagram
 related:
 - content: attrPurpose [has transport ppl/goods]
   type: related_concept

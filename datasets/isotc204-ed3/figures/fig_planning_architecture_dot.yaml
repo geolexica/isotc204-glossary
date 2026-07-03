@@ -1,0 +1,7 @@
+---
+id: fig_planning_architecture_dot
+identifier: fig_planning_architecture_dot
+images:
+- src: "../../diagrams/planning architecture.dot.png"
+  format: png
+  role: raster

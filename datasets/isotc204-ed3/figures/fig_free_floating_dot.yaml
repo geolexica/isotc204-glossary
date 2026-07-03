@@ -1,0 +1,7 @@
+---
+id: fig_free_floating_dot
+identifier: fig_free_floating_dot
+images:
+- src: "../../diagrams/free-floating.dot.png"
+  format: png
+  role: raster

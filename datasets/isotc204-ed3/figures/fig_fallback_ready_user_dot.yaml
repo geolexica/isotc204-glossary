@@ -1,0 +1,7 @@
+---
+id: fig_fallback_ready_user_dot
+identifier: fig_fallback_ready_user_dot
+images:
+- src: "../../diagrams/fallback-ready user.dot.png"
+  format: png
+  role: raster

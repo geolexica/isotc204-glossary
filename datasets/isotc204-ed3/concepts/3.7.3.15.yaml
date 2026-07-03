@@ -3,6 +3,9 @@ data:
   identifier: 3.7.3.15
   localized_concepts:
     eng: fee9ba95-8c58-5bb5-9582-d27ec16b83f0
+  figures:
+  - ref: fig_ADS_equipped_vehicle_dot
+    display: ADS-equipped vehicle Diagram
 related:
 - content: comprises [some ads]
   type: related_concept

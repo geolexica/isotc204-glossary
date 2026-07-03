@@ -3,6 +3,9 @@ data:
   identifier: 3.7.3.17
   localized_concepts:
     eng: 8bca032e-ae8a-5e23-a9c6-b7e61252c9b9
+  figures:
+  - ref: fig_ADS_dedicated_vehicle_dot
+    display: ADS-dedicated vehicle Diagram
 related:
 - content: subClassOf [ads-equippedVehicle]
   type: broader

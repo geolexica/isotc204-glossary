@@ -1,0 +1,7 @@
+---
+id: fig_trustworthiness_dot
+identifier: fig_trustworthiness_dot
+images:
+- src: "../../diagrams/trustworthiness.dot.png"
+  format: png
+  role: raster

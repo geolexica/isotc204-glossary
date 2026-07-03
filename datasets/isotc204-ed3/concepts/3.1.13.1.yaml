@@ -3,6 +3,9 @@ data:
   identifier: 3.1.13.1
   localized_concepts:
     eng: 17e32e2d-ba42-5e88-bf00-4407fcb41869
+  figures:
+  - ref: fig_instant_dot
+    display: instant Diagram
 related:
 - type: supersedes
   ref:

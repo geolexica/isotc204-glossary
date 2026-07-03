@@ -1,0 +1,7 @@
+---
+id: fig_environment_dot
+identifier: fig_environment_dot
+images:
+- src: "../../diagrams/environment.dot.png"
+  format: png
+  role: raster

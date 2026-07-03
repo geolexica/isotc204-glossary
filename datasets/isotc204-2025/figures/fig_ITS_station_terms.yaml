@@ -1,0 +1,7 @@
+---
+id: fig_ITS_station_terms
+identifier: fig_ITS_station_terms
+images:
+- src: images/ITS station terms.png
+  format: png
+  role: raster

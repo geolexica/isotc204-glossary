@@ -3,6 +3,9 @@ data:
   identifier: 3.3.1.21
   localized_concepts:
     eng: 67c1cc96-7059-550b-b941-cea835212a5a
+  figures:
+  - ref: fig_motorway_dot
+    display: motorway Diagram
 related:
 - content: subClassOf [road]
   type: broader

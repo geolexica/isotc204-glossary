@@ -3,6 +3,9 @@ data:
   identifier: 3.7.5.1
   localized_concepts:
     eng: bccf1c07-81ab-5a4a-b008-9b98aa0b8056
+  figures:
+  - ref: fig_ultra_low_speed_vehicle_dot
+    display: ultra-low-speed vehicle Diagram
 related:
 - content: subClassOf [vehicle]
   type: broader

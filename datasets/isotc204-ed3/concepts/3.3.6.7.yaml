@@ -3,6 +3,9 @@ data:
   identifier: 3.3.6.7
   localized_concepts:
     eng: eba38fb0-4556-564b-adc2-9935ed48402c
+  figures:
+  - ref: fig_intersection_manoeuvre_dot
+    display: intersection manoeuvre Diagram
 related:
 - content: from [some ingressLane]
   type: related_concept

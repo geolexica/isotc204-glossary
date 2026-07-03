@@ -3,6 +3,9 @@ data:
   identifier: 3.4.1.4
   localized_concepts:
     eng: 5500be9d-0088-5df1-a6eb-4edd52d04376
+  figures:
+  - ref: fig_geographic_point_location_dot
+    display: geographic point location Diagram
 related:
 - content: subClassOf [pointLocation]
   type: broader

@@ -1,0 +1,7 @@
+---
+id: fig_moderate_vehicle_speed_dot
+identifier: fig_moderate_vehicle_speed_dot
+images:
+- src: "../../diagrams/moderate vehicle speed.dot.png"
+  format: png
+  role: raster

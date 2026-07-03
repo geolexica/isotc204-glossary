@@ -1,0 +1,7 @@
+---
+id: fig_interchange_dot
+identifier: fig_interchange_dot
+images:
+- src: "../../diagrams/interchange.dot.png"
+  format: png
+  role: raster

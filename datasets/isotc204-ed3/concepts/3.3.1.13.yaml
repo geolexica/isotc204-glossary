@@ -3,6 +3,9 @@ data:
   identifier: 3.3.1.13
   localized_concepts:
     eng: ea674731-c4fa-5ca2-8367-40f81b8be44c
+  figures:
+  - ref: fig_traffic_lane_dot
+    display: traffic lane Diagram
 related:
 - content: subClassOf [lane]
   type: broader

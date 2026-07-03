@@ -3,6 +3,9 @@ data:
   identifier: 3.5.5.2
   localized_concepts:
     eng: 8ab6d551-ac96-5d3a-aaf2-c8ff7d29dca0
+  figures:
+  - ref: fig_B2C_mobility_sharing_app_dot
+    display: B2C mobility sharing app Diagram
 related:
 - content: subClassOf [mobilityApp]
   type: broader

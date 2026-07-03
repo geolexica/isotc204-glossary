@@ -1,0 +1,7 @@
+---
+id: fig_gross_vehicle_mass_dot
+identifier: fig_gross_vehicle_mass_dot
+images:
+- src: "../../diagrams/gross vehicle mass.dot.png"
+  format: png
+  role: raster

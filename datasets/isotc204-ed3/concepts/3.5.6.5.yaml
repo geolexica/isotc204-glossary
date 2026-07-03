@@ -3,6 +3,9 @@ data:
   identifier: 3.5.6.5
   localized_concepts:
     eng: 8019523e-4683-58a5-9cd3-b36a91d65fc5
+  figures:
+  - ref: fig_vehicle_sharing_dot
+    display: vehicle sharing Diagram
 related:
 - content: using [some sharedVehicleService]
   type: related_concept

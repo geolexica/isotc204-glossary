@@ -1,0 +1,7 @@
+---
+id: fig_nomadic_vehicle_device_dot
+identifier: fig_nomadic_vehicle_device_dot
+images:
+- src: "../../diagrams/nomadic vehicle device.dot.png"
+  format: png
+  role: raster

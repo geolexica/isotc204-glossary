@@ -1,0 +1,7 @@
+---
+id: fig_governmental_area_dot
+identifier: fig_governmental_area_dot
+images:
+- src: "../../diagrams/governmental area.dot.png"
+  format: png
+  role: raster

@@ -1,0 +1,7 @@
+---
+id: fig_reserved_lane_dot
+identifier: fig_reserved_lane_dot
+images:
+- src: "../../diagrams/reserved lane.dot.png"
+  format: png
+  role: raster

@@ -3,6 +3,9 @@ data:
   identifier: 3.7.5.9
   localized_concepts:
     eng: 5becadf8-5e5f-5dc4-923b-dd29e557492c
+  figures:
+  - ref: fig_moderately_low_vehicle_speed_dot
+    display: moderately-low vehicle speed Diagram
 related:
 - content: subClassOf [speed]
   type: broader

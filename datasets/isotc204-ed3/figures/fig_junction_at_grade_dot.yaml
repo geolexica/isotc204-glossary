@@ -1,0 +1,7 @@
+---
+id: fig_junction_at_grade_dot
+identifier: fig_junction_at_grade_dot
+images:
+- src: "../../diagrams/junction at grade.dot.png"
+  format: png
+  role: raster

@@ -3,6 +3,9 @@ data:
   identifier: 3.2.6.1
   localized_concepts:
     eng: a8d504e0-aa85-5edc-90f8-02c0c5758b00
+  figures:
+  - ref: fig_ITS_on_board_equipment_dot
+    display: ITS on-board equipment Diagram
 related:
 - content: comprises [some itsOn-boardUnit]
   type: related_concept

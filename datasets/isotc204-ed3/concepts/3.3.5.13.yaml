@@ -3,6 +3,9 @@ data:
   identifier: 3.3.5.13
   localized_concepts:
     eng: 7b1b4b48-2930-5f57-a246-f8a51b7521f7
+  figures:
+  - ref: fig_service_road_dot
+    display: service road Diagram
 related:
 - content: subClassOf [road]
   type: broader

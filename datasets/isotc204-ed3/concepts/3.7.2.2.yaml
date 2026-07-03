@@ -3,6 +3,9 @@ data:
   identifier: 3.7.2.2
   localized_concepts:
     eng: ad65b2a6-e21e-5701-90ed-112b4e161987
+  figures:
+  - ref: fig_design_speed_dot
+    display: design speed Diagram
 related:
 - content: maximumSustainedSpeedOf [exactly 1 owl::Thing]
   type: related_concept

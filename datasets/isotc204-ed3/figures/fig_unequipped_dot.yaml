@@ -1,0 +1,7 @@
+---
+id: fig_unequipped_dot
+identifier: fig_unequipped_dot
+images:
+- src: "../../diagrams/unequipped.dot.png"
+  format: png
+  role: raster

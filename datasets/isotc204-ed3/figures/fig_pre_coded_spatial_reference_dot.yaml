@@ -1,0 +1,7 @@
+---
+id: fig_pre_coded_spatial_reference_dot
+identifier: fig_pre_coded_spatial_reference_dot
+images:
+- src: "../../diagrams/pre-coded spatial reference.dot.png"
+  format: png
+  role: raster

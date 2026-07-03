@@ -7,6 +7,9 @@ data:
   - concept_id: 3.1.7
     source: urn:iso:std:iso:14812:2025
     ref_type: section
+  figures:
+  - ref: fig_Architecture_Functional_view_terms
+    display: Architecture - Functional view terms
 related:
 - type: supersedes
   ref:

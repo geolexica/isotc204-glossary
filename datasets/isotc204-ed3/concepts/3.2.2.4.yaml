@@ -3,6 +3,9 @@ data:
   identifier: 3.2.2.4
   localized_concepts:
     eng: 5c4a544d-de90-5313-98b9-2c5135766325
+  figures:
+  - ref: fig_payment_administration_central_system_dot
+    display: payment administration central system Diagram
 related:
 - content: subClassOf [centralSystem]
   type: broader

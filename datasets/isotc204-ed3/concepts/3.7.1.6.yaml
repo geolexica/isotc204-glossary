@@ -3,6 +3,9 @@ data:
   identifier: 3.7.1.6
   localized_concepts:
     eng: 37debb83-a75f-5de0-ab63-0ff1bf906812
+  figures:
+  - ref: fig_nomadic_vehicle_input_device_dot
+    display: nomadic vehicle input device Diagram
 related:
 - content: subClassOf [vehicleInputDevice]
   type: broader

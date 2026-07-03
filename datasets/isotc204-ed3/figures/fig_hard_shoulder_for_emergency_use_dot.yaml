@@ -1,0 +1,7 @@
+---
+id: fig_hard_shoulder_for_emergency_use_dot
+identifier: fig_hard_shoulder_for_emergency_use_dot
+images:
+- src: "../../diagrams/hard shoulder for emergency use.dot.png"
+  format: png
+  role: raster

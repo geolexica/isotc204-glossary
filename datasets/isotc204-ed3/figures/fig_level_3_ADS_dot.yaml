@@ -1,0 +1,7 @@
+---
+id: fig_level_3_ADS_dot
+identifier: fig_level_3_ADS_dot
+images:
+- src: "../../diagrams/level 3 ADS.dot.png"
+  format: png
+  role: raster

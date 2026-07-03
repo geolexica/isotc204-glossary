@@ -1,0 +1,7 @@
+---
+id: fig_digital_signature_dot
+identifier: fig_digital_signature_dot
+images:
+- src: "../../diagrams/digital signature.dot.png"
+  format: png
+  role: raster

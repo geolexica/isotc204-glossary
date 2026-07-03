@@ -3,6 +3,9 @@ data:
   identifier: 3.1.1.6
   localized_concepts:
     eng: 678ef1af-3afa-5bc0-88d7-2cc8ff3b7600
+  figures:
+  - ref: fig_person_dot
+    display: person Diagram
 related:
 - content: subClassOf [biologicalEntity]
   type: broader

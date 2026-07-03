@@ -1,0 +1,7 @@
+---
+id: fig_physical_viewpoint_dot
+identifier: fig_physical_viewpoint_dot
+images:
+- src: "../../diagrams/physical viewpoint.dot.png"
+  format: png
+  role: raster

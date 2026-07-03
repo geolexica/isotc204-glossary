@@ -3,6 +3,9 @@ data:
   identifier: 3.3.5.10
   localized_concepts:
     eng: a214031d-3614-5917-bcbb-a2a4a72ae4f2
+  figures:
+  - ref: fig_lane_segment_dot
+    display: lane segment Diagram
 related:
 - content: subClassOf [link]
   type: broader

@@ -20,11 +20,13 @@ module Iso14812Import
 
     def build(document)
       localized = build_localized(document)
+      figure_refs = register_figures(document.figures)
       managed_data = V3::ManagedConceptData.new(
         id: document.clause,
         localized_concepts: { LANGUAGE_ENG => localized.uuid },
         domains: domain_refs(document),
         sources: [],
+        figures: figure_refs,
       )
       managed_data.localizations.store(LANGUAGE_ENG, localized)
 
@@ -157,6 +159,13 @@ module Iso14812Import
       return [] unless leaf
 
       [Glossarist::ConceptReference.section(leaf).tap { |r| r.source = edition.urn }]
+    end
+
+    def register_figures(figures)
+      Array(figures).map do |fig|
+        figure_id = figure_registry.register(src: fig.src, alt: fig.alt, caption: fig.caption)
+        Glossarist::FigureReference.new(entity_id: figure_id, display: fig.alt)
+      end
     end
 
     def date_accepted_for(_document)

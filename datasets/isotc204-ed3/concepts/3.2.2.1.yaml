@@ -3,6 +3,9 @@ data:
   identifier: 3.2.2.1
   localized_concepts:
     eng: 76c249cf-65e6-5ac3-af79-c049b41ee9be
+  figures:
+  - ref: fig_emergency_management_central_system_dot
+    display: emergency management central system Diagram
 related:
 - content: subClassOf [centralSystem]
   type: broader

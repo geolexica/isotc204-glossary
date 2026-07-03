@@ -3,6 +3,9 @@ data:
   identifier: 3.1.7.4
   localized_concepts:
     eng: 70f76c82-e059-5aef-a33f-3ccb6dde8b40
+  figures:
+  - ref: fig_process_specification_dot
+    display: process specification Diagram
 related:
 - type: supersedes
   ref:

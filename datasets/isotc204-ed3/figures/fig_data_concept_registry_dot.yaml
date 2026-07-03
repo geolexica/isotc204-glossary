@@ -1,0 +1,7 @@
+---
+id: fig_data_concept_registry_dot
+identifier: fig_data_concept_registry_dot
+images:
+- src: "../../diagrams/data concept registry.dot.png"
+  format: png
+  role: raster

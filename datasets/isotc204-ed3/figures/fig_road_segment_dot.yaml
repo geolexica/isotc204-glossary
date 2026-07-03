@@ -1,0 +1,7 @@
+---
+id: fig_road_segment_dot
+identifier: fig_road_segment_dot
+images:
+- src: "../../diagrams/road segment.dot.png"
+  format: png
+  role: raster

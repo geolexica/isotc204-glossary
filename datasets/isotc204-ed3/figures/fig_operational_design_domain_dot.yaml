@@ -1,0 +1,7 @@
+---
+id: fig_operational_design_domain_dot
+identifier: fig_operational_design_domain_dot
+images:
+- src: "../../diagrams/operational design domain.dot.png"
+  format: png
+  role: raster

@@ -1,0 +1,7 @@
+---
+id: fig_commercial_dot
+identifier: fig_commercial_dot
+images:
+- src: "../../diagrams/commercial.dot.png"
+  format: png
+  role: raster

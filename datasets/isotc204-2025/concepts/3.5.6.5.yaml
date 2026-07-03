@@ -7,6 +7,9 @@ data:
   - concept_id: 3.5.6
     source: urn:iso:std:iso:14812:2025
     ref_type: section
+  figures:
+  - ref: fig_Transport_related_sharing_terms
+    display: Transport-related sharing terms
 related:
 - type: supersedes
   ref:

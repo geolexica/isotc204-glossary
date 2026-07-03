@@ -1,0 +1,7 @@
+---
+id: fig_taxi_service_dot
+identifier: fig_taxi_service_dot
+images:
+- src: "../../diagrams/taxi service.dot.png"
+  format: png
+  role: raster

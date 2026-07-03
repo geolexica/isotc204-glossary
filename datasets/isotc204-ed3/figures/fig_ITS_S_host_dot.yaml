@@ -1,0 +1,7 @@
+---
+id: fig_ITS_S_host_dot
+identifier: fig_ITS_S_host_dot
+images:
+- src: "../../diagrams/ITS-S host.dot.png"
+  format: png
+  role: raster

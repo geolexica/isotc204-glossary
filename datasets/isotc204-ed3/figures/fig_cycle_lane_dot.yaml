@@ -1,0 +1,7 @@
+---
+id: fig_cycle_lane_dot
+identifier: fig_cycle_lane_dot
+images:
+- src: "../../diagrams/cycle lane.dot.png"
+  format: png
+  role: raster

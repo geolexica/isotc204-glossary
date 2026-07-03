@@ -1,0 +1,7 @@
+---
+id: fig_jurisdictional_boundary_dot
+identifier: fig_jurisdictional_boundary_dot
+images:
+- src: "../../diagrams/jurisdictional boundary.dot.png"
+  format: png
+  role: raster

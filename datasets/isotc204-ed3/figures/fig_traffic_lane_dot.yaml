@@ -1,0 +1,7 @@
+---
+id: fig_traffic_lane_dot
+identifier: fig_traffic_lane_dot
+images:
+- src: "../../diagrams/traffic lane.dot.png"
+  format: png
+  role: raster

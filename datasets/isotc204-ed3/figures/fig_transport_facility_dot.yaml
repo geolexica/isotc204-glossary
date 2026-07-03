@@ -1,0 +1,7 @@
+---
+id: fig_transport_facility_dot
+identifier: fig_transport_facility_dot
+images:
+- src: "../../diagrams/transport facility.dot.png"
+  format: png
+  role: raster

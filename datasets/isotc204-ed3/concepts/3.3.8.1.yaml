@@ -3,6 +3,9 @@ data:
   identifier: 3.3.8.1
   localized_concepts:
     eng: f188dc07-8b16-5333-98a2-d4d37df3aaf6
+  figures:
+  - ref: fig_designated_parking_space_dot
+    display: designated parking space Diagram
 related:
 - content: subClassOf [parkingSpace]
   type: broader

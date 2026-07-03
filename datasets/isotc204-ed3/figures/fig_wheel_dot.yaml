@@ -1,0 +1,7 @@
+---
+id: fig_wheel_dot
+identifier: fig_wheel_dot
+images:
+- src: "../../diagrams/wheel.dot.png"
+  format: png
+  role: raster

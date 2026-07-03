@@ -7,6 +7,9 @@ data:
   - concept_id: 3.2.3
     source: urn:iso:std:iso:14812:2025
     ref_type: section
+  figures:
+  - ref: fig_Field_physical_object_terms
+    display: Field physical object terms
 related:
 - type: supersedes
   ref:

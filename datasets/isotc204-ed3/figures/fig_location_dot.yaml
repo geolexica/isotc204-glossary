@@ -1,0 +1,7 @@
+---
+id: fig_location_dot
+identifier: fig_location_dot
+images:
+- src: "../../diagrams/location.dot.png"
+  format: png
+  role: raster

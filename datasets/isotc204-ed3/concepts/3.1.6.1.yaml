@@ -3,6 +3,9 @@ data:
   identifier: 3.1.6.1
   localized_concepts:
     eng: e6c9ad35-c117-51de-b103-54731787ba04
+  figures:
+  - ref: fig_enterprise_object_dot
+    display: enterprise object Diagram
 related:
 - type: supersedes
   ref:

@@ -3,6 +3,9 @@ data:
   identifier: 3.4.2.2
   localized_concepts:
     eng: b536cb91-c85a-5945-bd81-a2e42a78fe29
+  figures:
+  - ref: fig_spatial_reference_dot
+    display: spatial reference Diagram
 related:
 - content: specificationOf [some spatialLocation]
   type: related_concept

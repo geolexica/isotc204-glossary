@@ -3,6 +3,9 @@ data:
   identifier: 3.7.6.5
   localized_concepts:
     eng: 84fa336e-3692-5179-bc72-59d9509d194a
+  figures:
+  - ref: fig_road_cycle_dot
+    display: road cycle Diagram
 related:
 - content: subClassOf [vehicle]
   type: broader

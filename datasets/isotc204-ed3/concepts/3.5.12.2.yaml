@@ -3,6 +3,9 @@ data:
   identifier: 3.5.12.2
   localized_concepts:
     eng: a5fe9365-4309-542b-8132-ee7f547b54b9
+  figures:
+  - ref: fig_carsharing_service_dot
+    display: carsharing service Diagram
 related:
 - content: subClassOf [sharedVehicleService]
   type: broader

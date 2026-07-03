@@ -3,6 +3,9 @@ data:
   identifier: 3.2.2.7
   localized_concepts:
     eng: 62c71161-b9d3-5cb3-9af5-68a575e72192
+  figures:
+  - ref: fig_traffic_regulation_central_system_dot
+    display: traffic regulation central system Diagram
 related:
 - content: subClassOf [centralSystem]
   type: broader

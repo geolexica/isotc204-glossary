@@ -1,0 +1,7 @@
+---
+id: fig_cross_section_dot
+identifier: fig_cross_section_dot
+images:
+- src: "../../diagrams/cross-section.dot.png"
+  format: png
+  role: raster

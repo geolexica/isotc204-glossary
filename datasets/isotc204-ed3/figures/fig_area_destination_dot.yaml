@@ -1,0 +1,7 @@
+---
+id: fig_area_destination_dot
+identifier: fig_area_destination_dot
+images:
+- src: "../../diagrams/area destination.dot.png"
+  format: png
+  role: raster

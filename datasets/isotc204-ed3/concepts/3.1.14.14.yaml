@@ -3,6 +3,9 @@ data:
   identifier: 3.1.14.14
   localized_concepts:
     eng: 86364159-0e20-5830-be5b-c0277a6badc7
+  figures:
+  - ref: fig_transparency_dot
+    display: transparency Diagram
 date_accepted: '2026-06-01'
 status: valid
 id: cd85010d-1ac6-5510-9bd7-28b83282e515

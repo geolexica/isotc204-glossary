@@ -3,6 +3,9 @@ data:
   identifier: 3.7.2.4
   localized_concepts:
     eng: cd1b0dd6-c773-5e2b-a5ba-322681206a49
+  figures:
+  - ref: fig_vehicle_equipment_dot
+    display: vehicle equipment Diagram
 related:
 - content: inUseOrOnBoard [exactly 1 owl::Thing]
   type: related_concept

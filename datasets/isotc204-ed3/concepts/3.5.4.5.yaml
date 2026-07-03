@@ -3,6 +3,9 @@ data:
   identifier: 3.5.4.5
   localized_concepts:
     eng: 37763b1c-56be-53a1-9cb2-5dccc6bb33a5
+  figures:
+  - ref: fig_ITS_S_service_dot
+    display: ITS-S service Diagram
 related:
 - content: subClassOf [service]
   type: broader

@@ -3,6 +3,9 @@ data:
   identifier: 3.5.4.2
   localized_concepts:
     eng: 431b5b8f-236e-588c-9e24-7fb73ad568df
+  figures:
+  - ref: fig_ITS_SU_service_provider_dot
+    display: ITS-SU service provider Diagram
 related:
 - content: delivers [some its-suService]
   type: related_concept

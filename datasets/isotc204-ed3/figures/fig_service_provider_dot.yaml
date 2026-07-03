@@ -1,0 +1,7 @@
+---
+id: fig_service_provider_dot
+identifier: fig_service_provider_dot
+images:
+- src: "../../diagrams/service provider.dot.png"
+  format: png
+  role: raster

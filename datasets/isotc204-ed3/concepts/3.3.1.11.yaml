@@ -3,6 +3,9 @@ data:
   identifier: 3.3.1.11
   localized_concepts:
     eng: 609178b6-27d6-5a45-b55d-37b219158a1d
+  figures:
+  - ref: fig_verge_dot
+    display: verge Diagram
 related:
 - type: supersedes
   ref:

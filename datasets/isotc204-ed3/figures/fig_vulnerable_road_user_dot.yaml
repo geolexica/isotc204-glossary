@@ -1,0 +1,7 @@
+---
+id: fig_vulnerable_road_user_dot
+identifier: fig_vulnerable_road_user_dot
+images:
+- src: "../../diagrams/vulnerable road user.dot.png"
+  format: png
+  role: raster

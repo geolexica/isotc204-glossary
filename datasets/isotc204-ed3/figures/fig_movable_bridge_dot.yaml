@@ -1,0 +1,7 @@
+---
+id: fig_movable_bridge_dot
+identifier: fig_movable_bridge_dot
+images:
+- src: "../../diagrams/movable bridge.dot.png"
+  format: png
+  role: raster

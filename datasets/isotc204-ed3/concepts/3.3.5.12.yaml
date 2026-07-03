@@ -3,6 +3,9 @@ data:
   identifier: 3.3.5.12
   localized_concepts:
     eng: 4b7673f9-7516-5ff3-8a9a-905f6b731ee6
+  figures:
+  - ref: fig_road_identifier_dot
+    display: road identifier Diagram
 related:
 - content: identifies [some road]
   type: related_concept

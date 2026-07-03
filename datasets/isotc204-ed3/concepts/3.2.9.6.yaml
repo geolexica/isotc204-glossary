@@ -3,6 +3,9 @@ data:
   identifier: 3.2.9.6
   localized_concepts:
     eng: af0e360b-6432-5059-8cc4-cac050ad28ad
+  figures:
+  - ref: fig_ITS_S_application_installation_dot
+    display: ITS-S application installation Diagram
 related:
 - content: subClassOf [its-sApplicationProcessInstallation]
   type: broader

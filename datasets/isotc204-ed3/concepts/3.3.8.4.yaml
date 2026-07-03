@@ -3,6 +3,9 @@ data:
   identifier: 3.3.8.4
   localized_concepts:
     eng: 4c064abd-7122-513c-8de0-d36d50284caa
+  figures:
+  - ref: fig_parking_space_for_permit_holders_dot
+    display: parking space for permit holders Diagram
 related:
 - content: subClassOf [designatedParkingSpace]
   type: broader

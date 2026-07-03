@@ -1,0 +1,7 @@
+---
+id: fig_ISO_named_area_dot
+identifier: fig_ISO_named_area_dot
+images:
+- src: "../../diagrams/ISO named area.dot.png"
+  format: png
+  role: raster

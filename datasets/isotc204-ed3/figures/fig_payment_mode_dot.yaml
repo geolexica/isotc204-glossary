@@ -1,0 +1,7 @@
+---
+id: fig_payment_mode_dot
+identifier: fig_payment_mode_dot
+images:
+- src: "../../diagrams/payment mode.dot.png"
+  format: png
+  role: raster

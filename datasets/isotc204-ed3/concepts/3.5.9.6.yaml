@@ -3,6 +3,9 @@ data:
   identifier: 3.5.9.6
   localized_concepts:
     eng: 955af26e-02b2-5f20-bbcc-0c8abfe807d2
+  figures:
+  - ref: fig_paired_on_demand_dot
+    display: paired on-demand Diagram
 related:
 - content: subClassOf [concurrent]
   type: broader

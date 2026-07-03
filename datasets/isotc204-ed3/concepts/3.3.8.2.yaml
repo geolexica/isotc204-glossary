@@ -3,6 +3,9 @@ data:
   identifier: 3.3.8.2
   localized_concepts:
     eng: 1e9f8e4f-1281-573c-ab8c-03eed27f454f
+  figures:
+  - ref: fig_loading_area_dot
+    display: loading area Diagram
 related:
 - content: forDesignated [some vehicles]
   type: related_concept

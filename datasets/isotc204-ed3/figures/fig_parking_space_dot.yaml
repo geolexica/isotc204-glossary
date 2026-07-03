@@ -1,0 +1,7 @@
+---
+id: fig_parking_space_dot
+identifier: fig_parking_space_dot
+images:
+- src: "../../diagrams/parking space.dot.png"
+  format: png
+  role: raster

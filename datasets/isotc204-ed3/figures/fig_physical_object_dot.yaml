@@ -1,0 +1,7 @@
+---
+id: fig_physical_object_dot
+identifier: fig_physical_object_dot
+images:
+- src: "../../diagrams/physical object.dot.png"
+  format: png
+  role: raster

@@ -3,6 +3,9 @@ data:
   identifier: 3.1.15.3
   localized_concepts:
     eng: 1f6bb7f2-2f5e-5f6d-938c-07b6a6e34011
+  figures:
+  - ref: fig_instance_dot
+    display: instance Diagram
 date_accepted: '2026-06-01'
 status: valid
 id: aaad9eec-d82d-524b-a51e-26af1601615d

@@ -3,6 +3,9 @@ data:
   identifier: 3.3.1.15
   localized_concepts:
     eng: 6dc236ee-4097-5e7c-9b79-ad01e2db014b
+  figures:
+  - ref: fig_usable_width_dot
+    display: usable width Diagram
 related:
 - content: comprises [some trafficLane]
   type: related_concept

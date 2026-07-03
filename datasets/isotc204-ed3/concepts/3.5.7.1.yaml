@@ -3,6 +3,9 @@ data:
   identifier: 3.5.7.1
   localized_concepts:
     eng: '0296a48e-982e-500f-8282-0615bf5407b5'
+  figures:
+  - ref: fig_contractual_model_dot
+    display: contractual model Diagram
 related:
 - content: "[contractual model](contractual model.md) where the [user](user.md) is
     a [commercial](commercial.md) [entity](entity.md)"

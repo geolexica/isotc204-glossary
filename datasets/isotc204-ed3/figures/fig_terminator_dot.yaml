@@ -1,0 +1,7 @@
+---
+id: fig_terminator_dot
+identifier: fig_terminator_dot
+images:
+- src: "../../diagrams/terminator.dot.png"
+  format: png
+  role: raster

@@ -7,6 +7,9 @@ data:
   - concept_id: 3.7.6
     source: urn:iso:std:iso:14812:2025
     ref_type: section
+  figures:
+  - ref: fig_Vehicle_type_environment_terms
+    display: Vehicle type - environment terms
 related:
 - type: supersedes
   ref:

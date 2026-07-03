@@ -3,6 +3,9 @@ data:
   identifier: 3.1.14.16
   localized_concepts:
     eng: 52eb3a78-3099-5000-9c1c-b14d94c1fbd3
+  figures:
+  - ref: fig_vulnerability_dot
+    display: vulnerability Diagram
 date_accepted: '2026-06-01'
 status: valid
 id: 438a1c37-a8d7-5e5b-a62c-b1b62a69953e

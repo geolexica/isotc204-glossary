@@ -1,0 +1,7 @@
+---
+id: fig_fallback_dot
+identifier: fig_fallback_dot
+images:
+- src: "../../diagrams/fallback.dot.png"
+  format: png
+  role: raster

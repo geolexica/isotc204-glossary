@@ -1,0 +1,7 @@
+---
+id: fig_facilities_layer_dot
+identifier: fig_facilities_layer_dot
+images:
+- src: "../../diagrams/facilities layer.dot.png"
+  format: png
+  role: raster

@@ -1,0 +1,7 @@
+---
+id: fig_unconnected_dot
+identifier: fig_unconnected_dot
+images:
+- src: "../../diagrams/unconnected.dot.png"
+  format: png
+  role: raster

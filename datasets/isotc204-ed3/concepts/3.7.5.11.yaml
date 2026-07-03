@@ -3,6 +3,9 @@ data:
   identifier: 3.7.5.11
   localized_concepts:
     eng: 2d68e725-2dca-59b3-aea6-e58d243723a4
+  figures:
+  - ref: fig_moderately_high_vehicle_speed_dot
+    display: moderately-high vehicle speed Diagram
 related:
 - content: subClassOf [speed]
   type: broader

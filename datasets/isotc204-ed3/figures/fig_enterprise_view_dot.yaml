@@ -1,0 +1,7 @@
+---
+id: fig_enterprise_view_dot
+identifier: fig_enterprise_view_dot
+images:
+- src: "../../diagrams/enterprise view.dot.png"
+  format: png
+  role: raster

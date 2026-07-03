@@ -1,0 +1,7 @@
+---
+id: fig_interaction_dot
+identifier: fig_interaction_dot
+images:
+- src: "../../diagrams/interaction.dot.png"
+  format: png
+  role: raster

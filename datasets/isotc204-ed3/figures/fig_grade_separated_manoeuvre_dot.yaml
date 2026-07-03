@@ -1,0 +1,7 @@
+---
+id: fig_grade_separated_manoeuvre_dot
+identifier: fig_grade_separated_manoeuvre_dot
+images:
+- src: "../../diagrams/grade separated manoeuvre.dot.png"
+  format: png
+  role: raster

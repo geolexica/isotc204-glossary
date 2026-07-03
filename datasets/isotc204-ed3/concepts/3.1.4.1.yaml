@@ -3,6 +3,9 @@ data:
   identifier: 3.1.4.1
   localized_concepts:
     eng: 056ec9e0-23de-5994-b721-a00a811ae36b
+  figures:
+  - ref: fig_communications_view_dot
+    display: communications view Diagram
 related:
 - content: basedOn [some its-sReferenceArchitecture]
   type: related_concept

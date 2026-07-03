@@ -3,6 +3,9 @@ data:
   identifier: 3.1.5.6
   localized_concepts:
     eng: a2772c71-680e-5e1a-b479-9cec140ea8db
+  figures:
+  - ref: fig_management_entity_dot
+    display: management entity Diagram
 related:
 - type: supersedes
   ref:

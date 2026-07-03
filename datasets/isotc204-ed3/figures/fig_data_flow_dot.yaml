@@ -1,0 +1,7 @@
+---
+id: fig_data_flow_dot
+identifier: fig_data_flow_dot
+images:
+- src: "../../diagrams/data flow.dot.png"
+  format: png
+  role: raster

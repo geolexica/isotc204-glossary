@@ -3,6 +3,9 @@ data:
   identifier: 3.5.1.1
   localized_concepts:
     eng: 8cab60fe-d6a0-511b-b075-160897e375ab
+  figures:
+  - ref: fig_service_dot
+    display: service Diagram
 related:
 - content: for [some user]
   type: related_concept

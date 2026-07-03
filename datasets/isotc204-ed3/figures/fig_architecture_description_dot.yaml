@@ -1,0 +1,7 @@
+---
+id: fig_architecture_description_dot
+identifier: fig_architecture_description_dot
+images:
+- src: "../../diagrams/architecture description.dot.png"
+  format: png
+  role: raster

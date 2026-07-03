@@ -3,6 +3,9 @@ data:
   identifier: 3.3.3.3
   localized_concepts:
     eng: ce22f551-8d1f-5f4d-b032-051617b10a56
+  figures:
+  - ref: fig_footpath_dot
+    display: footpath Diagram
 related:
 - content: rising or falling stairway that assists pedestrians in vertical transitions
   type: narrower

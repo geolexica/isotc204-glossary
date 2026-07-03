@@ -1,0 +1,7 @@
+---
+id: fig_Jersey_barrier_dot
+identifier: fig_Jersey_barrier_dot
+images:
+- src: "../../diagrams/Jersey barrier.dot.png"
+  format: png
+  role: raster

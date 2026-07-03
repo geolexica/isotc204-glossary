@@ -1,0 +1,7 @@
+---
+id: fig_transport_sharing_dot
+identifier: fig_transport_sharing_dot
+images:
+- src: "../../diagrams/transport sharing.dot.png"
+  format: png
+  role: raster

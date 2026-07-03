@@ -1,0 +1,7 @@
+---
+id: fig_process_dot
+identifier: fig_process_dot
+images:
+- src: "../../diagrams/process.dot.png"
+  format: png
+  role: raster

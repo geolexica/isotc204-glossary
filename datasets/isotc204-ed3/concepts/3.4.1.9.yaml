@@ -3,6 +3,9 @@ data:
   identifier: 3.4.1.9
   localized_concepts:
     eng: b8cbc375-30ce-5951-9ca4-7d5e81ceccd3
+  figures:
+  - ref: fig_area_destination_dot
+    display: area destination Diagram
 related:
 - content: subClassOf [areaLocation]
   type: broader

@@ -3,6 +3,9 @@ data:
   identifier: 3.2.7.5
   localized_concepts:
     eng: 933034ba-673d-5845-b39a-c2d8feaabee1
+  figures:
+  - ref: fig_ITS_S_communication_unit_dot
+    display: ITS-S communication unit Diagram
 related:
 - content: contains [some functionalObject]
   type: related_concept

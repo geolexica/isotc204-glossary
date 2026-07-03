@@ -3,6 +3,9 @@ data:
   identifier: 3.4.3.5
   localized_concepts:
     eng: 4294ade1-3e96-5d5a-8066-358e01fd54f9
+  figures:
+  - ref: fig_jurisdictional_area_dot
+    display: jurisdictional area Diagram
 related:
 - content: rulesDefinedBy [some jurisdictionalEntity]
   type: related_concept

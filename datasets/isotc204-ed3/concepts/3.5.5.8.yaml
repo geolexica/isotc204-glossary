@@ -3,6 +3,9 @@ data:
   identifier: 3.5.5.8
   localized_concepts:
     eng: 2645e54c-8653-5e50-983c-aae9473ee6ad
+  figures:
+  - ref: fig_real_time_traveller_information_app_dot
+    display: real-time traveller information app Diagram
 related:
 - content: subClassOf [mobilityApp]
   type: broader

@@ -3,6 +3,9 @@ data:
   identifier: 3.3.5.3
   localized_concepts:
     eng: 8a123639-7955-55cb-8a5c-af3ec9bccf5e
+  figures:
+  - ref: fig_road_model_dot
+    display: road model Diagram
 related:
 - content: constitutes [some link]
   type: related_concept

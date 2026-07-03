@@ -1,0 +1,7 @@
+---
+id: fig_driver_dot
+identifier: fig_driver_dot
+images:
+- src: "../../diagrams/driver.dot.png"
+  format: png
+  role: raster

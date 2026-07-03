@@ -1,0 +1,7 @@
+---
+id: fig_concurrent_dot
+identifier: fig_concurrent_dot
+images:
+- src: "../../diagrams/concurrent.dot.png"
+  format: png
+  role: raster

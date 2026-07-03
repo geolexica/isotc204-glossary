@@ -7,6 +7,9 @@ data:
   - concept_id: 3.1.5
     source: urn:iso:std:iso:14812:2025
     ref_type: section
+  figures:
+  - ref: fig_Architecture_Communication_view_terms
+    display: Architecture - Communication view terms
 related:
 - type: supersedes
   ref:

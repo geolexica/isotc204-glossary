@@ -3,6 +3,9 @@ data:
   identifier: 3.7.2.9
   localized_concepts:
     eng: ac2e0dc6-51e9-5cfb-8ca4-6fc91093e256
+  figures:
+  - ref: fig_gross_vehicle_mass_dot
+    display: gross vehicle mass Diagram
 related:
 - content: operatingMassOf [exactly 1 owl::Thing]
   type: related_concept

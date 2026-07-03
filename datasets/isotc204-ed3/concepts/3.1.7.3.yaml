@@ -3,6 +3,9 @@ data:
   identifier: 3.1.7.3
   localized_concepts:
     eng: 1ef689b6-60ca-560f-b2c9-57ab45f8b0b8
+  figures:
+  - ref: fig_function_dot
+    display: function Diagram
 related:
 - type: supersedes
   ref:

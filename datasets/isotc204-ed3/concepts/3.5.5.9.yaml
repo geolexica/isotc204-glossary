@@ -3,6 +3,9 @@ data:
   identifier: 3.5.5.9
   localized_concepts:
     eng: 25686374-d432-5658-8013-c426e0a9a4cb
+  figures:
+  - ref: fig_taxi_hailing_app_dot
+    display: taxi hailing app Diagram
 related:
 - content: subClassOf [mobilityApp]
   type: broader

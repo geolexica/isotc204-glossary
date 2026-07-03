@@ -3,6 +3,9 @@ data:
   identifier: 3.5.10.1
   localized_concepts:
     eng: 02022ca5-cc83-5f22-af13-9bf87b5780f5
+  figures:
+  - ref: fig_network_model_dot
+    display: network model Diagram
 related:
 - content: "<transport service> [network model](network model.md) where the [transport
     service](transport service.md) may be initiated and terminated at any [spatial

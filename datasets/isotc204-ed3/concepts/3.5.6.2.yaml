@@ -3,6 +3,9 @@ data:
   identifier: 3.5.6.2
   localized_concepts:
     eng: 5176ba30-e463-5ef0-ab89-6f0dd82071f8
+  figures:
+  - ref: fig_shared_transport_service_dot
+    display: shared transport service Diagram
 related:
 - content: attrVehicleOperator [has transport provider]
   type: related_concept

@@ -1,0 +1,7 @@
+---
+id: fig_road_reservation_dot
+identifier: fig_road_reservation_dot
+images:
+- src: "../../diagrams/road reservation.dot.png"
+  format: png
+  role: raster

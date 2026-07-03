@@ -1,0 +1,7 @@
+---
+id: fig_shared_space_dot
+identifier: fig_shared_space_dot
+images:
+- src: "../../diagrams/shared space.dot.png"
+  format: png
+  role: raster

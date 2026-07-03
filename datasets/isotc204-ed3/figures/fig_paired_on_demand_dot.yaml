@@ -1,0 +1,7 @@
+---
+id: fig_paired_on_demand_dot
+identifier: fig_paired_on_demand_dot
+images:
+- src: "../../diagrams/paired on-demand.dot.png"
+  format: png
+  role: raster

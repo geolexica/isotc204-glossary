@@ -3,6 +3,9 @@ data:
   identifier: 3.5.8.2
   localized_concepts:
     eng: 37ca21eb-653e-5166-864e-113a4f871fcd
+  figures:
+  - ref: fig_commercial_dot
+    display: commercial Diagram
 related:
 - content: subClassOf [financialModel]
   type: broader

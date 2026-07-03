@@ -3,6 +3,9 @@ data:
   identifier: 3.7.1.7
   localized_concepts:
     eng: ff29a3c6-47b2-5846-b63e-2e530df685d2
+  figures:
+  - ref: fig_remote_vehicle_input_device_dot
+    display: remote vehicle input device Diagram
 related:
 - content: subClassOf [vehicleInputDevice]
   type: broader

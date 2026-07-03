@@ -3,6 +3,9 @@ data:
   identifier: 3.3.5.6
   localized_concepts:
     eng: a9ed7e18-c6ac-5c47-90a3-97c1175d2178
+  figures:
+  - ref: fig_road_link_dot
+    display: road link Diagram
 related:
 - content: aggregates [some laneLink]
   type: related_concept

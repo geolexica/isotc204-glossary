@@ -3,6 +3,9 @@ data:
   identifier: 3.5.2.3
   localized_concepts:
     eng: d27c4e26-1764-5624-8ebd-6e0497e9a85d
+  figures:
+  - ref: fig_transport_user_dot
+    display: transport user Diagram
 related:
 - content: subClassOf [user]
   type: broader

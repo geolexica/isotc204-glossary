@@ -1,0 +1,7 @@
+---
+id: fig_module_dot
+identifier: fig_module_dot
+images:
+- src: "../../diagrams/module.dot.png"
+  format: png
+  role: raster

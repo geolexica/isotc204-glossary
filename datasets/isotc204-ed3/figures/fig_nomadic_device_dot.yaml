@@ -1,0 +1,7 @@
+---
+id: fig_nomadic_device_dot
+identifier: fig_nomadic_device_dot
+images:
+- src: "../../diagrams/nomadic device.dot.png"
+  format: png
+  role: raster
