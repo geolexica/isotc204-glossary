@@ -15,34 +15,43 @@ The live site is https://isotc204.geolexica.org, deployed from the separate
 
 ## Editions
 
-| Edition          | Source                                          | Status     |
-|------------------|-------------------------------------------------|------------|
-| `isotc204-2022`  | Imported from MLGT spreadsheet (E1)             | superseded |
-| `isotc204-2025`  | Built from `iso14812` commit `dfe7e9d4` (E2 XML)| superseded |
-| `isotc204-ed3`   | Built from `iso14812` HEAD (E3 markdown + TTL)  | current    |
+| Edition          | Concepts | Figures | Source                                       | Status     |
+|------------------|----------|---------|----------------------------------------------|------------|
+| `isotc204-2022`  | 319      | 1       | Pre-imported (originally MLGT spreadsheet)   | superseded |
+| `isotc204-2025`  | 313      | 54      | Built from `iso14812` commit `dfe7e9d4` (XML)| superseded |
+| `isotc204-ed3`   | 383      | 383     | Built from `iso14812` HEAD (markdown + TTL)  | current    |
 
 E1 was hand-imported. E2 and E3 are produced by the converter under `lib/iso14812_import/`
-(see `TODO.refactor/` for the full build plan). Re-running the converter is idempotent.
+(see `TODO.refactor/` for the full build plan and a retrospective). Re-running the
+converter is idempotent — deterministic UUIDv5 from `(edition.urn, clause)` plus
+framework serialization gives byte-identical output across runs.
 
 ## Repository layout
 
 ```
 isotc204-glossary/
 ├── datasets/
-│   ├── isotc204-2022/        # E1 — 319 concepts (UUID filenames, pre-v3 legacy)
+│   ├── isotc204-2022/        # E1 — UUID filenames (legacy)
 │   │   ├── register.yaml     # v3 register with urn, year, status
 │   │   ├── concepts/
 │   │   ├── bibliography.yaml
 │   │   ├── figures/
 │   │   └── images/
-│   ├── isotc204-2025/        # E2 — concepts generated from XML parser
-│   └── isotc204-ed3/         # E3 — concepts generated from markdown parser
-├── lib/iso14812_import/      # the converter library (autoload-structured)
-├── spec/                     # rspec suite for the converter
+│   ├── isotc204-2025/        # E2 — clause filenames + 54 figures
+│   │   ├── register.yaml
+│   │   ├── concepts/
+│   │   ├── bibliography.yaml
+│   │   └── figures/
+│   └── isotc204-ed3/         # E3 — clause filenames + 383 figures
+│       ├── register.yaml
+│       ├── concepts/
+│       └── figures/
+├── lib/iso14812_import/      # converter library (autoload-structured)
+├── spec/                     # rspec suite for the converter (55 examples)
 ├── scripts/import_iso14812.rb   # CLI entry: runs Pipeline for one edition
 ├── config/editions/          # one YAML per edition (urn, year, source ref, parser)
-├── TODO.refactor/            # numbered, status-tracked work items
-├── Gemfile, Rakefile
+├── TODO.refactor/            # numbered, status-tracked work items (24 files)
+├── Gemfile, Rakefile, .rspec
 └── .github/workflows/        # validate per-dataset, package per-edition
 ```
 
@@ -51,8 +60,8 @@ isotc204-glossary/
 ```sh
 bundle install                              # set up converter deps
 bundle exec rake validate                   # glossarist validate on every dataset
-bundle exec rspec                           # converter test suite
-bundle exec scripts/import_iso14812.rb \
+bundle exec rspec                           # converter test suite (no doubles)
+bundle exec ruby -Ilib scripts/import_iso14812.rb \
   --edition config/editions/isotc204-2025.yml \
   [--previous config/editions/isotc204-2022.yml]   # re-run an import (idempotent)
 
@@ -62,16 +71,26 @@ glossarist package datasets/isotc204-2022/ -o out.gcr \
   --shortname isotc204-2022 --version 1.0.0 # build a GCR
 ```
 
+Validation requires glossarist 2.8.18 **with PR #190 applied** (four fixes for
+non-ActiveSupport consumers and cross-edition datasets). Until that PR is
+released, install the gem from the fix branch:
+
+```sh
+gem install specific_install
+gem specific_install ribose -l https://github.com/glossarist/glossarist-ruby \
+  -b fix/cite-ref-and-uuid-stdlib
+```
+
 ## Concept file format — multi-document YAML stream
 
 Each `concepts/<id>.yaml` is a multi-document stream:
 
 1. **First doc** — `ManagedConcept`: `data.identifier`, `data.localized_concepts.eng`,
-   `data.domains`, top-level `related[]`, `status`, `date_accepted`,
+   `data.domains`, `data.figures`, top-level `related[]`, `status`, `date_accepted`,
    `schema_version: '3'`, `id`.
 2. **Subsequent docs** — `LocalizedConcept` per language: `data.terms[]`,
    `data.definition[]`, `data.examples[]`, `data.notes[]`, `data.sources[]`,
-   `language_code`, `entry_status`.
+   `language_code`, `entry_status`, `id`.
 
 Cross-references inside content use `{{urn:iso:std:iso:14812:<clause>,<display>}}`.
 Figure xrefs use AsciiDoc `<<fig-id>>` targeting `figures/<id>.yaml`.
@@ -98,7 +117,8 @@ The repo is on v3 schema. Recent migrations (do not regress):
 - **v3 schema** (commit c92db6a): `data.domains`, `related[]`, hierarchy, `schema_version: '3'`.
 - **V3 dataset wrapping** (commit c45fd28): `bibliography.yaml` is single-key mapping.
 - **Non-verbal migration** (commit 4348b5a): figures one-per-file under `figures/`.
-- **Multi-edition restructure**: E1 moved under `datasets/isotc204-2022/`.
+- **Multi-edition restructure** (this PR series): E1 moved under `datasets/isotc204-2022/`,
+  E2 and E3 added as siblings, cross-edition supersedes wired.
 
 ## Branch / PR workflow
 
@@ -108,9 +128,14 @@ decides releases.
 
 ## TODO.refactor/
 
-Numbered work items tracking the multi-edition build-out. Each file has
-status (todo / in-progress / done / deferred) and acceptance criteria. See
-`TODO.refactor/00-overview.md` for the full plan.
+24 numbered work items tracking the multi-edition build-out. Status summary:
+- 22 done (E1 restructure through validation gate, docs, retrospective)
+- 1 deferred (deployment wiring — separate repo, separate PR)
+- 1 active follow-up area (lineage_source_similarity scoring stub,
+  ConceptComparator API investigation)
+
+See `TODO.refactor/00-overview.md` and `TODO.refactor/23-architecture-retrospective.md`
+for what worked, what didn't, and concrete next-step TODOs.
 
 ## Unreferenced source images
 
