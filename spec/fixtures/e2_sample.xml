@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary xmlns="https://www.iso.org/tc204/wg1/vocabulary">
+  <package>
+    <id>1</id>
+    <clause>3.1</clause>
+    <name>3.1 Core terms</name>
+    <package>
+      <id>1</id>
+      <clause>3.1.1</clause>
+      <name>3.1.1 Entity terms</name>
+      <term>
+        <id>5</id>
+        <clause>3.1.1.5</clause>
+        <guid>idBFF7F45423994d21BDE8FD5BEE09F6FD</guid>
+        <name>biological entity</name>
+        <definition><![CDATA[<i><a href="#idC941C5B14FFB4aecAA18427AF3D1435A"><font color="#0000ff"><u>material entity</u></font></a></i> that was or is a living organism]]></definition>
+        <index>biological entity</index>
+      </term>
+      <term>
+        <id>1</id>
+        <clause>3.1.1.1</clause>
+        <guid>id040D6A1B412A4cc6921882357A58F747</guid>
+        <name>entity</name>
+        <definition><![CDATA[concrete or abstract thing that exists, did exist, or might exist]]></definition>
+        <example>A person, object, event, idea, process, etc.</example>
+        <index>entity</index>
+      </term>
+      <term>
+        <id>3</id>
+        <clause>3.1.1.3</clause>
+        <guid>idC941C5B14FFB4aecAA18427AF3D1435A</guid>
+        <name>material entity</name>
+        <definition><![CDATA[<i>entity</i> that occupies three-dimensional space]]></definition>
+        <note>All material entities have certain characteristics that can be described.</note>
+        <source>ISO/TS 14812:2022, 3.1.1.3, identical</source>
+        <index>material entity</index>
+      </term>
+    </package>
+  </package>
+</vocabulary>
