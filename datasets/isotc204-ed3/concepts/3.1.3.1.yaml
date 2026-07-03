@@ -1,0 +1,89 @@
+---
+data:
+  identifier: 3.1.3.1
+  localized_concepts:
+    eng: 73e700d3-5d4b-5cc2-aeca-596cb78a709e
+related:
+- content: aggregates [some element]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[architecture](architecture.md) that provides a vision of a specific deployment
+    of a [system](system.md) within a geographic area"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[deployment architecture](deployment architecture.md)"
+- content: "[deployment architecture](deployment architecture.md) for one or more
+    [ITS services](ITS service.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ITS deployment architecture](ITS deployment architecture.md)"
+- content: "[planning architecture](planning architecture.md) for one or more [ITS
+    services](ITS service.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ITS planning architecture](ITS planning architecture.md)"
+- content: "[reference architecture](reference architecture.md) for one or more [ITS
+    services](ITS service.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ITS reference architecture](ITS reference architecture.md)"
+- content: "[reference architecture](reference architecture.md) for handling communications
+    within a [physical object](physical object.md) as defined in ISO 21217"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ITS-S reference architecture](ITS-S reference architecture.md)"
+- content: "[architecture](architecture.md) that provides a long-term vision of system
+    [elements](element.md) that may be deployed and managed by different projects
+    and/or [entities](entity.md) within a geographic area"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[planning architecture](planning architecture.md)"
+- content: "[architecture](architecture.md) that provides a template solution for
+    [planning](planning architecture.md) and [deployment architectures](deployment
+    architecture.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[reference architecture](reference architecture.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.3.1
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 93e7f47d-2562-5544-9e4a-49eb3e51b165
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      <system> fundamental concepts or properties of a {{urn:iso:std:iso:14812:ed3:3.1.2.1,system}} in its {{urn:iso:std:iso:14812:ed3:3.1.3.11,environment}} embodied in its {{urn:iso:std:iso:14812:ed3:3.1.3.10,elements}}, {{urn:iso:std:iso:14812:ed3:3.1.6.8,relationships}} and in the principles of its design and evolution
+      <img alt="architecture Diagram" src="../../diagrams/architecture.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Source: ISO/IEC/IEEE 42010:2011, 3.2
+      | Referencing Term | Type of Reference |
+      | --- | --- |
+      | {{urn:iso:std:iso:14812:ed3:3.1.9.3,deployment architecture}} | subClassOf |
+      | {{urn:iso:std:iso:14812:ed3:3.1.9.2,planning architecture}} | subClassOf |
+      | {{urn:iso:std:iso:14812:ed3:3.1.9.1,reference architecture}} | subClassOf |
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: architecture
+  - type: expression
+    normative_status: admitted
+    designation: system architecture
+  language_code: eng
+  entry_status: valid
+id: 73e700d3-5d4b-5cc2-aeca-596cb78a709e

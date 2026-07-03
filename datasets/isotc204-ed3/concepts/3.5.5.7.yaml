@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 3.5.5.7
+  localized_concepts:
+    eng: 28dc3c24-c55c-5946-b22b-81f2e7a195a0
+related:
+- content: subClassOf [mobilityApp]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: fc441174-f7e4-5e20-8fa4-5263c332d238
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.5.5.1,mobility app}} that assists a {{urn:iso:std:iso:14812:ed3:3.5.2.3,transport user}} in using a {{urn:iso:std:iso:14812:ed3:3.5.6.1,public transport}} {{urn:iso:std:iso:14812:ed3:3.1.2.1,system}}
+      <img alt="public transport app Diagram" src="../../diagrams/public transport app.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: A public transport app can include features such as viewing maps, searching
+      routes and schedules, real-time arrival information, ticketing, electronic boarding
+      pass, etc.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: public transport app
+  language_code: eng
+  entry_status: valid
+id: 28dc3c24-c55c-5946-b22b-81f2e7a195a0

@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 3.7.3.9
+  localized_concepts:
+    eng: c850e8f0-25a0-5061-9c24-8a48f1fdf3a9
+related:
+- content: operatesWithinA [some operationalDesignDomain]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [driverSupportSystem]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.7.3.9
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: c9b052ea-598e-5013-a350-bf18f179c931
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.7.3.7,driver support system}} that provides sustained lateral and longitudinal {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} motion control within a specific {{urn:iso:std:iso:14812:ed3:3.7.3.2,operational design domain}} with the expectation that a conventional {{urn:iso:std:iso:14812:ed3:3.6.2.3,driver}} completes the object and event detection and response
+      <img alt="level 2 driving automation Diagram" src="../../diagrams/level 2 driving automation.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: Other driving automation levels include {{urn:iso:std:iso:14812:ed3:3.7.3.8,level
+      1 driving automation}}, {{urn:iso:std:iso:14812:ed3:3.7.3.11,level 3 ADS}},
+      {{urn:iso:std:iso:14812:ed3:3.7.3.12,level 4 ADS}}, and {{urn:iso:std:iso:14812:ed3:3.7.3.13,level
+      5 ADS}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: level 2 driving automation
+  - type: expression
+    normative_status: admitted
+    designation: partial driving automation
+  language_code: eng
+  entry_status: valid
+id: c850e8f0-25a0-5061-9c24-8a48f1fdf3a9

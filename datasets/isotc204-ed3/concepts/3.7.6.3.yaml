@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 3.7.6.3
+  localized_concepts:
+    eng: 435eb9c9-0120-5e6e-8893-f24fca2e1f30
+related:
+- content: subClassOf [motorizedVehicle]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [roadVehicle]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.7.6.3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 0bb33c44-4356-5e23-b9f6-b7de492a8b61
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.7.6.2,motorized}} {{urn:iso:std:iso:14812:ed3:3.7.6.1,road vehicle}} allowed to operate in the same {{urn:iso:std:iso:14812:ed3:3.3.1.4,driving spaces}} as motorized {{urn:iso:std:iso:14812:ed3:3.6.2.1,passenger}} cars
+      <img alt="motor vehicle Diagram" src="../../diagrams/motor vehicle.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: motor vehicle
+  language_code: eng
+  entry_status: valid
+id: 435eb9c9-0120-5e6e-8893-f24fca2e1f30

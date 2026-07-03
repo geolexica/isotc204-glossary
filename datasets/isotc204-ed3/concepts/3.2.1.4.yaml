@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 3.2.1.4
+  localized_concepts:
+    eng: 37082690-034a-529b-9bc2-3f53cc2385bc
+related:
+- content: subClassOf [itsComponent]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[support system](support system.md) that enables trusted communications
+    among [ITS components](ITS component.md) and protects data from unauthorized access"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[cooperative ITS credentials management system](cooperative ITS credentials
+      management system.md)"
+- content: "[support system](support system.md) that provides map databases used to
+    support [ITS services](ITS service.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[map provision system](map provision system.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.2.1.4
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 6c53f0ef-1415-5aa1-a817-69f0e249c36a
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.1.8.2,ITS component}} that provides services in support of one or more other ITS components
+      <img alt="support system Diagram" src="../../diagrams/support system.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      EXAMPLE: Data distribution {{urn:iso:std:iso:14812:ed3:3.1.2.1,system}}, network time source, {{urn:iso:std:iso:14812:ed3:3.2.5.1,cooperative ITS credentials management system}}.
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: support system
+  - type: expression
+    normative_status: admitted
+    designation: ITS support system
+  language_code: eng
+  entry_status: valid
+id: 37082690-034a-529b-9bc2-3f53cc2385bc

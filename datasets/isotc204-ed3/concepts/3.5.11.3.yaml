@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 3.5.11.3
+  localized_concepts:
+    eng: db7217dc-013f-5baf-a329-2e39d4978c1c
+related:
+- content: attrFinancialModel [has commercial]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: attrOperationalModel [has concurrent]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: attrTransportItem [has passengers]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [sharedTransportService]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.11.3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 58f9dac0-3ccf-5635-98e4-f8d403315337
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.5.8.2,commercial}} {{urn:iso:std:iso:14812:ed3:3.5.6.2,shared transport service}} that transports {{urn:iso:std:iso:14812:ed3:3.6.2.1,passengers}} {{urn:iso:std:iso:14812:ed3:3.5.9.3,concurrently}}
+      <img alt="taxi-share service Diagram" src="../../diagrams/taxi-share service.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: taxi-share service
+  language_code: eng
+  entry_status: valid
+id: db7217dc-013f-5baf-a329-2e39d4978c1c

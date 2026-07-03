@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 3.1.13.2
+  localized_concepts:
+    eng: e2c8906c-776a-5665-9e5b-9be6a1cd4459
+related:
+- content: endsAt [exactly 1 owl::Thing]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: startsAt [exactly 1 owl::Thing]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.13.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: b9f62e20-c957-5ddf-b5be-007d532a3e36
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      time between two {{urn:iso:std:iso:14812:ed3:3.1.13.1,instants}}
+      <img alt="duration Diagram" src="../../diagrams/duration.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: duration
+  language_code: eng
+  entry_status: valid
+id: e2c8906c-776a-5665-9e5b-9be6a1cd4459

@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 3.3.5.3
+  localized_concepts:
+    eng: 8a123639-7955-55cb-8a5c-af3ec9bccf5e
+related:
+- content: constitutes [some link]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: constitutes [some node]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: represents [some roadNetwork]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.5.3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 3e49c2e5-216c-55e9-b410-8e138e05f2ac
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      representation of a {{urn:iso:std:iso:14812:ed3:3.3.5.2,road network}}
+      <img alt="road model Diagram" src="../../diagrams/road model.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: Road models for different {{urn:iso:std:iso:14812:ed3:3.1.2.1,systems}}
+      will often define different models. For example, a public {{urn:iso:std:iso:14812:ed3:3.1.2.2,transport
+      system}} can define {{urn:iso:std:iso:14812:ed3:3.3.5.6,road links}} based on
+      the {{urn:iso:std:iso:14812:ed3:3.4.1.2,spatial location}} of bus stops while
+      a traffic system can define road links based on the spatial location of {{urn:iso:std:iso:14812:ed3:3.3.6.2,junctions}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: road model
+  language_code: eng
+  entry_status: valid
+id: 8a123639-7955-55cb-8a5c-af3ec9bccf5e

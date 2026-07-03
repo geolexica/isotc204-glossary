@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 3.1.7.1
+  localized_concepts:
+    eng: cad64188-72e5-5bb2-a2ff-10a026abb913
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.7.1
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: a4a7766a-80e6-5aa9-8974-de82e33df3d1
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      representation of data flowing between two {{urn:iso:std:iso:14812:ed3:3.1.7.2,process}} or between a process and a {{urn:iso:std:iso:14812:ed3:3.1.8.3,terminator}}
+      <img alt="data flow Diagram" src="../../diagrams/data flow.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: data flow
+  language_code: eng
+  entry_status: valid
+id: cad64188-72e5-5bb2-a2ff-10a026abb913

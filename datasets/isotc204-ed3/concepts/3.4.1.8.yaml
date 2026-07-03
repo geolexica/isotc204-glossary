@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 3.4.1.8
+  localized_concepts:
+    eng: 1b4f79d2-8a13-5f9b-b194-cbf8378a73a2
+related:
+- content: subClassOf [pointLocation]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: b0a3de59-b7be-5b69-91c6-fdf68465acc7
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      point location, which is the destination of a defined route or itinerary
+      <img alt="point destination Diagram" src="../../diagrams/point destination.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: point destination
+  language_code: eng
+  entry_status: valid
+id: 1b4f79d2-8a13-5f9b-b194-cbf8378a73a2

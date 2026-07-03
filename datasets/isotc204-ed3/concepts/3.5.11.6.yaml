@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 3.5.11.6
+  localized_concepts:
+    eng: b6bfbb86-3ae4-5b43-9879-851de19947ce
+related:
+- content: attrOperationalModel [has concurrent]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [ridesourcedService]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.11.6
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: dc98f761-f208-53f8-953e-9885c3595499
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.5.11.5,ridesourced service}} that serves {{urn:iso:std:iso:14812:ed3:3.6.2.1,passengers}} {{urn:iso:std:iso:14812:ed3:3.5.9.3,concurrently}}
+      <img alt="ridesplit service Diagram" src="../../diagrams/ridesplit service.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ridesplit service
+  language_code: eng
+  entry_status: valid
+id: b6bfbb86-3ae4-5b43-9879-851de19947ce

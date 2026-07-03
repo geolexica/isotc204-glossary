@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 3.4.1.9
+  localized_concepts:
+    eng: b8cbc375-30ce-5951-9ca4-7d5e81ceccd3
+related:
+- content: subClassOf [areaLocation]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 96178097-9f3e-54ca-b3fa-39f0b6f84cb8
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      area location, which is the destination of a defined route or itinerary
+      <img alt="area destination Diagram" src="../../diagrams/area destination.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: area destination
+  language_code: eng
+  entry_status: valid
+id: b8cbc375-30ce-5951-9ca4-7d5e81ceccd3

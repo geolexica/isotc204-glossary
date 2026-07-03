@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 3.3.8.5
+  localized_concepts:
+    eng: 13634b79-6174-56b1-9519-8091bc8d1acc
+related:
+- content: for [some passenger]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: toBoardOrAlightFrom [some vehicle]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[pick-up/drop-off area](pick-updrop-off area.md) area for public transport
+    vehicles"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[public transport vehicle stop](public transport vehicle stop.md)"
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 45c65645-efd7-514a-a0d9-f7d259ecdc4a
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      area intended to allow passengers to board and/or alight from {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicles}}
+      <img alt="pick-up/drop-off area Diagram" src="../../diagrams/pick-updrop-off area.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      EXAMPLE: kerbside passenger pick-up area at an airport arrivals zone
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The area can include the vehicle waiting area and the pedestrian waiting
+      area.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pick-up/drop-off area
+  - type: expression
+    normative_status: admitted
+    designation: PUDO area
+  language_code: eng
+  entry_status: valid
+id: 13634b79-6174-56b1-9519-8091bc8d1acc

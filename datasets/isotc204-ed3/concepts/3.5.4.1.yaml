@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 3.5.4.1
+  localized_concepts:
+    eng: 9965c311-1536-566f-b1ba-a041ec0a061d
+related:
+- content: for [some its-suUser]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: fulfils [some its-suUserNeed]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [service]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.4.1
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 84663a3e-b2f4-5865-b058-9f4a4dd54677
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      provision of functionality to fulfil an {{urn:iso:std:iso:14812:ed3:3.5.4.4,ITS-SU user need}}
+      <img alt="ITS-SU service Diagram" src="../../diagrams/ITS-SU service.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: An ITS-SU service refers to the services provided by realizations of
+      ITS-S application processes while an ITS-S service refers to the communication
+      services that these processes use to communicate to other nodes.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-SU service
+  language_code: eng
+  entry_status: valid
+id: 9965c311-1536-566f-b1ba-a041ec0a061d

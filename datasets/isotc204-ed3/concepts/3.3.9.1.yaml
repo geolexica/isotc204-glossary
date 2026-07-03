@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 3.3.9.1
+  localized_concepts:
+    eng: 9078a856-a775-5db2-8cef-eb24abbff29f
+related:
+- content: "[road equipment](road equipment.md) used to visually, audibly, or tangibly
+    convey regulatory, advisory, or guidance information to [road users](road user.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[traffic control device](traffic control device.md)"
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: a34b40d7-2961-51c9-a057-f3700c15334e
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      component of {{urn:iso:std:iso:14812:ed3:3.3.7.2,transport infrastructure}} along the roadway intended to contribute to the safety, operations, management, awareness, and comfort of movements of the {{urn:iso:std:iso:14812:ed3:3.6.1.2,road users}}
+      <img alt="road equipment Diagram" src="../../diagrams/road equipment.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Admitted term: road furniture
+      EXAMPLE: sign, traffic signal, safety rail, gantry, bus stop structure, highway safety lighting
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: ITS roadside equipment is a type of roadside equipment.
+  - content: Road equipment can be next to, over, on and/or in the roadway.
+  - content: Road equipment is sometimes referred to as "roadside equipment".
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: road equipment
+  language_code: eng
+  entry_status: valid
+id: 9078a856-a775-5db2-8cef-eb24abbff29f

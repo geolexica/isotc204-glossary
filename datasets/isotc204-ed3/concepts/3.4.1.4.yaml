@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 3.4.1.4
+  localized_concepts:
+    eng: 5500be9d-0088-5df1-a6eb-4edd52d04376
+related:
+- content: subClassOf [pointLocation]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.4.1.4
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: f663bc7f-51e1-53d2-b13d-4351c15bb90b
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      well defined geographic place described by one coordinate tuple
+      <img alt="geographic point location Diagram" src="../../diagrams/geographic point location.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Admitted term: geolocation
+      Source: ISO 19145:2013, 4.1.11, modified - Note 1 to entry added.
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The "geolocation" term is a short version of the term used within some
+      ITS communities.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: geographic point location
+  language_code: eng
+  entry_status: valid
+id: 5500be9d-0088-5df1-a6eb-4edd52d04376

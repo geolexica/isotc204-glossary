@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 3.7.1.6
+  localized_concepts:
+    eng: 37debb83-a75f-5de0-ab63-0ff1bf906812
+related:
+- content: subClassOf [vehicleInputDevice]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.7.1.6
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 71386537-a982-51e8-9b15-e43ad3b042c2
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      input device that can be carried into, or in near proximity of, a {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} and {{urn:iso:std:iso:14812:ed3:3.2.3.6,connected}} as desired
+      <img alt="nomadic vehicle input device Diagram" src="../../diagrams/nomadic vehicle input device.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      EXAMPLE: A smartphone connected to a vehicle (via USB or Bluetooth) to provide {{urn:iso:std:iso:14812:ed3:3.6.2.3,driver}} navigation on the vehicle's large screen display
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: NDs are often more closely associated with a {{urn:iso:std:iso:14812:ed3:3.1.1.6,person}}
+      than they are with the vehicle.
+  - content: Nomadic input devices do not require a maintenance operation to connect
+      or disconnect.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nomadic vehicle input device
+  - type: expression
+    normative_status: admitted
+    designation: nomadic input device
+  language_code: eng
+  entry_status: valid
+id: 37debb83-a75f-5de0-ab63-0ff1bf906812

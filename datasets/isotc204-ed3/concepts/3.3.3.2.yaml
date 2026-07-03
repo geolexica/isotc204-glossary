@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 3.3.3.2
+  localized_concepts:
+    eng: 413aed08-c110-5b65-9d16-63229f96f0ab
+related:
+- content: comprises [some cycleLane]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.3.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: b475bdbd-419c-53e6-8627-e06002cb70cc
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      infrastructure primarily designed for the use of cycles and separate from a {{urn:iso:std:iso:14812:ed3:3.3.1.5,carriageway}}
+      <img alt="cycleway Diagram" src="../../diagrams/cycleway.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: Local legislation can allow cycleways to be used by a variety of {{urn:iso:std:iso:14812:ed3:3.7.5.3,moderately
+      low-speed vehicles}} (e.g. low-speed scooters, skateboards, etc.) and can share
+      usage of other low-speed modes such as {{urn:iso:std:iso:14812:ed3:3.6.1.4,pedestrians}},
+      horseback riders, etc.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cycleway
+  - type: expression
+    normative_status: admitted
+    designation: cycle track
+  language_code: eng
+  entry_status: valid
+id: 413aed08-c110-5b65-9d16-63229f96f0ab

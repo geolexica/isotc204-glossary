@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 3.5.11.7
+  localized_concepts:
+    eng: 98f350f4-e888-5d10-a019-8d7b924e50c2
+related:
+- content: attrContractualModel [has peer-to-peer]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: attrFinancialModel [has commercial]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: attrTransportItem [has goods]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [sharedTransportService]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.11.7
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: a48e6d93-4ca7-5d77-a1bf-cf4d8857844b
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.5.8.2,commercial}}, {{urn:iso:std:iso:14812:ed3:3.5.7.5,peer-to-peer}} {{urn:iso:std:iso:14812:ed3:3.5.6.2,shared transport service}} that transports goods
+      <img alt="courier network service Diagram" src="../../diagrams/courier network service.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The goods are typically small packages, letters, food, etc.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: courier network service
+  language_code: eng
+  entry_status: valid
+id: 98f350f4-e888-5d10-a019-8d7b924e50c2

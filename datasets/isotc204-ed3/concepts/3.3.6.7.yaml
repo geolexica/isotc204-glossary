@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 3.3.6.7
+  localized_concepts:
+    eng: eba38fb0-4556-564b-adc2-9935ed48402c
+related:
+- content: from [some ingressLane]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: to [some egressLane]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: manoeuvre that is vertically separated from one or more manoeuvres that
+    cross its two-dimensional path
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[grade separated manoeuvre](grade separated manoeuvre.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.6.7
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: cf6db907-cd96-5196-9f74-6ca3a1972aef
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      <junction> movement from an {{urn:iso:std:iso:14812:ed3:3.3.6.3,ingress lane}} to an {{urn:iso:std:iso:14812:ed3:3.3.6.5,egress lane}}
+      <img alt="intersection manoeuvre Diagram" src="../../diagrams/intersection manoeuvre.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Admitted term: maneuver
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The term "maneuver" is the American English spelling.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intersection manoeuvre
+  - type: expression
+    normative_status: admitted
+    designation: manoeuvre
+  language_code: eng
+  entry_status: valid
+id: eba38fb0-4556-564b-adc2-9935ed48402c

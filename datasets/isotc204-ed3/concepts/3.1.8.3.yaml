@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 3.1.8.3
+  localized_concepts:
+    eng: b66ae4fe-3aa5-5cc9-9add-3275d65faa9e
+related:
+- content: subClassOf [physicalObject]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.8.3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 92653fa1-deb1-5411-a3af-3809889efa2b
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.1.1.1,entity}} that is external to the {{urn:iso:std:iso:14812:ed3:3.5.3.1,ITS service}} implementation but with which the implementation communicates either to obtain inputs or to which it can send outputs
+      <img alt="terminator Diagram" src="../../diagrams/terminator.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: A terminator can exist within {{urn:iso:std:iso:14812:ed3:3.1.4.5,functional}}
+      and {{urn:iso:std:iso:14812:ed3:3.1.4.7,physical}} views.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: terminator
+  - type: expression
+    normative_status: admitted
+    designation: ITS terminator
+  language_code: eng
+  entry_status: valid
+id: b66ae4fe-3aa5-5cc9-9add-3275d65faa9e

@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 3.7.5.10
+  localized_concepts:
+    eng: 9f55f392-aeed-5c0f-b32f-3c8e94ff8276
+related:
+- content: subClassOf [speed]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.7.5.10
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 47cdbd48-0477-5a37-a118-b99ffd02150d
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.7.2.1,speed}} of a {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} that exceeds {{urn:iso:std:iso:14812:ed3:3.7.5.9,moderately-low vehicle speeds}} but does not reach free-flow motorway speeds
+      <img alt="moderate vehicle speed Diagram" src="../../diagrams/moderate vehicle speed.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      EXAMPLE: A speed in the range of 48 km/h and 87 km/h.
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: Local regulations for the exact speed range vary.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: moderate vehicle speed
+  language_code: eng
+  entry_status: valid
+id: 9f55f392-aeed-5c0f-b32f-3c8e94ff8276

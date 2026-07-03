@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 3.4.2.10
+  localized_concepts:
+    eng: 5ea52802-27dd-50bd-b622-e95815968a56
+related:
+- content: helpsIdentify [some transportFacility]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 25c036ff-d0c6-530c-aee4-b37eed4373a6
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      descriptor that identifies infrastructure to help identify a specific location
+      <img alt="infrastructure descriptor Diagram" src="../../diagrams/infrastructure descriptor.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: infrastructure descriptor
+  language_code: eng
+  entry_status: valid
+id: 5ea52802-27dd-50bd-b622-e95815968a56

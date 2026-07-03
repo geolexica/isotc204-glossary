@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 3.1.13.1
+  localized_concepts:
+    eng: 17e32e2d-ba42-5e88-bf00-4407fcb41869
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.13.1
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 18608096-a440-5908-b06d-3fe9f1deb21f
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      0-dimensional geometric primitive representing position in time
+      <img alt="instant Diagram" src="../../diagrams/instant.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Source: ISO 19108:2002, 4.1.17, modified - Note 1 to entry removed.
+      | Referencing Term | Type of Reference |
+      | --- | --- |
+      | {{urn:iso:std:iso:14812:ed3:3.1.13.2,duration}} | endsAt |
+      | {{urn:iso:std:iso:14812:ed3:3.1.13.2,duration}} | startsAt |
+      | {{urn:iso:std:iso:14812:ed3:3.3.5.5,link}} | connects |
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instant
+  language_code: eng
+  entry_status: valid
+id: 17e32e2d-ba42-5e88-bf00-4407fcb41869

@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 3.7.1.3
+  localized_concepts:
+    eng: da5b8c6d-ff9e-5391-a1b1-54a9de9d25d0
+related:
+- content: subClassOf [materialEntity]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.7.1.3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: c59f09d7-cf0c-5438-bfc8-ed9416586489
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      circular {{urn:iso:std:iso:14812:ed3:3.1.1.3,material entity}} that rotates about an axle to facilitate movement of the {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}}
+      <img alt="wheel Diagram" src="../../diagrams/wheel.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      | Referencing Term | Type of Reference |
+      | --- | --- |
+      | {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} | has |
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: wheel
+  language_code: eng
+  entry_status: valid
+id: da5b8c6d-ff9e-5391-a1b1-54a9de9d25d0

@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 3.7.3.13
+  localized_concepts:
+    eng: 321dfc2c-b769-5fce-9511-6cb89d6d7f01
+related:
+- content: operatesWithinA [some operationalDesignDomain]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: providesItsOwn [some fallback]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [ads]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.7.3.13
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 85b3059e-a731-5668-8105-d40b4fcaa8ea
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.7.3.10,ADS}} that is capable of unconditional (i.e. not {{urn:iso:std:iso:14812:ed3:3.7.3.2,operational design domain}}-specific) operation and providing its own {{urn:iso:std:iso:14812:ed3:3.7.3.3,fallback}}, without any expectation that a human {{urn:iso:std:iso:14812:ed3:3.6.2.3,driver}} will respond to a request to intervene
+      <img alt="level 5 ADS Diagram" src="../../diagrams/level 5 ADS.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: Other driving automation levels include {{urn:iso:std:iso:14812:ed3:3.7.3.8,level
+      1 driving automation}}, {{urn:iso:std:iso:14812:ed3:3.7.3.9,level 2 driving
+      automation}}, {{urn:iso:std:iso:14812:ed3:3.7.3.11,level 3 ADS}}, and {{urn:iso:std:iso:14812:ed3:3.7.3.12,level
+      4 ADS}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: level 5 ADS
+  - type: expression
+    normative_status: admitted
+    designation: full driving automation
+  - type: expression
+    normative_status: admitted
+    designation: level 5 Automated Driving System
+  language_code: eng
+  entry_status: valid
+id: 321dfc2c-b769-5fce-9511-6cb89d6d7f01

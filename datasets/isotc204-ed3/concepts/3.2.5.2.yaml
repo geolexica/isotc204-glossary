@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 3.2.5.2
+  localized_concepts:
+    eng: 4adaf2fa-d826-5c80-96c8-b059a4a44228
+related:
+- content: subClassOf [supportSystem]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.2.5.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: c693b203-7d92-543d-82b0-88040910c1a6
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.2.1.4,support system}} that provides map databases used to support {{urn:iso:std:iso:14812:ed3:3.5.3.1,ITS services}}
+      <img alt="map provision system Diagram" src="../../diagrams/map provision system.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: map provision system
+  - type: expression
+    normative_status: admitted
+    designation: ITS map provision system
+  language_code: eng
+  entry_status: valid
+id: 4adaf2fa-d826-5c80-96c8-b059a4a44228

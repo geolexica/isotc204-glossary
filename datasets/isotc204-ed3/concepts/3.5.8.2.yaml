@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.5.8.2
+  localized_concepts:
+    eng: 37ca21eb-653e-5166-864e-113a4f871fcd
+related:
+- content: subClassOf [financialModel]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.8.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 478f32f2-f2e5-5f07-b63f-0385a3586a50
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      type of {{urn:iso:std:iso:14812:ed3:3.5.8.1,financial model}} where {{urn:iso:std:iso:14812:ed3:3.5.1.1,services}} are provided with a profit motive
+      <img alt="commercial Diagram" src="../../diagrams/commercial.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: commercial
+  language_code: eng
+  entry_status: valid
+id: 37ca21eb-653e-5166-864e-113a4f871fcd

@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 3.2.7.5
+  localized_concepts:
+    eng: 933034ba-673d-5845-b39a-c2d8feaabee1
+related:
+- content: contains [some functionalObject]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.2.7.5
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 19d18bd3-029d-57ae-931f-879076ec9fb4
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      physical unit in an {{urn:iso:std:iso:14812:ed3:3.2.7.4,ITS-S unit}} containing part or all of the functionality of the {{urn:iso:std:iso:14812:ed3:3.2.7.3,ITS-S}}
+      <img alt="ITS-S communication unit Diagram" src="../../diagrams/ITS-S communication unit.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: In case an ITS-SU consists of a single physical unit, the ITS-SU and
+      the ITS-SCU are identical. In case an ITS-SU consists of more than one ITS-SCU,
+      then these ITS-SCUs are interconnected via the ITS station-internal network
+      of the ITS-SU.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S communication unit
+  - type: expression
+    normative_status: admitted
+    designation: ITS station communication unit
+  - type: expression
+    normative_status: admitted
+    designation: ITS-SCU
+  language_code: eng
+  entry_status: valid
+id: 933034ba-673d-5845-b39a-c2d8feaabee1

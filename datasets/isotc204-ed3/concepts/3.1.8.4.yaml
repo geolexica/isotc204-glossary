@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 3.1.8.4
+  localized_concepts:
+    eng: 60fa15f5-4bb1-5ed5-bd3c-44244362054e
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.8.4
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 794c53e2-74ad-53ad-88f2-9e26c83d6715
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      information that is exchanged between {{urn:iso:std:iso:14812:ed3:3.1.8.1,physical objects}}
+      <img alt="information flow Diagram" src="../../diagrams/information flow.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: information flow
+  language_code: eng
+  entry_status: valid
+id: 60fa15f5-4bb1-5ed5-bd3c-44244362054e

@@ -1,0 +1,65 @@
+---
+data:
+  identifier: 3.3.6.1
+  localized_concepts:
+    eng: 0dac05cb-24ba-546b-8f81-a257e61edb4f
+related:
+- content: meetingOrCrossing [min 2 owl::Thing]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[junction](junction.md) with at least one [grade separated manoeuvre](grade
+    separated manoeuvre.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[interchange](interchange.md)"
+- type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[junction](junction.md)"
+- content: "[junction](junction.md) without any [grade separated manoeuvres](grade
+    separated manoeuvre.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[junction at grade](junction at grade.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.6.1
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: aefc3c57-d4eb-5e53-9391-4b4cf618b44c
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      space where two or more {{urn:iso:std:iso:14812:ed3:3.3.5.1,roads}} meet or cross
+      <img alt="intersection Diagram" src="../../diagrams/intersection.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      | Referencing Term | Type of Reference |
+      | --- | --- |
+      | {{urn:iso:std:iso:14812:ed3:3.3.6.2,junction}} | subClassOf |
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: Complex intersections can be viewed as multiple intersections by providing
+      separate designations for distinct {{urn:iso:std:iso:14812:ed3:3.3.5.6,road
+      links}}. For example, one model could depict a complex intersection as being
+      associated with multiple junctions; another model could depict the same physical
+      infrastructure as being multiple intersections that are interconnected by different
+      {{urn:iso:std:iso:14812:ed3:3.3.5.1,roads}}, each with its own designator (e.g.
+      "ramp from northbound Road A to eastbound Road B").
+  - content: Intersections can be associated with zero {{urn:iso:std:iso:14812:ed3:3.3.6.2,junctions}},
+      such as a motorway crossing a road without any connecting ramps, or can be associated
+      with one or more junctions, such as a diamond {{urn:iso:std:iso:14812:ed3:3.3.6.9,interchange}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intersection
+  language_code: eng
+  entry_status: valid
+id: 0dac05cb-24ba-546b-8f81-a257e61edb4f

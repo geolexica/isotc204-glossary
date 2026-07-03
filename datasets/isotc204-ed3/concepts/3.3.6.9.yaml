@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 3.3.6.9
+  localized_concepts:
+    eng: 141b474e-75b6-5922-85a3-98df26eb29e2
+related:
+- content: aggregates [some gradeSeparatedManoeuvre]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [junction]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.6.9
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: da02ed72-8cfc-57ec-aff1-95e2f1b86250
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.3.6.2,junction}} with at least one {{urn:iso:std:iso:14812:ed3:3.3.6.10,grade separated manoeuvre}}
+      <img alt="interchange Diagram" src="../../diagrams/interchange.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The grade separation allows {{urn:iso:std:iso:14812:ed3:3.6.1.1,travellers}}
+      on the {{urn:iso:std:iso:14812:ed3:3.3.5.5,link}} to pass unimpeded through
+      the interchange when congestion is not present.
+  - content: The term "interchange" typically refers to the facilities that enable
+      all available manoeuvres at the grade separated {{urn:iso:std:iso:14812:ed3:3.3.6.1,intersection}},
+      which typically includes multiple junctions.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: interchange
+  language_code: eng
+  entry_status: valid
+id: 141b474e-75b6-5922-85a3-98df26eb29e2

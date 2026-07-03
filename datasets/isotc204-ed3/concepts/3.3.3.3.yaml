@@ -1,0 +1,64 @@
+---
+data:
+  identifier: 3.3.3.3
+  localized_concepts:
+    eng: ce22f551-8d1f-5f4d-b032-051617b10a56
+related:
+- content: rising or falling stairway that assists pedestrians in vertical transitions
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[escalator](escalator.md)"
+- content: 'footpath consisting of a conveyor belt for pedestrians Note 1 to entry:
+    Moving walkways are often used in airports with long footpaths Note 2 to entry:
+    Moving walkways assist pedestrians in traversing longer distances. Note 3 to entry:
+    "Travellator" is a term used in Singapore.'
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[moving walkway](moving walkway.md)"
+- content: physically marked location to enhance the safety of pedestrians crossing
+    one or more lanes of a different mode of travel
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[pedestrian crossing](pedestrian crossing.md)"
+- content: "[footpath](footpath.md) along a [roadside](roadside.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[sidewalk](sidewalk.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.3.3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: d3c2fffa-40de-537d-82c6-4f8dd05d469c
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      area designed for the longitudinal movement of pedestrians
+      <img alt="footpath Diagram" src="../../diagrams/footpath.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      | Referencing Term | Type of Reference |
+      | --- | --- |
+      | {{urn:iso:std:iso:14812:ed3:3.3.3.5,escalator}} | subClassOf |
+      | {{urn:iso:std:iso:14812:ed3:3.3.3.6,moving walkway}} | subClassOf |
+      | {{urn:iso:std:iso:14812:ed3:3.3.3.7,pedestrian crossing}} | subClassOf |
+      | {{urn:iso:std:iso:14812:ed3:3.3.3.4,sidewalk}} | subClassOf |
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: Regulations typically allow footpaths to be used by other {{urn:iso:std:iso:14812:ed3:3.7.5.1,ultra-low-speed
+      vehicles}}, such as the users of wheelchairs and strollers.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: footpath
+  language_code: eng
+  entry_status: valid
+id: ce22f551-8d1f-5f4d-b032-051617b10a56

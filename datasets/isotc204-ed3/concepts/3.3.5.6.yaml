@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 3.3.5.6
+  localized_concepts:
+    eng: a9ed7e18-c6ac-5c47-90a3-97c1175d2178
+related:
+- content: aggregates [some laneLink]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: constitutes [some roadSegment]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [link]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.5.6
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: c692f2e1-3710-564a-a8ae-703cf09e4069
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.3.5.5,link}} representing a contiguous length of a {{urn:iso:std:iso:14812:ed3:3.3.5.1,road}} between two {{urn:iso:std:iso:14812:ed3:3.3.5.4,nodes}} of operational or managerial significance
+      <img alt="road link Diagram" src="../../diagrams/road link.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The operational characteristics of the nodes would relate to the type
+      of {{urn:iso:std:iso:14812:ed3:3.3.5.3,road model}}. For example, a traffic
+      {{urn:iso:std:iso:14812:ed3:3.1.2.1,system}} can base its road links on nodes
+      that represent {{urn:iso:std:iso:14812:ed3:3.3.6.2,junctions}} and road terminators.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: road link
+  language_code: eng
+  entry_status: valid
+id: a9ed7e18-c6ac-5c47-90a3-97c1175d2178

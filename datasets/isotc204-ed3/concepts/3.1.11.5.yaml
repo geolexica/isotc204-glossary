@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.1.11.5
+  localized_concepts:
+    eng: bb73e4ed-ac9c-5efe-a518-99284634674e
+related:
+- content: subClassOf [dataConcept]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.11.5
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 35669ff1-1bd5-5509-949e-3a4a29cb699c
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      grouping of {{urn:iso:std:iso:14812:ed3:3.1.11.1,data elements}}, {{urn:iso:std:iso:14812:ed3:3.1.11.4,data frames}}, or data elements and data frames that is used to convey information
+      <img alt="message Diagram" src="../../diagrams/message.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: message
+  language_code: eng
+  entry_status: valid
+id: bb73e4ed-ac9c-5efe-a518-99284634674e

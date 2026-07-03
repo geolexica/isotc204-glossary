@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.5.5.2
+  localized_concepts:
+    eng: 8ab6d551-ac96-5d3a-aaf2-c8ff7d29dca0
+related:
+- content: subClassOf [mobilityApp]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.5.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: cd262d4f-d776-50af-a462-85692302ac65
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.5.5.1,mobility app}} that assists a {{urn:iso:std:iso:14812:ed3:3.5.2.3,transport user}} in acquiring a {{urn:iso:std:iso:14812:ed3:3.5.2.1,transport service}} from a specific business
+      <img alt="B2C mobility sharing app Diagram" src="../../diagrams/B2C mobility sharing app.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: B2C mobility sharing app
+  language_code: eng
+  entry_status: valid
+id: 8ab6d551-ac96-5d3a-aaf2-c8ff7d29dca0

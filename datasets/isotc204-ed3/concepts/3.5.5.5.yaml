@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 3.5.5.5
+  localized_concepts:
+    eng: fe3b7619-dae6-525f-a459-0f288dd57f37
+related:
+- content: subClassOf [mobilityApp]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[P2P mobility sharing app](P2P mobility sharing app.md) for acquiring
+    a [ridesourced service](ridesourced service.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ridesourcing app](ridesourcing app.md)"
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 8cd77fd8-b1d8-5453-aad9-78f26726b1be
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.5.5.1,mobility app}} that assists a {{urn:iso:std:iso:14812:ed3:3.5.2.3,transport user}} in acquiring {{urn:iso:std:iso:14812:ed3:3.5.2.1,transport service}} from an individual that participates in the mobility app's network
+      <img alt="P2P mobility sharing app Diagram" src="../../diagrams/P2P mobility sharing app.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: P2P mobility sharing app
+  language_code: eng
+  entry_status: valid
+id: fe3b7619-dae6-525f-a459-0f288dd57f37

@@ -1,0 +1,65 @@
+---
+data:
+  identifier: 3.4.2.2
+  localized_concepts:
+    eng: b536cb91-c85a-5945-bd81-a2e42a78fe29
+related:
+- content: specificationOf [some spatialLocation]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[spatial reference](spatial reference.md) generated on-the-fly based on
+    geographic properties in a digital map database"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[dynamic spatial reference](dynamic spatial reference.md)"
+- content: "[pre-coded spatial reference](pre-coded spatial reference.md) defined
+    within the [road network](road network.md) database"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[link location](link location.md)"
+- content: "[spatial reference](spatial reference.md) using a unique identifier that
+    is agreed upon in both the sender and receiver [system](system.md) to select a
+    [location](location.md) from a set of pre-coded locations"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[pre-coded spatial reference](pre-coded spatial reference.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.4.2.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: aaa8c35c-f621-5f93-a8f5-20ced8563738
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      description of a {{urn:iso:std:iso:14812:ed3:3.4.1.2,spatial location}} in the real world according to a defined reference system
+      <img alt="spatial reference Diagram" src="../../diagrams/spatial reference.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Admitted term: location reference
+      EXAMPLE: Coordinate tuple: 51.476852, -0.000500.
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: It is not necessary for the rules be formal coordinates but they could
+      be descriptive.
+  - content: The term "location reference" has been used within ITS, but the term
+      "spatial reference" is preferred to better align with the activities of ISO/TC
+      211.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spatial reference
+  - type: expression
+    normative_status: admitted
+    designation: ITS spatial reference
+  language_code: eng
+  entry_status: valid
+id: b536cb91-c85a-5945-bd81-a2e42a78fe29

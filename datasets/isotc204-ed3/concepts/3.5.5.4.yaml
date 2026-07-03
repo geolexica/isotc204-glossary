@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.5.5.4
+  localized_concepts:
+    eng: 3fe6433a-40be-52a3-b0aa-f4ade4a27465
+related:
+- content: subClassOf [mobilityApp]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.5.4
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 6c157d6e-0358-5b8a-bc17-e3188f3714a8
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.5.5.1,mobility app}} that assists a {{urn:iso:std:iso:14812:ed3:3.5.2.3,transport user}} to determine the best route to a destination
+      <img alt="navigation app Diagram" src="../../diagrams/navigation app.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: navigation app
+  language_code: eng
+  entry_status: valid
+id: 3fe6433a-40be-52a3-b0aa-f4ade4a27465

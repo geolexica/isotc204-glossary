@@ -1,0 +1,84 @@
+---
+data:
+  identifier: 3.1.10.1
+  localized_concepts:
+    eng: c4eb0eb5-e1d8-573a-bd2f-28a81df0e3a9
+related:
+- content: describes [some entity]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: storedIn [some dataDictionary]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: set of ideas, abstractions or things in the real world that are identified
+    with explicit boundaries and meaning and whose properties and behaviour follow
+    the same rules
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[class](class.md)"
+- content: unit of data that is considered in a given context to be indivisible and
+    which includes an unambiguous representational form
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[data element](data element.md)"
+- content: specific grouping of [data elements](data element.md) that describes information
+    of interest through a useful grouping of more atomic properties about one or more
+    [classes](class.md)
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[data frame](data frame.md)"
+- content: bi-directional communication sequence between two parties in accordance
+    with predetermined protocols
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[interface dialogue](interface dialogue.md)"
+- content: grouping of [data elements](data element.md), [data frames](data frame.md),
+    or data elements and data frames that is used to convey information
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[message](message.md)"
+- content: a set of permissible values
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[value domain](value domain.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.10.1
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: f6e240ba-178d-54c0-b019-be90338a5f56
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.1.11.1,data element}}, {{urn:iso:std:iso:14812:ed3:3.1.11.2,class}}, {{urn:iso:std:iso:14812:ed3:3.1.11.3,value domain}}, {{urn:iso:std:iso:14812:ed3:3.1.11.4,data frame}}, {{urn:iso:std:iso:14812:ed3:3.1.11.5,message}} or {{urn:iso:std:iso:14812:ed3:3.1.11.6,interface dialogue}} defined, at a minimum, with an unambiguous identifier and a definition
+      <img alt="data concept Diagram" src="../../diagrams/data concept.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: In order to exchange a value corresponding to a data concept, more information
+      than an identifier, a name and a definition can be needed. For a property, a
+      data type is needed. Depending on the kind of property, other data elements
+      such as unit of measure, and language, can be needed as well. The additional
+      information can be given in the {{urn:iso:std:iso:14812:ed3:3.1.10.3,data dictionary}},
+      in a data specification that references the data concept or associated with
+      the data themselves.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: data concept
+  language_code: eng
+  entry_status: valid
+id: c4eb0eb5-e1d8-573a-bd2f-28a81df0e3a9

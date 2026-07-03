@@ -1,0 +1,28 @@
+---
+data:
+  identifier: 3.1.14.9
+  localized_concepts:
+    eng: 5389a272-d347-587c-8359-df5b625f1e65
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 0643db9d-78ee-5165-8a3b-b85de1d0f04f
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      ability to prove the occurrence of a claimed event or action and its originating entities
+      <img alt="non-repudiation Diagram" src="../../diagrams/non-repudiation.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Source: ISO/IEC 27000:2018, 3.48
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: non-repudiation
+  language_code: eng
+  entry_status: valid
+id: 5389a272-d347-587c-8359-df5b625f1e65

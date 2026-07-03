@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 3.7.6.5
+  localized_concepts:
+    eng: 84fa336e-3692-5179-bc72-59d9509d194a
+related:
+- content: subClassOf [vehicle]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.7.6.5
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: f7bfc2ac-06fb-5de5-9086-7c3bfb108127
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} meeting the legal requirements to operate in {{urn:iso:std:iso:14812:ed3:3.3.3.1,cycle lanes}} and {{urn:iso:std:iso:14812:ed3:3.3.3.2,cycleways}}
+      <img alt="road cycle Diagram" src="../../diagrams/road cycle.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: In some countries, other special {{urn:iso:std:iso:14812:ed3:3.3.1.12,lanes}}
+      could also be open to road cycles, such as bus lanes.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: road cycle
+  language_code: eng
+  entry_status: valid
+id: 84fa336e-3692-5179-bc72-59d9509d194a

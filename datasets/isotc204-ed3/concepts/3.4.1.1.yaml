@@ -1,0 +1,75 @@
+---
+data:
+  identifier: 3.4.1.1
+  localized_concepts:
+    eng: 7ea7ed2c-589b-5f87-8d2d-596c775bd025
+related:
+- content: area location, which is the destination of a defined route or itinerary
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[area destination](area destination.md)"
+- content: "[spatial location](spatial location.md) enclosed within a two-dimensional
+    boundary or boundaries across a defined surface"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[area location](area location.md)"
+- content: well defined geographic place described by one coordinate tuple
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[geographic point location](geographic point location.md)"
+- content: "[spatial location](spatial location.md) that extends between two [point
+    locations](point location.md) along a defined path"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[linear location](linear location.md)"
+- content: point location, which is the destination of a defined route or itinerary
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[point destination](point destination.md)"
+- content: "[spatial location](spatial location.md) with no length in any of the spatial
+    dimensions"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[point location](point location.md)"
+- content: "[location](location.md) within three-dimensional space"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[spatial location](spatial location.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.4.1.1
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 6a47f8df-ea83-59c6-94b7-8e38bcba12da
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      particular place or position
+      <img alt="location Diagram" src="../../diagrams/location.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      | Referencing Term | Type of Reference |
+      | --- | --- |
+      | {{urn:iso:std:iso:14812:ed3:3.4.1.2,spatial location}} | subClassOf |
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The term "location" by itself is a broad term that can be used to reference
+      spatial, computer memory, imaginary and other locations.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: location
+  language_code: eng
+  entry_status: valid
+id: 7ea7ed2c-589b-5f87-8d2d-596c775bd025

@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 3.7.2.8
+  localized_concepts:
+    eng: 07fc14fc-c660-50b2-aa62-0aff0ad41350
+related:
+- content: identifierUniqueWithinRegionFor [exactly 1 owl::Thing]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: e76aa771-0c18-5f1f-b8b4-4511fa02b3e5
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      numeric or alphanumeric identifier or code, displayed on a registration plate attached to the vehicle, and unique within the issuing authority's region therefore usable for official identification purposes
+      <img alt="vehicle registration plate identifier Diagram" src="../../diagrams/vehicle registration plate identifier.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vehicle registration plate identifier
+  language_code: eng
+  entry_status: valid
+id: 07fc14fc-c660-50b2-aa62-0aff0ad41350

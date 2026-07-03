@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.3.7.4
+  localized_concepts:
+    eng: 93ab1c45-d61c-5da7-8733-46915ca5ef76
+related:
+- content: subClassOf [bridge]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 22757baa-ce2f-551b-9e86-ae421c830703
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.3.7.3,bridge}} with a deck that can be moved in a way that disrupts the continuous travel path
+      <img alt="movable bridge Diagram" src="../../diagrams/movable bridge.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: Movable bridges can be used over waterways to allow for the passage of
+      tall ships.
+  - content: Movable bridges include, but are not limited to, bascule bridges, vertical
+      lift bridges, and swing bridges.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: movable bridge
+  language_code: eng
+  entry_status: valid
+id: 93ab1c45-d61c-5da7-8733-46915ca5ef76

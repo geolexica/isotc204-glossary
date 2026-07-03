@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 3.5.11.1
+  localized_concepts:
+    eng: 12ec5e9c-c696-5765-b13c-5c93e235da0b
+related:
+- content: attrTransportItem [has passengers]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [sharedTransportService]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.11.1
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 9bbea39d-e326-50c0-9221-2e94488cfa54
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.5.6.2,shared transport service}} that transports {{urn:iso:std:iso:14812:ed3:3.6.2.1,passengers}} between two specified {{urn:iso:std:iso:14812:ed3:3.4.1.2,spatial locations}}
+      <img alt="shuttle service Diagram" src="../../diagrams/shuttle service.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: Each location can be defined as point, linear or area locations. However,
+      the areas of the two locations should not overlap.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: shuttle service
+  language_code: eng
+  entry_status: valid
+id: 12ec5e9c-c696-5765-b13c-5c93e235da0b

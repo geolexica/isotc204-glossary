@@ -1,0 +1,28 @@
+---
+data:
+  identifier: 3.1.14.11
+  localized_concepts:
+    eng: 6443256a-29bf-5bd9-8b45-06e281165a0f
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 99bda327-72c1-52da-a96c-05ef9f6ecfaf
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      capability of a system to maintain its functions and structure in the face of internal and external change, and to degrade gracefully when this is necessary
+      <img alt="resilience Diagram" src="../../diagrams/resilience.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Source: ISO/IEC 23257:2019
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: resilience
+  language_code: eng
+  entry_status: valid
+id: 6443256a-29bf-5bd9-8b45-06e281165a0f

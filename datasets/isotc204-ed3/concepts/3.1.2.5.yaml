@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 3.1.2.5
+  localized_concepts:
+    eng: 1d9d9ace-4328-558e-a526-073eae4538c9
+related:
+- content: subClassOf [intelligentTransportSystem]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.2.5
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: a134ff71-c488-57a1-8c29-2bbf54e2d4df
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      subset of {{urn:iso:std:iso:14812:ed3:3.1.2.4,ITS}} where information is shared among {{urn:iso:std:iso:14812:ed3:3.2.7.3,ITS stations}} in a manner that enables its use by multiple ITS services [ITS service.md]
+      <img alt="cooperative ITS Diagram" src="../../diagrams/cooperative ITS.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cooperative ITS
+  - type: expression
+    normative_status: admitted
+    designation: C-ITS
+  language_code: eng
+  entry_status: valid
+id: 1d9d9ace-4328-558e-a526-073eae4538c9

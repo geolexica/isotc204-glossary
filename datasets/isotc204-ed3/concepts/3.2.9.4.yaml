@@ -1,0 +1,96 @@
+---
+data:
+  identifier: 3.2.9.4
+  localized_concepts:
+    eng: 84466c79-1e30-5629-bb29-a752cc91e590
+related:
+- content: implementationOf [some its-sApplication]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[mobility app](mobility app.md) that assists a [transport user](transport
+    user.md) in acquiring a [transport service](transport service.md) from a specific
+    business"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[B2C mobility sharing app](B2C mobility sharing app.md)"
+- content: "[ITS-S application implementation](ITS-S application implementation.md)
+    designed to assist an individual transport consumer in understanding transport-related
+    information, making decisions, and/or acting upon decisions"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[mobility app](mobility app.md)"
+- content: "[mobility app](mobility app.md) that assists a [transport user](transport
+    user.md) to determine the best route to a destination"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[navigation app](navigation app.md)"
+- content: "[mobility app](mobility app.md) that assists a [transport user](transport
+    user.md) in acquiring [transport service](transport service.md) from an individual
+    that participates in the mobility app's network"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[P2P mobility sharing app](P2P mobility sharing app.md)"
+- content: "[mobility app](mobility app.md) that assists a [transport user](transport
+    user.md) in using a [public transport](public transport.md) [system](system.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[public transport app](public transport app.md)"
+- content: "[mobility app](mobility app.md) that provides information about current
+    travel conditions to a [transport user](transport user.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[real-time traveller information app](real-time traveller information app.md)"
+- content: "[P2P mobility sharing app](P2P mobility sharing app.md) for acquiring
+    a [ridesourced service](ridesourced service.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ridesourcing app](ridesourcing app.md)"
+- content: "[mobility app](mobility app.md) that assists a [transport user](transport
+    user.md) in electronically requesting a taxi"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[taxi hailing app](taxi hailing app.md)"
+- content: "[mobility app](mobility app.md) that assists a [transport user](transport
+    user.md) in planning trips that may span multiple vehicle modes or [transport
+    providers](transport provider.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[trip aggregator app](trip aggregator app.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.2.9.4
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: a31be227-b794-5622-977f-0c2ff4fcf7ec
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      implementation of an {{urn:iso:std:iso:14812:ed3:3.2.9.2,ITS-S application process}} within the {{urn:iso:std:iso:14812:ed3:3.1.5.1,application entity}}
+      <img alt="ITS-S application implementation Diagram" src="../../diagrams/ITS-S application implementation.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: An implementation is typically associated with an implementation name,
+      a version and release number.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S application implementation
+  language_code: eng
+  entry_status: valid
+id: 84466c79-1e30-5629-bb29-a752cc91e590

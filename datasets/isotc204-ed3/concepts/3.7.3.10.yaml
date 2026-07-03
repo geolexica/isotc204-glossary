@@ -1,0 +1,72 @@
+---
+data:
+  identifier: 3.7.3.10
+  localized_concepts:
+    eng: c135fe60-57bb-5ce2-8fd7-e7ab03f96c2b
+related:
+- content: canControl [some ads-equippedVehicle]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: performsAllOf [some dynamicDrivingTask]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [drivingAutomationSystem]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[ADS](ADS.md) designed with the expectation that the [fallback-ready user](fallback-ready
+    user.md) is available to intervene"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[level 3 ADS](level 3 ADS.md)"
+- content: "[ADS](ADS.md) that is capable of operating within a specific [operational
+    design domain](operational design domain.md) and providing its own [fallback](fallback.md),
+    without any expectation that a human [driver](driver.md) will respond to a request
+    to intervene"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[level 4 ADS](level 4 ADS.md)"
+- content: "[ADS](ADS.md) that is capable of unconditional (i.e. not [operational
+    design domain](operational design domain.md)-specific) operation and providing
+    its own [fallback](fallback.md), without any expectation that a human [driver](driver.md)
+    will respond to a request to intervene"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[level 5 ADS](level 5 ADS.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.7.3.10
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: eb1df05e-7bd1-5f4a-a154-fb636cded59c
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.7.3.6,driving automation system}} that is able to perform the entire {{urn:iso:std:iso:14812:ed3:3.7.3.1,dynamic driving task}} on a sustained basis
+      <img alt="ADS Diagram" src="../../diagrams/ADS.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The abbreviated form ("ADS") is the most preferred form and the alternative
+      form ("Automated Driving System") uses initial capitals to avoid confusion with
+      the more general "driving automation system".
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ADS
+  - type: expression
+    normative_status: admitted
+    designation: Automated Driving System
+  language_code: eng
+  entry_status: valid
+id: c135fe60-57bb-5ce2-8fd7-e7ab03f96c2b

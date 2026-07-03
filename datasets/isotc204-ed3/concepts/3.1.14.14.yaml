@@ -1,0 +1,28 @@
+---
+data:
+  identifier: 3.1.14.14
+  localized_concepts:
+    eng: 86364159-0e20-5830-be5b-c0277a6badc7
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: cd85010d-1ac6-5510-9bd7-28b83282e515
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      open, comprehensive and understandable presentation of information
+      <img alt="transparency Diagram" src="../../diagrams/transparency.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Source: ISO/IEC 19944-1
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transparency
+  language_code: eng
+  entry_status: valid
+id: 86364159-0e20-5830-be5b-c0277a6badc7

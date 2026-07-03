@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 3.5.1.2
+  localized_concepts:
+    eng: eabde91f-ca97-573e-9ec5-bd774b1bd351
+related:
+- content: delivers [some service]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [entity]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[entity](entity.md) that delivers one or more [ITS services](ITS service.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ITS service provider](ITS service provider.md)"
+- content: "[ITS-SU](ITS-S unit.md) that delivers one or more [ITS-SU services](ITS-SU
+    service.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ITS-SU service provider](ITS-SU service provider.md)"
+- content: "[entity](entity.md) that delivers one or more [transport services](transport
+    service.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[transport provider](transport provider.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.1.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 890cc389-d6b8-53cc-87dc-0791c4c8bd3e
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.1.1.1,entity}} that delivers one or more {{urn:iso:std:iso:14812:ed3:3.5.1.1,services}}
+      <img alt="service provider Diagram" src="../../diagrams/service provider.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: service provider
+  language_code: eng
+  entry_status: valid
+id: eabde91f-ca97-573e-9ec5-bd774b1bd351

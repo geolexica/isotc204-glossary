@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 3.3.1.2
+  localized_concepts:
+    eng: e4998d15-5b30-5700-b4dc-c3cfd86a8b2a
+related:
+- content: comprises [some roadway]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: comprises [some lane]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: comprises [some roadside]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.1.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: e88af14e-34b2-5bb6-9d64-8fc386ca9890
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      area legally reserved for {{urn:iso:std:iso:14812:ed3:3.3.5.1,road}} transport purposes and support
+      <img alt="road reservation Diagram" src="../../diagrams/road reservation.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: Support includes physical equipment such as safety devices, signage and
+      controller cabinets as well as access by maintenance vehicles and personnel.
+  - content: The road reservation includes all {{urn:iso:std:iso:14812:ed3:3.3.1.5,carriageways}}
+      as well as width to allow for {{urn:iso:std:iso:14812:ed3:3.3.1.10,roadside}}
+      devices, {{urn:iso:std:iso:14812:ed3:3.3.1.18,shoulders}}, {{urn:iso:std:iso:14812:ed3:3.3.1.11,verges}},
+      footways, drainage facilities, sound walls, slopes, embankments, etc.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: road reservation
+  - type: expression
+    normative_status: admitted
+    designation: easement
+  language_code: eng
+  entry_status: valid
+id: e4998d15-5b30-5700-b4dc-c3cfd86a8b2a

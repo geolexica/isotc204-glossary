@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 3.1.5.7
+  localized_concepts:
+    eng: a749f90b-dc89-53b7-b540-687e9fc122ff
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.5.7
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 4b21cc2e-5f14-5f02-bf2f-3b1c37a05d31
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      part of the {{urn:iso:std:iso:14812:ed3:3.1.9.4,ITS station reference architecture}} that is responsible for providing communication security and {{urn:iso:std:iso:14812:ed3:3.1.2.1,system}} security
+      <img alt="security entity Diagram" src="../../diagrams/security entity.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: security entity
+  - type: expression
+    normative_status: admitted
+    designation: ITS-S security entity
+  language_code: eng
+  entry_status: valid
+id: a749f90b-dc89-53b7-b540-687e9fc122ff

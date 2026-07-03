@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 3.1.15.1
+  localized_concepts:
+    eng: ac5e603a-da31-51de-85a9-40c0b3aabbb2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 9fab3b3b-2119-51e2-ac13-823eea291cb6
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      the process or the result of the process to define the architecture, system elements, interfaces, and other characteristics of a system or system element
+      <img alt="design Diagram" src="../../diagrams/design.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      EXAMPLE: Example: Complete documentation for building a specific model of a smartphone
+      Source: ISO/IEC/IEEE 24765:2017, definitions 1 and 2 merged, example added
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: Design provides the detailed implementation-level physical structure,
+      behaviour, temporal relationships, and other attributes of system elements.
+      It is information including specification of system elements and their relationships,
+      that is sufficiently complete to support a compliant implementation of the architecture,
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: design
+  language_code: eng
+  entry_status: valid
+id: ac5e603a-da31-51de-85a9-40c0b3aabbb2

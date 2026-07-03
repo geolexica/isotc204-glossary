@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 3.3.8.6
+  localized_concepts:
+    eng: 348e4f11-34f9-51c0-a4ca-ed579161a564
+related:
+- content: for [some publicTransportVehicle]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [pick-upDrop-offArea]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: d7de8a5b-ca14-596b-95c1-4f09ff79fdfc
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      pick-up/drop-off area area for public transport vehicles
+      <img alt="public transport vehicle stop Diagram" src="../../diagrams/public transport vehicle stop.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The term "PTV stop" is often specialized to indicate the type of public
+      transport vehicle (e.g., "bus stop", "tram stop").
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: public transport vehicle stop
+  - type: expression
+    normative_status: admitted
+    designation: PTV stop
+  language_code: eng
+  entry_status: valid
+id: 348e4f11-34f9-51c0-a4ca-ed579161a564

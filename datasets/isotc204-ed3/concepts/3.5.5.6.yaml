@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 3.5.5.6
+  localized_concepts:
+    eng: 57cae2a3-2299-57d4-a176-b2ff115fb4f9
+related:
+- content: subClassOf [p2pMobilitySharingApp]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: cd96a877-2589-5730-9ac7-496181fa39a2
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.5.5.5,P2P mobility sharing app}} for acquiring a {{urn:iso:std:iso:14812:ed3:3.5.11.5,ridesourced service}}
+      <img alt="ridesourcing app Diagram" src="../../diagrams/ridesourcing app.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ridesourcing app
+  language_code: eng
+  entry_status: valid
+id: 57cae2a3-2299-57d4-a176-b2ff115fb4f9

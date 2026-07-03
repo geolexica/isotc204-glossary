@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.1.10.2
+  localized_concepts:
+    eng: 38bab48d-4223-5f07-bb16-0480e0d9ed39
+related:
+- content: characteristicOf [some dataConcept]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.10.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 9eba7264-4a75-5dd6-8f47-11d6ded3f745
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      documenting characteristic of a {{urn:iso:std:iso:14812:ed3:3.1.10.1,data concept}} that is stored in a {{urn:iso:std:iso:14812:ed3:3.1.10.3,data dictionary}}
+      <img alt="meta-attribute Diagram" src="../../diagrams/meta-attribute.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: meta-attribute
+  language_code: eng
+  entry_status: valid
+id: 38bab48d-4223-5f07-bb16-0480e0d9ed39

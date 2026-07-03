@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.3.6.5
+  localized_concepts:
+    eng: be6f31b2-6555-501b-8819-5c7f7066e420
+related:
+- content: exitFor [some junction]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.6.5
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 90be826d-0cb6-50c9-9aa7-dea16e475f9e
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.3.1.13,traffic lane}} designed for exiting a {{urn:iso:std:iso:14812:ed3:3.3.6.2,junction}}
+      <img alt="egress lane Diagram" src="../../diagrams/egress lane.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: egress lane
+  language_code: eng
+  entry_status: valid
+id: be6f31b2-6555-501b-8819-5c7f7066e420

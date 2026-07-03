@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 3.5.5.8
+  localized_concepts:
+    eng: 2645e54c-8653-5e50-983c-aae9473ee6ad
+related:
+- content: subClassOf [mobilityApp]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 218b9e45-c917-5cac-9b70-7db7a1927e68
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.5.5.1,mobility app}} that provides information about current travel conditions to a {{urn:iso:std:iso:14812:ed3:3.5.2.3,transport user}}
+      <img alt="real-time traveller information app Diagram" src="../../diagrams/real-time traveller information app.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: real-time traveller information app
+  language_code: eng
+  entry_status: valid
+id: 2645e54c-8653-5e50-983c-aae9473ee6ad

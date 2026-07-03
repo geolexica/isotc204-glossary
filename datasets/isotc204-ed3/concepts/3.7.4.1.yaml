@@ -1,0 +1,66 @@
+---
+data:
+  identifier: 3.7.4.1
+  localized_concepts:
+    eng: b17942ee-2f04-5d35-91df-dbd861fae0bd
+related:
+- content: characteristicOf [some materialEntity]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: characteristic of a [material entity](material entity.md) that is or was
+    equipped with communications equipment that is sufficiently physically disconnected
+    such that the material entity is no longer able to send data to or receive data
+    from [connected](connected.md) entities
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[disconnected](disconnected.md)"
+- content: characteristic of a [material entity](material entity.md) that is equipped
+    with communications equipment that is not active or is otherwise unable to send
+    data to or receive data from [connected](connected.md) entities
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[unconnected](unconnected.md)"
+- content: characteristic of a [material entity](material entity.md) that is not and
+    has never been equipped with communications equipment for sending data to or receiving
+    data from [connected](connected.md) entities
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[unequipped](unequipped.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.7.4.1
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: c8430153-f269-5a47-894c-9152537a5d7c
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      characteristic of a {{urn:iso:std:iso:14812:ed3:3.1.1.3,material entity}} that is currently unable to send data to or receive data from {{urn:iso:std:iso:14812:ed3:3.2.3.6,connected}} entities
+      <img alt="off-grid Diagram" src="../../diagrams/off-grid.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      | Referencing Term | Type of Reference |
+      | --- | --- |
+      | {{urn:iso:std:iso:14812:ed3:3.7.4.3,disconnected}} | subClassOf |
+      | {{urn:iso:std:iso:14812:ed3:3.7.4.2,unconnected}} | subClassOf |
+      | {{urn:iso:std:iso:14812:ed3:3.7.4.4,unequipped}} | subClassOf |
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: off-grid
+  - type: expression
+    normative_status: admitted
+    designation: ITS off-grid
+  language_code: eng
+  entry_status: valid
+id: b17942ee-2f04-5d35-91df-dbd861fae0bd

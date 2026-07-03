@@ -1,0 +1,67 @@
+---
+data:
+  identifier: 3.3.5.5
+  localized_concepts:
+    eng: 21e4facd-0314-543c-ba8e-c1f7ae9318f4
+related:
+- content: connects [exactly 2 owl::Thing]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[link](link.md) that represents a [lane](lane.md) of a [road link](road
+    link.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[lane link](lane link.md)"
+- content: "[link](link.md) that represents a contiguous length of a [lane link](lane
+    link.md) characterized by the same physical characteristics"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[lane segment](lane segment.md)"
+- content: "[link](link.md) representing a contiguous length of a [road](road.md)
+    between two [nodes](node.md) of operational or managerial significance"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[road link](road link.md)"
+- content: "[link](link.md) that represents a contiguous length of a [road link](road
+    link.md) characterized by the same physical characteristics"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[road segment](road segment.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.5.5
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 8ee2a54b-75df-59bd-8426-3fb2b442dfbc
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      <road network> component of a {{urn:iso:std:iso:14812:ed3:3.3.5.3,road model}} that represents a connection between two {{urn:iso:std:iso:14812:ed3:3.3.5.4,nodes}}
+      <img alt="link Diagram" src="../../diagrams/link.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      | Referencing Term | Type of Reference |
+      | --- | --- |
+      | {{urn:iso:std:iso:14812:ed3:3.3.5.9,lane link}} | subClassOf |
+      | {{urn:iso:std:iso:14812:ed3:3.3.5.10,lane segment}} | subClassOf |
+      | {{urn:iso:std:iso:14812:ed3:3.3.5.6,road link}} | subClassOf |
+      | {{urn:iso:std:iso:14812:ed3:3.3.5.8,road segment}} | subClassOf |
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: A link can be curvilinear and can have various attributes such as width.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: link
+  language_code: eng
+  entry_status: valid
+id: 21e4facd-0314-543c-ba8e-c1f7ae9318f4

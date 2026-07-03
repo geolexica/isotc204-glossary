@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.2.2.4
+  localized_concepts:
+    eng: 5c4a544d-de90-5313-98b9-2c5135766325
+related:
+- content: subClassOf [centralSystem]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.2.2.4
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 7bc01d64-9013-5ff9-8602-dd0a4d04a550
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.2.1.1,centre system}} that allows an {{urn:iso:std:iso:14812:ed3:3.1.1.1,entity}} to manage financial transactions related to transportation, especially the electronic transfer of funds
+      <img alt="payment administration central system Diagram" src="../../diagrams/payment administration central system.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: payment administration central system
+  language_code: eng
+  entry_status: valid
+id: 5c4a544d-de90-5313-98b9-2c5135766325

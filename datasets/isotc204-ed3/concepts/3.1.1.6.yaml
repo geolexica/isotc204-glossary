@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.1.1.6
+  localized_concepts:
+    eng: 678ef1af-3afa-5bc0-88d7-2cc8ff3b7600
+related:
+- content: subClassOf [biologicalEntity]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.1.6
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 8cc53f89-f881-5797-bd23-de830889ee28
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.1.1.5,biological entity}} that is a human being
+      <img alt="person Diagram" src="../../diagrams/person.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: person
+  language_code: eng
+  entry_status: valid
+id: 678ef1af-3afa-5bc0-88d7-2cc8ff3b7600

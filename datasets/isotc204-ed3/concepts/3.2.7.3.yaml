@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 3.2.7.3
+  localized_concepts:
+    eng: 691e38f8-9350-5059-a3ba-9e842926743c
+related:
+- content: describedBy [some its-sReferenceArchitecture]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: meetsRequirementsOf [some itsTrustDomain]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [boundedSecuredManagedDomain]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.2.7.3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 2f9addef-2e22-5860-830f-619c65683037
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.2.7.1,bounded secured managed domain}} that is able to meet requirements of the {{urn:iso:std:iso:14812:ed3:3.2.7.2,ITS trust domain}} within which it is designed to participate
+      <img alt="ITS station Diagram" src="../../diagrams/ITS station.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The ITS station reference architecture is defined in ISO 21217.
+  - content: This complements the ISO 21217:2020 definition (which identifies the
+      component parts) and is consistent with the text of ISO 21217:2020.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS station
+  - type: expression
+    normative_status: admitted
+    designation: ITS-S
+  language_code: eng
+  entry_status: valid
+id: 691e38f8-9350-5059-a3ba-9e842926743c

@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 3.7.2.7
+  localized_concepts:
+    eng: 7b410b55-9776-52a5-98b0-d9c8e30a414d
+related:
+- content: loadCarriedBy [exactly 1 owl::Thing]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 913ea4d9-2302-5994-bd56-95b2ef4e0cc7
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      type of load carried by the vehicle
+      <img alt="vehicle load type Diagram" src="../../diagrams/vehicle load type.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vehicle load type
+  language_code: eng
+  entry_status: valid
+id: 7b410b55-9776-52a5-98b0-d9c8e30a414d

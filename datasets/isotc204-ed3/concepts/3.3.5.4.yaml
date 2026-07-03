@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 3.3.5.4
+  localized_concepts:
+    eng: da97ccc5-d723-5771-87c9-9a9ae3b62f6d
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.5.4
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: be72acdd-8407-5b2e-973f-47e1f409c653
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      <road network> component of a {{urn:iso:std:iso:14812:ed3:3.3.5.3,road model}} representing a {{urn:iso:std:iso:14812:ed3:3.4.1.3,point location}} of the {{urn:iso:std:iso:14812:ed3:3.3.5.2,road network}} graph
+      <img alt="node Diagram" src="../../diagrams/node.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The point location typically represents a point along the {{urn:iso:std:iso:14812:ed3:3.3.5.1,road}}
+      which can be used to designate the {{urn:iso:std:iso:14812:ed3:3.4.1.2,spatial
+      location}} of a {{urn:iso:std:iso:14812:ed3:3.3.6.2,junction}}, {{urn:iso:std:iso:14812:ed3:3.3.8.6,public
+      transport vehicle stop}}, {{urn:iso:std:iso:14812:ed3:3.4.3.6,jurisdictional
+      boundary}}, termination point, etc.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: node
+  - type: expression
+    normative_status: admitted
+    designation: road network node
+  language_code: eng
+  entry_status: valid
+id: da97ccc5-d723-5771-87c9-9a9ae3b62f6d

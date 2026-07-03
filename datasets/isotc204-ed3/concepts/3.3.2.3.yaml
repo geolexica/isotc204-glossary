@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 3.3.2.3
+  localized_concepts:
+    eng: e0dddd7e-dab3-50ba-af9a-7036696cb429
+related:
+- content: subClassOf [physicalTrafficSeparator]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.2.3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 7270fc44-86ce-5f58-b63d-00969b4bb01b
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.3.2.1,physical traffic separator}} that consists of a wall with a wide, sloped base designed to divert {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicles}} back into their {{urn:iso:std:iso:14812:ed3:3.3.1.13,traffic lane}}
+      <img alt="Jersey barrier Diagram" src="../../diagrams/Jersey barrier.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Admitted term: city block
+      Admitted term: concrete barrier
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: Jersey barriers are typically modular. They are typically made of concrete
+      but can also be made with other materials such as plastic filled with water
+      or sand.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Jersey barrier
+  language_code: eng
+  entry_status: valid
+id: e0dddd7e-dab3-50ba-af9a-7036696cb429

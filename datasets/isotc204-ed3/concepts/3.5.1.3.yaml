@@ -1,0 +1,65 @@
+---
+data:
+  identifier: 3.5.1.3
+  localized_concepts:
+    eng: b458e3e3-8d80-546b-9a47-908f5caef19f
+related:
+- content: subClassOf [entity]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[entity](entity.md) that uses information, communication, and transducer
+    technologies to achieve benefits when using a [surface transport system](surface
+    transport system.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ITS user](ITS user.md)"
+- content: "[entity](entity.md) that has a need to perform processing within a [bounded,
+    secure, managed domain](bounded secured managed domain.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ITS-SU user](ITS-SU user.md)"
+- content: "[entity](entity.md) that has a desire to transport a [material entity](material
+    entity.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[transport user](transport user.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.1.3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: ba4b6472-19ac-5fbe-a254-30b1d7f34924
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.1.1.1,entity}} for whom the {{urn:iso:std:iso:14812:ed3:3.1.2.1,system}} of interest is designed
+      <img alt="user Diagram" src="../../diagrams/user.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      | Referencing Term | Type of Reference |
+      | --- | --- |
+      | {{urn:iso:std:iso:14812:ed3:3.5.4.3,ITS-SU user}} | subClassOf |
+      | {{urn:iso:std:iso:14812:ed3:3.5.3.3,ITS user}} | subClassOf |
+      | {{urn:iso:std:iso:14812:ed3:3.5.2.3,transport user}} | subClassOf |
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The term "consumer" can be used when fulfilling the need results in the
+      consumption of a {{urn:iso:std:iso:14812:ed3:3.1.6.2,resource}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: user
+  - type: expression
+    normative_status: admitted
+    designation: consumer
+  language_code: eng
+  entry_status: valid
+id: b458e3e3-8d80-546b-9a47-908f5caef19f

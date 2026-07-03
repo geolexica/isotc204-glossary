@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 3.7.3.8
+  localized_concepts:
+    eng: 998d2cc6-1ede-5974-8213-65cf70443911
+related:
+- content: operatesWithinA [some operationalDesignDomain]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [driverSupportSystem]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.7.3.8
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 03e427a8-6b0d-59cf-bc8e-4b0b2ea7e207
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.7.3.7,driver support system}} that provides either sustained lateral or sustained longitudinal {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} motion control within a specific {{urn:iso:std:iso:14812:ed3:3.7.3.2,operational design domain}} with the expectation that a conventional {{urn:iso:std:iso:14812:ed3:3.6.2.3,driver}} completes the {{urn:iso:std:iso:14812:ed3:3.7.3.1,dynamic driving task}}
+      <img alt="level 1 driving automation Diagram" src="../../diagrams/level 1 driving automation.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: Other driving automation levels include {{urn:iso:std:iso:14812:ed3:3.7.3.9,level
+      2 driving automation}}, {{urn:iso:std:iso:14812:ed3:3.7.3.11,level 3 ADS}},
+      {{urn:iso:std:iso:14812:ed3:3.7.3.12,level 4 ADS}}, and {{urn:iso:std:iso:14812:ed3:3.7.3.13,level
+      5 ADS}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: level 1 driving automation
+  - type: expression
+    normative_status: admitted
+    designation: driver assistance
+  language_code: eng
+  entry_status: valid
+id: 998d2cc6-1ede-5974-8213-65cf70443911

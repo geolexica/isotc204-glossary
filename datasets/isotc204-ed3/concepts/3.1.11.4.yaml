@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 3.1.11.4
+  localized_concepts:
+    eng: 7ee9c522-5bfd-5af0-a488-7c19abadd6e4
+related:
+- content: subClassOf [dataConcept]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.11.4
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 153699cd-1c45-5a2f-936e-49f71021e793
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      specific grouping of {{urn:iso:std:iso:14812:ed3:3.1.11.1,data elements}} that describes information of interest through a useful grouping of more atomic properties about one or more {{urn:iso:std:iso:14812:ed3:3.1.11.2,classes}}
+      <img alt="data frame Diagram" src="../../diagrams/data frame.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      | Referencing Term | Type of Reference |
+      | --- | --- |
+      | {{urn:iso:std:iso:14812:ed3:3.1.11.5,message}} | contains |
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: A data frame can contain other data frames.
+  - content: The grouping can be a set, sequence or a choice.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: data frame
+  language_code: eng
+  entry_status: valid
+id: 7ee9c522-5bfd-5af0-a488-7c19abadd6e4

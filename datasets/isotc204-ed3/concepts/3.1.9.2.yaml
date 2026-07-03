@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 3.1.9.2
+  localized_concepts:
+    eng: cfacd6df-210a-5c76-b7ae-5d42b069d7f3
+related:
+- content: subClassOf [architecture]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[planning architecture](planning architecture.md) for one or more [ITS
+    services](ITS service.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ITS planning architecture](ITS planning architecture.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.9.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: f9599b0c-1786-5cf6-8aa5-0e9bd2690fc9
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.1.3.1,architecture}} that provides a long-term vision of system {{urn:iso:std:iso:14812:ed3:3.1.3.10,elements}} that may be deployed and managed by different projects and/or {{urn:iso:std:iso:14812:ed3:3.1.1.1,entities}} within a geographic area
+      <img alt="planning architecture Diagram" src="../../diagrams/planning architecture.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Admitted term: regional architecture
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: Some countries use the term "regional architecture", but in International
+      Standards, the term "regional" is avoided due to its multiple meanings.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: planning architecture
+  language_code: eng
+  entry_status: valid
+id: cfacd6df-210a-5c76-b7ae-5d42b069d7f3

@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 3.2.5.1
+  localized_concepts:
+    eng: e6646ba1-d2c6-58ea-8039-336df291f3cf
+related:
+- content: subClassOf [supportSystem]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.2.5.1
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 6e646c26-8e01-563c-942b-dfa79d71f6f3
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.2.1.4,support system}} that enables trusted communications among {{urn:iso:std:iso:14812:ed3:3.1.8.2,ITS components}} and protects data from unauthorized access
+      <img alt="cooperative ITS credentials management system Diagram" src="../../diagrams/cooperative ITS credentials management system.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cooperative ITS credentials management system
+  - type: expression
+    normative_status: admitted
+    designation: CCMS
+  language_code: eng
+  entry_status: valid
+id: e6646ba1-d2c6-58ea-8039-336df291f3cf

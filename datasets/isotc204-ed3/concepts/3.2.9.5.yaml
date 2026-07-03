@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 3.2.9.5
+  localized_concepts:
+    eng: 9fb6d99f-ce97-5de6-81a1-3466b98e3a7e
+related:
+- content: installationOf [some its-sApplicationProcess]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[ITS-S application process installation](ITS-S application process installation.md)
+    within the [application entity](application entity.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ITS-S application installation](ITS-S application installation.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.2.9.5
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: b1736d2d-2de4-52fb-a81c-a9839472f887
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      installation of an implementation of an {{urn:iso:std:iso:14812:ed3:3.2.9.2,ITS-S application process}} on an {{urn:iso:std:iso:14812:ed3:3.2.7.3,ITS station}}
+      <img alt="ITS-S application process installation Diagram" src="../../diagrams/ITS-S application process installation.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: An implementation is typically associated with an implementation name,
+      a version and release number.
+  - content: An installation is typically associated with a specific licence code
+      or serial number.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S application process installation
+  language_code: eng
+  entry_status: valid
+id: 9fb6d99f-ce97-5de6-81a1-3466b98e3a7e

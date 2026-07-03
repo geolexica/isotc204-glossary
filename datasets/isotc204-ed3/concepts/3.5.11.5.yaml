@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 3.5.11.5
+  localized_concepts:
+    eng: 11b17fbd-63c8-5cde-ac86-5d3ce4f6199e
+related:
+- content: attrContractualModel [has peer-to-peer]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: attrFinancialModel [has commercial]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: attrTransportItem [has passengers]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [sharedTransportService]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[ridesourced service](ridesourced service.md) that serves [passengers](passenger.md)
+    [concurrently](concurrent.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ridesplit service](ridesplit service.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.11.5
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 5eba8963-2bd2-591a-b7ba-eadb2b6c96e1
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.5.8.2,commercial}}, {{urn:iso:std:iso:14812:ed3:3.5.7.5,peer-to-peer}} {{urn:iso:std:iso:14812:ed3:3.5.6.2,shared transport service}} that transports {{urn:iso:std:iso:14812:ed3:3.6.2.1,passengers}}
+      <img alt="ridesourced service Diagram" src="../../diagrams/ridesourced service.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ridesourced service
+  language_code: eng
+  entry_status: valid
+id: 11b17fbd-63c8-5cde-ac86-5d3ce4f6199e

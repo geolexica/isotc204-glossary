@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 3.3.7.2
+  localized_concepts:
+    eng: 1a1ad75f-c5fc-5415-9945-d2acbb0817ad
+related:
+- content: subClassOf [system]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: systemOf [some transportFacility]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 9f8666cc-4134-5926-8108-7e7b61927389
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      system of {{urn:iso:std:iso:14812:ed3:3.3.7.1,transport facilities}} and equipment needed for a transport system
+      <img alt="transport infrastructure Diagram" src="../../diagrams/transport infrastructure.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: Transport infrastructure typically includes or shares telecommunications
+      infrastructure in the case of ITS.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transport infrastructure
+  language_code: eng
+  entry_status: valid
+id: 1a1ad75f-c5fc-5415-9945-d2acbb0817ad

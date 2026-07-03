@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 3.3.5.12
+  localized_concepts:
+    eng: 4b7673f9-7516-5ff3-8a9a-905f6b731ee6
+related:
+- content: identifies [some road]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 196285fe-7e24-5048-85c9-bd93025b7d80
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      designator by a road authority to uniquely identify one or more curvilinear lengths of {{urn:iso:std:iso:14812:ed3:3.3.1.3,roadway}} within the context of the road authority
+      <img alt="road identifier Diagram" src="../../diagrams/road identifier.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: A single road identifier can be assigned to non-contiguous lengths of
+      roadway.
+  - content: The identifier is typically either a name (e.g., Main Street), a class
+      of road coupled with a number (e.g., "M25" meaning "motorway no. 25").
+  - content: The same road identifier can be allocated by different road authorities
+      to different, physically distinct, curvilinear lengths of roadway.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: road identifier
+  language_code: eng
+  entry_status: valid
+id: 4b7673f9-7516-5ff3-8a9a-905f6b731ee6

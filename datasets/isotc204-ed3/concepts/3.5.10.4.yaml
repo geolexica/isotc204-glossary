@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 3.5.10.4
+  localized_concepts:
+    eng: cb7fb9ce-4eb4-5eb4-8998-6f17c3d11112
+related:
+- content: subClassOf [networkModel]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.10.4
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: c268059e-c1be-5bac-a0be-bd931e85c0d0
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      <transport service> {{urn:iso:std:iso:14812:ed3:3.5.10.1,network model}} where the {{urn:iso:std:iso:14812:ed3:3.5.2.1,transport service}} may be initiated and terminated at any {{urn:iso:std:iso:14812:ed3:3.4.1.2,spatial location}} meeting basic criteria
+      <img alt="free-floating Diagram" src="../../diagrams/free-floating.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The basic criteria typically include geographic limits and requirements
+      related to legal and safe locations.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: free-floating
+  language_code: eng
+  entry_status: valid
+id: cb7fb9ce-4eb4-5eb4-8998-6f17c3d11112

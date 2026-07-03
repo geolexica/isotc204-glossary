@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.2.2.5
+  localized_concepts:
+    eng: 4907ec6e-a42b-578c-8657-6b90adb4ce7f
+related:
+- content: subClassOf [centralSystem]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.2.2.5
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: fe3ddd0e-d70c-5fc4-9f09-889dce8e8748
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.2.1.1,centre system}} that allows an {{urn:iso:std:iso:14812:ed3:3.1.1.1,entity}} to manage the activities of a {{urn:iso:std:iso:14812:ed3:3.5.6.1,public transport}} agency
+      <img alt="public transport central management system Diagram" src="../../diagrams/public transport central management system.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: public transport central management system
+  language_code: eng
+  entry_status: valid
+id: 4907ec6e-a42b-578c-8657-6b90adb4ce7f

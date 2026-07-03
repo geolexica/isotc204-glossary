@@ -1,0 +1,61 @@
+---
+data:
+  identifier: 3.3.6.2
+  localized_concepts:
+    eng: 18bcdba7-b149-5369-acef-efcf4c397093
+related:
+- content: aggregates [some egressLane]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: aggregates [some ingressLane]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [intersection]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[junction](junction.md) with at least one [grade separated manoeuvre](grade
+    separated manoeuvre.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[interchange](interchange.md)"
+- content: "[junction](junction.md) without any [grade separated manoeuvres](grade
+    separated manoeuvre.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[junction at grade](junction at grade.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.6.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: '08f8a67b-ddc4-58bf-bf32-d1165a408abb'
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      <img alt="junction Diagram" src="../../diagrams/junction.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Admitted term:
+      Admitted term: {{urn:iso:std:iso:14812:ed3:3.3.6.1,intersection}} that allows {{urn:iso:std:iso:14812:ed3:3.6.1.1,travellers}} to change {{urn:iso:std:iso:14812:ed3:3.3.5.1,roads}}
+      | Referencing Term | Type of Reference |
+      | --- | --- |
+      | {{urn:iso:std:iso:14812:ed3:3.3.6.9,interchange}} | subClassOf |
+      | {{urn:iso:std:iso:14812:ed3:3.3.6.8,junction at grade}} | subClassOf |
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: junction
+  language_code: eng
+  entry_status: valid
+id: 18bcdba7-b149-5369-acef-efcf4c397093

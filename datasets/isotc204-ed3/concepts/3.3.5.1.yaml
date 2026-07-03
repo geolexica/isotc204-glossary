@@ -1,0 +1,66 @@
+---
+data:
+  identifier: 3.3.5.1
+  localized_concepts:
+    eng: c889fb11-1a11-5095-8153-f81873d7067b
+related:
+- content: "[road](road.md) that has buildings, walls or fences on each side"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[alley](alley.md)"
+- content: "[road](road.md) with separate carriageways for each direction, with limited
+    access that prevents cross traffic on the same level, and for the exclusive use
+    of certain classes of motor vehicles"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[motorway](motorway.md)"
+- content: alley designed to facilitate the provision of services for adjacent locations
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[service alley](service alley.md)"
+- content: road designed to facilitate the provision of services to customers
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[service road](service road.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.5.1
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 8a0f51b3-bd46-5af0-91b4-af7169c9b80f
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      curvilinear length of {{urn:iso:std:iso:14812:ed3:3.3.1.3,roadway}} that shares the same {{urn:iso:std:iso:14812:ed3:3.3.5.12,road identifier}}
+      <img alt="road Diagram" src="../../diagrams/road.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      | Referencing Term | Type of Reference |
+      | --- | --- |
+      | {{urn:iso:std:iso:14812:ed3:3.3.5.11,alley}} | subClassOf |
+      | {{urn:iso:std:iso:14812:ed3:3.3.6.1,intersection}} | meetingOrCrossing |
+      | {{urn:iso:std:iso:14812:ed3:3.3.1.21,motorway}} | subClassOf |
+      | {{urn:iso:std:iso:14812:ed3:3.3.5.13,service road}} | subClassOf |
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: A length of the {{urn:iso:std:iso:14812:ed3:3.3.5.2,road network}} may
+      be referenced by multiple designators (e.g. Main Street and Route 7). In this
+      case, there would be two {{urn:iso:std:iso:14812:ed3:3.3.5.1,roads}} that share
+      the same set of {{urn:iso:std:iso:14812:ed3:3.3.1.5,carriageways}}.
+  - content: A road can change directions at a {{urn:iso:std:iso:14812:ed3:3.3.6.2,junction}}.
+  - content: The identification is generally a name or number.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: road
+  language_code: eng
+  entry_status: valid
+id: c889fb11-1a11-5095-8153-f81873d7067b

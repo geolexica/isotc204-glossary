@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 3.1.5.2
+  localized_concepts:
+    eng: 00a4180d-d8c6-564d-86e6-1b0ca58617ce
+related:
+- content: communications layer in the [ITS station reference architecture](ITS-S
+    reference architecture.md) corresponding to the physical and data link layers
+    of the OSI model for ITS communications
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ITS-S access layer](ITS-S access layer.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.5.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 938186ea-bbef-5309-8af5-01b54c766c3a
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      communications layer that corresponds to the physical and data link layers of the OSI model
+      <img alt="access layer Diagram" src="../../diagrams/access layer.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Admitted term: link layer
+      Admitted term: subnet layer
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: Within the Internet Engineering Task Force (IETF), the term "link layer"
+      is used to describe the same functionality as the access layer.
+  - content: Within the US, the NTCIP standards use the term "subnet layer" to describe
+      the same functionality as the access layer.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: access layer
+  language_code: eng
+  entry_status: valid
+id: 00a4180d-d8c6-564d-86e6-1b0ca58617ce

@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 3.5.3.1
+  localized_concepts:
+    eng: ef5bf1f7-e7d9-5eae-82b0-8a5037546910
+related:
+- content: for [some itsUser]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: fulfils [some itsUserNeed]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [service]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.3.1
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 5476d436-4350-5bf4-8805-5d31bb29c4e7
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      provision of functionality that fulfils one or more {{urn:iso:std:iso:14812:ed3:3.5.3.4,ITS user needs}}
+      <img alt="ITS service Diagram" src="../../diagrams/ITS service.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS service
+  - type: expression
+    normative_status: admitted
+    designation: service
+  language_code: eng
+  entry_status: valid
+id: ef5bf1f7-e7d9-5eae-82b0-8a5037546910

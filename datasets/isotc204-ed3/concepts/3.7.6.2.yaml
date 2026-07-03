@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 3.7.6.2
+  localized_concepts:
+    eng: 60a83397-8a67-50c9-95d5-b2d72ee18493
+related:
+- content: subClassOf [vehicle]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[motorized](motorized vehicle.md) [road vehicle](road vehicle.md) allowed
+    to operate in the same [driving spaces](driving space.md) as motorized [passenger](passenger.md)
+    cars"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[motor vehicle](motor vehicle.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.7.6.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: bb31584c-d107-5f69-9cc2-626b57d97b12
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      self-propelled {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}}
+      <img alt="motorized vehicle Diagram" src="../../diagrams/motorized vehicle.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: motorized vehicle
+  language_code: eng
+  entry_status: valid
+id: 60a83397-8a67-50c9-95d5-b2d72ee18493

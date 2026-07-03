@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 3.1.4.5
+  localized_concepts:
+    eng: 7229d46a-9bb7-5cfb-bb97-7bd9edb87799
+related:
+- content: aggregates [some dataFlow]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: aggregates [some processSpecification]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: aggregates [some process]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: aggregates [some terminator]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [architectureView]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.4.5
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: b34ec1dc-2970-5dea-9c54-c7367fe70b51
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.1.3.7,architecture view}} from the {{urn:iso:std:iso:14812:ed3:3.1.4.6,functional viewpoint}}
+      <img alt="functional view Diagram" src="../../diagrams/functional view.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: functional view
+  language_code: eng
+  entry_status: valid
+id: 7229d46a-9bb7-5cfb-bb97-7bd9edb87799

@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 3.4.1.6
+  localized_concepts:
+    eng: fcd08a2d-fa1e-545c-9d72-aec055323cc8
+related:
+- content: subClassOf [spatialLocation]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: area location, which is the destination of a defined route or itinerary
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[area destination](area destination.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.4.1.6
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 831fa014-21a8-5609-b7c6-3ed44b5118b3
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.4.1.2,spatial location}} enclosed within a two-dimensional boundary or boundaries across a defined surface
+      <img alt="area location Diagram" src="../../diagrams/area location.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      EXAMPLE: The British Isles.
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The boundary can consist of a single curvilinear line (e.g. a circle)
+      or multiple curvilinear lines (e.g. the boundaries of city limits) and can consist
+      of multiple enclosed areas.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: area location
+  - type: expression
+    normative_status: admitted
+    designation: ITS area location
+  language_code: eng
+  entry_status: valid
+id: fcd08a2d-fa1e-545c-9d72-aec055323cc8

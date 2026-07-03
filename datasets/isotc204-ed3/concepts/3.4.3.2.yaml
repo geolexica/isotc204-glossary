@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.4.3.2
+  localized_concepts:
+    eng: 8693c327-9780-5e2b-b91a-6df8a4556110
+related:
+- content: subClassOf [jurisdictionalArea]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 1bdce7d0-3c18-599e-8471-d877414553e1
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      transport-related, {{urn:iso:std:iso:14812:ed3:3.4.3.5,jurisdictional area}} whose only {{urn:iso:std:iso:14812:ed3:3.4.3.7,jurisdictional entities}} are governmental entities
+      <img alt="governmental area Diagram" src="../../diagrams/governmental area.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      EXAMPLE: A subway station owned by a governmental entity is a governmental area.
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The boundaries of a jurisdictional area can include or exclude geofenced
+      areas to indicate which jurisdictional entities have authority over {{urn:iso:std:iso:14812:ed3:3.3.7.1,transport
+      facilities}} as needed.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: governmental area
+  language_code: eng
+  entry_status: valid
+id: 8693c327-9780-5e2b-b91a-6df8a4556110

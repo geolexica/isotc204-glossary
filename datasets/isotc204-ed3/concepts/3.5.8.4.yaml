@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 3.5.8.4
+  localized_concepts:
+    eng: e7d26f9f-fac1-5c35-9d24-27ab64476d62
+related:
+- content: subClassOf [financialModel]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "<transport service> [cooperative](cooperative.md) [financial model](financial
+    model.md) where [users](user.md) partner to support the purchase, maintenance
+    and overhead costs associated with a [service](service.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[fractional ownership](fractional ownership.md)"
+- content: "[cooperative](cooperative.md) [financial model](financial model.md) where
+    [users](user.md) partner on a per-use basis"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[mutual benefit](mutual benefit.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.8.4
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: e485b985-d591-589b-9398-9cf0bf1a2bc3
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      type of {{urn:iso:std:iso:14812:ed3:3.5.8.1,financial model}} where {{urn:iso:std:iso:14812:ed3:3.5.1.3,users}} partner to defray the costs of {{urn:iso:std:iso:14812:ed3:3.5.1.1,services}}
+      <img alt="cooperative Diagram" src="../../diagrams/cooperative.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      | Referencing Term | Type of Reference |
+      | --- | --- |
+      | {{urn:iso:std:iso:14812:ed3:3.5.8.6,fractional ownership}} | subClassOf |
+      | {{urn:iso:std:iso:14812:ed3:3.5.8.5,mutual benefit}} | subClassOf |
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: Cooperative models are exclusive {{urn:iso:std:iso:14812:ed3:3.5.8.2,commercial}}
+      and {{urn:iso:std:iso:14812:ed3:3.5.8.3,public}} models.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cooperative
+  language_code: eng
+  entry_status: valid
+id: e7d26f9f-fac1-5c35-9d24-27ab64476d62

@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.2.9.1
+  localized_concepts:
+    eng: 7db957e8-beda-5d87-b3a7-3e2446d93f06
+related:
+- content: subClassOf [its-sUserNeed]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.2.9.1
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 871ac294-7f76-5530-b449-00d56afb7bb4
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.5.4.4,ITS-SU user need}} expressed as a formal set of interoperability requirements that need to be fulfilled to satisfy a portion of functionality of an {{urn:iso:std:iso:14812:ed3:3.2.8.1,ITS application}}
+      <img alt="ITS application role Diagram" src="../../diagrams/ITS application role.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS application role
+  language_code: eng
+  entry_status: valid
+id: 7db957e8-beda-5d87-b3a7-3e2446d93f06

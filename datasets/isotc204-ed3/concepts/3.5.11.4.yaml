@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 3.5.11.4
+  localized_concepts:
+    eng: d8a26813-c6bf-567f-a032-1398e8fa707e
+related:
+- content: attrFinancialModel [has cooperative]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: attrOperationalModel [has concurrent]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: attrTransportItem [has passengers]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [sharedTransportService]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.11.4
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 2254b7d4-87ed-59cb-864f-45d4739bd6a4
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.5.8.4,cooperative}} {{urn:iso:std:iso:14812:ed3:3.5.6.2,shared transport service}} that transports {{urn:iso:std:iso:14812:ed3:3.6.2.1,passengers}} {{urn:iso:std:iso:14812:ed3:3.5.9.3,concurrently}}
+      <img alt="rideshare service Diagram" src="../../diagrams/rideshare service.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rideshare service
+  language_code: eng
+  entry_status: valid
+id: d8a26813-c6bf-567f-a032-1398e8fa707e

@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.3.5.10
+  localized_concepts:
+    eng: a214031d-3614-5917-bcbb-a2a4a72ae4f2
+related:
+- content: subClassOf [link]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.5.10
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 5ca9fdc2-5367-514b-ac55-8ecd64af0259
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.3.5.5,link}} that represents a contiguous length of a {{urn:iso:std:iso:14812:ed3:3.3.5.9,lane link}} characterized by the same physical characteristics
+      <img alt="lane segment Diagram" src="../../diagrams/lane segment.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lane segment
+  language_code: eng
+  entry_status: valid
+id: a214031d-3614-5917-bcbb-a2a4a72ae4f2

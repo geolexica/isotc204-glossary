@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 3.5.9.6
+  localized_concepts:
+    eng: 955af26e-02b2-5f20-bbcc-0c8abfe807d2
+related:
+- content: subClassOf [concurrent]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.9.6
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: aa459ee5-c80b-5c85-876c-a465ca424c38
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      <transport service> {{urn:iso:std:iso:14812:ed3:3.5.9.3,concurrent}} operation where the {{urn:iso:std:iso:14812:ed3:3.5.2.2,transport provider}} may choose to divert from its path to service a new request from another {{urn:iso:std:iso:14812:ed3:3.5.2.3,transport users}} while servicing an earlier transport user
+      <img alt="paired on-demand Diagram" src="../../diagrams/paired on-demand.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      EXAMPLE: Ridesplitting.
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: paired on-demand
+  language_code: eng
+  entry_status: valid
+id: 955af26e-02b2-5f20-bbcc-0c8abfe807d2

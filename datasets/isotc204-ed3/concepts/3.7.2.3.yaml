@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 3.7.2.3
+  localized_concepts:
+    eng: 6bf273ca-d113-57a1-aa91-59aaaf4cc4b8
+related:
+- content: encodedReferenceFor [exactly 1 owl::Thing]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 849b8db8-c83c-52d1-8030-0055a1fe4f2b
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      reference for a vehicle derived from vehicle properties such as registration number but encoded so that it does not allow a human to identify the vehicle directly from the encoded value
+      <img alt="anonymized vehicle reference Diagram" src="../../diagrams/anonymized vehicle reference.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: anonymized vehicle reference
+  language_code: eng
+  entry_status: valid
+id: 6bf273ca-d113-57a1-aa91-59aaaf4cc4b8

@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.2.7.7
+  localized_concepts:
+    eng: 5e417d66-8678-551f-bd4c-d18b65016bfc
+related:
+- content: subClassOf [its-sNode]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.2.7.7
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 702af0e2-5945-55f0-bf2a-a3d91d0aac62
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.2.7.8,ITS-S node}} comprised of routing functionalities of an {{urn:iso:std:iso:14812:ed3:3.2.7.4,ITS station unit}} used to connect two networks and to forward packets not explicitly addressed to itself
+      <img alt="ITS-S router Diagram" src="../../diagrams/ITS-S router.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-S router
+  language_code: eng
+  entry_status: valid
+id: 5e417d66-8678-551f-bd4c-d18b65016bfc

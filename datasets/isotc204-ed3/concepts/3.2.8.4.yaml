@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 3.2.8.4
+  localized_concepts:
+    eng: 5e026c98-6284-5534-92dc-6965725dc9ca
+related:
+- content: annotatedOutlineFor [some itsApplicationSpecification]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.2.8.4
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 1b6d9933-5edf-5eac-97c2-2554faad35a0
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      defined annotated outline for an {{urn:iso:std:iso:14812:ed3:3.2.8.3,ITS application specification}}
+      <img alt="application template Diagram" src="../../diagrams/application template.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: application template
+  - type: expression
+    normative_status: admitted
+    designation: ITS application template
+  language_code: eng
+  entry_status: valid
+id: 5e026c98-6284-5534-92dc-6965725dc9ca

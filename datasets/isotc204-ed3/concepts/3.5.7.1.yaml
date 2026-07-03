@@ -1,0 +1,61 @@
+---
+data:
+  identifier: 3.5.7.1
+  localized_concepts:
+    eng: '0296a48e-982e-500f-8282-0615bf5407b5'
+related:
+- content: "[contractual model](contractual model.md) where the [user](user.md) is
+    a [commercial](commercial.md) [entity](entity.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[corporate customer model](corporate customer model.md)"
+- content: "[contractual model](contractual model.md) where the [user](user.md) is
+    a governmental [entity](entity.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[government customer model](government customer model.md)"
+- content: "<transport service> [private customer model](private customer model.md)
+    where the [service provider](service provider.md) is an individual"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[peer-to-peer](peer-to-peer.md)"
+- content: "[contractual model](contractual model.md) where the [user](user.md) is
+    an individual"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[private customer model](private customer model.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.7.1
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 51970fa6-62ff-56b1-aca8-e4257f3e3774
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      legal framework for the agreement between a {{urn:iso:std:iso:14812:ed3:3.5.1.2,service provider}} and a {{urn:iso:std:iso:14812:ed3:3.5.1.3,user}}
+      <img alt="contractual model Diagram" src="../../diagrams/contractual model.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: Contracts can be via a third party, implied or verbal, especially in
+      the case of {{urn:iso:std:iso:14812:ed3:3.5.7.5,peer-to-peer}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: contractual model
+  - type: expression
+    normative_status: admitted
+    designation: shared mobility contract model
+  language_code: eng
+  entry_status: valid
+id: '0296a48e-982e-500f-8282-0615bf5407b5'

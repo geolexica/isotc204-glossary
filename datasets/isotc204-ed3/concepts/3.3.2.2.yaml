@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 3.3.2.2
+  localized_concepts:
+    eng: 5fd5a015-bd2b-5bbb-96f0-a3e898578097
+related:
+- content: subClassOf [physicalTrafficSeparator]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.2.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 11b6ff63-a4f4-5df2-ad85-683ad8c4f9b1
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      part of the {{urn:iso:std:iso:14812:ed3:3.3.1.2,road reservation}} between {{urn:iso:std:iso:14812:ed3:3.3.1.5,carriageways}} designed for travel safety purposes
+      <img alt="central reservation Diagram" src="../../diagrams/central reservation.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Admitted term: median
+      Admitted term: median strip
+      Admitted term: neutral ground
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: A central reservation can be paved or unpaved and can be equipped with
+      a safety barrier, rails, or other devices.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: central reservation
+  language_code: eng
+  entry_status: valid
+id: 5fd5a015-bd2b-5bbb-96f0-a3e898578097

@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 3.8.1.1
+  localized_concepts:
+    eng: a079e7d0-dba2-5b61-a5ef-82fb35b408a4
+related:
+- content: acceptedBy [some serviceProvider]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: a6dd76f8-50e5-5c02-bf38-a9a58a0041e6
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      financial instrument accepted by the service provider, that gives the user the right to use provided services
+      <img alt="payment means Diagram" src="../../diagrams/payment means.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      EXAMPLE: token, stored electronic account, fleet card, bank account, credit card, contract
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: payment means
+  language_code: eng
+  entry_status: valid
+id: a079e7d0-dba2-5b61-a5ef-82fb35b408a4

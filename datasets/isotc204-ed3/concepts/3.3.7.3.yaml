@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 3.3.7.3
+  localized_concepts:
+    eng: f3b85492-3fd5-5651-8ad9-36807a124dee
+related:
+- content: subClassOf [transportFacility]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[bridge](bridge.md) with a deck that can be moved in a way that disrupts
+    the continuous travel path"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[movable bridge](movable bridge.md)"
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 77467bfe-c092-5fcb-b4ef-e5ff970ff4f2
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.3.7.1,transport facility}} built over a gap to provide a continuous travel path
+      <img alt="bridge Diagram" src="../../diagrams/bridge.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      | Referencing Term | Type of Reference |
+      | --- | --- |
+      | {{urn:iso:std:iso:14812:ed3:3.3.7.4,movable bridge}} | subClassOf |
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bridge
+  language_code: eng
+  entry_status: valid
+id: f3b85492-3fd5-5651-8ad9-36807a124dee

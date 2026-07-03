@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 3.2.3.6
+  localized_concepts:
+    eng: 0fb6ad68-09d5-5038-b2da-da695626865f
+related:
+- content: characteristicOf [some materialEntity]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.2.3.6
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: af84c3da-46f0-5d67-94d7-e4833bc8b251
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      characteristic of a {{urn:iso:std:iso:14812:ed3:3.1.1.3,material entity}} that is equipped with enabled (i.e. on) and operational electronic communication technologies to support {{urn:iso:std:iso:14812:ed3:3.5.3.1,ITS services}}, including the means to send and receive data to and from other connected entities
+      <img alt="connected Diagram" src="../../diagrams/connected.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The term "connected" does not imply support for any specific communications
+      interface or ITS-S application process [ITS-S application process.md].
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: connected
+  - type: expression
+    normative_status: admitted
+    designation: ITS connected
+  language_code: eng
+  entry_status: valid
+id: 0fb6ad68-09d5-5038-b2da-da695626865f

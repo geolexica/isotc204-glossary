@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 3.4.2.1
+  localized_concepts:
+    eng: 908aceed-9061-5b03-88f3-8608e5b236f5
+related:
+- content: processToDevelop [some spatialReference]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.4.2.1
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: aefc1e4f-a48a-5056-af89-51ed4fcbc20a
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      process used to develop a {{urn:iso:std:iso:14812:ed3:3.4.2.2,spatial reference}}
+      <img alt="location referencing Diagram" src="../../diagrams/location referencing.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: location referencing
+  - type: expression
+    normative_status: admitted
+    designation: ITS location referencing
+  language_code: eng
+  entry_status: valid
+id: 908aceed-9061-5b03-88f3-8608e5b236f5

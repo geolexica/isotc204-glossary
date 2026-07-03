@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.2.3.7
+  localized_concepts:
+    eng: 8425f202-093e-58b3-8947-3e707ba05d12
+related:
+- content: is [some connected]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [vehicle]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 8542d2f2-5101-57cf-ae26-e038b26eae04
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} that is {{urn:iso:std:iso:14812:ed3:3.2.3.6,connected}} using one or more communication media
+      <img alt="connected vehicle Diagram" src="../../diagrams/connected vehicle.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: connected vehicle
+  language_code: eng
+  entry_status: valid
+id: 8425f202-093e-58b3-8947-3e707ba05d12

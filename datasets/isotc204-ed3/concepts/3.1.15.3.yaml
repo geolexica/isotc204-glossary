@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 3.1.15.3
+  localized_concepts:
+    eng: 1f6bb7f2-2f5e-5f6d-938c-07b6a6e34011
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: aaad9eec-d82d-524b-a51e-26af1601615d
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      discrete, bounded object with an intrinsic, immutable, and unique identity
+      <img alt="instance Diagram" src="../../diagrams/instance.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      EXAMPLE: Example: A specific smartphone (e.g., having a unique serial number)
+      Source: ISO/IEC/IEEE 24765:2017, definition 1, example and note added
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: An instance of an implementation can also be called a physical instantiation,
+      in the case of a hardware component.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instance
+  language_code: eng
+  entry_status: valid
+id: 1f6bb7f2-2f5e-5f6d-938c-07b6a6e34011

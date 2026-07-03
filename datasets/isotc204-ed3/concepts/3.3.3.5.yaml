@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 3.3.3.5
+  localized_concepts:
+    eng: 53db688b-a482-5a9e-b124-77fbd02963b0
+related:
+- content: subClassOf [footpath]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: bb21f3bc-ea36-5f1d-8c59-f09f132f0dbb
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      rising or falling stairway that assists pedestrians in vertical transitions
+      <img alt="escalator Diagram" src="../../diagrams/escalator.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: escalator
+  language_code: eng
+  entry_status: valid
+id: 53db688b-a482-5a9e-b124-77fbd02963b0

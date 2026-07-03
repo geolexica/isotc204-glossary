@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.3.6.4
+  localized_concepts:
+    eng: ee059515-fbbf-5395-a1e3-c49a2443ad27
+related:
+- content: aggregates [some ingressLane]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.6.4
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: fdea8bfe-3044-51e0-affd-7e6d43efe6cb
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      all {{urn:iso:std:iso:14812:ed3:3.3.6.3,ingress lanes}} on a {{urn:iso:std:iso:14812:ed3:3.3.5.6,road link}}
+      <img alt="ingress link Diagram" src="../../diagrams/ingress link.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ingress link
+  language_code: eng
+  entry_status: valid
+id: ee059515-fbbf-5395-a1e3-c49a2443ad27

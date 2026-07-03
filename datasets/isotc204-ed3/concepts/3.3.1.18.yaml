@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 3.3.1.18
+  localized_concepts:
+    eng: 875445c0-4f0b-5afd-91c0-b3126f56d884
+related:
+- content: part of the paved [carriageway](carriageway.md) designed to support traffic
+    loads but not normally intended for driving
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[hard shoulder](hard shoulder.md)"
+- content: unpaved part of the [road reservation](road reservation.md) not belonging
+    to the [carriageway](carriageway.md) but providing lateral support to it
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[soft shoulder](soft shoulder.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.1.18
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: f520abc3-7e2e-554d-9efd-9374caef7d21
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      either a {{urn:iso:std:iso:14812:ed3:3.3.1.19,hard shoulder}} or a {{urn:iso:std:iso:14812:ed3:3.3.1.20,soft shoulder}}
+      <img alt="shoulder Diagram" src="../../diagrams/shoulder.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      | Referencing Term | Type of Reference |
+      | --- | --- |
+      | {{urn:iso:std:iso:14812:ed3:3.3.1.19,hard shoulder}} | subClassOf |
+      | {{urn:iso:std:iso:14812:ed3:3.3.1.20,soft shoulder}} | subClassOf |
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: In some jurisdictions, a shoulder can be used for emergency stops and/or
+      other purposes in addition to providing a clear zone for safety purposes.
+  - content: "{{urn:iso:std:iso:14812:ed3:3.3.1.10,Roadside}}, shoulder and {{urn:iso:std:iso:14812:ed3:3.3.1.11,verge}}
+      define similar but slightly different concepts"
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: shoulder
+  language_code: eng
+  entry_status: valid
+id: 875445c0-4f0b-5afd-91c0-b3126f56d884

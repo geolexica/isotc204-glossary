@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 3.7.5.4
+  localized_concepts:
+    eng: 9a9cde69-acbe-5796-8a5b-ff3fb6b41117
+related:
+- content: subClassOf [vehicle]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.7.5.4
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: bf785a01-89a1-5321-8900-6c04c5c20bf6
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} with a {{urn:iso:std:iso:14812:ed3:3.7.2.2,design speed}} in the range of {{urn:iso:std:iso:14812:ed3:3.7.5.10,moderate vehicle speeds}}
+      <img alt="moderate-speed vehicle Diagram" src="../../diagrams/moderate-speed vehicle.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      EXAMPLE: Typical side-by-side utility task vehicle (UTV).
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: moderate-speed vehicle
+  language_code: eng
+  entry_status: valid
+id: 9a9cde69-acbe-5796-8a5b-ff3fb6b41117

@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 3.2.8.3
+  localized_concepts:
+    eng: 7769eaf0-d447-5a77-ad95-9a32c7673eb6
+related:
+- content: details [some interoperabilityDesign]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: for [some itsApplication]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.2.8.3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: aeed4ab7-b711-5841-bcae-6fbb4e5efd6e
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      one or more {{urn:iso:std:iso:14812:ed3:3.1.6.3,documents}} that detail the {{urn:iso:std:iso:14812:ed3:3.2.8.2,interoperability design}} for an {{urn:iso:std:iso:14812:ed3:3.2.8.1,ITS application}}
+      <img alt="ITS application specification Diagram" src="../../diagrams/ITS application specification.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS application specification
+  language_code: eng
+  entry_status: valid
+id: 7769eaf0-d447-5a77-ad95-9a32c7673eb6

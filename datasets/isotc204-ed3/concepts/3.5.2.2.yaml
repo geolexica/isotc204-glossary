@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 3.5.2.2
+  localized_concepts:
+    eng: d12dc163-ee8a-5b27-9d2e-f1e1fb3586b0
+related:
+- content: delivers [some transportService]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [serviceProvider]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.2.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 6bbb7324-9eff-5ade-9415-8b72c5278ba0
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.1.1.1,entity}} that delivers one or more {{urn:iso:std:iso:14812:ed3:3.5.2.1,transport services}}
+      <img alt="transport provider Diagram" src="../../diagrams/transport provider.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transport provider
+  - type: expression
+    normative_status: admitted
+    designation: provider
+  - type: expression
+    normative_status: admitted
+    designation: service provider
+  language_code: eng
+  entry_status: valid
+id: d12dc163-ee8a-5b27-9d2e-f1e1fb3586b0

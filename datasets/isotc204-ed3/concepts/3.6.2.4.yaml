@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 3.6.2.4
+  localized_concepts:
+    eng: 90b4c926-6299-510e-beff-9e08f3338102
+related:
+- content: subClassOf [driver]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: uses [some built-inVehicleInputDevice]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.6.2.4
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: f5a4f871-4bf3-512e-b849-7ddef4e28467
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.6.2.3,driver}} that performs the {{urn:iso:std:iso:14812:ed3:3.7.3.1,dynamic driving task}} using the {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle's}} built-in input devices to control the longitudinal and lateral movement of the vehicle
+      <img alt="in-vehicle driver Diagram" src="../../diagrams/in-vehicle driver.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: in-vehicle driver
+  - type: expression
+    normative_status: admitted
+    designation: conventional driver
+  language_code: eng
+  entry_status: valid
+id: 90b4c926-6299-510e-beff-9e08f3338102

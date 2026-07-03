@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 3.5.9.2
+  localized_concepts:
+    eng: ec333381-bdb4-582c-bb45-867b831e5721
+related:
+- content: subClassOf [operationalModel]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.9.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 15c3abff-4e29-58fa-8489-41adcdcabfe7
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.5.9.1,operational model}} where {{urn:iso:std:iso:14812:ed3:3.5.1.1,services}} are provided to a single {{urn:iso:std:iso:14812:ed3:3.5.1.3,user}} at any one time
+      <img alt="sequential Diagram" src="../../diagrams/sequential.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      EXAMPLE: Traditional taxi service.
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: A single transport consumer can request the transport of multiple {{urn:iso:std:iso:14812:ed3:3.6.2.1,passengers}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sequential
+  language_code: eng
+  entry_status: valid
+id: ec333381-bdb4-582c-bb45-867b831e5721

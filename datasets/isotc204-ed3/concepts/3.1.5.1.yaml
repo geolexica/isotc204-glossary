@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 3.1.5.1
+  localized_concepts:
+    eng: 6616dcc7-7d42-5a49-90e3-769111c90804
+related:
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.1.5.1
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: e4f48313-22d1-5a50-90c1-ce861793a1c3
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      part of the {{urn:iso:std:iso:14812:ed3:3.1.9.4,ITS station reference architecture}} that is responsible for providing ITS-related functionality
+      <img alt="application entity Diagram" src="../../diagrams/application entity.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Deprecated term: information layer
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: Within the US, the National Transportation Communications for ITS Protocol
+      (NTCIP) standards identify an "information layer" on top of the traditional
+      OSI stack. However, the purpose of this layer includes both information configuration
+      and functionality. The ITS-S reference architecture separates these two roles
+      between the {{urn:iso:std:iso:14812:ed3:3.1.5.6,management entity}} and the
+      {{urn:iso:std:iso:14812:ed3:3.1.5.1,application entity}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: application entity
+  - type: expression
+    normative_status: admitted
+    designation: ITS-S application entity
+  language_code: eng
+  entry_status: valid
+id: 6616dcc7-7d42-5a49-90e3-769111c90804

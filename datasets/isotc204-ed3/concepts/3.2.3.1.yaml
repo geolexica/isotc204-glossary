@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 3.2.3.1
+  localized_concepts:
+    eng: 912e97df-93db-5e8a-8a7d-a6c438573ad8
+related:
+- content: subClassOf [fieldSystem]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.2.3.1
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: f629c3a2-27d3-5e8c-be5c-3b3138afb4b6
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      portable {{urn:iso:std:iso:14812:ed3:3.2.1.2,field system}} used by field personnel to locally troubleshoot, initialize, reprogram and test infrastructure equipment
+      <img alt="field support equipment Diagram" src="../../diagrams/field support equipment.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: field support equipment
+  - type: expression
+    normative_status: admitted
+    designation: ITS field support equipment
+  language_code: eng
+  entry_status: valid
+id: 912e97df-93db-5e8a-8a7d-a6c438573ad8

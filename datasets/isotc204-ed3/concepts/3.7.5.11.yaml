@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 3.7.5.11
+  localized_concepts:
+    eng: 2d68e725-2dca-59b3-aea6-e58d243723a4
+related:
+- content: subClassOf [speed]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.7.5.11
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 87845f9f-ab07-5005-969c-44384a31ee77
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.7.2.1,speed}} of a {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} that is typical of free-flow motorway speeds to twice that speed
+      <img alt="moderately-high vehicle speed Diagram" src="../../diagrams/moderately-high vehicle speed.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      EXAMPLE: A speed in the range of 87 km/h and 198 km/h.
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: Local regulations for the exact speed range vary.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: moderately-high vehicle speed
+  language_code: eng
+  entry_status: valid
+id: 2d68e725-2dca-59b3-aea6-e58d243723a4

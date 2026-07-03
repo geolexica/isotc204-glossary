@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.3.6.10
+  localized_concepts:
+    eng: 2bb8fb5c-8de6-50bf-9289-335ebc35bd9e
+related:
+- content: subClassOf [intersectionManoeuvre]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.3.6.10
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: c0886a8f-86a4-5ee5-baf3-6145ef74fcb3
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      manoeuvre that is vertically separated from one or more manoeuvres that cross its two-dimensional path
+      <img alt="grade separated manoeuvre Diagram" src="../../diagrams/grade separated manoeuvre.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: grade separated manoeuvre
+  language_code: eng
+  entry_status: valid
+id: 2bb8fb5c-8de6-50bf-9289-335ebc35bd9e

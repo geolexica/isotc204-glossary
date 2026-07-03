@@ -1,0 +1,58 @@
+---
+data:
+  identifier: 3.5.1.4
+  localized_concepts:
+    eng: 26e5038f-5381-5b7b-acda-7c538f583010
+related:
+- content: desiredResultsOf [some user]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[user need](user need.md) for a [surface transport system](surface transport
+    system.md) benefit that can be met with the use of information, communication,
+    and transducer technologies"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ITS user need](ITS user need.md)"
+- content: "[user need](user need.md) for processing within a [bounded, secure, managed
+    domain](bounded secured managed domain.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ITS-SU user need](ITS-SU user need.md)"
+- content: "[user need](user need.md) to transport one or more [material entities](material
+    entity.md) to a different [spatial location](spatial location.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[transport user need](transport user need.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.1.4
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: a2eb7944-f881-526a-9990-3e24132baffc
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      desired results of a {{urn:iso:std:iso:14812:ed3:3.5.1.3,user}} within a specified context of use
+      <img alt="user need Diagram" src="../../diagrams/user need.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: user need
+  - type: expression
+    normative_status: admitted
+    designation: need
+  language_code: eng
+  entry_status: valid
+id: 26e5038f-5381-5b7b-acda-7c538f583010

@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 3.5.3.4
+  localized_concepts:
+    eng: 44e2b5a6-8975-59d4-8483-b4a58e346f22
+related:
+- content: desiredResultsOf [some itsUser]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [userNeed]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.3.4
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: a5b32a08-78b8-5949-92fc-0a675c81698f
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.5.1.4,user need}} for a {{urn:iso:std:iso:14812:ed3:3.1.2.3,surface transport system}} benefit that can be met with the use of information, communication, and transducer technologies
+      <img alt="ITS user need Diagram" src="../../diagrams/ITS user need.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      EXAMPLE: Increasing safety, sustainability, efficiency and/or comfort.
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS user need
+  - type: expression
+    normative_status: admitted
+    designation: user need
+  language_code: eng
+  entry_status: valid
+id: 44e2b5a6-8975-59d4-8483-b4a58e346f22

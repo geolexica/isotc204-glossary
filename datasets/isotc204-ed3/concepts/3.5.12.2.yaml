@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 3.5.12.2
+  localized_concepts:
+    eng: a5fe9365-4309-542b-8132-ee7f547b54b9
+related:
+- content: subClassOf [sharedVehicleService]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.12.2
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 50762760-2e23-5632-b09f-ff299407ac7b
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.5.6.3,shared vehicle service}} that shares {{urn:iso:std:iso:14812:ed3:3.6.2.1,passenger}} cars
+      <img alt="carsharing service Diagram" src="../../diagrams/carsharing service.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      Admitted term: passenger car sharing service
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The term "passenger car sharing service" is admitted but has the same
+      meaning.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: carsharing service
+  language_code: eng
+  entry_status: valid
+id: a5fe9365-4309-542b-8132-ee7f547b54b9

@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 3.6.2.3
+  localized_concepts:
+    eng: 856cd3f0-20cb-5d54-b6f9-3e61d2d9fd15
+related:
+- content: isA [some person]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[driver](driver.md) that performs the [dynamic driving task](dynamic driving
+    task.md) using the [vehicle's](vehicle.md) built-in [input devices](input device.md)
+    to control the longitudinal and lateral movement of the vehicle"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[in-vehicle driver](in-vehicle driver.md)"
+- content: "[driver](driver.md) that performs the [dynamic driving task](dynamic driving
+    task.md) without using the [vehicle's](vehicle.md) built-in [input devices](input
+    device.md) to control the longitudinal and lateral movement of the vehicle"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[remote driver](remote driver.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.6.2.3
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: b7173b36-5ab8-5f22-85fc-cd570de8c177
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.1.1.6,person}} that is currently responsible for the {{urn:iso:std:iso:14812:ed3:3.7.3.1,dynamic driving task}} for the {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}}
+      <img alt="driver Diagram" src="../../diagrams/driver.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      | Referencing Term | Type of Reference |
+      | --- | --- |
+      | {{urn:iso:std:iso:14812:ed3:3.6.2.4,in-vehicle driver}} | subClassOf |
+      | {{urn:iso:std:iso:14812:ed3:3.6.2.5,remote driver}} | subClassOf |
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The driver is typically on-board the vehicle but could be remote from
+      the vehicle or automated logic.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: driver
+  language_code: eng
+  entry_status: valid
+id: 856cd3f0-20cb-5d54-b6f9-3e61d2d9fd15

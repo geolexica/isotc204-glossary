@@ -1,0 +1,127 @@
+---
+data:
+  identifier: 3.5.2.1
+  localized_concepts:
+    eng: 3f9c79d5-359f-5e36-8bb1-3df3698cccef
+related:
+- content: for [some transportUser]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: fulfils [some transportUserNeed]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [service]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: transports [some materialEntity]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: "[shared vehicle service](shared vehicle service.md) that shares bicycles"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[bikesharing service](bikesharing service.md)"
+- content: "[shared vehicle service](shared vehicle service.md) that shares [passenger](passenger.md)
+    cars"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[carsharing service](carsharing service.md)"
+- content: "[commercial](commercial.md), [peer-to-peer](peer-to-peer.md) [shared transport
+    service](shared transport service.md) that transports goods"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[courier network service](courier network service.md)"
+- content: "[transport service](transport service.md) that is publicly accessible
+    enabling the movement of one or more [persons](person.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[public transport](public transport.md)"
+- content: "[cooperative](cooperative.md) [shared transport service](shared transport
+    service.md) that transports [passengers](passenger.md) [concurrently](concurrent.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[rideshare service](rideshare service.md)"
+- content: "[commercial](commercial.md), [peer-to-peer](peer-to-peer.md) [shared transport
+    service](shared transport service.md) that transports [passengers](passenger.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ridesourced service](ridesourced service.md)"
+- content: "[ridesourced service](ridesourced service.md) that serves [passengers](passenger.md)
+    [concurrently](concurrent.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[ridesplit service](ridesplit service.md)"
+- content: "[transport service](transport service.md) that relies upon the same [resources](resource.md)
+    to fulfil the [transport needs](transport need.md) of multiple unrelated [transport
+    users](transport user.md) and where the [transport provider](transport provider.md)
+    has the primary responsibility for the operation of the transport mode"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[shared transport service](shared transport service.md)"
+- content: "[transport service](transport service.md) that [sequentially](sequential.md)
+    provides the same [vehicles](vehicle.md) to multiple unrelated [transport users](transport
+    user.md) and where the transport user has the primary responsibility for the operation
+    of the vehicle"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[shared vehicle service](shared vehicle service.md)"
+- content: "[shared transport service](shared transport service.md) that transports
+    [passengers](passenger.md) between two specified [spatial locations](spatial location.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[shuttle service](shuttle service.md)"
+- content: "[commercial](commercial.md) [shared transport service](shared transport
+    service.md) that transports [passengers](passenger.md) [sequentially](sequential.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[taxi service](taxi service.md)"
+- content: "[commercial](commercial.md) [shared transport service](shared transport
+    service.md) that transports [passengers](passenger.md) [concurrently](concurrent.md)"
+  type: narrower
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+    id: "[taxi-share service](taxi-share service.md)"
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.2.1
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 3408d0ff-c4b7-53f2-98fe-eea314352cc7
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.5.1.1,service}} that transports one or more {{urn:iso:std:iso:14812:ed3:3.1.1.3,material entities}} from one {{urn:iso:std:iso:14812:ed3:3.4.1.2,spatial location}} to another
+      <img alt="transport service Diagram" src="../../diagrams/transport service.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes:
+  - content: The material entities transported can be people and/or goods.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transport service
+  - type: expression
+    normative_status: admitted
+    designation: service
+  language_code: eng
+  entry_status: valid
+id: 3f9c79d5-359f-5e36-8bb1-3df3698cccef

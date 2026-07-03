@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 3.5.4.4
+  localized_concepts:
+    eng: dbbde180-7d31-5a9c-9676-3d839c8efec1
+related:
+- content: requiresProcessingWithin [some boundedSecuredManagedDomain]
+  type: related_concept
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- content: subClassOf [userNeed]
+  type: broader
+  ref:
+    source: urn:iso:std:iso:14812:ed3
+- type: supersedes
+  ref:
+    source: urn:iso:std:iso:14812:2025
+    id: 3.5.4.4
+date_accepted: '2026-06-01T00:00:00+00:00'
+status: valid
+id: 2f9c6133-15a8-5a0f-9208-3ad3caf5b7ea
+schema_version: '3'
+---
+data:
+  definition:
+  - content: |-
+      {{urn:iso:std:iso:14812:ed3:3.5.1.4,user need}} for processing within a {{urn:iso:std:iso:14812:ed3:3.2.7.1,bounded, secure, managed domain}}
+      <img alt="ITS-SU user need Diagram" src="../../diagrams/ITS-SU user need.dot.png" /> <!-- Fallback for non-SVG browsers -->
+      </object>
+      ---
+      Comment on this page
+  examples: []
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ITS-SU user need
+  language_code: eng
+  entry_status: valid
+id: dbbde180-7d31-5a9c-9676-3d839c8efec1
