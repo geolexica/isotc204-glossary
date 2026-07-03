@@ -29,12 +29,8 @@ data:
   definition:
   - content: |-
       {{urn:iso:std:iso:14812:ed3:3.5.2.1,transport service}} that is publicly accessible enabling the movement of one or more {{urn:iso:std:iso:14812:ed3:3.1.1.6,persons}}
-      <img alt="public transport Diagram" src="../../diagrams/public transport.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Example 1: Bus, tram, cable car, metro, train and ferry are examples of public transport means for collective use.
       Example 2: Publicly-accessible shared cars, shared bikes and shared el-scooters are examples of public transport means for shared and individual use.
-      ---
-      Comment on this page
   notes:
   - content: A public transport service can be scheduled or on-demand.
   - content: A public transport service is based on the use of publicly accessible

@@ -15,12 +15,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      communications layer in the {{urn:iso:std:iso:14812:ed3:3.1.9.4,ITS station reference architecture}} corresponding to the network and transport layers of the OSI model
-      <img alt="transnet layer Diagram" src="../../diagrams/transnet layer.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: communications layer in the {{urn:iso:std:iso:14812:ed3:3.1.9.4,ITS station
+      reference architecture}} corresponding to the network and transport layers of
+      the OSI model
   notes:
   - content: The full name of this layer is the networking and transport layer, but
       the term transnet layer provides a more concise name.

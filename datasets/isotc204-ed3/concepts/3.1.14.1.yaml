@@ -12,11 +12,7 @@ data:
   definition:
   - content: |-
       verification that a {{urn:iso:std:iso:14812:ed3:3.1.11.5,message}} was sent by the purported originator to the intended recipient and that the message was not changed in transit
-      <img alt="authentication Diagram" src="../../diagrams/authentication.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Source: ISO/IEC 2382:2015
-      ---
-      Comment on this page
   terms:
   - type: expression
     normative_status: preferred

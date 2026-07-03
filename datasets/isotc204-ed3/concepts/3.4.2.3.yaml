@@ -21,11 +21,7 @@ data:
   definition:
   - content: |-
       {{urn:iso:std:iso:14812:ed3:3.4.2.2,spatial reference}} generated on-the-fly based on geographic properties in a digital map database
-      <img alt="dynamic spatial reference Diagram" src="../../diagrams/dynamic spatial reference.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Admitted term: dynamic location reference
-      ---
-      Comment on this page
   terms:
   - type: expression
     normative_status: preferred

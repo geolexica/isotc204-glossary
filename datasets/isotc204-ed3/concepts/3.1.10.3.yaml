@@ -23,11 +23,7 @@ data:
   definition:
   - content: |-
       collection of {{urn:iso:std:iso:14812:ed3:3.1.10.1,data concepts}} that allows lookup by {{urn:iso:std:iso:14812:ed3:3.1.1.1,entity}} identifier
-      <img alt="data dictionary Diagram" src="../../diagrams/data dictionary.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Source: ISO 22745-2:2010, B.2.16, modified - "collection of data dictionary entries..." replaced with "collection of data concepts...".
-      ---
-      Comment on this page
   terms:
   - type: expression
     normative_status: preferred

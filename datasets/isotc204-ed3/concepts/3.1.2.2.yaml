@@ -25,12 +25,10 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.1.2.1,system}} of infrastructure {{urn:iso:std:iso:14812:ed3:3.1.3.10,elements}} and optionally {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicles}} that are jointly designed to move {{urn:iso:std:iso:14812:ed3:3.1.1.3,material entities}} from an origin to a destination
-      <img alt="transport system Diagram" src="../../diagrams/transport system.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.1.2.1,system}} of infrastructure {{urn:iso:std:iso:14812:ed3:3.1.3.10,elements}}
+      and optionally {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicles}} that are jointly
+      designed to move {{urn:iso:std:iso:14812:ed3:3.1.1.3,material entities}} from
+      an origin to a destination"
   notes:
   - content: Transport systems can also include any supporting system, such as information
       and control systems.

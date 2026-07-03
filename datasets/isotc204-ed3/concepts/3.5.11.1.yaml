@@ -23,12 +23,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.5.6.2,shared transport service}} that transports {{urn:iso:std:iso:14812:ed3:3.6.2.1,passengers}} between two specified {{urn:iso:std:iso:14812:ed3:3.4.1.2,spatial locations}}
-      <img alt="shuttle service Diagram" src="../../diagrams/shuttle service.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.5.6.2,shared transport service}} that
+      transports {{urn:iso:std:iso:14812:ed3:3.6.2.1,passengers}} between two specified
+      {{urn:iso:std:iso:14812:ed3:3.4.1.2,spatial locations}}"
   notes:
   - content: Each location can be defined as point, linear or area locations. However,
       the areas of the two locations should not overlap.

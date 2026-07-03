@@ -15,12 +15,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.3.9.1,road equipment}} used to visually, audibly, or tangibly convey regulatory, advisory, or guidance information to {{urn:iso:std:iso:14812:ed3:3.6.1.2,road users}}
-      <img alt="traffic control device Diagram" src="../../diagrams/traffic control device.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.3.9.1,road equipment}} used to visually,
+      audibly, or tangibly convey regulatory, advisory, or guidance information to
+      {{urn:iso:std:iso:14812:ed3:3.6.1.2,road users}}"
   terms:
   - type: expression
     normative_status: preferred

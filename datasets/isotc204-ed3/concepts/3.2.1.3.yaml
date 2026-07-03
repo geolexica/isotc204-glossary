@@ -44,12 +44,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.1.8.2,ITS component}}, other than a {{urn:iso:std:iso:14812:ed3:3.2.1.5,vehicle system}}, that is used by a {{urn:iso:std:iso:14812:ed3:3.1.1.6,person}} in relation to a past, current or upcoming journey
-      <img alt="personal system Diagram" src="../../diagrams/personal system.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.1.8.2,ITS component}}, other than a {{urn:iso:std:iso:14812:ed3:3.2.1.5,vehicle
+      system}}, that is used by a {{urn:iso:std:iso:14812:ed3:3.1.1.6,person}} in
+      relation to a past, current or upcoming journey"
   terms:
   - type: expression
     normative_status: preferred

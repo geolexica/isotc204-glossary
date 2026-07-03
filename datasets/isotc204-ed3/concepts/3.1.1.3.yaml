@@ -188,15 +188,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.1.1.1,entity}} that occupies three-dimensional space
-      <img alt="material entity Diagram" src="../../diagrams/material entity.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      | Referencing Term | Type of Reference |
-      | --- | --- |
-      | {{urn:iso:std:iso:14812:ed3:3.7.2.1,speed}} | rateOfChangeOfPositionOf |
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.1.1.1,entity}} that occupies three-dimensional
+      space"
   notes:
   - content: All material entities have certain characteristics that can be described
       and therefore this concept is important for ontology purposes.

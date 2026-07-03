@@ -19,12 +19,10 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      operating mode of a {{urn:iso:std:iso:14812:ed3:3.3.1.19,hard shoulder}} that allows operation of emergency, construction, maintenance, or other special use {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicles}} or for emergency stopping and is prohibited for other vehicle usage
-      <img alt="hard shoulder for emergency use Diagram" src="../../diagrams/hard shoulder for emergency use.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: operating mode of a {{urn:iso:std:iso:14812:ed3:3.3.1.19,hard shoulder}}
+      that allows operation of emergency, construction, maintenance, or other special
+      use {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicles}} or for emergency stopping
+      and is prohibited for other vehicle usage
   terms:
   - type: expression
     normative_status: preferred

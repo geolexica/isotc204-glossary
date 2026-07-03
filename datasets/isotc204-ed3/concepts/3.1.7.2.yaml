@@ -19,12 +19,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      <functional view> series of one or more {{urn:iso:std:iso:14812:ed3:3.1.7.3,functions}} in support of an {{urn:iso:std:iso:14812:ed3:3.5.3.1,ITS service}}
-      <img alt="process Diagram" src="../../diagrams/process.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "<functional view> series of one or more {{urn:iso:std:iso:14812:ed3:3.1.7.3,functions}}
+      in support of an {{urn:iso:std:iso:14812:ed3:3.5.3.1,ITS service}}"
   terms:
   - type: expression
     normative_status: preferred

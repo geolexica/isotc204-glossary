@@ -23,14 +23,18 @@ module Iso14812Import
     end
 
     class MarkdownFileParser
-      CLAUSE_RE     = /^Clause:\s*(.+)$/.freeze
-      ALT_TERM_RE   = /^Alternative preferred term:\s*(.+)$/.freeze
-      NOTE_RE       = /^Note\s+\d+\s+to entry:\s*(.+)$/.freeze
-      HISTORY_RE    = /^History note:\s*(.+)$/.freeze
-      SECTION_H1_RE = /^#\s+(.+)$/.freeze
-      SPEC_HEAD_RE  = /^##\s+Specializations of /.freeze
-      REL_HEAD_RE   = /^##\s+Relationships for /.freeze
-      HR_RE         = /^---\s*$/.freeze
+      CLAUSE_RE       = /^Clause:\s*(.+)$/.freeze
+      ALT_TERM_RE     = /^Alternative preferred term:\s*(.+)$/.freeze
+      NOTE_RE         = /^Note\s+\d+\s+to entry:\s*(.+)$/.freeze
+      EXAMPLE_RE      = /^EXAMPLE:\s*(.+)$/.freeze
+      HISTORY_RE      = /^History note:\s*(.+)$/.freeze
+      SECTION_H1_RE   = /^#\s+(.+)$/.freeze
+      SPEC_HEAD_RE    = /^##\s+Specializations of /.freeze
+      REL_HEAD_RE     = /^##\s+Relationships for /.freeze
+      REFS_HEAD_RE    = /^##\s+References to /.freeze
+      OBJECT_OPEN_RE  = /^<object\b/.freeze
+      OBJECT_CLOSE_RE = %r{</object>}.freeze
+      HR_RE           = /^---\s*$/.freeze
 
       attr_reader :edition, :path
 
@@ -56,6 +60,7 @@ module Iso14812Import
         body = lines[1..] || []
         body = body[0..-2] while body.last&.start_with?("[Comment on this page]")
         body = body[0..-2] while body.last&.match?(HR_RE)
+        body = body[0..-2] while body.last&.strip&.empty?
         body
       end
 
@@ -78,7 +83,7 @@ module Iso14812Import
           sources: [],
           relationships: s.relationships,
           specializations: s.specializations,
-          figures: [],
+          figures: s.figures,
           breadcrumb_sections: [],
           history_notes: s.history_notes,
         )
@@ -86,9 +91,22 @@ module Iso14812Import
 
       # Single-pass state machine over body lines. Owns its own state,
       # produces all extracted fields as attrs.
+      #
+      # Recognized line shapes (in any reasonable order):
+      #   # Title                         -> title
+      #   <object ...> ... </object>      -> figure reference (multi-line block)
+      #   Clause: 3.1.1.1                 -> clause
+      #   Alternative preferred term: X   -> alt_names
+      #   Note N to entry: text           -> notes
+      #   EXAMPLE: text                   -> examples
+      #   History note: text              -> history_notes
+      #   ## Specializations of X + table -> specializations
+      #   ## Relationships for X + table  -> relationships
+      #   anything else (in body)         -> definition prose
       class Splitter
         attr_reader :title, :clause, :alt_names, :examples,
-                    :notes, :history_notes, :relationships, :specializations
+                    :notes, :history_notes, :relationships, :specializations,
+                    :figures
 
         def initialize(body)
           @state = :prologue
@@ -101,8 +119,11 @@ module Iso14812Import
           @history_notes = []
           @relationships = []
           @specializations = []
+          @figures = []
           @table_buffer = nil
           @table_kind = nil
+          @in_object_block = false
+          @object_buffer = nil
           run(body)
         end
 
@@ -115,9 +136,16 @@ module Iso14812Import
         def run(body)
           body.each { |line| process(line.strip, line) }
           flush_table if @table_buffer
+          # An unterminated <object> block at EOF is malformed; drop it.
+          @object_buffer = nil
         end
 
         def process(stripped, _original)
+          if @in_object_block
+            handle_object_block_state(stripped)
+            return
+          end
+
           if (m = stripped.match(SECTION_H1_RE)) && @state == :prologue
             @title = m[1].strip
             @state = :body
@@ -131,6 +159,8 @@ module Iso14812Import
             return
           end
 
+          return if handle_object_open(stripped)
+
           if (m = stripped.match(CLAUSE_RE))
             @clause = m[1].strip
             return
@@ -143,6 +173,11 @@ module Iso14812Import
 
           if (m = stripped.match(NOTE_RE))
             @notes << m[1].strip
+            return
+          end
+
+          if (m = stripped.match(EXAMPLE_RE))
+            @examples << m[1].strip
             return
           end
 
@@ -161,11 +196,54 @@ module Iso14812Import
             return
           end
 
-          return if stripped.empty?
+          # "## References to X" is a reverse-relationship table — concepts
+          # that point at the current concept. We skip it because the data
+          # is derivable from forward relationships in those other concepts,
+          # and the v3 model has no native "referenced-by" authoring.
+          if REFS_HEAD_RE.match?(stripped)
+            start_table(:skip)
+            return
+          end
 
+          return if stripped.empty?
+          return if hr_or_footer?(stripped)
           return unless definition_captureable?(stripped)
 
           @definition_lines << stripped
+        end
+
+        def handle_object_open(stripped)
+          return false unless OBJECT_OPEN_RE.match?(stripped)
+
+          @in_object_block = true
+          @object_buffer = [stripped]
+          # If the open tag line also contains the close tag, terminate
+          # the block immediately (single-line <object ...></object>).
+          finish_object_block if OBJECT_CLOSE_RE.match?(stripped)
+          true
+        end
+
+        def handle_object_block_state(stripped)
+          @object_buffer << stripped
+          finish_object_block if OBJECT_CLOSE_RE.match?(stripped)
+        end
+
+        def finish_object_block
+          @figures << Iso14812Import::FigureRef.new(
+            src: extract_object_src(@object_buffer),
+            alt: extract_object_alt(@object_buffer),
+            caption: nil,
+          )
+          @in_object_block = false
+          @object_buffer = nil
+        end
+
+        def extract_object_src(lines)
+          lines.flat_map { |l| l.scan(/src=["']([^"']+)["']/) }.flatten.first
+        end
+
+        def extract_object_alt(lines)
+          lines.flat_map { |l| l.scan(/alt=["']([^"']+)["']/) }.flatten.first
         end
 
         def handle_table_line(stripped)
@@ -196,6 +274,9 @@ module Iso14812Import
             rows.each { |row| @specializations << Iso14812Import::Specialization.new(target_name: row[0], description: row[1]) }
           when :relationship
             rows.each { |row| @relationships << Iso14812Import::RawRelationship.new(predicate: row[0], target_name: nil, constraint: row[1], description: nil) }
+          when :skip
+            # "## References to X" table — reverse relationships; data is
+            # derivable from forward relationships in other concepts.
           end
           @table_buffer = nil
           @table_kind = nil
@@ -205,14 +286,23 @@ module Iso14812Import
           return false if stripped.match?(CLAUSE_RE)
           return false if stripped.match?(ALT_TERM_RE)
           return false if stripped.match?(NOTE_RE)
+          return false if stripped.match?(EXAMPLE_RE)
           return false if stripped.match?(HISTORY_RE)
           return false if stripped.start_with?("Note ")
+          return false if stripped.start_with?("EXAMPLE:")
           return false if stripped.start_with?("History note:")
           return false if stripped.start_with?("<object")
+          return false if OBJECT_CLOSE_RE.match?(stripped)
           return false if stripped.start_with?("#")
           return false if SPEC_HEAD_RE.match?(stripped)
           return false if REL_HEAD_RE.match?(stripped)
           true
+        end
+
+        def hr_or_footer?(stripped)
+          return true if stripped.match?(HR_RE)
+          return true if stripped.start_with?("[Comment on this page]")
+          false
         end
 
         def split_alt_terms(text)

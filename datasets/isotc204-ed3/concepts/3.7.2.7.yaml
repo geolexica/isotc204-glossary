@@ -15,12 +15,7 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      type of load carried by the vehicle
-      <img alt="vehicle load type Diagram" src="../../diagrams/vehicle load type.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: type of load carried by the vehicle
   terms:
   - type: expression
     normative_status: preferred

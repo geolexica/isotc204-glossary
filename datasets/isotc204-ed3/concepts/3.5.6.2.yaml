@@ -65,12 +65,11 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.5.2.1,transport service}} that relies upon the same {{urn:iso:std:iso:14812:ed3:3.1.6.2,resources}} to fulfil the transport needs of multiple unrelated {{urn:iso:std:iso:14812:ed3:3.5.2.3,transport users}} and where the {{urn:iso:std:iso:14812:ed3:3.5.2.2,transport provider}} has the primary responsibility for the operation of the transport mode
-      <img alt="shared transport service Diagram" src="../../diagrams/shared transport service.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.5.2.1,transport service}} that relies
+      upon the same {{urn:iso:std:iso:14812:ed3:3.1.6.2,resources}} to fulfil the
+      transport needs of multiple unrelated {{urn:iso:std:iso:14812:ed3:3.5.2.3,transport
+      users}} and where the {{urn:iso:std:iso:14812:ed3:3.5.2.2,transport provider}}
+      has the primary responsibility for the operation of the transport mode"
   notes:
   - content: A shared transport service might not be dependent upon a vehicle and/or
       could be multi-modal. For example, a letter courier service could rely on walking

@@ -27,12 +27,11 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      location for storing a {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} Note 1 to entry: The vehicle can be a motor vehicle, cycle, or any other type of vehicle. Note 2 to entry: A parking space is usually designed for a single vehicle. Note 3 to entry: Parking spaces can be, but are not necessarily, denoted by painted or other road surface markings.
-      <img alt="parking space Diagram" src="../../diagrams/parking space.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: 'location for storing a {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}}
+      Note 1 to entry: The vehicle can be a motor vehicle, cycle, or any other type
+      of vehicle. Note 2 to entry: A parking space is usually designed for a single
+      vehicle. Note 3 to entry: Parking spaces can be, but are not necessarily, denoted
+      by painted or other road surface markings.'
   terms:
   - type: expression
     normative_status: preferred

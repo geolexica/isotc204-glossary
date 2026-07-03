@@ -15,12 +15,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.5.5.1,mobility app}} that provides information about current travel conditions to a {{urn:iso:std:iso:14812:ed3:3.5.2.3,transport user}}
-      <img alt="real-time traveller information app Diagram" src="../../diagrams/real-time traveller information app.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.5.5.1,mobility app}} that provides information
+      about current travel conditions to a {{urn:iso:std:iso:14812:ed3:3.5.2.3,transport
+      user}}"
   terms:
   - type: expression
     normative_status: preferred

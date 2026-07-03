@@ -40,16 +40,8 @@ schema_version: '3'
 data:
   definition:
   - content: |-
-      <img alt="junction Diagram" src="../../diagrams/junction.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Admitted term:
       Admitted term: {{urn:iso:std:iso:14812:ed3:3.3.6.1,intersection}} that allows {{urn:iso:std:iso:14812:ed3:3.6.1.1,travellers}} to change {{urn:iso:std:iso:14812:ed3:3.3.5.1,roads}}
-      | Referencing Term | Type of Reference |
-      | --- | --- |
-      | {{urn:iso:std:iso:14812:ed3:3.3.6.9,interchange}} | subClassOf |
-      | {{urn:iso:std:iso:14812:ed3:3.3.6.8,junction at grade}} | subClassOf |
-      ---
-      Comment on this page
   terms:
   - type: expression
     normative_status: preferred

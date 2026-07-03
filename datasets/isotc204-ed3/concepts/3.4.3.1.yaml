@@ -17,12 +17,8 @@ data:
   definition:
   - content: |-
       {{urn:iso:std:iso:14812:ed3:3.4.3.5,jurisdictional area}} with a {{urn:iso:std:iso:14812:ed3:3.4.3.7,jurisdictional entity}} who is the owner of the area but excluding transport facilities managed by the local government
-      <img alt="campus Diagram" src="../../diagrams/campus.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Example 1: A point of interest (e.g., airport, university, business park, industrial area, shopping centre) that includes transport infrastructure that is managed by the local government. In this case, the government-managed transport infrastructure is a governmental area while the campus is represented by the remainder of the area.
       Example 2: A point of interest (e.g., airport, university, business park, industrial area, shopping centre) that manages its own transport infrastructure separately from that managed by the local government. In this case, the point of interest and its own transport system are a part of the campus.
-      ---
-      Comment on this page
   notes:
   - content: A campus can be privately or publicly owned.
   terms:

@@ -24,13 +24,10 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.4.1.2,spatial location}} enclosed within a two-dimensional boundary or boundaries across a defined surface
-      <img alt="area location Diagram" src="../../diagrams/area location.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      EXAMPLE: The British Isles.
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.4.1.2,spatial location}} enclosed within
+      a two-dimensional boundary or boundaries across a defined surface"
+  examples:
+  - content: The British Isles.
   notes:
   - content: The boundary can consist of a single curvilinear line (e.g. a circle)
       or multiple curvilinear lines (e.g. the boundaries of city limits) and can consist

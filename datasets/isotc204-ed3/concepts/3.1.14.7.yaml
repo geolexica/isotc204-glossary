@@ -12,11 +12,7 @@ data:
   definition:
   - content: |-
       occurrence indicating a possible breach of information security or failure of {{urn:iso:std:iso:14812:ed3:3.1.14.3,controls}}
-      <img alt="information security event Diagram" src="../../diagrams/information security event.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Source: ISO/IEC 27035-1
-      ---
-      Comment on this page
   terms:
   - type: expression
     normative_status: preferred

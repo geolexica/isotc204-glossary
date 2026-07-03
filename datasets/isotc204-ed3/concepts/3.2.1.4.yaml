@@ -32,13 +32,12 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.1.8.2,ITS component}} that provides services in support of one or more other ITS components
-      <img alt="support system Diagram" src="../../diagrams/support system.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      EXAMPLE: Data distribution {{urn:iso:std:iso:14812:ed3:3.1.2.1,system}}, network time source, {{urn:iso:std:iso:14812:ed3:3.2.5.1,cooperative ITS credentials management system}}.
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.1.8.2,ITS component}} that provides services
+      in support of one or more other ITS components"
+  examples:
+  - content: Data distribution {{urn:iso:std:iso:14812:ed3:3.1.2.1,system}}, network
+      time source, {{urn:iso:std:iso:14812:ed3:3.2.5.1,cooperative ITS credentials
+      management system}}.
   terms:
   - type: expression
     normative_status: preferred

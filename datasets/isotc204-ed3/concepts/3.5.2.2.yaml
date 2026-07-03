@@ -23,12 +23,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.1.1.1,entity}} that delivers one or more {{urn:iso:std:iso:14812:ed3:3.5.2.1,transport services}}
-      <img alt="transport provider Diagram" src="../../diagrams/transport provider.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.1.1.1,entity}} that delivers one or more
+      {{urn:iso:std:iso:14812:ed3:3.5.2.1,transport services}}"
   terms:
   - type: expression
     normative_status: preferred

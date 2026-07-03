@@ -19,12 +19,7 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.1.1.6,person}} who is travelling on foot
-      <img alt="pedestrian Diagram" src="../../diagrams/pedestrian.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.1.1.6,person}} who is travelling on foot"
   terms:
   - type: expression
     normative_status: preferred

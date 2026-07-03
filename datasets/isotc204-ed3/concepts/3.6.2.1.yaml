@@ -23,12 +23,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.1.1.6,person}} who has a reservation to travel or is travelling in a {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} except for any crew, staff or {{urn:iso:std:iso:14812:ed3:3.6.2.3,drivers}}
-      <img alt="passenger Diagram" src="../../diagrams/passenger.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.1.1.6,person}} who has a reservation to
+      travel or is travelling in a {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} except
+      for any crew, staff or {{urn:iso:std:iso:14812:ed3:3.6.2.3,drivers}}"
   terms:
   - type: expression
     normative_status: preferred

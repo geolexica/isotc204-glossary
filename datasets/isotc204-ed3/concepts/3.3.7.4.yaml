@@ -15,12 +15,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.3.7.3,bridge}} with a deck that can be moved in a way that disrupts the continuous travel path
-      <img alt="movable bridge Diagram" src="../../diagrams/movable bridge.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.3.7.3,bridge}} with a deck that can be
+      moved in a way that disrupts the continuous travel path"
   notes:
   - content: Movable bridges can be used over waterways to allow for the passage of
       tall ships.

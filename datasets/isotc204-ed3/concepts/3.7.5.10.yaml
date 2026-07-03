@@ -19,13 +19,11 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.7.2.1,speed}} of a {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} that exceeds {{urn:iso:std:iso:14812:ed3:3.7.5.9,moderately-low vehicle speeds}} but does not reach free-flow motorway speeds
-      <img alt="moderate vehicle speed Diagram" src="../../diagrams/moderate vehicle speed.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      EXAMPLE: A speed in the range of 48 km/h and 87 km/h.
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.7.2.1,speed}} of a {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}}
+      that exceeds {{urn:iso:std:iso:14812:ed3:3.7.5.9,moderately-low vehicle speeds}}
+      but does not reach free-flow motorway speeds"
+  examples:
+  - content: A speed in the range of 48 km/h and 87 km/h.
   notes:
   - content: Local regulations for the exact speed range vary.
   terms:

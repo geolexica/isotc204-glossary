@@ -27,15 +27,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      unit of data that is considered in a given context to be indivisible and which includes an unambiguous representational form
-      <img alt="data element Diagram" src="../../diagrams/data element.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      | Referencing Term | Type of Reference |
-      | --- | --- |
-      | {{urn:iso:std:iso:14812:ed3:3.1.11.5,message}} | contains |
-      ---
-      Comment on this page
+  - content: unit of data that is considered in a given context to be indivisible
+      and which includes an unambiguous representational form
   notes:
   - content: This definition states that a data element is "indivisible" in a given
       context. This means it is possible for a data element considered indivisible

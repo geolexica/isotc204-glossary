@@ -53,15 +53,7 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      particular place or position
-      <img alt="location Diagram" src="../../diagrams/location.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      | Referencing Term | Type of Reference |
-      | --- | --- |
-      | {{urn:iso:std:iso:14812:ed3:3.4.1.2,spatial location}} | subClassOf |
-      ---
-      Comment on this page
+  - content: particular place or position
   notes:
   - content: The term "location" by itself is a broad term that can be used to reference
       spatial, computer memory, imaginary and other locations.

@@ -27,12 +27,7 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      having exactly two {{urn:iso:std:iso:14812:ed3:3.3.1.5,carriageways}}
-      <img alt="dual carriageway Diagram" src="../../diagrams/dual carriageway.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: having exactly two {{urn:iso:std:iso:14812:ed3:3.3.1.5,carriageways}}
   notes:
   - content: The "dual carriageway" term can be used to describe a {{urn:iso:std:iso:14812:ed3:3.3.5.1,road}},
       {{urn:iso:std:iso:14812:ed3:3.3.5.7,road section}}, {{urn:iso:std:iso:14812:ed3:3.3.5.6,road

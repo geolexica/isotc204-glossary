@@ -12,11 +12,7 @@ data:
   definition:
   - content: |-
       weakness of an asset or {{urn:iso:std:iso:14812:ed3:3.1.14.3,control}} that can be exploited by one or more {{urn:iso:std:iso:14812:ed3:3.1.14.13,threats}}
-      <img alt="vulnerability Diagram" src="../../diagrams/vulnerability.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Source: ISO/IEC 27000:2018, 3.77
-      ---
-      Comment on this page
   terms:
   - type: expression
     normative_status: preferred

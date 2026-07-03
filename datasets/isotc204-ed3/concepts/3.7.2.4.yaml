@@ -15,12 +15,7 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      type of equipment in use or on board the vehicle
-      <img alt="vehicle equipment Diagram" src="../../diagrams/vehicle equipment.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: type of equipment in use or on board the vehicle
   terms:
   - type: expression
     normative_status: preferred

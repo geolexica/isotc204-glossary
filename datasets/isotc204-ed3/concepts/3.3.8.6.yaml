@@ -19,12 +19,7 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      pick-up/drop-off area area for public transport vehicles
-      <img alt="public transport vehicle stop Diagram" src="../../diagrams/public transport vehicle stop.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: pick-up/drop-off area area for public transport vehicles
   notes:
   - content: The term "PTV stop" is often specialized to indicate the type of public
       transport vehicle (e.g., "bus stop", "tram stop").

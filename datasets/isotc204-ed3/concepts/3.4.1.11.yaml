@@ -15,12 +15,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      coordinate tuple defining the geodetic position of a single {{urn:iso:std:iso:14812:ed3:3.4.1.3,point location}} using a known geodetic reference system
-      <img alt="point coordinates Diagram" src="../../diagrams/point coordinates.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: coordinate tuple defining the geodetic position of a single {{urn:iso:std:iso:14812:ed3:3.4.1.3,point
+      location}} using a known geodetic reference system
   terms:
   - type: expression
     normative_status: preferred

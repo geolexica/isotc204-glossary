@@ -15,12 +15,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.3.8.1,designated parking space}} that requires a special permit from an appropriate authority
-      <img alt="parking space for permit holders Diagram" src="../../diagrams/parking space for permit holders.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.3.8.1,designated parking space}} that
+      requires a special permit from an appropriate authority"
   notes:
   - content: The permit can be physically displayed or linked to a database, per authority
       policies.

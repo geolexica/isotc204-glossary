@@ -29,12 +29,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.4.1.2,spatial location}} with no length in any of the spatial dimensions
-      <img alt="point location Diagram" src="../../diagrams/point location.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.4.1.2,spatial location}} with no length
+      in any of the spatial dimensions"
   terms:
   - type: expression
     normative_status: preferred

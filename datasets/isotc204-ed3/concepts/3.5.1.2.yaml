@@ -40,12 +40,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.1.1.1,entity}} that delivers one or more {{urn:iso:std:iso:14812:ed3:3.5.1.1,services}}
-      <img alt="service provider Diagram" src="../../diagrams/service provider.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.1.1.1,entity}} that delivers one or more
+      {{urn:iso:std:iso:14812:ed3:3.5.1.1,services}}"
   terms:
   - type: expression
     normative_status: preferred

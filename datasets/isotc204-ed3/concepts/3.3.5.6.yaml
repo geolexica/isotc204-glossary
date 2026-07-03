@@ -27,12 +27,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.3.5.5,link}} representing a contiguous length of a {{urn:iso:std:iso:14812:ed3:3.3.5.1,road}} between two {{urn:iso:std:iso:14812:ed3:3.3.5.4,nodes}} of operational or managerial significance
-      <img alt="road link Diagram" src="../../diagrams/road link.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.3.5.5,link}} representing a contiguous
+      length of a {{urn:iso:std:iso:14812:ed3:3.3.5.1,road}} between two {{urn:iso:std:iso:14812:ed3:3.3.5.4,nodes}}
+      of operational or managerial significance"
   notes:
   - content: The operational characteristics of the nodes would relate to the type
       of {{urn:iso:std:iso:14812:ed3:3.3.5.3,road model}}. For example, a traffic

@@ -19,12 +19,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      grouping of {{urn:iso:std:iso:14812:ed3:3.1.11.1,data elements}}, {{urn:iso:std:iso:14812:ed3:3.1.11.4,data frames}}, or data elements and data frames that is used to convey information
-      <img alt="message Diagram" src="../../diagrams/message.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: grouping of {{urn:iso:std:iso:14812:ed3:3.1.11.1,data elements}}, {{urn:iso:std:iso:14812:ed3:3.1.11.4,data
+      frames}}, or data elements and data frames that is used to convey information
   terms:
   - type: expression
     normative_status: preferred

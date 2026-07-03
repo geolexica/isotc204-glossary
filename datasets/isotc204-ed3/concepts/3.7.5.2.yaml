@@ -21,12 +21,9 @@ data:
   definition:
   - content: |-
       {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} with a {{urn:iso:std:iso:14812:ed3:3.7.2.2,design speed}} in the range of {{urn:iso:std:iso:14812:ed3:3.7.5.8,low vehicle speeds}}
-      <img alt="low-speed vehicle Diagram" src="../../diagrams/low-speed vehicle.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Admitted term: cycle-speed vehicle
-      EXAMPLE: Mountain bicycle.
-      ---
-      Comment on this page
+  examples:
+  - content: Mountain bicycle.
   notes:
   - content: The term "cycle-speed vehicle" is allowed but the preferred term follows
       a logical progression of levels.

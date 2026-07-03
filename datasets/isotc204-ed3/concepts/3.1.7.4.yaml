@@ -15,12 +15,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.1.6.3,document}} that defines a lowest-level {{urn:iso:std:iso:14812:ed3:3.1.7.2,process}}
-      <img alt="process specification Diagram" src="../../diagrams/process specification.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.1.6.3,document}} that defines a lowest-level
+      {{urn:iso:std:iso:14812:ed3:3.1.7.2,process}}"
   terms:
   - type: expression
     normative_status: preferred

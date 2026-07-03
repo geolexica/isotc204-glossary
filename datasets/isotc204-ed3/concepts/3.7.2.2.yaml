@@ -21,11 +21,7 @@ data:
   definition:
   - content: |-
       <vehicle> maximum {{urn:iso:std:iso:14812:ed3:3.7.2.1,speed}} at which a {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} is intended to operate for a sustained period of time
-      <img alt="design speed Diagram" src="../../diagrams/design speed.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Admitted term: top speed
-      ---
-      Comment on this page
   notes:
   - content: The term "top speed" is defined in SAE J3194 in relation to powered micromobility
       vehicles and is considered to be semantically equivalent to design speed.

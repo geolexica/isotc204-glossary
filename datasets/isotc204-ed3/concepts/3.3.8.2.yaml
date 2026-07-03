@@ -15,12 +15,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      area designated for {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicles}} to load and/or unload goods
-      <img alt="loading area Diagram" src="../../diagrams/loading area.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: area designated for {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicles}} to
+      load and/or unload goods
   notes:
   - content: The area can include the vehicle waiting area and the goods waiting area.
   terms:

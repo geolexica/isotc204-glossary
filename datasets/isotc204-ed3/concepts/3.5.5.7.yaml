@@ -15,12 +15,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.5.5.1,mobility app}} that assists a {{urn:iso:std:iso:14812:ed3:3.5.2.3,transport user}} in using a {{urn:iso:std:iso:14812:ed3:3.5.6.1,public transport}} {{urn:iso:std:iso:14812:ed3:3.1.2.1,system}}
-      <img alt="public transport app Diagram" src="../../diagrams/public transport app.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.5.5.1,mobility app}} that assists a {{urn:iso:std:iso:14812:ed3:3.5.2.3,transport
+      user}} in using a {{urn:iso:std:iso:14812:ed3:3.5.6.1,public transport}} {{urn:iso:std:iso:14812:ed3:3.1.2.1,system}}"
   notes:
   - content: A public transport app can include features such as viewing maps, searching
       routes and schedules, real-time arrival information, ticketing, electronic boarding

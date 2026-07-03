@@ -15,12 +15,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.5.5.5,P2P mobility sharing app}} for acquiring a {{urn:iso:std:iso:14812:ed3:3.5.11.5,ridesourced service}}
-      <img alt="ridesourcing app Diagram" src="../../diagrams/ridesourcing app.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.5.5.5,P2P mobility sharing app}} for acquiring
+      a {{urn:iso:std:iso:14812:ed3:3.5.11.5,ridesourced service}}"
   terms:
   - type: expression
     normative_status: preferred

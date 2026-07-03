@@ -21,11 +21,7 @@ data:
   definition:
   - content: |-
       {{urn:iso:std:iso:14812:ed3:3.5.6.3,shared vehicle service}} that shares {{urn:iso:std:iso:14812:ed3:3.6.2.1,passenger}} cars
-      <img alt="carsharing service Diagram" src="../../diagrams/carsharing service.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Admitted term: passenger car sharing service
-      ---
-      Comment on this page
   notes:
   - content: The term "passenger car sharing service" is admitted but has the same
       meaning.

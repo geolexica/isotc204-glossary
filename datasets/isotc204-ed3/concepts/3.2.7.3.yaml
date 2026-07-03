@@ -27,12 +27,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.2.7.1,bounded secured managed domain}} that is able to meet requirements of the {{urn:iso:std:iso:14812:ed3:3.2.7.2,ITS trust domain}} within which it is designed to participate
-      <img alt="ITS station Diagram" src="../../diagrams/ITS station.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.2.7.1,bounded secured managed domain}}
+      that is able to meet requirements of the {{urn:iso:std:iso:14812:ed3:3.2.7.2,ITS
+      trust domain}} within which it is designed to participate"
   notes:
   - content: The ITS station reference architecture is defined in ISO 21217.
   - content: This complements the ISO 21217:2020 definition (which identifies the

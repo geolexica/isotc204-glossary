@@ -12,11 +12,7 @@ data:
   definition:
   - content: |-
       implementation of a system concept
-      <img alt="realization Diagram" src="../../diagrams/realization.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Source: ISO/IEC/IEEE 24765:2017, example added
-      ---
-      Comment on this page
   notes:
   - content: A realization requires the development of a design and the translation
       of this design into hardware components, software components, or both.

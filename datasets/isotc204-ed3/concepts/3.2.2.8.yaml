@@ -19,12 +19,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.2.1.1,centre system}} that provides information of interest to the travelling public
-      <img alt="transport information central system Diagram" src="../../diagrams/transport information central system.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.2.1.1,centre system}} that provides information
+      of interest to the travelling public"
   terms:
   - type: expression
     normative_status: preferred

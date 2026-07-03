@@ -38,17 +38,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.1.1.1,entity}} for whom the {{urn:iso:std:iso:14812:ed3:3.1.2.1,system}} of interest is designed
-      <img alt="user Diagram" src="../../diagrams/user.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      | Referencing Term | Type of Reference |
-      | --- | --- |
-      | {{urn:iso:std:iso:14812:ed3:3.5.4.3,ITS-SU user}} | subClassOf |
-      | {{urn:iso:std:iso:14812:ed3:3.5.3.3,ITS user}} | subClassOf |
-      | {{urn:iso:std:iso:14812:ed3:3.5.2.3,transport user}} | subClassOf |
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.1.1.1,entity}} for whom the {{urn:iso:std:iso:14812:ed3:3.1.2.1,system}}
+      of interest is designed"
   notes:
   - content: The term "consumer" can be used when fulfilling the need results in the
       consumption of a {{urn:iso:std:iso:14812:ed3:3.1.6.2,resource}}.

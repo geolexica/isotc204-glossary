@@ -21,12 +21,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.3.8.3,parking space}} for a designated purpose Note 1 to entry:  Note 2 to entry:
-      <img alt="designated parking space Diagram" src="../../diagrams/designated parking space.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.3.8.3,parking space}} for a designated
+      purpose Note 1 to entry:  Note 2 to entry:"
   notes:
   - content: Designated parking spaces include those that require permits (e.g., reserved
       for those with disabilities) as well as advisory notices that rely upon voluntary

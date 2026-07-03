@@ -15,12 +15,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      series of 17 characters that is based on either ISO 3779 or ISO 3780 and uniquely identifies the individual vehicle and is normally securely attached to the vehicle chassis
-      <img alt="vehicle identifier Diagram" src="../../diagrams/vehicle identifier.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: series of 17 characters that is based on either ISO 3779 or ISO 3780
+      and uniquely identifies the individual vehicle and is normally securely attached
+      to the vehicle chassis
   terms:
   - type: expression
     normative_status: preferred

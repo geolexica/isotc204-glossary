@@ -21,13 +21,11 @@ data:
   definition:
   - content: |-
       {{urn:iso:std:iso:14812:ed3:3.4.2.2,spatial reference}} in the form of a label or code that identifies a {{urn:iso:std:iso:14812:ed3:3.4.1.1,location}}
-      <img alt="geographic identifier Diagram" src="../../diagrams/geographic identifier.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Deprecated term: location code
-      EXAMPLE: "Spain" is an example of a label (country name); "SW1P 3AD" is an example of a code (postcode).
       Source: ISO 19112:2019, 3.1.2, modified - Note 1 to entry and deprecated term added.
-      ---
-      Comment on this page
+  examples:
+  - content: '"Spain" is an example of a label (country name); "SW1P 3AD" is an example
+      of a code (postcode).'
   notes:
   - content: The term "location code" has been used previously in ISO/TC 204 documents,
       but "geographic identifier" is preferred to better align with the activities

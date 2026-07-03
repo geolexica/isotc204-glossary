@@ -23,12 +23,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      extent of sidewalk on one side of a street between two consecutive intersections crossing that street
-      <img alt="block-face Diagram" src="../../diagrams/block-face.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: extent of sidewalk on one side of a street between two consecutive intersections
+      crossing that street
   terms:
   - type: expression
     normative_status: preferred

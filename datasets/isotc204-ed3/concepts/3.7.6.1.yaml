@@ -26,12 +26,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} meeting the requirements to operate within the {{urn:iso:std:iso:14812:ed3:3.3.1.4,driving space}} of a {{urn:iso:std:iso:14812:ed3:3.3.5.1,road}}
-      <img alt="road vehicle Diagram" src="../../diagrams/road vehicle.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} meeting the requirements
+      to operate within the {{urn:iso:std:iso:14812:ed3:3.3.1.4,driving space}} of
+      a {{urn:iso:std:iso:14812:ed3:3.3.5.1,road}}"
   notes:
   - content: Unless indicated otherwise, the term typically refers to vehicles that
       are allowed to operate in the same {{urn:iso:std:iso:14812:ed3:3.3.1.4,driving

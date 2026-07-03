@@ -15,15 +15,10 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      short length of paved {{urn:iso:std:iso:14812:ed3:3.3.1.5,carriageway}} at its edge designed to allow a {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} to draw out of the {{urn:iso:std:iso:14812:ed3:3.3.1.13,traffic lanes}} and stop temporarily
-      <img alt="lay-by Diagram" src="../../diagrams/lay-by.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      | Referencing Term | Type of Reference |
-      | --- | --- |
-      | {{urn:iso:std:iso:14812:ed3:3.3.1.5,carriageway}} | comprises |
-      ---
-      Comment on this page
+  - content: short length of paved {{urn:iso:std:iso:14812:ed3:3.3.1.5,carriageway}}
+      at its edge designed to allow a {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}}
+      to draw out of the {{urn:iso:std:iso:14812:ed3:3.3.1.13,traffic lanes}} and
+      stop temporarily
   notes:
   - content: Lay-bys are not part of a {{urn:iso:std:iso:14812:ed3:3.3.1.19,hard shoulder}}.
   - content: Lay-bys can be used for emergency situations, picking up/dropping off

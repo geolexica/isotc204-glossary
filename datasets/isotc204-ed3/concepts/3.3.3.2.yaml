@@ -19,12 +19,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      infrastructure primarily designed for the use of cycles and separate from a {{urn:iso:std:iso:14812:ed3:3.3.1.5,carriageway}}
-      <img alt="cycleway Diagram" src="../../diagrams/cycleway.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: infrastructure primarily designed for the use of cycles and separate
+      from a {{urn:iso:std:iso:14812:ed3:3.3.1.5,carriageway}}
   notes:
   - content: Local legislation can allow cycleways to be used by a variety of {{urn:iso:std:iso:14812:ed3:3.7.5.3,moderately
       low-speed vehicles}} (e.g. low-speed scooters, skateboards, etc.) and can share

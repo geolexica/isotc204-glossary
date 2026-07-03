@@ -15,12 +15,7 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      area location, which is the destination of a defined route or itinerary
-      <img alt="area destination Diagram" src="../../diagrams/area destination.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: area location, which is the destination of a defined route or itinerary
   terms:
   - type: expression
     normative_status: preferred

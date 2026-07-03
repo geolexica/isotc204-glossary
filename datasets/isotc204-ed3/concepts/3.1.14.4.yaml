@@ -12,11 +12,7 @@ data:
   definition:
   - content: |-
       discipline that embodies the principles, means, and methods for the transformation of data in order to hide their semantic content, prevent their unauthorized use, or prevent their undetected modification
-      <img alt="cryptography Diagram" src="../../diagrams/cryptography.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Source: ISO/IEC 22739:2018
-      ---
-      Comment on this page
   terms:
   - type: expression
     normative_status: preferred

@@ -20,15 +20,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.3.5.1,road}} that has buildings, walls or fences on each side
-      <img alt="alley Diagram" src="../../diagrams/alley.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      | Referencing Term | Type of Reference |
-      | --- | --- |
-      | {{urn:iso:std:iso:14812:ed3:3.3.5.14,service alley}} | subClassOf |
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.3.5.1,road}} that has buildings, walls
+      or fences on each side"
   terms:
   - type: expression
     normative_status: preferred

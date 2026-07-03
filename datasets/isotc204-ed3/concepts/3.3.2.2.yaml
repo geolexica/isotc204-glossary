@@ -21,13 +21,9 @@ data:
   definition:
   - content: |-
       part of the {{urn:iso:std:iso:14812:ed3:3.3.1.2,road reservation}} between {{urn:iso:std:iso:14812:ed3:3.3.1.5,carriageways}} designed for travel safety purposes
-      <img alt="central reservation Diagram" src="../../diagrams/central reservation.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Admitted term: median
       Admitted term: median strip
       Admitted term: neutral ground
-      ---
-      Comment on this page
   notes:
   - content: A central reservation can be paved or unpaved and can be equipped with
       a safety barrier, rails, or other devices.

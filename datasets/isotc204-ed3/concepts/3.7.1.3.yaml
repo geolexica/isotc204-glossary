@@ -19,15 +19,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      circular {{urn:iso:std:iso:14812:ed3:3.1.1.3,material entity}} that rotates about an axle to facilitate movement of the {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}}
-      <img alt="wheel Diagram" src="../../diagrams/wheel.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      | Referencing Term | Type of Reference |
-      | --- | --- |
-      | {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} | has |
-      ---
-      Comment on this page
+  - content: circular {{urn:iso:std:iso:14812:ed3:3.1.1.3,material entity}} that rotates
+      about an axle to facilitate movement of the {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}}
   terms:
   - type: expression
     normative_status: preferred

@@ -12,12 +12,9 @@ data:
   definition:
   - content: |-
       provision that contains criteria to be fulfilled
-      <img alt="requirement Diagram" src="../../diagrams/requirement.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      EXAMPLE: Example: A measurable characteristic of a smartphone
       Source: ISO/IEC/IEEE 24765:2017, example added
-      ---
-      Comment on this page
+  examples:
+  - content: 'Example: A measurable characteristic of a smartphone'
   terms:
   - type: expression
     normative_status: preferred

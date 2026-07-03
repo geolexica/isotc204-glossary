@@ -23,12 +23,7 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      time between two {{urn:iso:std:iso:14812:ed3:3.1.13.1,instants}}
-      <img alt="duration Diagram" src="../../diagrams/duration.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: time between two {{urn:iso:std:iso:14812:ed3:3.1.13.1,instants}}
   terms:
   - type: expression
     normative_status: preferred

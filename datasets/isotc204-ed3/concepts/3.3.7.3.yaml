@@ -21,15 +21,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.3.7.1,transport facility}} built over a gap to provide a continuous travel path
-      <img alt="bridge Diagram" src="../../diagrams/bridge.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      | Referencing Term | Type of Reference |
-      | --- | --- |
-      | {{urn:iso:std:iso:14812:ed3:3.3.7.4,movable bridge}} | subClassOf |
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.3.7.1,transport facility}} built over
+      a gap to provide a continuous travel path"
   terms:
   - type: expression
     normative_status: preferred

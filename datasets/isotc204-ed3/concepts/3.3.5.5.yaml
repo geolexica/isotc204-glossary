@@ -43,18 +43,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      <road network> component of a {{urn:iso:std:iso:14812:ed3:3.3.5.3,road model}} that represents a connection between two {{urn:iso:std:iso:14812:ed3:3.3.5.4,nodes}}
-      <img alt="link Diagram" src="../../diagrams/link.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      | Referencing Term | Type of Reference |
-      | --- | --- |
-      | {{urn:iso:std:iso:14812:ed3:3.3.5.9,lane link}} | subClassOf |
-      | {{urn:iso:std:iso:14812:ed3:3.3.5.10,lane segment}} | subClassOf |
-      | {{urn:iso:std:iso:14812:ed3:3.3.5.6,road link}} | subClassOf |
-      | {{urn:iso:std:iso:14812:ed3:3.3.5.8,road segment}} | subClassOf |
-      ---
-      Comment on this page
+  - content: "<road network> component of a {{urn:iso:std:iso:14812:ed3:3.3.5.3,road
+      model}} that represents a connection between two {{urn:iso:std:iso:14812:ed3:3.3.5.4,nodes}}"
   notes:
   - content: A link can be curvilinear and can have various attributes such as width.
   terms:

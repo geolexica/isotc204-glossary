@@ -60,12 +60,10 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.1.11.1,data element}}, {{urn:iso:std:iso:14812:ed3:3.1.11.2,class}}, {{urn:iso:std:iso:14812:ed3:3.1.11.3,value domain}}, {{urn:iso:std:iso:14812:ed3:3.1.11.4,data frame}}, {{urn:iso:std:iso:14812:ed3:3.1.11.5,message}} or {{urn:iso:std:iso:14812:ed3:3.1.11.6,interface dialogue}} defined, at a minimum, with an unambiguous identifier and a definition
-      <img alt="data concept Diagram" src="../../diagrams/data concept.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.1.11.1,data element}}, {{urn:iso:std:iso:14812:ed3:3.1.11.2,class}},
+      {{urn:iso:std:iso:14812:ed3:3.1.11.3,value domain}}, {{urn:iso:std:iso:14812:ed3:3.1.11.4,data
+      frame}}, {{urn:iso:std:iso:14812:ed3:3.1.11.5,message}} or {{urn:iso:std:iso:14812:ed3:3.1.11.6,interface
+      dialogue}} defined, at a minimum, with an unambiguous identifier and a definition"
   notes:
   - content: In order to exchange a value corresponding to a data concept, more information
       than an identifier, a name and a definition can be needed. For a property, a

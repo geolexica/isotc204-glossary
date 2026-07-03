@@ -19,12 +19,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      integration of each {{urn:iso:std:iso:14812:ed3:3.1.8.1,physical object}} necessary to implement one or more {{urn:iso:std:iso:14812:ed3:3.2.8.1,ITS applications}}
-      <img alt="ITS implementation Diagram" src="../../diagrams/ITS implementation.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: integration of each {{urn:iso:std:iso:14812:ed3:3.1.8.1,physical object}}
+      necessary to implement one or more {{urn:iso:std:iso:14812:ed3:3.2.8.1,ITS applications}}
   notes:
   - content: An ITS application typically requires multiple components (e.g. an ITS-S
       acting as a user and another ITS-S acting as a provider). An ITS implementation

@@ -17,11 +17,7 @@ data:
   definition:
   - content: |-
       <use case> description of the sequence of events from the {{urn:iso:std:iso:14812:ed3:3.5.1.3,user's}} perspective to perform a task in a specified context
-      <img alt="scenario Diagram" src="../../diagrams/scenario.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Source: ISO/IEC 25062:2006, A.17
-      ---
-      Comment on this page
   terms:
   - type: expression
     normative_status: preferred

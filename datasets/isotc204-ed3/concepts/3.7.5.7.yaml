@@ -19,13 +19,11 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.7.2.1,speed}} of a {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} that does not greatly exceed typical {{urn:iso:std:iso:14812:ed3:3.6.1.4,pedestrian}} speeds
-      <img alt="ultra-low vehicle speed Diagram" src="../../diagrams/ultra-low vehicle speed.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      EXAMPLE: SAE J3194 associates this with a top speed of less than 13 km/h.
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.7.2.1,speed}} of a {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}}
+      that does not greatly exceed typical {{urn:iso:std:iso:14812:ed3:3.6.1.4,pedestrian}}
+      speeds"
+  examples:
+  - content: SAE J3194 associates this with a top speed of less than 13 km/h.
   notes:
   - content: Local regulations for the exact speed range vary.
   terms:

@@ -15,12 +15,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      physically marked location to enhance the safety of pedestrians crossing one or more lanes of a different mode of travel
-      <img alt="pedestrian crossing Diagram" src="../../diagrams/pedestrian crossing.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: physically marked location to enhance the safety of pedestrians crossing
+      one or more lanes of a different mode of travel
   notes:
   - content: In some cases, local regulations can require vehicles to give way to
       the pedestrians in the pedestrian crossing and/or restrict pedestrians to only

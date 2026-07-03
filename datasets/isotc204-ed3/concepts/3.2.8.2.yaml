@@ -23,12 +23,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      characteristics necessary to fully define how various {{urn:iso:std:iso:14812:ed3:3.1.8.1,physical objects}} interoperate to provide a {{urn:iso:std:iso:14812:ed3:3.5.1.1,service}}
-      <img alt="interoperability design Diagram" src="../../diagrams/interoperability design.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: characteristics necessary to fully define how various {{urn:iso:std:iso:14812:ed3:3.1.8.1,physical
+      objects}} interoperate to provide a {{urn:iso:std:iso:14812:ed3:3.5.1.1,service}}
   notes:
   - content: Characteristics often include but are not limited to functional, performance
       and interface requirements.

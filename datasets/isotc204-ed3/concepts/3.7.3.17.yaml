@@ -19,12 +19,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.7.3.15,ADS-equipped vehicle}} designed for only driverless operation for complete trips
-      <img alt="ADS-dedicated vehicle Diagram" src="../../diagrams/ADS-dedicated vehicle.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.7.3.15,ADS-equipped vehicle}} designed
+      for only driverless operation for complete trips"
   terms:
   - type: expression
     normative_status: preferred

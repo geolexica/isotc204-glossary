@@ -19,13 +19,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      transverse view of {{urn:iso:std:iso:14812:ed3:3.3.5.1,road}} geometry
-      <img alt="cross-section Diagram" src="../../diagrams/cross-section.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      EXAMPLE: n902d49f80fe4422680fb4b74ea8b63ceb2
-      ---
-      Comment on this page
+  - content: transverse view of {{urn:iso:std:iso:14812:ed3:3.3.5.1,road}} geometry
+  examples:
+  - content: n902d49f80fe4422680fb4b74ea8b63ceb2
   notes:
   - content: The transverse view provides a vertical section of the ground and {{urn:iso:std:iso:14812:ed3:3.3.1.5,carriageway}}
       at right angles to the centre line of the carriageway.

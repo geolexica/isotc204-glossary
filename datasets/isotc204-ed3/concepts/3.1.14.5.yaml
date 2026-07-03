@@ -12,11 +12,7 @@ data:
   definition:
   - content: |-
       rights and obligations of individuals and organizations with respect to the collection, use, retention, disclosure and disposal of personal information
-      <img alt="data privacy Diagram" src="../../diagrams/data privacy.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Source: ISO/IEC 17573-2:2018
-      ---
-      Comment on this page
   terms:
   - type: expression
     normative_status: preferred

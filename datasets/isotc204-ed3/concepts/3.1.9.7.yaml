@@ -19,12 +19,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.1.9.3,deployment architecture}} for one or more {{urn:iso:std:iso:14812:ed3:3.5.3.1,ITS services}}
-      <img alt="ITS deployment architecture Diagram" src="../../diagrams/ITS deployment architecture.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.1.9.3,deployment architecture}} for one
+      or more {{urn:iso:std:iso:14812:ed3:3.5.3.1,ITS services}}"
   terms:
   - type: expression
     normative_status: preferred

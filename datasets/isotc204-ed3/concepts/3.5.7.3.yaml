@@ -19,12 +19,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.5.7.1,contractual model}} where the {{urn:iso:std:iso:14812:ed3:3.5.1.3,user}} is an individual
-      <img alt="private customer model Diagram" src="../../diagrams/private customer model.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.5.7.1,contractual model}} where the {{urn:iso:std:iso:14812:ed3:3.5.1.3,user}}
+      is an individual"
   terms:
   - type: expression
     normative_status: preferred

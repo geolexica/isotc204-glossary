@@ -17,12 +17,8 @@ data:
   definition:
   - content: |-
       alley designed to facilitate the provision of services for adjacent locations
-      <img alt="service alley Diagram" src="../../diagrams/service alley.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Example 1: alley for trash collection
       Example 2: alley that provides access to an electrical substation
-      ---
-      Comment on this page
   terms:
   - type: expression
     normative_status: preferred

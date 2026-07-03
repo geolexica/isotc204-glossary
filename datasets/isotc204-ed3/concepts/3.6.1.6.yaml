@@ -17,12 +17,9 @@ data:
   definition:
   - content: |-
       {{urn:iso:std:iso:14812:ed3:3.6.1.2,road user}} who is protected by the body of a motor vehicle that meets local safety regulations
-      <img alt="protected road user Diagram" src="../../diagrams/protected road user.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Admitted term: non-vulnerable road user
-      EXAMPLE: {{urn:iso:std:iso:14812:ed3:3.6.2.2,vehicle occupants}}
-      ---
-      Comment on this page
+  examples:
+  - content: "{{urn:iso:std:iso:14812:ed3:3.6.2.2,vehicle occupants}}"
   terms:
   - type: expression
     normative_status: preferred

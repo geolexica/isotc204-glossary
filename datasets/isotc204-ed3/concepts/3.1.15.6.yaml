@@ -12,12 +12,9 @@ data:
   definition:
   - content: |-
       document that specifies the requirements for a system or component
-      <img alt="requirements specification Diagram" src="../../diagrams/requirements specification.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      EXAMPLE: Example: Wi-Fi 7, 5G, Bluetooth 5.3
       Source: ISO/IEC/IEEE 24765:2017, example and note added
-      ---
-      Comment on this page
+  examples:
+  - content: 'Example: Wi-Fi 7, 5G, Bluetooth 5.3'
   notes:
   - content: A device can conform to multiple requirements specifications, each with
       a different focus.

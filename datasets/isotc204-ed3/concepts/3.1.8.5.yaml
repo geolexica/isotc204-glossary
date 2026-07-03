@@ -29,11 +29,7 @@ data:
   definition:
   - content: |-
       {{urn:iso:std:iso:14812:ed3:3.1.8.4,information flow}} from a {{urn:iso:std:iso:14812:ed3:3.1.8.1,physical object}} acting as an information provider and sent to another physical object acting as an information consumer
-      <img alt="information transfer Diagram" src="../../diagrams/information transfer.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Admitted term: information flow triple
-      ---
-      Comment on this page
   notes:
   - content: The term "information flow triple" is used extensively in the Architecture
       Reference for Cooperative and Intelligent Transportation (ARC-IT; see Reference

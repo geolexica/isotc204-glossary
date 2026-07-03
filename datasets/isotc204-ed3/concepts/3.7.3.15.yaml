@@ -38,13 +38,9 @@ data:
   definition:
   - content: |-
       {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} integrated with an {{urn:iso:std:iso:14812:ed3:3.7.3.10,ADS}}
-      <img alt="ADS-equipped vehicle Diagram" src="../../diagrams/ADS-equipped vehicle.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Admitted term: AV
       Admitted term: automated vehicle
       Deprecated term: autonomous vehicle
-      ---
-      Comment on this page
   notes:
   - content: The term "autonomous vehicle" is also often used in a colloquial form
       and is even less well defined. The term is particularly problematic because

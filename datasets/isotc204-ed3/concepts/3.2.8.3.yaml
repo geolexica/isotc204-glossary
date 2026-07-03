@@ -23,12 +23,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      one or more {{urn:iso:std:iso:14812:ed3:3.1.6.3,documents}} that detail the {{urn:iso:std:iso:14812:ed3:3.2.8.2,interoperability design}} for an {{urn:iso:std:iso:14812:ed3:3.2.8.1,ITS application}}
-      <img alt="ITS application specification Diagram" src="../../diagrams/ITS application specification.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: one or more {{urn:iso:std:iso:14812:ed3:3.1.6.3,documents}} that detail
+      the {{urn:iso:std:iso:14812:ed3:3.2.8.2,interoperability design}} for an {{urn:iso:std:iso:14812:ed3:3.2.8.1,ITS
+      application}}
   terms:
   - type: expression
     normative_status: preferred

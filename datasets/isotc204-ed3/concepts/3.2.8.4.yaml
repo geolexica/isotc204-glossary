@@ -19,12 +19,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      defined annotated outline for an {{urn:iso:std:iso:14812:ed3:3.2.8.3,ITS application specification}}
-      <img alt="application template Diagram" src="../../diagrams/application template.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: defined annotated outline for an {{urn:iso:std:iso:14812:ed3:3.2.8.3,ITS
+      application specification}}
   terms:
   - type: expression
     normative_status: preferred

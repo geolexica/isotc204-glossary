@@ -17,11 +17,7 @@ data:
   definition:
   - content: |-
       <enterprise view> {{urn:iso:std:iso:14812:ed3:3.1.3.10,element}} that represents the specified responsibilities between an {{urn:iso:std:iso:14812:ed3:3.1.6.1,enterprise object}} and another {{urn:iso:std:iso:14812:ed3:3.1.4.3,enterprise view}} element
-      <img alt="role Diagram" src="../../diagrams/role.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Source: ISO/IEC 11179-3:2013, 3.2.121
-      ---
-      Comment on this page
   terms:
   - type: expression
     normative_status: preferred

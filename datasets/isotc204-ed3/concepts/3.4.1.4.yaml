@@ -21,12 +21,8 @@ data:
   definition:
   - content: |-
       well defined geographic place described by one coordinate tuple
-      <img alt="geographic point location Diagram" src="../../diagrams/geographic point location.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Admitted term: geolocation
       Source: ISO 19145:2013, 4.1.11, modified - Note 1 to entry added.
-      ---
-      Comment on this page
   notes:
   - content: The "geolocation" term is a short version of the term used within some
       ITS communities.

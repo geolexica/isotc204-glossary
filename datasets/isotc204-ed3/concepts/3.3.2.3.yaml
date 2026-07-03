@@ -21,12 +21,8 @@ data:
   definition:
   - content: |-
       {{urn:iso:std:iso:14812:ed3:3.3.2.1,physical traffic separator}} that consists of a wall with a wide, sloped base designed to divert {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicles}} back into their {{urn:iso:std:iso:14812:ed3:3.3.1.13,traffic lane}}
-      <img alt="Jersey barrier Diagram" src="../../diagrams/Jersey barrier.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Admitted term: city block
       Admitted term: concrete barrier
-      ---
-      Comment on this page
   notes:
   - content: Jersey barriers are typically modular. They are typically made of concrete
       but can also be made with other materials such as plastic filled with water

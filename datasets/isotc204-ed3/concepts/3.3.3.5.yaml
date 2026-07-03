@@ -15,12 +15,7 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      rising or falling stairway that assists pedestrians in vertical transitions
-      <img alt="escalator Diagram" src="../../diagrams/escalator.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: rising or falling stairway that assists pedestrians in vertical transitions
   terms:
   - type: expression
     normative_status: preferred

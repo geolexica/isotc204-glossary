@@ -19,12 +19,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      set of {{urn:iso:std:iso:14812:ed3:3.2.7.1,bounded secured managed domains}} that meet a defined set of ITS industry security requirements
-      <img alt="ITS trust domain Diagram" src="../../diagrams/ITS trust domain.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: set of {{urn:iso:std:iso:14812:ed3:3.2.7.1,bounded secured managed domains}}
+      that meet a defined set of ITS industry security requirements
   terms:
   - type: expression
     normative_status: preferred

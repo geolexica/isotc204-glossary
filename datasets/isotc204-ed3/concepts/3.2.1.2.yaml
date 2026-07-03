@@ -39,13 +39,11 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      infrastructure-based {{urn:iso:std:iso:14812:ed3:3.1.8.2,ITS component}} located outside of a data centre that is designed to provide local processing or routing services while stationary
-      <img alt="field system Diagram" src="../../diagrams/field system.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      EXAMPLE: Traffic detector, camera, signal controller, message sign, tolling station.
-      ---
-      Comment on this page
+  - content: infrastructure-based {{urn:iso:std:iso:14812:ed3:3.1.8.2,ITS component}}
+      located outside of a data centre that is designed to provide local processing
+      or routing services while stationary
+  examples:
+  - content: Traffic detector, camera, signal controller, message sign, tolling station.
   notes:
   - content: Field systems can be permanently installed or transportable.
   - content: The term "roadside system" is typically used to describe field systems

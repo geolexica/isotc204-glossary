@@ -37,12 +37,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.5.8.2,commercial}}, {{urn:iso:std:iso:14812:ed3:3.5.7.5,peer-to-peer}} {{urn:iso:std:iso:14812:ed3:3.5.6.2,shared transport service}} that transports {{urn:iso:std:iso:14812:ed3:3.6.2.1,passengers}}
-      <img alt="ridesourced service Diagram" src="../../diagrams/ridesourced service.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.5.8.2,commercial}}, {{urn:iso:std:iso:14812:ed3:3.5.7.5,peer-to-peer}}
+      {{urn:iso:std:iso:14812:ed3:3.5.6.2,shared transport service}} that transports
+      {{urn:iso:std:iso:14812:ed3:3.6.2.1,passengers}}"
   terms:
   - type: expression
     normative_status: preferred

@@ -21,12 +21,8 @@ data:
   definition:
   - content: |-
       {{urn:iso:std:iso:14812:ed3:3.5.7.1,contractual model}} where the {{urn:iso:std:iso:14812:ed3:3.5.1.3,user}} is a {{urn:iso:std:iso:14812:ed3:3.5.8.2,commercial}} {{urn:iso:std:iso:14812:ed3:3.1.1.1,entity}}
-      <img alt="corporate customer model Diagram" src="../../diagrams/corporate customer model.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Example 1: A business purchasing monthly {{urn:iso:std:iso:14812:ed3:3.5.6.1,public transport}} passes for its employees.
       Example 2: A commercial entity using a commercial courier service for package delivery.
-      ---
-      Comment on this page
   terms:
   - type: expression
     normative_status: preferred

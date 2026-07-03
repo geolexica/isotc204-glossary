@@ -17,11 +17,7 @@ data:
   definition:
   - content: |-
       <system> context determining the setting and circumstances of all influences upon a {{urn:iso:std:iso:14812:ed3:3.1.2.1,system}}
-      <img alt="environment Diagram" src="../../diagrams/environment.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Source: ISO/IEC/IEEE 42010:2011, 3.8
-      ---
-      Comment on this page
   notes:
   - content: The environment of a system includes developmental, technological, business,
       operational, organizational, political, economic, legal, regulatory, ecological

@@ -19,12 +19,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.1.1.3,material entity}} that is not and has never been a living organism
-      <img alt="non-biological entity Diagram" src="../../diagrams/non-biological entity.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.1.1.3,material entity}} that is not and
+      has never been a living organism"
   terms:
   - type: expression
     normative_status: preferred

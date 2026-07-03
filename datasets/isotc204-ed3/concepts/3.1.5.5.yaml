@@ -17,11 +17,7 @@ data:
   definition:
   - content: |-
       communications layer in the {{urn:iso:std:iso:14812:ed3:3.1.9.4,ITS station reference architecture}} corresponding to the session, presentation and application layers of the OSI model
-      <img alt="facilities layer Diagram" src="../../diagrams/facilities layer.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Deprecated term: application layer
-      ---
-      Comment on this page
   notes:
   - content: Within the US, the NTCIP standards call the facilities layer the "application
       layer". However, as this term is easily confused with both the OSI application

@@ -15,13 +15,11 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      financial instrument accepted by the service provider, that gives the user the right to use provided services
-      <img alt="payment means Diagram" src="../../diagrams/payment means.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      EXAMPLE: token, stored electronic account, fleet card, bank account, credit card, contract
-      ---
-      Comment on this page
+  - content: financial instrument accepted by the service provider, that gives the
+      user the right to use provided services
+  examples:
+  - content: token, stored electronic account, fleet card, bank account, credit card,
+      contract
   terms:
   - type: expression
     normative_status: preferred

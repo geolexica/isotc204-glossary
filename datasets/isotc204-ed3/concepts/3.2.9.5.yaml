@@ -25,12 +25,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      installation of an implementation of an {{urn:iso:std:iso:14812:ed3:3.2.9.2,ITS-S application process}} on an {{urn:iso:std:iso:14812:ed3:3.2.7.3,ITS station}}
-      <img alt="ITS-S application process installation Diagram" src="../../diagrams/ITS-S application process installation.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: installation of an implementation of an {{urn:iso:std:iso:14812:ed3:3.2.9.2,ITS-S
+      application process}} on an {{urn:iso:std:iso:14812:ed3:3.2.7.3,ITS station}}
   notes:
   - content: An implementation is typically associated with an implementation name,
       a version and release number.

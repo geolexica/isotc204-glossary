@@ -17,11 +17,7 @@ data:
   definition:
   - content: |-
       maximum operating mass (weight) of the vehicle, as determined by the vehicle manufacturer, at which the vehicle can be safely and reliably operated for its intended purpose
-      <img alt="gross vehicle mass rating Diagram" src="../../diagrams/gross vehicle mass rating.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Admitted term: gross vehicle weight rating
-      ---
-      Comment on this page
   terms:
   - type: expression
     normative_status: preferred

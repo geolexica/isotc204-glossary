@@ -37,12 +37,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      node comprised of a set of functionalities in an {{urn:iso:std:iso:14812:ed3:3.2.7.4,ITS-S unit}} that is {{urn:iso:std:iso:14812:ed3:3.2.3.6,connected}} to the {{urn:iso:std:iso:14812:ed3:3.2.7.3,ITS station}}-internal network or comprises an entire ITS-S unit
-      <img alt="ITS-S node Diagram" src="../../diagrams/ITS-S node.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: node comprised of a set of functionalities in an {{urn:iso:std:iso:14812:ed3:3.2.7.4,ITS-S
+      unit}} that is {{urn:iso:std:iso:14812:ed3:3.2.3.6,connected}} to the {{urn:iso:std:iso:14812:ed3:3.2.7.3,ITS
+      station}}-internal network or comprises an entire ITS-S unit
   terms:
   - type: expression
     normative_status: preferred

@@ -19,12 +19,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.2.7.8,ITS-S node}} comprised of {{urn:iso:std:iso:14812:ed3:3.2.7.3,ITS-S}} functionalities other than the functionalities of an {{urn:iso:std:iso:14812:ed3:3.2.7.7,ITS-S router}}, ITS-S border router, ITS-S mobile router or an ITS-S gateway
-      <img alt="ITS-S host Diagram" src="../../diagrams/ITS-S host.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.2.7.8,ITS-S node}} comprised of {{urn:iso:std:iso:14812:ed3:3.2.7.3,ITS-S}}
+      functionalities other than the functionalities of an {{urn:iso:std:iso:14812:ed3:3.2.7.7,ITS-S
+      router}}, ITS-S border router, ITS-S mobile router or an ITS-S gateway"
   notes:
   - content: ITS-S border router and ITS-S mobile router are ITS-S routers with added
       functionalities, which is why they are separately excluded in the above definition.

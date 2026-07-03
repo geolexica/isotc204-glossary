@@ -19,12 +19,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      all real-time operational and tactical functions required to operate a {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} in on-road traffic
-      <img alt="dynamic driving task Diagram" src="../../diagrams/dynamic driving task.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: all real-time operational and tactical functions required to operate
+      a {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} in on-road traffic
   notes:
   - content: The DDT excludes strategic functions such as trip scheduling and selection
       of destinations and waypoints.

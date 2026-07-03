@@ -10,13 +10,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      public area space for use by users with distinctly different characteristics
-      <img alt="shared space Diagram" src="../../diagrams/shared space.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      EXAMPLE: facility designed for the use of pedestrians, cycles, and motor vehicles
-      ---
-      Comment on this page
+  - content: public area space for use by users with distinctly different characteristics
+  examples:
+  - content: facility designed for the use of pedestrians, cycles, and motor vehicles
   notes:
   - content: The space can be for travel, gatherings, rest, or other purposes.
   terms:

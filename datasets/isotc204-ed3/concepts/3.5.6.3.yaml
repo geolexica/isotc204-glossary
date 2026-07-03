@@ -38,12 +38,10 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.5.2.1,transport service}} that {{urn:iso:std:iso:14812:ed3:3.5.9.2,sequentially}} provides the same {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicles}} to multiple unrelated {{urn:iso:std:iso:14812:ed3:3.5.2.3,transport users}} and where the transport user has the primary responsibility for the operation of the vehicle
-      <img alt="shared vehicle service Diagram" src="../../diagrams/shared vehicle service.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.5.2.1,transport service}} that {{urn:iso:std:iso:14812:ed3:3.5.9.2,sequentially}}
+      provides the same {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicles}} to multiple
+      unrelated {{urn:iso:std:iso:14812:ed3:3.5.2.3,transport users}} and where the
+      transport user has the primary responsibility for the operation of the vehicle"
   notes:
   - content: As there should only be one operator of a vehicle at any time, a shared
       vehicle service should use a sequential operational model.

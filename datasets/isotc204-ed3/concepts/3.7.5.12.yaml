@@ -19,13 +19,10 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.7.2.1,speed}} of a {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}} that exceeds free flow motorway speeds by a factor of two or more
-      <img alt="high vehicle speed Diagram" src="../../diagrams/high vehicle speed.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      EXAMPLE: A speed in excess of 198 km/h.
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.7.2.1,speed}} of a {{urn:iso:std:iso:14812:ed3:3.7.1.1,vehicle}}
+      that exceeds free flow motorway speeds by a factor of two or more"
+  examples:
+  - content: A speed in excess of 198 km/h.
   notes:
   - content: Local regulations for the exact speed range vary.
   terms:

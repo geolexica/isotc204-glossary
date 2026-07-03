@@ -12,11 +12,7 @@ data:
   definition:
   - content: |-
       capability of a system to maintain its functions and structure in the face of internal and external change, and to degrade gracefully when this is necessary
-      <img alt="resilience Diagram" src="../../diagrams/resilience.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
       Source: ISO/IEC 23257:2019
-      ---
-      Comment on this page
   terms:
   - type: expression
     normative_status: preferred

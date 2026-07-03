@@ -15,12 +15,7 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      point location, which is the destination of a defined route or itinerary
-      <img alt="point destination Diagram" src="../../diagrams/point destination.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: point location, which is the destination of a defined route or itinerary
   terms:
   - type: expression
     normative_status: preferred

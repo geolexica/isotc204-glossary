@@ -52,12 +52,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.4.1.1,location}} within three-dimensional space
-      <img alt="spatial location Diagram" src="../../diagrams/spatial location.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.4.1.1,location}} within three-dimensional
+      space"
   notes:
   - content: The "location" could be a point (consuming no space) or could consume
       space in one, two, or three dimensions. In any case, the location is identified

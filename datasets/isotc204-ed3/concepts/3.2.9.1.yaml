@@ -19,12 +19,9 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      {{urn:iso:std:iso:14812:ed3:3.5.4.4,ITS-SU user need}} expressed as a formal set of interoperability requirements that need to be fulfilled to satisfy a portion of functionality of an {{urn:iso:std:iso:14812:ed3:3.2.8.1,ITS application}}
-      <img alt="ITS application role Diagram" src="../../diagrams/ITS application role.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: "{{urn:iso:std:iso:14812:ed3:3.5.4.4,ITS-SU user need}} expressed as
+      a formal set of interoperability requirements that need to be fulfilled to satisfy
+      a portion of functionality of an {{urn:iso:std:iso:14812:ed3:3.2.8.1,ITS application}}"
   terms:
   - type: expression
     normative_status: preferred

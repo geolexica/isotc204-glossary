@@ -15,12 +15,8 @@ schema_version: '3'
 ---
 data:
   definition:
-  - content: |-
-      part of the {{urn:iso:std:iso:14812:ed3:3.3.1.3,roadway}} that is currently intended for transport purposes
-      <img alt="travelled way Diagram" src="../../diagrams/travelled way.dot.png" /> <!-- Fallback for non-SVG browsers -->
-      </object>
-      ---
-      Comment on this page
+  - content: part of the {{urn:iso:std:iso:14812:ed3:3.3.1.3,roadway}} that is currently
+      intended for transport purposes
   notes:
   - content: The travelled way does not include {{urn:iso:std:iso:14812:ed3:3.3.1.19,hard
       shoulders}}, {{urn:iso:std:iso:14812:ed3:3.3.1.17,hardstanding}}, or other areas
