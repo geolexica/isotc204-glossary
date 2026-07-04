@@ -9,7 +9,7 @@ ref: ISO/TS 14812:2022
 refAliases:
   - ISO 14812:2022
 year: 2022
-status: current
+status: superseded
 owner: ISO/TC 204
 sourceRepo: https://github.com/geolexica/isotc204-glossary
 languages:
@@ -24,3 +24,5 @@ description:
     Edition 1 of the ISO/TC 204 Intelligent Transport Systems vocabulary,
     originally published as ISO/TS 14812:2022 and imported from the
     ISO/TC 204 Multi-Lingual Glossary of Terms spreadsheet.
+about:
+  eng: about-eng.md
