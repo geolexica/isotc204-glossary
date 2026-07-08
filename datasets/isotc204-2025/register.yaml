@@ -8,6 +8,6 @@ urn: urn:iso:std:iso:14812:2025
 status: current
 supersedes: isotc204-2022
 owner: ISO/TC 204
-sourceRepo: https://github.com/ISO-TC204/iso14812
+source_repo: https://github.com/ISO-TC204/iso14812
 languages:
 - eng
