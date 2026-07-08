@@ -63,7 +63,10 @@ jobs:
       - name: Collect release files
         run: |
           mkdir -p release-assets
-          cp datasets/*/*.gcr release-assets/ 2>/dev/null || true
+          # GCRs are built at the repo root (glossarist package writes
+          # to the -o path, which is ${name}-${VERSION}.gcr at root).
+          # Collect all .gcr files from root into release-assets/.
+          cp *.gcr release-assets/ 2>/dev/null || { echo "No .gcr files found at root"; ls -la; exit 1; }
           ls -la release-assets/
 
       - name: Publish GitHub Release
