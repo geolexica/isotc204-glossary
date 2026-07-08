@@ -3,18 +3,18 @@ schema_type: glossarist
 schema_version: '3'
 id: isotc204-2022
 urn: urn:iso:std:iso:ts:14812:2022
-urnAliases:
+urn_aliases:
   - urn:iso:std:iso:14812:2022
 ref: ISO/TS 14812:2022
-refAliases:
+ref_aliases:
   - ISO 14812:2022
 year: 2022
 status: current
 owner: ISO/TC 204
-sourceRepo: https://github.com/geolexica/isotc204-glossary
+source_repo: https://github.com/geolexica/isotc204-glossary
 languages:
   - eng
-languageOrder:
+language_order:
   - eng
 ordering: systematic
 name:
