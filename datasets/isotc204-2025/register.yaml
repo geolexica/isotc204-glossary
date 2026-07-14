@@ -5,9 +5,19 @@ id: isotc204-2025
 ref: ISO 14812:2025
 year: 2025
 urn: urn:iso:std:iso:14812:2025
-status: current
+status: superseded
 supersedes: isotc204-2022
 owner: ISO/TC 204
 source_repo: https://github.com/ISO-TC204/iso14812
 languages:
-- eng
+  - eng
+languageOrder:
+  - eng
+ordering: systematic
+name:
+  eng: ISO/TC 204 ITS Vocabulary (Edition 2, 2025)
+description:
+  eng: >-
+    Edition 2 of the ISO/TC 204 Intelligent Transport Systems vocabulary,
+    published as ISO 14812:2025 and converted from the Enterprise Architect
+    vocabulary export.
