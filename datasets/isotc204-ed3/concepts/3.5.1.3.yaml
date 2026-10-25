@@ -7,25 +7,29 @@ data:
   - ref: fig_user_dot
     display: user Diagram
 related:
-- content: subClassOf [entity]
+- content:
+    eng: subClassOf [entity]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[entity](entity.md) that uses information, communication, and transducer
-    technologies to achieve benefits when using a [surface transport system](surface
-    transport system.md)"
+- content:
+    eng: "[entity](entity.md) that uses information, communication, and transducer
+      technologies to achieve benefits when using a [surface transport system](surface
+      transport system.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[ITS user](ITS user.md)"
-- content: "[entity](entity.md) that has a need to perform processing within a [bounded,
-    secure, managed domain](bounded secured managed domain.md)"
+- content:
+    eng: "[entity](entity.md) that has a need to perform processing within a [bounded,
+      secure, managed domain](bounded secured managed domain.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[ITS-SU user](ITS-SU user.md)"
-- content: "[entity](entity.md) that has a desire to transport a [material entity](material
-    entity.md)"
+- content:
+    eng: "[entity](entity.md) that has a desire to transport a [material entity](material
+      entity.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -38,6 +42,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: ba4b6472-19ac-5fbe-a254-30b1d7f34924
 schema_version: '3'
+---
 ---
 data:
   definition:

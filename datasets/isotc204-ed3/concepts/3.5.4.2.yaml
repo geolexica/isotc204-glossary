@@ -7,15 +7,18 @@ data:
   - ref: fig_ITS_SU_service_provider_dot
     display: ITS-SU service provider Diagram
 related:
-- content: delivers [some its-suService]
+- content:
+    eng: delivers [some its-suService]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: isA [some its-sUnit]
+- content:
+    eng: isA [some its-sUnit]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [serviceProvider]
+- content:
+    eng: subClassOf [serviceProvider]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -27,6 +30,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 79fee67a-abd9-52fc-b201-43471fc48891
 schema_version: '3'
+---
 ---
 data:
   definition:

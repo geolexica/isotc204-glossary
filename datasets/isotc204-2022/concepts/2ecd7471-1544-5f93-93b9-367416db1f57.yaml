@@ -1,3 +1,4 @@
+---
 data:
   identifier: 3.7.3.17
   localized_concepts:
@@ -7,7 +8,8 @@ data:
     source: urn:iso:std:iso:ts:14812
     ref_type: domain
 related:
-- content: section-3-7
+- content:
+    eng: section-3-7
   type: broader
   ref:
     source: ISO/TS 14812
@@ -17,10 +19,11 @@ date_accepted: '2022-04-01T00:00:00+00:00'
 schema_version: '3'
 id: 2ecd7471-1544-5f93-93b9-367416db1f57
 ---
+---
 data:
   definition:
-  - content: '{{urn:iso:std:iso:14812:3.7.3.15,ADS-equipped vehicle}} designed for
-      only driverless operation for complete trips'
+  - content: "{{urn:iso:std:iso:14812:3.7.3.15,ADS-equipped vehicle}} designed for
+      only driverless operation for complete trips"
   examples: []
   notes: []
   sources:

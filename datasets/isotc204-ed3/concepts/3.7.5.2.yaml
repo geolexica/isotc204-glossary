@@ -7,7 +7,8 @@ data:
   - ref: fig_low_speed_vehicle_dot
     display: low-speed vehicle Diagram
 related:
-- content: subClassOf [vehicle]
+- content:
+    eng: subClassOf [vehicle]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 5930d707-e7e9-5eea-b49b-99ad7a7e5f9d
 schema_version: '3'
+---
 ---
 data:
   definition:

@@ -7,11 +7,13 @@ data:
   - ref: fig_biological_entity_dot
     display: biological entity Diagram
 related:
-- content: subClassOf [materialEntity]
+- content:
+    eng: subClassOf [materialEntity]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[biological entity](biological entity.md) that is a human being"
+- content:
+    eng: "[biological entity](biological entity.md) that is a human being"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -24,6 +26,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 0cb33ab0-d02e-5d58-8ed7-83b599a743e4
 schema_version: '3'
+---
 ---
 data:
   definition:

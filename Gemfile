@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "glossarist", "~> 2.8"
+gem "glossarist", "~> 2.14"
 gem "nokogiri", "~> 1.16"
 gem "coradoc", "~> 1.0"
 

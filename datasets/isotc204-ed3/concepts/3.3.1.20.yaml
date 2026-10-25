@@ -7,7 +7,8 @@ data:
   - ref: fig_soft_shoulder_dot
     display: soft shoulder Diagram
 related:
-- content: subClassOf [shoulder]
+- content:
+    eng: subClassOf [shoulder]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 91321535-15dd-530f-a88b-4a117a1b8561
 schema_version: '3'
+---
 ---
 data:
   definition:

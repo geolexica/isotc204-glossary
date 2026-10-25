@@ -7,7 +7,8 @@ data:
   - ref: fig_ITS_S_access_layer_dot
     display: ITS-S access layer Diagram
 related:
-- content: subClassOf [accessLayer]
+- content:
+    eng: subClassOf [accessLayer]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: c9b8162c-a3b8-509b-abdf-67800281b5dd
 schema_version: '3'
+---
 ---
 data:
   definition:

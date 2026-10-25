@@ -7,11 +7,13 @@ data:
   - ref: fig_alley_dot
     display: alley Diagram
 related:
-- content: subClassOf [road]
+- content:
+    eng: subClassOf [road]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: alley designed to facilitate the provision of services for adjacent locations
+- content:
+    eng: alley designed to facilitate the provision of services for adjacent locations
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -20,6 +22,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 6783878f-3b64-5f50-b4ad-42a794603596
 schema_version: '3'
+---
 ---
 data:
   definition:

@@ -1,3 +1,4 @@
+---
 data:
   identifier: 3.7.6.1
   localized_concepts:
@@ -7,7 +8,8 @@ data:
     source: urn:iso:std:iso:ts:14812
     ref_type: domain
 related:
-- content: section-3-7
+- content:
+    eng: section-3-7
   type: broader
   ref:
     source: ISO/TS 14812
@@ -17,10 +19,11 @@ date_accepted: '2022-04-01T00:00:00+00:00'
 schema_version: '3'
 id: 107166f9-7752-5dab-82ad-4c9074e9c2ad
 ---
+---
 data:
   definition:
-  - content: '{{urn:iso:std:iso:14812:3.7.1.1,vehicle}} meeting the requirements to
-      operate within the {{urn:iso:std:iso:14812:3.3.1.4,driving space}} of a {{urn:iso:std:iso:14812:3.3.5.1,road}}'
+  - content: "{{urn:iso:std:iso:14812:3.7.1.1,vehicle}} meeting the requirements to
+      operate within the {{urn:iso:std:iso:14812:3.3.1.4,driving space}} of a {{urn:iso:std:iso:14812:3.3.5.1,road}}"
   examples: []
   notes:
   - content: Unless indicated otherwise, the term typically refers to vehicles that

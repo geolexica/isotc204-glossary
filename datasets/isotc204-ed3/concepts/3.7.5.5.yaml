@@ -7,7 +7,8 @@ data:
   - ref: fig_moderately_high_speed_vehicle_dot
     display: moderately high-speed vehicle Diagram
 related:
-- content: subClassOf [vehicle]
+- content:
+    eng: subClassOf [vehicle]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: e7be69e5-df1e-5c4e-bb08-83fdad81b4be
 schema_version: '3'
+---
 ---
 data:
   definition:

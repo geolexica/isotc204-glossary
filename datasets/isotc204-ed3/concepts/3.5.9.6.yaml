@@ -7,7 +7,8 @@ data:
   - ref: fig_paired_on_demand_dot
     display: paired on-demand Diagram
 related:
-- content: subClassOf [concurrent]
+- content:
+    eng: subClassOf [concurrent]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: aa459ee5-c80b-5c85-876c-a465ca424c38
 schema_version: '3'
+---
 ---
 data:
   definition:

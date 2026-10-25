@@ -7,15 +7,18 @@ data:
   - ref: fig_transport_user_need_dot
     display: transport user need Diagram
 related:
-- content: desiredResultsOf [some transportUser]
+- content:
+    eng: desiredResultsOf [some transportUser]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: desireToTransport [some materialEntity]
+- content:
+    eng: desireToTransport [some materialEntity]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [userNeed]
+- content:
+    eng: subClassOf [userNeed]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -27,6 +30,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: d32deb5e-172f-5b01-8119-0786ba6e6d7d
 schema_version: '3'
+---
 ---
 data:
   definition:

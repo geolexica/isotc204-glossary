@@ -7,23 +7,27 @@ data:
   - ref: fig_ADS_equipped_vehicle_dot
     display: ADS-equipped vehicle Diagram
 related:
-- content: comprises [some ads]
+- content:
+    eng: comprises [some ads]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [vehicle]
+- content:
+    eng: subClassOf [vehicle]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[ADS-equipped vehicle](ADS-equipped vehicle.md) designed for only driverless
-    operation for complete trips"
+- content:
+    eng: "[ADS-equipped vehicle](ADS-equipped vehicle.md) designed for only driverless
+      operation for complete trips"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[ADS-dedicated vehicle](ADS-dedicated vehicle.md)"
-- content: "<driving automation> [ADS-equipped vehicle](ADS-equipped vehicle.md) designed
-    for both driverless operation and operation by a conventional [driver](driver.md)
-    for complete trips"
+- content:
+    eng: "<driving automation> [ADS-equipped vehicle](ADS-equipped vehicle.md) designed
+      for both driverless operation and operation by a conventional [driver](driver.md)
+      for complete trips"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -36,6 +40,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 2295da2b-33aa-52c3-88ad-612650850c6f
 schema_version: '3'
+---
 ---
 data:
   definition:

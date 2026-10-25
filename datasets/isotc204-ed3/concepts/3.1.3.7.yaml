@@ -7,30 +7,35 @@ data:
   - ref: fig_architecture_view_dot
     display: architecture view Diagram
 related:
-- content: aggregates [some architectureModel]
+- content:
+    eng: aggregates [some architectureModel]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[architecture view](architecture view.md) from the [communications viewpoint](communications
-    viewpoint.md)"
+- content:
+    eng: "[architecture view](architecture view.md) from the [communications viewpoint](communications
+      viewpoint.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[communications view](communications view.md)"
-- content: "[architecture view](architecture view.md) from the [enterprise viewpoint](enterprise
-    viewpoint.md)"
+- content:
+    eng: "[architecture view](architecture view.md) from the [enterprise viewpoint](enterprise
+      viewpoint.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[enterprise view](enterprise view.md)"
-- content: "[architecture view](architecture view.md) from the [functional viewpoint](functional
-    viewpoint.md)"
+- content:
+    eng: "[architecture view](architecture view.md) from the [functional viewpoint](functional
+      viewpoint.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[functional view](functional view.md)"
-- content: "[architecture view](architecture view.md) from the [physical viewpoint](physical
-    viewpoint.md)"
+- content:
+    eng: "[architecture view](architecture view.md) from the [physical viewpoint](physical
+      viewpoint.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -43,6 +48,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 6ff8e929-da26-5ce7-94f0-4cfe673a7980
 schema_version: '3'
+---
 ---
 data:
   definition:

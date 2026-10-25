@@ -7,7 +7,8 @@ data:
   - ref: fig_real_time_traveller_information_app_dot
     display: real-time traveller information app Diagram
 related:
-- content: subClassOf [mobilityApp]
+- content:
+    eng: subClassOf [mobilityApp]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -15,6 +16,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 218b9e45-c917-5cac-9b70-7db7a1927e68
 schema_version: '3'
+---
 ---
 data:
   definition:

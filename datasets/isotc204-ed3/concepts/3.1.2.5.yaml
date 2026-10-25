@@ -7,7 +7,8 @@ data:
   - ref: fig_cooperative_ITS_dot
     display: cooperative ITS Diagram
 related:
-- content: subClassOf [intelligentTransportSystem]
+- content:
+    eng: subClassOf [intelligentTransportSystem]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: a134ff71-c488-57a1-8c29-2bbf54e2d4df
 schema_version: '3'
+---
 ---
 data:
   definition:

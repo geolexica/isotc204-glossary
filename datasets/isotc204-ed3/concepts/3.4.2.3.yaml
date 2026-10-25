@@ -7,7 +7,8 @@ data:
   - ref: fig_dynamic_spatial_reference_dot
     display: dynamic spatial reference Diagram
 related:
-- content: subClassOf [spatialReference]
+- content:
+    eng: subClassOf [spatialReference]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: c70605a9-56f9-5f27-938e-6994a300917f
 schema_version: '3'
+---
 ---
 data:
   definition:

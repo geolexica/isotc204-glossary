@@ -7,7 +7,8 @@ data:
   - ref: fig_ITS_implementation_dot
     display: ITS implementation Diagram
 related:
-- content: implements [some itsApplication]
+- content:
+    eng: implements [some itsApplication]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: ad2c36dd-8f9a-56fd-9f82-a41513726934
 schema_version: '3'
+---
 ---
 data:
   definition:

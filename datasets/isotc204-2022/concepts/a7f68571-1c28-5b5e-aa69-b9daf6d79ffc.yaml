@@ -1,3 +1,4 @@
+---
 data:
   identifier: 3.6.2.2
   localized_concepts:
@@ -7,7 +8,8 @@ data:
     source: urn:iso:std:iso:ts:14812
     ref_type: domain
 related:
-- content: section-3-6
+- content:
+    eng: section-3-6
   type: broader
   ref:
     source: ISO/TS 14812
@@ -17,9 +19,10 @@ date_accepted: '2022-04-01T00:00:00+00:00'
 schema_version: '3'
 id: a7f68571-1c28-5b5e-aa69-b9daf6d79ffc
 ---
+---
 data:
   definition:
-  - content: '{{urn:iso:std:iso:14812:3.1.1.6,person}} in or on a {{urn:iso:std:iso:14812:3.7.1.1,vehicle}}'
+  - content: "{{urn:iso:std:iso:14812:3.1.1.6,person}} in or on a {{urn:iso:std:iso:14812:3.7.1.1,vehicle}}"
   examples: []
   notes:
   - content: A vehicle occupant in a stationary vehicle is not necessarily a {{urn:iso:std:iso:14812:3.6.1.1,traveller}}.

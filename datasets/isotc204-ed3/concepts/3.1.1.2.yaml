@@ -7,7 +7,8 @@ data:
   - ref: fig_immaterial_entity_dot
     display: immaterial entity Diagram
 related:
-- content: subClassOf [entity]
+- content:
+    eng: subClassOf [entity]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 041f6c0f-4f32-5906-890a-72fec83715a9
 schema_version: '3'
+---
 ---
 data:
   definition:

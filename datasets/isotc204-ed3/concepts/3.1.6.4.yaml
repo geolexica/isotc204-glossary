@@ -7,15 +7,17 @@ data:
   - ref: fig_interaction_dot
     display: interaction Diagram
 related:
-- content: "<enterprise view> [interaction](interaction.md) between two [enterprise
-    objects](enterprise object.md) governed by a documented agreement"
+- content:
+    eng: "<enterprise view> [interaction](interaction.md) between two [enterprise
+      objects](enterprise object.md) governed by a documented agreement"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[formal coordination](formal coordination.md)"
-- content: "<enterprise view> [interaction](interaction.md) between two [enterprise
-    objects](enterprise object.md) governed by an understanding that is not documented
-    in a formal agreement between the two parties"
+- content:
+    eng: "<enterprise view> [interaction](interaction.md) between two [enterprise
+      objects](enterprise object.md) governed by an understanding that is not documented
+      in a formal agreement between the two parties"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -28,6 +30,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 922dda60-430c-5abe-b8db-59c543d68c6d
 schema_version: '3'
+---
 ---
 data:
   definition:

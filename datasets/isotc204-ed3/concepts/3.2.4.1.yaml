@@ -7,7 +7,8 @@ data:
   - ref: fig_nomadic_vehicle_device_dot
     display: nomadic vehicle device Diagram
 related:
-- content: subClassOf [personalSystem]
+- content:
+    eng: subClassOf [personalSystem]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: cd39b243-bfcd-5e92-97e9-5606b44c19ed
 schema_version: '3'
+---
 ---
 data:
   definition:

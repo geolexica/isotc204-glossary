@@ -7,24 +7,28 @@ data:
   - ref: fig_ITS_S_node_dot
     display: ITS-S node Diagram
 related:
-- content: comprises [some functionality]
+- content:
+    eng: comprises [some functionality]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: containedIn [some its-sUnit]
+- content:
+    eng: containedIn [some its-sUnit]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[ITS-S node](ITS-S node.md) comprised of [ITS-S](ITS station.md) functionalities
-    other than the functionalities of an [ITS-S router](ITS-S router.md), ITS-S border
-    router, ITS-S mobile router or an ITS-S gateway"
+- content:
+    eng: "[ITS-S node](ITS-S node.md) comprised of [ITS-S](ITS station.md) functionalities
+      other than the functionalities of an [ITS-S router](ITS-S router.md), ITS-S
+      border router, ITS-S mobile router or an ITS-S gateway"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[ITS-S host](ITS-S host.md)"
-- content: "[ITS-S node](ITS-S node.md) comprised of routing functionalities of an
-    [ITS station unit](ITS-S unit.md) used to connect two networks and to forward
-    packets not explicitly addressed to itself"
+- content:
+    eng: "[ITS-S node](ITS-S node.md) comprised of routing functionalities of an [ITS
+      station unit](ITS-S unit.md) used to connect two networks and to forward packets
+      not explicitly addressed to itself"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -37,6 +41,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: a2204f0f-bcc9-5b40-a212-b28fb9cefac3
 schema_version: '3'
+---
 ---
 data:
   definition:

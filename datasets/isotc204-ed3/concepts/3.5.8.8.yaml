@@ -7,7 +7,8 @@ data:
   - ref: fig_membership_based_dot
     display: membership-based Diagram
 related:
-- content: describes [some financialModel]
+- content:
+    eng: describes [some financialModel]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 51bbbf20-6c6c-5811-a6c8-6426fa7d57c8
 schema_version: '3'
+---
 ---
 data:
   definition:

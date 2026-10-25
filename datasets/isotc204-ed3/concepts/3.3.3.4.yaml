@@ -7,15 +7,18 @@ data:
   - ref: fig_sidewalk_dot
     display: sidewalk Diagram
 related:
-- content: along [some roadside]
+- content:
+    eng: along [some roadside]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [footpath]
+- content:
+    eng: subClassOf [footpath]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [lane]
+- content:
+    eng: subClassOf [lane]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -27,6 +30,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: b5bcf05d-2e6e-51ce-b716-d87b1db4cfb6
 schema_version: '3'
+---
 ---
 data:
   definition:

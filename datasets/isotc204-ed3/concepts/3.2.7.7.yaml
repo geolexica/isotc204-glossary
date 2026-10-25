@@ -7,7 +7,8 @@ data:
   - ref: fig_ITS_S_router_dot
     display: ITS-S router Diagram
 related:
-- content: subClassOf [its-sNode]
+- content:
+    eng: subClassOf [its-sNode]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 702af0e2-5945-55f0-bf2a-a3d91d0aac62
 schema_version: '3'
+---
 ---
 data:
   definition:

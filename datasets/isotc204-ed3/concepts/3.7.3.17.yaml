@@ -7,7 +7,8 @@ data:
   - ref: fig_ADS_dedicated_vehicle_dot
     display: ADS-dedicated vehicle Diagram
 related:
-- content: subClassOf [ads-equippedVehicle]
+- content:
+    eng: subClassOf [ads-equippedVehicle]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: c185b49f-0349-546d-bc86-d3122f96c360
 schema_version: '3'
+---
 ---
 data:
   definition:

@@ -7,15 +7,18 @@ data:
   - ref: fig_block_face_dot
     display: block-face Diagram
 related:
-- content: endsAt [some intersection]
+- content:
+    eng: endsAt [some intersection]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: extentOf [some sidewalk]
+- content:
+    eng: extentOf [some sidewalk]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: startsAt [some intersection]
+- content:
+    eng: startsAt [some intersection]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -23,6 +26,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: be548b7f-ea80-54ff-b16a-4ccfda5c5522
 schema_version: '3'
+---
 ---
 data:
   definition:

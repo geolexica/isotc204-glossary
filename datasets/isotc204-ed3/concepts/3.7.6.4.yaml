@@ -7,7 +7,8 @@ data:
   - ref: fig_non_road_vehicle_dot
     display: non-road vehicle Diagram
 related:
-- content: subClassOf [vehicle]
+- content:
+    eng: subClassOf [vehicle]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 9bb5c350-25f5-53ec-9079-36b35e758637
 schema_version: '3'
+---
 ---
 data:
   definition:

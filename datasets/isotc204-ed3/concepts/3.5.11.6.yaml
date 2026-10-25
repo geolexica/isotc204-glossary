@@ -7,11 +7,13 @@ data:
   - ref: fig_ridesplit_service_dot
     display: ridesplit service Diagram
 related:
-- content: attrOperationalModel [has concurrent]
+- content:
+    eng: attrOperationalModel [has concurrent]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [ridesourcedService]
+- content:
+    eng: subClassOf [ridesourcedService]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -23,6 +25,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: dc98f761-f208-53f8-953e-9885c3595499
 schema_version: '3'
+---
 ---
 data:
   definition:

@@ -7,11 +7,13 @@ data:
   - ref: fig_functional_viewpoint_dot
     display: functional viewpoint Diagram
 related:
-- content: governs [some functionalView]
+- content:
+    eng: governs [some functionalView]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [architectureViewpoint]
+- content:
+    eng: subClassOf [architectureViewpoint]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -23,6 +25,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 1c037e1b-3b02-5ca1-a40b-8c608bd39c01
 schema_version: '3'
+---
 ---
 data:
   definition:

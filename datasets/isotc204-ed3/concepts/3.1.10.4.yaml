@@ -7,7 +7,8 @@ data:
   - ref: fig_data_concept_registry_dot
     display: data concept registry Diagram
 related:
-- content: subClassOf [dataDictionary]
+- content:
+    eng: subClassOf [dataDictionary]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: fbeaf00a-cb4d-5c64-badd-336ceeb2992a
 schema_version: '3'
+---
 ---
 data:
   definition:

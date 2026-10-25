@@ -7,20 +7,23 @@ data:
   - ref: fig_driver_dot
     display: driver Diagram
 related:
-- content: isA [some person]
+- content:
+    eng: isA [some person]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[driver](driver.md) that performs the [dynamic driving task](dynamic driving
-    task.md) using the [vehicle's](vehicle.md) built-in [input devices](input device.md)
-    to control the longitudinal and lateral movement of the vehicle"
+- content:
+    eng: "[driver](driver.md) that performs the [dynamic driving task](dynamic driving
+      task.md) using the [vehicle's](vehicle.md) built-in [input devices](input device.md)
+      to control the longitudinal and lateral movement of the vehicle"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[in-vehicle driver](in-vehicle driver.md)"
-- content: "[driver](driver.md) that performs the [dynamic driving task](dynamic driving
-    task.md) without using the [vehicle's](vehicle.md) built-in [input devices](input
-    device.md) to control the longitudinal and lateral movement of the vehicle"
+- content:
+    eng: "[driver](driver.md) that performs the [dynamic driving task](dynamic driving
+      task.md) without using the [vehicle's](vehicle.md) built-in [input devices](input
+      device.md) to control the longitudinal and lateral movement of the vehicle"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -33,6 +36,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: b7173b36-5ab8-5f22-85fc-cd570de8c177
 schema_version: '3'
+---
 ---
 data:
   definition:

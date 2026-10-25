@@ -7,7 +7,8 @@ data:
   - ref: fig_map_provision_system_dot
     display: map provision system Diagram
 related:
-- content: subClassOf [supportSystem]
+- content:
+    eng: subClassOf [supportSystem]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: c693b203-7d92-543d-82b0-88040910c1a6
 schema_version: '3'
+---
 ---
 data:
   definition:

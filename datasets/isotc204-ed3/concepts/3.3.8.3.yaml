@@ -7,18 +7,21 @@ data:
   - ref: fig_parking_space_dot
     display: parking space Diagram
 related:
-- content: store [max 1 owl::Thing]
+- content:
+    eng: store [max 1 owl::Thing]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[parking space](parking space.md) for a designated purpose Note 1 to entry:
-    \ Note 2 to entry:"
+- content:
+    eng: "[parking space](parking space.md) for a designated purpose Note 1 to entry:
+      \ Note 2 to entry:"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[designated parking space](designated parking space.md)"
-- content: "[designated parking space](designated parking space.md) that requires
-    a special permit from an appropriate authority"
+- content:
+    eng: "[designated parking space](designated parking space.md) that requires a
+      special permit from an appropriate authority"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -27,6 +30,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 9616b3ee-2ef7-504f-9431-71be27778b3a
 schema_version: '3'
+---
 ---
 data:
   definition:

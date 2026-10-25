@@ -7,7 +7,8 @@ data:
   - ref: fig_road_section_dot
     display: road section Diagram
 related:
-- content: aggregates [some roadLink]
+- content:
+    eng: aggregates [some roadLink]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 0d0c2b64-0039-59b4-837c-b68cdf2d1e4e
 schema_version: '3'
+---
 ---
 data:
   definition:

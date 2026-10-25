@@ -7,7 +7,8 @@ data:
   - ref: fig_open_access_dot
     display: open-access Diagram
 related:
-- content: describes [some financialModel]
+- content:
+    eng: describes [some financialModel]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: b05a31c9-3311-5916-bb14-2a01535a6530
 schema_version: '3'
+---
 ---
 data:
   definition:

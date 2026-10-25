@@ -7,7 +7,8 @@ data:
   - ref: fig_reserved_lane_dot
     display: reserved lane Diagram
 related:
-- content: subClassOf [trafficLane]
+- content:
+    eng: subClassOf [trafficLane]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 5082a32b-273a-5e37-ac80-ae593545094c
 schema_version: '3'
+---
 ---
 data:
   definition:

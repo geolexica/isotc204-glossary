@@ -7,11 +7,13 @@ data:
   - ref: fig_connected_vehicle_dot
     display: connected vehicle Diagram
 related:
-- content: is [some connected]
+- content:
+    eng: is [some connected]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [vehicle]
+- content:
+    eng: subClassOf [vehicle]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +21,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 8542d2f2-5101-57cf-ae26-e038b26eae04
 schema_version: '3'
+---
 ---
 data:
   definition:

@@ -7,25 +7,29 @@ data:
   - ref: fig_vehicle_input_device_dot
     display: vehicle input device Diagram
 related:
-- content: subClassOf [materialEntity]
+- content:
+    eng: subClassOf [materialEntity]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[input device](input device.md) designed to be physically [connected](connected.md)
-    to a [vehicle](vehicle.md) and to remain connected even when the vehicle is not
-    in use"
+- content:
+    eng: "[input device](input device.md) designed to be physically [connected](connected.md)
+      to a [vehicle](vehicle.md) and to remain connected even when the vehicle is
+      not in use"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[built-in vehicle input device](built-in vehicle input device.md)"
-- content: "[input device](input device.md) that can be carried into, or in near proximity
-    of, a [vehicle](vehicle.md) and [connected](connected.md) as desired"
+- content:
+    eng: "[input device](input device.md) that can be carried into, or in near proximity
+      of, a [vehicle](vehicle.md) and [connected](connected.md) as desired"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[nomadic vehicle input device](nomadic vehicle input device.md)"
-- content: "[input device](input device.md) designed to be electronically [connected](connected.md)
-    to a [vehicle](vehicle.md) even when the vehicle is not in close proximity"
+- content:
+    eng: "[input device](input device.md) designed to be electronically [connected](connected.md)
+      to a [vehicle](vehicle.md) even when the vehicle is not in close proximity"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -38,6 +42,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 8cc96616-874b-57c1-ac3f-26be119b2679
 schema_version: '3'
+---
 ---
 data:
   definition:

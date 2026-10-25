@@ -7,7 +7,8 @@ data:
   - ref: fig_message_dot
     display: message Diagram
 related:
-- content: subClassOf [dataConcept]
+- content:
+    eng: subClassOf [dataConcept]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 35669ff1-1bd5-5509-949e-3a4a29cb699c
 schema_version: '3'
+---
 ---
 data:
   definition:

@@ -7,40 +7,46 @@ data:
   - ref: fig_financial_model_dot
     display: financial model Diagram
 related:
-- content: type of [financial model](financial model.md) where [services](service.md)
-    are provided with a profit motive
+- content:
+    eng: type of [financial model](financial model.md) where [services](service.md)
+      are provided with a profit motive
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[commercial](commercial.md)"
-- content: type of [financial model](financial model.md) where [users](user.md) partner
-    to defray the costs of [services](service.md)
+- content:
+    eng: type of [financial model](financial model.md) where [users](user.md) partner
+      to defray the costs of [services](service.md)
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[cooperative](cooperative.md)"
-- content: "<transport service> [cooperative](cooperative.md) [financial model](financial
-    model.md) where [users](user.md) partner to support the purchase, maintenance
-    and overhead costs associated with a [service](service.md)"
+- content:
+    eng: "<transport service> [cooperative](cooperative.md) [financial model](financial
+      model.md) where [users](user.md) partner to support the purchase, maintenance
+      and overhead costs associated with a [service](service.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[fractional ownership](fractional ownership.md)"
-- content: "[cooperative](cooperative.md) [financial model](financial model.md) where
-    [users](user.md) partner on a per-use basis"
+- content:
+    eng: "[cooperative](cooperative.md) [financial model](financial model.md) where
+      [users](user.md) partner on a per-use basis"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[mutual benefit](mutual benefit.md)"
-- content: "<transport service> [financial model](financial model.md) where [services](service.md)
-    are provided to members of the owning organization without usage fees"
+- content:
+    eng: "<transport service> [financial model](financial model.md) where [services](service.md)
+      are provided to members of the owning organization without usage fees"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[private](private.md)"
-- content: type of [financial model](financial model.md) where [services](service.md)
-    are provided by an administrative authority in an attempt to better serve societal
-    interests
+- content:
+    eng: type of [financial model](financial model.md) where [services](service.md)
+      are provided by an administrative authority in an attempt to better serve societal
+      interests
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -53,6 +59,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: c303bcf9-6088-595d-abfb-3b81d99e4e89
 schema_version: '3'
+---
 ---
 data:
   definition:

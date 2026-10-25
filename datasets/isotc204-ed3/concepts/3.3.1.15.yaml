@@ -7,7 +7,8 @@ data:
   - ref: fig_usable_width_dot
     display: usable width Diagram
 related:
-- content: comprises [some trafficLane]
+- content:
+    eng: comprises [some trafficLane]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 15854f11-65ce-548b-b3e4-3d9bacf0cab2
 schema_version: '3'
+---
 ---
 data:
   definition:

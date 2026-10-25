@@ -7,7 +7,8 @@ data:
   - ref: fig_ITS_trust_domain_dot
     display: ITS trust domain Diagram
 related:
-- content: subClassOf [boundedSecuredManagedDomain]
+- content:
+    eng: subClassOf [boundedSecuredManagedDomain]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 89921023-7504-543d-9528-19f04589cbd8
 schema_version: '3'
+---
 ---
 data:
   definition:

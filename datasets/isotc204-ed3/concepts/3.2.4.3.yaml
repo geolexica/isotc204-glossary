@@ -7,7 +7,8 @@ data:
   - ref: fig_nomadic_device_dot
     display: nomadic device Diagram
 related:
-- content: subClassOf [personalInformationDevice]
+- content:
+    eng: subClassOf [personalInformationDevice]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 2ac050c4-5845-579c-8598-9bba328892f6
 schema_version: '3'
+---
 ---
 data:
   definition:

@@ -7,11 +7,13 @@ data:
   - ref: fig_driving_space_dot
     display: driving space Diagram
 related:
-- content: areaAbove [some roadway]
+- content:
+    eng: areaAbove [some roadway]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: forMovementOf [some vehicle]
+- content:
+    eng: forMovementOf [some vehicle]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -23,6 +25,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 00e11ca9-b007-5454-80bd-e2fd4bfe7e0b
 schema_version: '3'
+---
 ---
 data:
   definition:

@@ -7,7 +7,8 @@ data:
   - ref: fig_moderately_low_vehicle_speed_dot
     display: moderately-low vehicle speed Diagram
 related:
-- content: subClassOf [speed]
+- content:
+    eng: subClassOf [speed]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 765c3171-80ad-5b55-820d-e05c25ce7990
 schema_version: '3'
+---
 ---
 data:
   definition:

@@ -7,7 +7,8 @@ data:
   - ref: fig_mutual_benefit_dot
     display: mutual benefit Diagram
 related:
-- content: subClassOf [cooperative]
+- content:
+    eng: subClassOf [cooperative]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: ba7e89d3-0025-5f46-b8b9-1d3f9ad5192b
 schema_version: '3'
+---
 ---
 data:
   definition:

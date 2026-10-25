@@ -7,7 +7,8 @@ data:
   - ref: fig_roadside_unit_dot
     display: roadside unit Diagram
 related:
-- content: subClassOf [connectedUnit]
+- content:
+    eng: subClassOf [connectedUnit]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: ba32d26c-3885-5af9-a1d5-6516235e5c6b
 schema_version: '3'
+---
 ---
 data:
   definition:

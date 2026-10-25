@@ -1,3 +1,4 @@
+---
 data:
   identifier: 3.3.1.18
   localized_concepts:
@@ -7,7 +8,8 @@ data:
     source: urn:iso:std:iso:ts:14812
     ref_type: domain
 related:
-- content: section-3-3
+- content:
+    eng: section-3-3
   type: broader
   ref:
     source: ISO/TS 14812
@@ -17,6 +19,7 @@ date_accepted: '2022-04-01T00:00:00+00:00'
 schema_version: '3'
 id: 6a5c74f5-56d6-53b7-8bfc-971779493748
 ---
+---
 data:
   definition:
   - content: either a {{urn:iso:std:iso:14812:3.3.1.19,hard shoulder}} or a {{urn:iso:std:iso:14812:3.3.1.20,soft
@@ -25,9 +28,9 @@ data:
   notes:
   - content: In some jurisdictions, a shoulder can be used for emergency stops and/or
       other purposes in addition to providing a clear zone for safety purposes.
-  - content: '{{urn:iso:std:iso:14812:3.3.1.10,roadside,Roadside}}, shoulder, and
+  - content: "{{urn:iso:std:iso:14812:3.3.1.10,roadside,Roadside}}, shoulder, and
       {{urn:iso:std:iso:14812:3.3.1.11,verge}} define similar but slightly different
-      concepts'
+      concepts"
   sources:
   - origin:
       ref:

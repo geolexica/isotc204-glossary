@@ -1,3 +1,4 @@
+---
 data:
   identifier: 3.3.2.3
   localized_concepts:
@@ -7,7 +8,8 @@ data:
     source: urn:iso:std:iso:ts:14812
     ref_type: domain
 related:
-- content: section-3-3
+- content:
+    eng: section-3-3
   type: broader
   ref:
     source: ISO/TS 14812
@@ -17,11 +19,12 @@ date_accepted: '2022-04-01T00:00:00+00:00'
 schema_version: '3'
 id: 7a1ea095-774a-590a-be25-be8b1ba465b1
 ---
+---
 data:
   definition:
-  - content: '{{urn:iso:std:iso:14812:3.3.2.1,physical traffic separator}} that consists
+  - content: "{{urn:iso:std:iso:14812:3.3.2.1,physical traffic separator}} that consists
       of a wall with a wide, sloped base designed to divert {{urn:iso:std:iso:14812:3.7.1.1,vehicle,vehicles}}
-      back into their {{urn:iso:std:iso:14812:3.3.1.13,traffic lane}}'
+      back into their {{urn:iso:std:iso:14812:3.3.1.13,traffic lane}}"
   examples: []
   notes:
   - content: Jersey barriers are typically modular. They are typically made of concrete

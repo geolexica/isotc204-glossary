@@ -7,7 +7,8 @@ data:
   - ref: fig_road_identifier_dot
     display: road identifier Diagram
 related:
-- content: identifies [some road]
+- content:
+    eng: identifies [some road]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -15,6 +16,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 196285fe-7e24-5048-85c9-bd93025b7d80
 schema_version: '3'
+---
 ---
 data:
   definition:

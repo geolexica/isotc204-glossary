@@ -7,12 +7,14 @@ data:
   - ref: fig_personal_information_device_dot
     display: personal information device Diagram
 related:
-- content: subClassOf [personalSystem]
+- content:
+    eng: subClassOf [personalSystem]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[personal information device](personal information device.md) that is
-    taken with and can be accessed by the [traveller](traveller.md) during a journey"
+- content:
+    eng: "[personal information device](personal information device.md) that is taken
+      with and can be accessed by the [traveller](traveller.md) during a journey"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -25,6 +27,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: d0632329-9650-5541-b4d9-f3869ddb5414
 schema_version: '3'
+---
 ---
 data:
   definition:

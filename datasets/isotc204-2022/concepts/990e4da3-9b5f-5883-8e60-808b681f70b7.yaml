@@ -1,3 +1,4 @@
+---
 data:
   identifier: 3.3.5.8
   localized_concepts:
@@ -7,7 +8,8 @@ data:
     source: urn:iso:std:iso:ts:14812
     ref_type: domain
 related:
-- content: section-3-3
+- content:
+    eng: section-3-3
   type: broader
   ref:
     source: ISO/TS 14812
@@ -17,11 +19,12 @@ date_accepted: '2022-04-01T00:00:00+00:00'
 schema_version: '3'
 id: 990e4da3-9b5f-5883-8e60-808b681f70b7
 ---
+---
 data:
   definition:
-  - content: '{{urn:iso:std:iso:14812:3.3.5.5,link}} that represents a contiguous
+  - content: "{{urn:iso:std:iso:14812:3.3.5.5,link}} that represents a contiguous
       length of a {{urn:iso:std:iso:14812:3.3.5.6,road link}} characterized by the
-      same physical characteristics'
+      same physical characteristics"
   examples: []
   notes:
   - content: The definition of road segments is highly dependent on which characteristics

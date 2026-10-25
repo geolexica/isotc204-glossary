@@ -7,14 +7,16 @@ data:
   - ref: fig_relationship_dot
     display: relationship Diagram
 related:
-- content: "<enterprise view> [relationship](relationship.md) where one [resource](resource.md)
-    supplements another [resource](resource.md)"
+- content:
+    eng: "<enterprise view> [relationship](relationship.md) where one [resource](resource.md)
+      supplements another [resource](resource.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[extend](extend.md)"
-- content: "<enterprise view> [relationship](relationship.md) where one [resource](resource.md)
-    contains another resource"
+- content:
+    eng: "<enterprise view> [relationship](relationship.md) where one [resource](resource.md)
+      contains another resource"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -27,6 +29,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 672e708f-49c8-5c02-b37a-098374e8fb59
 schema_version: '3'
+---
 ---
 data:
   definition:

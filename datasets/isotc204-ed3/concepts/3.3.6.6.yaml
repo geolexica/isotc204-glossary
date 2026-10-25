@@ -7,7 +7,8 @@ data:
   - ref: fig_egress_link_dot
     display: egress link Diagram
 related:
-- content: aggregates [some egressLane]
+- content:
+    eng: aggregates [some egressLane]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: b1b315e4-ff66-5b4b-a286-57d989066e7c
 schema_version: '3'
+---
 ---
 data:
   definition:

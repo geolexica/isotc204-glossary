@@ -7,11 +7,13 @@ data:
   - ref: fig_traveller_dot
     display: traveller Diagram
 related:
-- content: isA [some person]
+- content:
+    eng: isA [some person]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[person](person.md) who is travelling on foot"
+- content:
+    eng: "[person](person.md) who is travelling on foot"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -24,6 +26,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: db8dff7a-28d0-53cb-b4c4-73f7a1d0b882
 schema_version: '3'
+---
 ---
 data:
   definition:

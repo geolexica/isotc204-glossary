@@ -7,7 +7,8 @@ data:
   - ref: fig_road_cycle_dot
     display: road cycle Diagram
 related:
-- content: subClassOf [vehicle]
+- content:
+    eng: subClassOf [vehicle]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: f7bfc2ac-06fb-5de5-9086-7c3bfb108127
 schema_version: '3'
+---
 ---
 data:
   definition:

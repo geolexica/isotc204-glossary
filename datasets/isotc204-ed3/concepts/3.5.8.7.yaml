@@ -7,7 +7,8 @@ data:
   - ref: fig_private_dot
     display: private Diagram
 related:
-- content: subClassOf [financialModel]
+- content:
+    eng: subClassOf [financialModel]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: ff1e6255-48f3-5eae-a8c3-8fe76fb3a8fd
 schema_version: '3'
+---
 ---
 data:
   definition:

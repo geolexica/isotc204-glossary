@@ -7,12 +7,14 @@ data:
   - ref: fig_designated_parking_space_dot
     display: designated parking space Diagram
 related:
-- content: subClassOf [parkingSpace]
+- content:
+    eng: subClassOf [parkingSpace]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[designated parking space](designated parking space.md) that requires
-    a special permit from an appropriate authority"
+- content:
+    eng: "[designated parking space](designated parking space.md) that requires a
+      special permit from an appropriate authority"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -21,6 +23,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 3eb55395-dd91-5c75-bc08-122a4868c863
 schema_version: '3'
+---
 ---
 data:
   definition:

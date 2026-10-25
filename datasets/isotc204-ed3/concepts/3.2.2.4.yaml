@@ -7,7 +7,8 @@ data:
   - ref: fig_payment_administration_central_system_dot
     display: payment administration central system Diagram
 related:
-- content: subClassOf [centralSystem]
+- content:
+    eng: subClassOf [centralSystem]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 7bc01d64-9013-5ff9-8602-dd0a4d04a550
 schema_version: '3'
+---
 ---
 data:
   definition:

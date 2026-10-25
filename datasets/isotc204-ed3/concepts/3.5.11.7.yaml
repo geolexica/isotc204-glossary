@@ -7,19 +7,23 @@ data:
   - ref: fig_courier_network_service_dot
     display: courier network service Diagram
 related:
-- content: attrContractualModel [has peer-to-peer]
+- content:
+    eng: attrContractualModel [has peer-to-peer]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: attrFinancialModel [has commercial]
+- content:
+    eng: attrFinancialModel [has commercial]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: attrTransportItem [has goods]
+- content:
+    eng: attrTransportItem [has goods]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [sharedTransportService]
+- content:
+    eng: subClassOf [sharedTransportService]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -31,6 +35,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: a48e6d93-4ca7-5d77-a1bf-cf4d8857844b
 schema_version: '3'
+---
 ---
 data:
   definition:

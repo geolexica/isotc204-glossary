@@ -7,15 +7,18 @@ data:
   - ref: fig_public_transport_dot
     display: public transport Diagram
 related:
-- content: attrAccessibility [has public]
+- content:
+    eng: attrAccessibility [has public]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: attrTransportItem [has passengers]
+- content:
+    eng: attrTransportItem [has passengers]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [transportService]
+- content:
+    eng: subClassOf [transportService]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -27,6 +30,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: '0699354d-76c7-521f-904e-ad15b5bd973f'
 schema_version: '3'
+---
 ---
 data:
   definition:

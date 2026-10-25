@@ -7,12 +7,14 @@ data:
   - ref: fig_transport_system_dot
     display: transport system Diagram
 related:
-- content: subClassOf [system]
+- content:
+    eng: subClassOf [system]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[transport system](transport system.md) designed to move [material entities](material
-    entity.md) across the surface or near-surface of the Earth"
+- content:
+    eng: "[transport system](transport system.md) designed to move [material entities](material
+      entity.md) across the surface or near-surface of the Earth"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -25,6 +27,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 7fbde6e9-265d-557f-ab85-e9af7adabf6f
 schema_version: '3'
+---
 ---
 data:
   definition:

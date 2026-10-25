@@ -7,7 +7,8 @@ data:
   - ref: fig_geographic_identifier_dot
     display: geographic identifier Diagram
 related:
-- content: referenceUsedBy [some spatialReference]
+- content:
+    eng: referenceUsedBy [some spatialReference]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: fe130253-3536-50a1-b6c9-95f3104eb5ce
 schema_version: '3'
+---
 ---
 data:
   definition:

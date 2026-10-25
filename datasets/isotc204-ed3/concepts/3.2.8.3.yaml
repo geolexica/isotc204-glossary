@@ -7,11 +7,13 @@ data:
   - ref: fig_ITS_application_specification_dot
     display: ITS application specification Diagram
 related:
-- content: details [some interoperabilityDesign]
+- content:
+    eng: details [some interoperabilityDesign]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: for [some itsApplication]
+- content:
+    eng: for [some itsApplication]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -23,6 +25,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: aeed4ab7-b711-5841-bcae-6fbb4e5efd6e
 schema_version: '3'
+---
 ---
 data:
   definition:

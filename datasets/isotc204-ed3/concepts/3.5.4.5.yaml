@@ -7,7 +7,8 @@ data:
   - ref: fig_ITS_S_service_dot
     display: ITS-S service Diagram
 related:
-- content: subClassOf [service]
+- content:
+    eng: subClassOf [service]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -15,6 +16,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: b75555d2-4c6e-5728-8c77-eda674607832
 schema_version: '3'
+---
 ---
 data:
   definition:

@@ -7,132 +7,155 @@ data:
   - ref: fig_vehicle_dot
     display: vehicle Diagram
 related:
-- content: attrPurpose [has transport ppl/goods]
+- content:
+    eng: attrPurpose [has transport ppl/goods]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: canBe [min 1 owl::Thing]
+- content:
+    eng: canBe [min 1 owl::Thing]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: ddtControlledBy [exactly 1 owl::Thing]
+- content:
+    eng: ddtControlledBy [exactly 1 owl::Thing]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: has [some vehicleInputDevice]
+- content:
+    eng: has [some vehicleInputDevice]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [materialEntity]
+- content:
+    eng: subClassOf [materialEntity]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[ADS-equipped vehicle](ADS-equipped vehicle.md) designed for only driverless
-    operation for complete trips"
+- content:
+    eng: "[ADS-equipped vehicle](ADS-equipped vehicle.md) designed for only driverless
+      operation for complete trips"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[ADS-dedicated vehicle](ADS-dedicated vehicle.md)"
-- content: "[vehicle](vehicle.md) integrated with an [ADS](ADS.md)"
+- content:
+    eng: "[vehicle](vehicle.md) integrated with an [ADS](ADS.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[ADS-equipped vehicle](ADS-equipped vehicle.md)"
-- content: "[vehicle](vehicle.md) that is [connected](connected.md) using one or more
-    communication media"
+- content:
+    eng: "[vehicle](vehicle.md) that is [connected](connected.md) using one or more
+      communication media"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[connected vehicle](connected vehicle.md)"
-- content: "<driving automation> [vehicle](vehicle.md) designed to be operated by
-    a [person](person.md) during part or all of every trip."
+- content:
+    eng: "<driving automation> [vehicle](vehicle.md) designed to be operated by a
+      [person](person.md) during part or all of every trip."
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[conventional vehicle](conventional vehicle.md)"
-- content: "<driving automation> [ADS-equipped vehicle](ADS-equipped vehicle.md) designed
-    for both driverless operation and operation by a conventional [driver](driver.md)
-    for complete trips"
+- content:
+    eng: "<driving automation> [ADS-equipped vehicle](ADS-equipped vehicle.md) designed
+      for both driverless operation and operation by a conventional [driver](driver.md)
+      for complete trips"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[dual-mode vehicle](dual-mode vehicle.md)"
-- content: "[vehicle](vehicle.md) with a [design speed](design speed.md) in the range
-    of [high vehicle speeds](high vehicle speed.md)"
+- content:
+    eng: "[vehicle](vehicle.md) with a [design speed](design speed.md) in the range
+      of [high vehicle speeds](high vehicle speed.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[high-speed vehicle](high-speed vehicle.md)"
-- content: "[vehicle](vehicle.md) with a [design speed](design speed.md) in the range
-    of [low vehicle speeds](low vehicle speed.md)"
+- content:
+    eng: "[vehicle](vehicle.md) with a [design speed](design speed.md) in the range
+      of [low vehicle speeds](low vehicle speed.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[low-speed vehicle](low-speed vehicle.md)"
-- content: "[vehicle](vehicle.md) with a [design speed](design speed.md) in the range
-    of [moderate vehicle speeds](moderate vehicle speed.md)"
+- content:
+    eng: "[vehicle](vehicle.md) with a [design speed](design speed.md) in the range
+      of [moderate vehicle speeds](moderate vehicle speed.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[moderate-speed vehicle](moderate-speed vehicle.md)"
-- content: "[vehicle](vehicle.md) with a [design speed](design speed.md) in the range
-    of [moderately-high vehicle speeds](moderately-high vehicle speed.md)"
+- content:
+    eng: "[vehicle](vehicle.md) with a [design speed](design speed.md) in the range
+      of [moderately-high vehicle speeds](moderately-high vehicle speed.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[moderately high-speed vehicle](moderately high-speed vehicle.md)"
-- content: "[vehicle](vehicle.md) with a [design speed](design speed.md) in the range
-    of [moderately-low vehicle speeds](moderately-low vehicle speed.md)"
+- content:
+    eng: "[vehicle](vehicle.md) with a [design speed](design speed.md) in the range
+      of [moderately-low vehicle speeds](moderately-low vehicle speed.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[moderately low-speed vehicle](moderately low-speed vehicle.md)"
-- content: "[motorized](motorized vehicle.md) [road vehicle](road vehicle.md) allowed
-    to operate in the same [driving spaces](driving space.md) as motorized [passenger](passenger.md)
-    cars"
+- content:
+    eng: "[motorized](motorized vehicle.md) [road vehicle](road vehicle.md) allowed
+      to operate in the same [driving spaces](driving space.md) as motorized [passenger](passenger.md)
+      cars"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[motor vehicle](motor vehicle.md)"
-- content: "[motorized](motorized vehicle.md) [road vehicle](road vehicle.md) allowed
-    to operate in the same [driving spaces](driving space.md) as motorized [passenger](passenger.md)
-    cars"
+- content:
+    eng: "[motorized](motorized vehicle.md) [road vehicle](road vehicle.md) allowed
+      to operate in the same [driving spaces](driving space.md) as motorized [passenger](passenger.md)
+      cars"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[motor vehicle](motor vehicle.md)"
-- content: self-propelled [vehicle](vehicle.md)
+- content:
+    eng: self-propelled [vehicle](vehicle.md)
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[motorized vehicle](motorized vehicle.md)"
-- content: human-powered [vehicle](vehicle.md) not meeting the legal requirements
-    to be driven in [cycle lanes](cycle lane.md)
+- content:
+    eng: human-powered [vehicle](vehicle.md) not meeting the legal requirements to
+      be driven in [cycle lanes](cycle lane.md)
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[non-road cycle](non-road cycle.md)"
-- content: "[vehicle](vehicle.md) not meeting the legal requirements to be driven
-    in [traffic lanes](traffic lane.md) or [cycle lanes](cycle lane.md) of a [road
-    network](road network.md)"
+- content:
+    eng: "[vehicle](vehicle.md) not meeting the legal requirements to be driven in
+      [traffic lanes](traffic lane.md) or [cycle lanes](cycle lane.md) of a [road
+      network](road network.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[non-road vehicle](non-road vehicle.md)"
-- content: "[vehicle](vehicle.md) meeting the legal requirements to operate in [cycle
-    lanes](cycle lane.md) and [cycleways](cycleway.md)"
+- content:
+    eng: "[vehicle](vehicle.md) meeting the legal requirements to operate in [cycle
+      lanes](cycle lane.md) and [cycleways](cycleway.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[road cycle](road cycle.md)"
-- content: "[vehicle](vehicle.md) meeting the requirements to operate within the [driving
-    space](driving space.md) of a [road](road.md)"
+- content:
+    eng: "[vehicle](vehicle.md) meeting the requirements to operate within the [driving
+      space](driving space.md) of a [road](road.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[road vehicle](road vehicle.md)"
-- content: "[vehicle](vehicle.md) with a [design speed](design speed.md) that does
-    not exceed [ultra-low vehicle speeds](ultra-low vehicle speed.md)"
+- content:
+    eng: "[vehicle](vehicle.md) with a [design speed](design speed.md) that does not
+      exceed [ultra-low vehicle speeds](ultra-low vehicle speed.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -145,6 +168,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 5301c0ae-230b-5037-8104-3d2470f1f799
 schema_version: '3'
+---
 ---
 data:
   definition:

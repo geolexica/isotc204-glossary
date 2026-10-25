@@ -7,47 +7,55 @@ data:
   - ref: fig_data_concept_dot
     display: data concept Diagram
 related:
-- content: describes [some entity]
+- content:
+    eng: describes [some entity]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: storedIn [some dataDictionary]
+- content:
+    eng: storedIn [some dataDictionary]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: set of ideas, abstractions or things in the real world that are identified
-    with explicit boundaries and meaning and whose properties and behaviour follow
-    the same rules
+- content:
+    eng: set of ideas, abstractions or things in the real world that are identified
+      with explicit boundaries and meaning and whose properties and behaviour follow
+      the same rules
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[class](class.md)"
-- content: unit of data that is considered in a given context to be indivisible and
-    which includes an unambiguous representational form
+- content:
+    eng: unit of data that is considered in a given context to be indivisible and
+      which includes an unambiguous representational form
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[data element](data element.md)"
-- content: specific grouping of [data elements](data element.md) that describes information
-    of interest through a useful grouping of more atomic properties about one or more
-    [classes](class.md)
+- content:
+    eng: specific grouping of [data elements](data element.md) that describes information
+      of interest through a useful grouping of more atomic properties about one or
+      more [classes](class.md)
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[data frame](data frame.md)"
-- content: bi-directional communication sequence between two parties in accordance
-    with predetermined protocols
+- content:
+    eng: bi-directional communication sequence between two parties in accordance with
+      predetermined protocols
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[interface dialogue](interface dialogue.md)"
-- content: grouping of [data elements](data element.md), [data frames](data frame.md),
-    or data elements and data frames that is used to convey information
+- content:
+    eng: grouping of [data elements](data element.md), [data frames](data frame.md),
+      or data elements and data frames that is used to convey information
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[message](message.md)"
-- content: a set of permissible values
+- content:
+    eng: a set of permissible values
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -60,6 +68,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: f6e240ba-178d-54c0-b019-be90338a5f56
 schema_version: '3'
+---
 ---
 data:
   definition:

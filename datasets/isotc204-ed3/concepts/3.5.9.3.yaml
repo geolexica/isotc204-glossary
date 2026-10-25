@@ -7,28 +7,32 @@ data:
   - ref: fig_concurrent_dot
     display: concurrent Diagram
 related:
-- content: subClassOf [operationalModel]
+- content:
+    eng: subClassOf [operationalModel]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "<transport service> [concurrent](concurrent.md) operation where transported
-    items can only be received or delivered at stopping points within a pre-defined
-    [service](service.md) corridor"
+- content:
+    eng: "<transport service> [concurrent](concurrent.md) operation where transported
+      items can only be received or delivered at stopping points within a pre-defined
+      [service](service.md) corridor"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[dynamic route](dynamic route.md)"
-- content: "<transport service> [concurrent](concurrent.md) operation where transported
-    items can only be received or delivered at stopping points contained in a pre-defined
-    sequence"
+- content:
+    eng: "<transport service> [concurrent](concurrent.md) operation where transported
+      items can only be received or delivered at stopping points contained in a pre-defined
+      sequence"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[fixed route](fixed route.md)"
-- content: "<transport service> [concurrent](concurrent.md) operation where the [transport
-    provider](transport provider.md) may choose to divert from its path to service
-    a new request from another [transport users](transport user.md) while servicing
-    an earlier transport user"
+- content:
+    eng: "<transport service> [concurrent](concurrent.md) operation where the [transport
+      provider](transport provider.md) may choose to divert from its path to service
+      a new request from another [transport users](transport user.md) while servicing
+      an earlier transport user"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -41,6 +45,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 3a285ad1-5e53-5c93-8416-ca835b6a922d
 schema_version: '3'
+---
 ---
 data:
   definition:

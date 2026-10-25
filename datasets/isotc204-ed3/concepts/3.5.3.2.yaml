@@ -7,11 +7,13 @@ data:
   - ref: fig_ITS_service_provider_dot
     display: ITS service provider Diagram
 related:
-- content: delivers [some itsService]
+- content:
+    eng: delivers [some itsService]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [serviceProvider]
+- content:
+    eng: subClassOf [serviceProvider]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -23,6 +25,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: a20aeae0-e416-591d-84ff-a7d3d52a8a9d
 schema_version: '3'
+---
 ---
 data:
   definition:

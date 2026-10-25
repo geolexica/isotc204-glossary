@@ -7,11 +7,13 @@ data:
   - ref: fig_area_location_dot
     display: area location Diagram
 related:
-- content: subClassOf [spatialLocation]
+- content:
+    eng: subClassOf [spatialLocation]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: area location, which is the destination of a defined route or itinerary
+- content:
+    eng: area location, which is the destination of a defined route or itinerary
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -24,6 +26,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 831fa014-21a8-5609-b7c6-3ed44b5118b3
 schema_version: '3'
+---
 ---
 data:
   definition:

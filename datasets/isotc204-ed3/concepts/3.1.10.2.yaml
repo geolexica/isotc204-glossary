@@ -7,7 +7,8 @@ data:
   - ref: fig_meta_attribute_dot
     display: meta-attribute Diagram
 related:
-- content: characteristicOf [some dataConcept]
+- content:
+    eng: characteristicOf [some dataConcept]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 9eba7264-4a75-5dd6-8f47-11d6ded3f745
 schema_version: '3'
+---
 ---
 data:
   definition:

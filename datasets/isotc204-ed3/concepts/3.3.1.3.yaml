@@ -7,21 +7,25 @@ data:
   - ref: fig_roadway_dot
     display: roadway Diagram
 related:
-- content: comprises [some travelledWay]
+- content:
+    eng: comprises [some travelledWay]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: having exactly two [carriageways](carriageway.md)
+- content:
+    eng: having exactly two [carriageways](carriageway.md)
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[dual carriageway](dual carriageway.md)"
-- content: having more than one [carriageway](carriageway.md)
+- content:
+    eng: having more than one [carriageway](carriageway.md)
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[multiple carriageway](multiple carriageway.md)"
-- content: having exactly one [carriageway](carriageway.md)
+- content:
+    eng: having exactly one [carriageway](carriageway.md)
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -34,6 +38,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 7f0055da-2543-5f55-a1a1-a85079b23326
 schema_version: '3'
+---
 ---
 data:
   definition:

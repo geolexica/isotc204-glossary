@@ -7,7 +7,8 @@ data:
   - ref: fig_motor_dot
     display: motor Diagram
 related:
-- content: subClassOf [materialEntity]
+- content:
+    eng: subClassOf [materialEntity]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 7ea085d9-3123-564f-a4ef-2622e30a3f4a
 schema_version: '3'
+---
 ---
 data:
   definition:

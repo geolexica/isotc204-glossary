@@ -1,3 +1,4 @@
+---
 data:
   identifier: 3.2.7.7
   localized_concepts:
@@ -7,7 +8,8 @@ data:
     source: urn:iso:std:iso:ts:14812
     ref_type: domain
 related:
-- content: section-3-2
+- content:
+    eng: section-3-2
   type: broader
   ref:
     source: ISO/TS 14812
@@ -17,11 +19,12 @@ date_accepted: '2022-04-01T00:00:00+00:00'
 schema_version: '3'
 id: 8eeb9b06-e60b-5bfa-98af-180f0c596198
 ---
+---
 data:
   definition:
-  - content: '{{urn:iso:std:iso:14812:3.2.7.3,ITS station,ITS-S}} functionalities
+  - content: "{{urn:iso:std:iso:14812:3.2.7.3,ITS station,ITS-S}} functionalities
       in an {{urn:iso:std:iso:14812:3.2.7.8,ITS-S node}} that enable connecting two
-      networks and forwarding packets not explicitly addressed to the ITS-S node'
+      networks and forwarding packets not explicitly addressed to the ITS-S node"
   examples: []
   notes: []
   sources:

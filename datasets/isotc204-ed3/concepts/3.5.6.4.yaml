@@ -7,7 +7,8 @@ data:
   - ref: fig_transport_sharing_dot
     display: transport sharing Diagram
 related:
-- content: using [some sharedTransportService]
+- content:
+    eng: using [some sharedTransportService]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: fea119f9-cf9a-5df8-b21f-74094776fb68
 schema_version: '3'
+---
 ---
 data:
   definition:

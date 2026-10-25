@@ -7,11 +7,13 @@ data:
   - ref: fig_shuttle_service_dot
     display: shuttle service Diagram
 related:
-- content: attrTransportItem [has passengers]
+- content:
+    eng: attrTransportItem [has passengers]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [sharedTransportService]
+- content:
+    eng: subClassOf [sharedTransportService]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -23,6 +25,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 9bbea39d-e326-50c0-9221-2e94488cfa54
 schema_version: '3'
+---
 ---
 data:
   definition:

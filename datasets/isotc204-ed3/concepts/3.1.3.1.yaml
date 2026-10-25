@@ -7,50 +7,57 @@ data:
   - ref: fig_architecture_dot
     display: architecture Diagram
 related:
-- content: aggregates [some element]
+- content:
+    eng: aggregates [some element]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[architecture](architecture.md) that provides a vision of a specific deployment
-    of a [system](system.md) within a geographic area"
+- content:
+    eng: "[architecture](architecture.md) that provides a vision of a specific deployment
+      of a [system](system.md) within a geographic area"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[deployment architecture](deployment architecture.md)"
-- content: "[deployment architecture](deployment architecture.md) for one or more
-    [ITS services](ITS service.md)"
+- content:
+    eng: "[deployment architecture](deployment architecture.md) for one or more [ITS
+      services](ITS service.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[ITS deployment architecture](ITS deployment architecture.md)"
-- content: "[planning architecture](planning architecture.md) for one or more [ITS
-    services](ITS service.md)"
+- content:
+    eng: "[planning architecture](planning architecture.md) for one or more [ITS services](ITS
+      service.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[ITS planning architecture](ITS planning architecture.md)"
-- content: "[reference architecture](reference architecture.md) for one or more [ITS
-    services](ITS service.md)"
+- content:
+    eng: "[reference architecture](reference architecture.md) for one or more [ITS
+      services](ITS service.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[ITS reference architecture](ITS reference architecture.md)"
-- content: "[reference architecture](reference architecture.md) for handling communications
-    within a [physical object](physical object.md) as defined in ISO 21217"
+- content:
+    eng: "[reference architecture](reference architecture.md) for handling communications
+      within a [physical object](physical object.md) as defined in ISO 21217"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[ITS-S reference architecture](ITS-S reference architecture.md)"
-- content: "[architecture](architecture.md) that provides a long-term vision of system
-    [elements](element.md) that may be deployed and managed by different projects
-    and/or [entities](entity.md) within a geographic area"
+- content:
+    eng: "[architecture](architecture.md) that provides a long-term vision of system
+      [elements](element.md) that may be deployed and managed by different projects
+      and/or [entities](entity.md) within a geographic area"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[planning architecture](planning architecture.md)"
-- content: "[architecture](architecture.md) that provides a template solution for
-    [planning](planning architecture.md) and [deployment architectures](deployment
-    architecture.md)"
+- content:
+    eng: "[architecture](architecture.md) that provides a template solution for [planning](planning
+      architecture.md) and [deployment architectures](deployment architecture.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -63,6 +70,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 93e7f47d-2562-5544-9e4a-49eb3e51b165
 schema_version: '3'
+---
 ---
 data:
   definition:

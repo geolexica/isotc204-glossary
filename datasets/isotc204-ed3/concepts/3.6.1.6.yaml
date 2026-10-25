@@ -7,7 +7,8 @@ data:
   - ref: fig_protected_road_user_dot
     display: protected road user Diagram
 related:
-- content: subClassOf [roadUser]
+- content:
+    eng: subClassOf [roadUser]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -15,6 +16,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: d2588c6e-81ac-5a5c-8d47-5e94114ceecf
 schema_version: '3'
+---
 ---
 data:
   definition:

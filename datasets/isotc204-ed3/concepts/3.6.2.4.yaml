@@ -7,11 +7,13 @@ data:
   - ref: fig_in_vehicle_driver_dot
     display: in-vehicle driver Diagram
 related:
-- content: subClassOf [driver]
+- content:
+    eng: subClassOf [driver]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: uses [some built-inVehicleInputDevice]
+- content:
+    eng: uses [some built-inVehicleInputDevice]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -23,6 +25,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: f5a4f871-4bf3-512e-b849-7ddef4e28467
 schema_version: '3'
+---
 ---
 data:
   definition:

@@ -7,16 +7,19 @@ data:
   - ref: fig_pick_updrop_off_area_dot
     display: pick-up/drop-off area Diagram
 related:
-- content: for [some passenger]
+- content:
+    eng: for [some passenger]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: toBoardOrAlightFrom [some vehicle]
+- content:
+    eng: toBoardOrAlightFrom [some vehicle]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[pick-up/drop-off area](pick-updrop-off area.md) area for public transport
-    vehicles"
+- content:
+    eng: "[pick-up/drop-off area](pick-updrop-off area.md) area for public transport
+      vehicles"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -25,6 +28,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 45c65645-efd7-514a-a0d9-f7d259ecdc4a
 schema_version: '3'
+---
 ---
 data:
   definition:

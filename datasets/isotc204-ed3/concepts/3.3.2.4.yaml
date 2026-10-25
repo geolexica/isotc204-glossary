@@ -7,7 +7,8 @@ data:
   - ref: fig_kerb_dot
     display: kerb Diagram
 related:
-- content: subClassOf [physicalTrafficSeparator]
+- content:
+    eng: subClassOf [physicalTrafficSeparator]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -15,6 +16,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 9d27d2b7-42a7-5067-a559-44c7b063c1bf
 schema_version: '3'
+---
 ---
 data:
   definition:

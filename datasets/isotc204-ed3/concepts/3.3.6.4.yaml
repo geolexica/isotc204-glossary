@@ -7,7 +7,8 @@ data:
   - ref: fig_ingress_link_dot
     display: ingress link Diagram
 related:
-- content: aggregates [some ingressLane]
+- content:
+    eng: aggregates [some ingressLane]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: fdea8bfe-3044-51e0-affd-7e6d43efe6cb
 schema_version: '3'
+---
 ---
 data:
   definition:

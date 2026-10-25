@@ -7,52 +7,62 @@ data:
   - ref: fig_shared_transport_service_dot
     display: shared transport service Diagram
 related:
-- content: attrVehicleOperator [has transport provider]
+- content:
+    eng: attrVehicleOperator [has transport provider]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [transportService]
+- content:
+    eng: subClassOf [transportService]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[commercial](commercial.md), [peer-to-peer](peer-to-peer.md) [shared transport
-    service](shared transport service.md) that transports goods"
+- content:
+    eng: "[commercial](commercial.md), [peer-to-peer](peer-to-peer.md) [shared transport
+      service](shared transport service.md) that transports goods"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[courier network service](courier network service.md)"
-- content: "[cooperative](cooperative.md) [shared transport service](shared transport
-    service.md) that transports [passengers](passenger.md) [concurrently](concurrent.md)"
+- content:
+    eng: "[cooperative](cooperative.md) [shared transport service](shared transport
+      service.md) that transports [passengers](passenger.md) [concurrently](concurrent.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[rideshare service](rideshare service.md)"
-- content: "[commercial](commercial.md), [peer-to-peer](peer-to-peer.md) [shared transport
-    service](shared transport service.md) that transports [passengers](passenger.md)"
+- content:
+    eng: "[commercial](commercial.md), [peer-to-peer](peer-to-peer.md) [shared transport
+      service](shared transport service.md) that transports [passengers](passenger.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[ridesourced service](ridesourced service.md)"
-- content: "[ridesourced service](ridesourced service.md) that serves [passengers](passenger.md)
-    [concurrently](concurrent.md)"
+- content:
+    eng: "[ridesourced service](ridesourced service.md) that serves [passengers](passenger.md)
+      [concurrently](concurrent.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[ridesplit service](ridesplit service.md)"
-- content: "[shared transport service](shared transport service.md) that transports
-    [passengers](passenger.md) between two specified [spatial locations](spatial location.md)"
+- content:
+    eng: "[shared transport service](shared transport service.md) that transports
+      [passengers](passenger.md) between two specified [spatial locations](spatial
+      location.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[shuttle service](shuttle service.md)"
-- content: "[commercial](commercial.md) [shared transport service](shared transport
-    service.md) that transports [passengers](passenger.md) [sequentially](sequential.md)"
+- content:
+    eng: "[commercial](commercial.md) [shared transport service](shared transport
+      service.md) that transports [passengers](passenger.md) [sequentially](sequential.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[taxi service](taxi service.md)"
-- content: "[commercial](commercial.md) [shared transport service](shared transport
-    service.md) that transports [passengers](passenger.md) [concurrently](concurrent.md)"
+- content:
+    eng: "[commercial](commercial.md) [shared transport service](shared transport
+      service.md) that transports [passengers](passenger.md) [concurrently](concurrent.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -65,6 +75,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 0ef87dfe-a947-55cf-ae9a-35e9526a8011
 schema_version: '3'
+---
 ---
 data:
   definition:

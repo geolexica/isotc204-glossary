@@ -7,11 +7,13 @@ data:
   - ref: fig_enterprise_viewpoint_dot
     display: enterprise viewpoint Diagram
 related:
-- content: governs [some enterpriseView]
+- content:
+    eng: governs [some enterpriseView]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [architectureViewpoint]
+- content:
+    eng: subClassOf [architectureViewpoint]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -23,6 +25,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 8cfaa901-d0cc-5e3c-a808-2d68ed5d391d
 schema_version: '3'
+---
 ---
 data:
   definition:

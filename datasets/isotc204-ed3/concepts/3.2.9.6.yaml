@@ -7,7 +7,8 @@ data:
   - ref: fig_ITS_S_application_installation_dot
     display: ITS-S application installation Diagram
 related:
-- content: subClassOf [its-sApplicationProcessInstallation]
+- content:
+    eng: subClassOf [its-sApplicationProcessInstallation]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 1b40bc0b-e10f-54fb-b7be-755a6c89d816
 schema_version: '3'
+---
 ---
 data:
   definition:

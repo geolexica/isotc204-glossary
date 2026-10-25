@@ -7,11 +7,13 @@ data:
   - ref: fig_public_transport_vehicle_stop_dot
     display: public transport vehicle stop Diagram
 related:
-- content: for [some publicTransportVehicle]
+- content:
+    eng: for [some publicTransportVehicle]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [pick-upDrop-offArea]
+- content:
+    eng: subClassOf [pick-upDrop-offArea]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +21,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: d7de8a5b-ca14-596b-95c1-4f09ff79fdfc
 schema_version: '3'
+---
 ---
 data:
   definition:

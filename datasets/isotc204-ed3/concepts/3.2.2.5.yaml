@@ -7,7 +7,8 @@ data:
   - ref: fig_public_transport_central_management_system_dot
     display: public transport central management system Diagram
 related:
-- content: subClassOf [centralSystem]
+- content:
+    eng: subClassOf [centralSystem]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: fe3ddd0e-d70c-5fc4-9f09-889dce8e8748
 schema_version: '3'
+---
 ---
 data:
   definition:

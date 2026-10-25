@@ -7,12 +7,14 @@ data:
   - ref: fig_traffic_lane_dot
     display: traffic lane Diagram
 related:
-- content: subClassOf [lane]
+- content:
+    eng: subClassOf [lane]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[traffic lane](traffic lane.md) restricted to a specific subset of [road
-    vehicles](road vehicle.md) or [user](user.md) categories"
+- content:
+    eng: "[traffic lane](traffic lane.md) restricted to a specific subset of [road
+      vehicles](road vehicle.md) or [user](user.md) categories"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -25,6 +27,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 49b25a0f-25fa-5a1f-a009-ba11b22136b1
 schema_version: '3'
+---
 ---
 data:
   definition:

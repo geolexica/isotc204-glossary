@@ -7,14 +7,16 @@ data:
   - ref: fig_transport_facility_dot
     display: transport facility Diagram
 related:
-- content: "[transport facility](transport facility.md) built over a gap to provide
-    a continuous travel path"
+- content:
+    eng: "[transport facility](transport facility.md) built over a gap to provide
+      a continuous travel path"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[bridge](bridge.md)"
-- content: "[bridge](bridge.md) with a deck that can be moved in a way that disrupts
-    the continuous travel path"
+- content:
+    eng: "[bridge](bridge.md) with a deck that can be moved in a way that disrupts
+      the continuous travel path"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -23,6 +25,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 8ac6acd5-e846-5e98-b21f-a7a0f6b96dd8
 schema_version: '3'
+---
 ---
 data:
   definition:

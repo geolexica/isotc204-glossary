@@ -7,7 +7,8 @@ data:
   - ref: fig_include_dot
     display: include Diagram
 related:
-- content: subClassOf [relationship]
+- content:
+    eng: subClassOf [relationship]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 194b9397-7809-58c5-b0d1-93bded04ac4f
 schema_version: '3'
+---
 ---
 data:
   definition:

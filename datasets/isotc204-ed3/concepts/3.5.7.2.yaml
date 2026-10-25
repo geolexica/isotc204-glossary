@@ -7,7 +7,8 @@ data:
   - ref: fig_corporate_customer_model_dot
     display: corporate customer model Diagram
 related:
-- content: subClassOf [contractualModel]
+- content:
+    eng: subClassOf [contractualModel]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 1c388e9f-33d6-5593-bca4-7e4ee76b6983
 schema_version: '3'
+---
 ---
 data:
   definition:

@@ -7,7 +7,8 @@ data:
   - ref: fig_egress_lane_dot
     display: egress lane Diagram
 related:
-- content: exitFor [some junction]
+- content:
+    eng: exitFor [some junction]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 90be826d-0cb6-50c9-9aa7-dea16e475f9e
 schema_version: '3'
+---
 ---
 data:
   definition:

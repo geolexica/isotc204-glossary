@@ -1,3 +1,4 @@
+---
 data:
   identifier: 3.5.13.7
   localized_concepts:
@@ -7,7 +8,8 @@ data:
     source: urn:iso:std:iso:ts:14812
     ref_type: domain
 related:
-- content: section-3-5
+- content:
+    eng: section-3-5
   type: broader
   ref:
     source: ISO/TS 14812
@@ -17,11 +19,12 @@ date_accepted: '2022-04-01T00:00:00+00:00'
 schema_version: '3'
 id: b3faee91-c771-57b7-af8b-ab817074fe45
 ---
+---
 data:
   definition:
-  - content: '{{urn:iso:std:iso:14812:3.5.13.1,mobility app}} that provides information
+  - content: "{{urn:iso:std:iso:14812:3.5.13.1,mobility app}} that provides information
       about current travel conditions to a {{urn:iso:std:iso:14812:3.5.2.3,transport
-      user}}'
+      user}}"
   examples: []
   notes: []
   sources:

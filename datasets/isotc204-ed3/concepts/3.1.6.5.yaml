@@ -7,7 +7,8 @@ data:
   - ref: fig_formal_coordination_dot
     display: formal coordination Diagram
 related:
-- content: subClassOf [interaction]
+- content:
+    eng: subClassOf [interaction]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 219e10f5-f265-5962-98ea-40c1a5e9a92a
 schema_version: '3'
+---
 ---
 data:
   definition:

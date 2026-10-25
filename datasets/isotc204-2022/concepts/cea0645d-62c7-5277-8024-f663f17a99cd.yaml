@@ -1,3 +1,4 @@
+---
 data:
   identifier: 3.2.2.5
   localized_concepts:
@@ -7,7 +8,8 @@ data:
     source: urn:iso:std:iso:ts:14812
     ref_type: domain
 related:
-- content: section-3-2
+- content:
+    eng: section-3-2
   type: broader
   ref:
     source: ISO/TS 14812
@@ -17,11 +19,12 @@ date_accepted: '2022-04-01T00:00:00+00:00'
 schema_version: '3'
 id: cea0645d-62c7-5277-8024-f663f17a99cd
 ---
+---
 data:
   definition:
-  - content: '{{urn:iso:std:iso:14812:3.2.1.1,central system,centre system}} that
+  - content: "{{urn:iso:std:iso:14812:3.2.1.1,central system,centre system}} that
       allows an {{urn:iso:std:iso:14812:3.1.1.1,entity}} to manage the activities
-      of a {{urn:iso:std:iso:14812:3.5.6.1,public transport}} agency'
+      of a {{urn:iso:std:iso:14812:3.5.6.1,public transport}} agency"
   examples: []
   notes: []
   sources:

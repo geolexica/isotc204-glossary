@@ -1,3 +1,4 @@
+---
 data:
   identifier: 3.1.2.3
   localized_concepts:
@@ -7,7 +8,8 @@ data:
     source: urn:iso:std:iso:ts:14812
     ref_type: domain
 related:
-- content: section-3-1
+- content:
+    eng: section-3-1
   type: broader
   ref:
     source: ISO/TS 14812
@@ -17,11 +19,12 @@ date_accepted: '2022-04-01T00:00:00+00:00'
 schema_version: '3'
 id: bb0abc9e-9c6a-5a1a-9f8c-21d7ad913cdd
 ---
+---
 data:
   definition:
-  - content: '{{urn:iso:std:iso:14812:3.1.2.2,transport system}} designed to move
+  - content: "{{urn:iso:std:iso:14812:3.1.2.2,transport system}} designed to move
       {{urn:iso:std:iso:14812:3.1.1.3,material entity,material entities}} across the
-      surface or near-surface of the Earth'
+      surface or near-surface of the Earth"
   examples: []
   notes:
   - content: A surface transport system can include tunnels, bridges and similar {{urn:iso:std:iso:14812:3.1.3.10,element,elements}}.

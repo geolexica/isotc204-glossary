@@ -1,3 +1,4 @@
+---
 data:
   identifier: 3.2.2.3
   localized_concepts:
@@ -7,7 +8,8 @@ data:
     source: urn:iso:std:iso:ts:14812
     ref_type: domain
 related:
-- content: section-3-2
+- content:
+    eng: section-3-2
   type: broader
   ref:
     source: ISO/TS 14812
@@ -17,11 +19,12 @@ date_accepted: '2022-04-01T00:00:00+00:00'
 schema_version: '3'
 id: 8c28bcbc-d16e-58b6-895e-0bce6826cc55
 ---
+---
 data:
   definition:
-  - content: '{{urn:iso:std:iso:14812:3.2.1.1,central system,centre system}} that
+  - content: "{{urn:iso:std:iso:14812:3.2.1.1,central system,centre system}} that
       allows an {{urn:iso:std:iso:14812:3.1.1.1,entity}} to monitor and manage the
-      construction and maintenance of {{urn:iso:std:iso:14812:3.3.5.1,road}} infrastructure'
+      construction and maintenance of {{urn:iso:std:iso:14812:3.3.5.1,road}} infrastructure"
   examples: []
   notes: []
   sources:

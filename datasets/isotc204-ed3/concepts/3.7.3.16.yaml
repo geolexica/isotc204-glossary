@@ -7,7 +7,8 @@ data:
   - ref: fig_dual_mode_vehicle_dot
     display: dual-mode vehicle Diagram
 related:
-- content: subClassOf [ads-equippedVehicle]
+- content:
+    eng: subClassOf [ads-equippedVehicle]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 924f835c-2d29-53ae-9eab-24c0bab614ec
 schema_version: '3'
+---
 ---
 data:
   definition:

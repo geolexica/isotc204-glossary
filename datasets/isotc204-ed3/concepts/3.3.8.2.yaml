@@ -7,7 +7,8 @@ data:
   - ref: fig_loading_area_dot
     display: loading area Diagram
 related:
-- content: forDesignated [some vehicles]
+- content:
+    eng: forDesignated [some vehicles]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -15,6 +16,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 85c7c2b3-016d-550d-89fb-4edc83366f28
 schema_version: '3'
+---
 ---
 data:
   definition:

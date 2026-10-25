@@ -7,7 +7,8 @@ data:
   - ref: fig_connected_vehicle_roadside_equipment_dot
     display: connected vehicle roadside equipment Diagram
 related:
-- content: subClassOf [itsRoadsideEquipment]
+- content:
+    eng: subClassOf [itsRoadsideEquipment]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 26093630-b2b5-5b9d-ac79-e517e124b49d
 schema_version: '3'
+---
 ---
 data:
   definition:

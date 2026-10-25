@@ -7,23 +7,27 @@ data:
   - ref: fig_bounded_secured_managed_domain_dot
     display: bounded secured managed domain Diagram
 related:
-- content: represents [some environment]
+- content:
+    eng: represents [some environment]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [entity]
+- content:
+    eng: subClassOf [entity]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[bounded secured managed domain](bounded secured managed domain.md) that
-    is able to meet requirements of the [ITS trust domain](ITS trust domain.md) within
-    which it is designed to participate"
+- content:
+    eng: "[bounded secured managed domain](bounded secured managed domain.md) that
+      is able to meet requirements of the [ITS trust domain](ITS trust domain.md)
+      within which it is designed to participate"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[ITS station](ITS station.md)"
-- content: set of [bounded secured managed domains](bounded secured managed domain.md)
-    that meet a defined set of ITS industry security requirements
+- content:
+    eng: set of [bounded secured managed domains](bounded secured managed domain.md)
+      that meet a defined set of ITS industry security requirements
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -36,6 +40,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 8a394467-6ece-5de6-a8e2-d2d2ad9b87df
 schema_version: '3'
+---
 ---
 data:
   definition:

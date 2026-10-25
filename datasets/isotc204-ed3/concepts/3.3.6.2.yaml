@@ -7,26 +7,31 @@ data:
   - ref: fig_junction_dot
     display: junction Diagram
 related:
-- content: aggregates [some egressLane]
+- content:
+    eng: aggregates [some egressLane]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: aggregates [some ingressLane]
+- content:
+    eng: aggregates [some ingressLane]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [intersection]
+- content:
+    eng: subClassOf [intersection]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[junction](junction.md) with at least one [grade separated manoeuvre](grade
-    separated manoeuvre.md)"
+- content:
+    eng: "[junction](junction.md) with at least one [grade separated manoeuvre](grade
+      separated manoeuvre.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[interchange](interchange.md)"
-- content: "[junction](junction.md) without any [grade separated manoeuvres](grade
-    separated manoeuvre.md)"
+- content:
+    eng: "[junction](junction.md) without any [grade separated manoeuvres](grade separated
+      manoeuvre.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -39,6 +44,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: '08f8a67b-ddc4-58bf-bf32-d1165a408abb'
 schema_version: '3'
+---
 ---
 data:
   definition:

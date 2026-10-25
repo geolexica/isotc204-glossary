@@ -7,11 +7,13 @@ data:
   - ref: fig_fallback_dot
     display: fallback Diagram
 related:
-- content: mayBeCausedBy [some ddtPerformance-relevantSystemFailure]
+- content:
+    eng: mayBeCausedBy [some ddtPerformance-relevantSystemFailure]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: mayBeCausedByAViolationOf [some operationalDesignDomain]
+- content:
+    eng: mayBeCausedByAViolationOf [some operationalDesignDomain]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -23,6 +25,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 59de653f-d2a1-5aef-899f-dbe3ea3e5d21
 schema_version: '3'
+---
 ---
 data:
   definition:

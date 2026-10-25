@@ -7,36 +7,42 @@ data:
   - ref: fig_ADS_dot
     display: ADS Diagram
 related:
-- content: canControl [some ads-equippedVehicle]
+- content:
+    eng: canControl [some ads-equippedVehicle]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: performsAllOf [some dynamicDrivingTask]
+- content:
+    eng: performsAllOf [some dynamicDrivingTask]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [drivingAutomationSystem]
+- content:
+    eng: subClassOf [drivingAutomationSystem]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[ADS](ADS.md) designed with the expectation that the [fallback-ready user](fallback-ready
-    user.md) is available to intervene"
+- content:
+    eng: "[ADS](ADS.md) designed with the expectation that the [fallback-ready user](fallback-ready
+      user.md) is available to intervene"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[level 3 ADS](level 3 ADS.md)"
-- content: "[ADS](ADS.md) that is capable of operating within a specific [operational
-    design domain](operational design domain.md) and providing its own [fallback](fallback.md),
-    without any expectation that a human [driver](driver.md) will respond to a request
-    to intervene"
+- content:
+    eng: "[ADS](ADS.md) that is capable of operating within a specific [operational
+      design domain](operational design domain.md) and providing its own [fallback](fallback.md),
+      without any expectation that a human [driver](driver.md) will respond to a request
+      to intervene"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[level 4 ADS](level 4 ADS.md)"
-- content: "[ADS](ADS.md) that is capable of unconditional (i.e. not [operational
-    design domain](operational design domain.md)-specific) operation and providing
-    its own [fallback](fallback.md), without any expectation that a human [driver](driver.md)
-    will respond to a request to intervene"
+- content:
+    eng: "[ADS](ADS.md) that is capable of unconditional (i.e. not [operational design
+      domain](operational design domain.md)-specific) operation and providing its
+      own [fallback](fallback.md), without any expectation that a human [driver](driver.md)
+      will respond to a request to intervene"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -49,6 +55,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: eb1df05e-7bd1-5f4a-a154-fb636cded59c
 schema_version: '3'
+---
 ---
 data:
   definition:

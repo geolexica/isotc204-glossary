@@ -1,3 +1,4 @@
+---
 data:
   identifier: 3.5.13.2
   localized_concepts:
@@ -7,7 +8,8 @@ data:
     source: urn:iso:std:iso:ts:14812
     ref_type: domain
 related:
-- content: section-3-5
+- content:
+    eng: section-3-5
   type: broader
   ref:
     source: ISO/TS 14812
@@ -17,11 +19,12 @@ date_accepted: '2022-04-01T00:00:00+00:00'
 schema_version: '3'
 id: 31927851-1b95-59bc-8822-6739efd43940
 ---
+---
 data:
   definition:
-  - content: '{{urn:iso:std:iso:14812:3.5.13.1,mobility app}} that assists a {{urn:iso:std:iso:14812:3.5.2.3,transport
+  - content: "{{urn:iso:std:iso:14812:3.5.13.1,mobility app}} that assists a {{urn:iso:std:iso:14812:3.5.2.3,transport
       user}} in acquiring a {{urn:iso:std:iso:14812:3.5.2.1,transport service}} from
-      a specific business'
+      a specific business"
   examples: []
   notes: []
   sources:

@@ -7,15 +7,18 @@ data:
   - ref: fig_multiple_carriageway_dot
     display: multiple carriageway Diagram
 related:
-- content: comprises [min 3 owl::Thing]
+- content:
+    eng: comprises [min 3 owl::Thing]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: has [min 2 owl::Thing]
+- content:
+    eng: has [min 2 owl::Thing]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [roadway]
+- content:
+    eng: subClassOf [roadway]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -27,6 +30,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: e21fc73f-9ef2-53ce-9943-9bab8f68c8b3
 schema_version: '3'
+---
 ---
 data:
   definition:

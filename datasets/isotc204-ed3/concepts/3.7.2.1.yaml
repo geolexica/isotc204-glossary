@@ -7,44 +7,51 @@ data:
   - ref: fig_speed_dot
     display: speed Diagram
 related:
-- content: rateOfChangeOfPositionOf [exactly 1 owl::Thing]
+- content:
+    eng: rateOfChangeOfPositionOf [exactly 1 owl::Thing]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[speed](speed.md) of a [vehicle](vehicle.md) that exceeds free flow motorway
-    speeds by a factor of two or more"
+- content:
+    eng: "[speed](speed.md) of a [vehicle](vehicle.md) that exceeds free flow motorway
+      speeds by a factor of two or more"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[high vehicle speed](high vehicle speed.md)"
-- content: "[speed](speed.md) of a [vehicle](vehicle.md) that exceeds [pedestrian](pedestrian.md)
-    speeds and is more typical of pedal cycles"
+- content:
+    eng: "[speed](speed.md) of a [vehicle](vehicle.md) that exceeds [pedestrian](pedestrian.md)
+      speeds and is more typical of pedal cycles"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[low vehicle speed](low vehicle speed.md)"
-- content: "[speed](speed.md) of a [vehicle](vehicle.md) that exceeds [moderately-low
-    vehicle speeds](moderately-low vehicle speed.md) but does not reach free-flow
-    motorway speeds"
+- content:
+    eng: "[speed](speed.md) of a [vehicle](vehicle.md) that exceeds [moderately-low
+      vehicle speeds](moderately-low vehicle speed.md) but does not reach free-flow
+      motorway speeds"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[moderate vehicle speed](moderate vehicle speed.md)"
-- content: "[speed](speed.md) of a [vehicle](vehicle.md) that is typical of free-flow
-    motorway speeds to twice that speed"
+- content:
+    eng: "[speed](speed.md) of a [vehicle](vehicle.md) that is typical of free-flow
+      motorway speeds to twice that speed"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[moderately-high vehicle speed](moderately-high vehicle speed.md)"
-- content: "[speed](speed.md) of a [vehicle](vehicle.md) that exceeds speeds typical
-    of pedal cycles but can be reached on performance pedal cycles in short bursts
-    or by performance riders"
+- content:
+    eng: "[speed](speed.md) of a [vehicle](vehicle.md) that exceeds speeds typical
+      of pedal cycles but can be reached on performance pedal cycles in short bursts
+      or by performance riders"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[moderately-low vehicle speed](moderately-low vehicle speed.md)"
-- content: "[speed](speed.md) of a [vehicle](vehicle.md) that does not greatly exceed
-    typical [pedestrian](pedestrian.md) speeds"
+- content:
+    eng: "[speed](speed.md) of a [vehicle](vehicle.md) that does not greatly exceed
+      typical [pedestrian](pedestrian.md) speeds"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -57,6 +64,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 978fd346-c9d6-5f8d-ac3f-67d10ee21bed
 schema_version: '3'
+---
 ---
 data:
   definition:

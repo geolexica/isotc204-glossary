@@ -7,7 +7,8 @@ data:
   - ref: fig_commercial_dot
     display: commercial Diagram
 related:
-- content: subClassOf [financialModel]
+- content:
+    eng: subClassOf [financialModel]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 478f32f2-f2e5-5f07-b63f-0385a3586a50
 schema_version: '3'
+---
 ---
 data:
   definition:

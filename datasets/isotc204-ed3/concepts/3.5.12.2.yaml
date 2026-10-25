@@ -7,7 +7,8 @@ data:
   - ref: fig_carsharing_service_dot
     display: carsharing service Diagram
 related:
-- content: subClassOf [sharedVehicleService]
+- content:
+    eng: subClassOf [sharedVehicleService]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 50762760-2e23-5632-b09f-ff299407ac7b
 schema_version: '3'
+---
 ---
 data:
   definition:

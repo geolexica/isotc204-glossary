@@ -1,3 +1,4 @@
+---
 data:
   identifier: 3.3.6.3
   localized_concepts:
@@ -7,7 +8,8 @@ data:
     source: urn:iso:std:iso:ts:14812
     ref_type: domain
 related:
-- content: section-3-3
+- content:
+    eng: section-3-3
   type: broader
   ref:
     source: ISO/TS 14812
@@ -15,12 +17,13 @@ related:
 status: valid
 date_accepted: '2022-04-01T00:00:00+00:00'
 schema_version: '3'
-id: 0931a320-2952-5b80-ba37-613363e2c9f8
+id: '0931a320-2952-5b80-ba37-613363e2c9f8'
+---
 ---
 data:
   definition:
-  - content: '{{urn:iso:std:iso:14812:3.3.1.13,traffic lane}} designed for entering
-      a {{urn:iso:std:iso:14812:3.3.6.2,junction}}'
+  - content: "{{urn:iso:std:iso:14812:3.3.1.13,traffic lane}} designed for entering
+      a {{urn:iso:std:iso:14812:3.3.6.2,junction}}"
   examples: []
   notes: []
   sources:

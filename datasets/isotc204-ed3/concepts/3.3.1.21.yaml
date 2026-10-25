@@ -7,7 +7,8 @@ data:
   - ref: fig_motorway_dot
     display: motorway Diagram
 related:
-- content: subClassOf [road]
+- content:
+    eng: subClassOf [road]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -15,6 +16,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 99019443-0883-5372-900c-8b55ad57d6b2
 schema_version: '3'
+---
 ---
 data:
   definition:

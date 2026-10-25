@@ -7,7 +7,8 @@ data:
   - ref: fig_ITS_deployment_architecture_dot
     display: ITS deployment architecture Diagram
 related:
-- content: subClassOf [deploymentArchitecture]
+- content:
+    eng: subClassOf [deploymentArchitecture]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: dd2ffabe-c497-5c17-8ea2-1bac3b67997b
 schema_version: '3'
+---
 ---
 data:
   definition:

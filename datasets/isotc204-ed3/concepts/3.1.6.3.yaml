@@ -7,7 +7,8 @@ data:
   - ref: fig_document_dot
     display: document Diagram
 related:
-- content: subClassOf [resource]
+- content:
+    eng: subClassOf [resource]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: ae83514e-7f2f-50fb-84ba-44a271e254d3
 schema_version: '3'
+---
 ---
 data:
   definition:

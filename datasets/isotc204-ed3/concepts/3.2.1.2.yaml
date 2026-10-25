@@ -7,26 +7,30 @@ data:
   - ref: fig_field_system_dot
     display: field system Diagram
 related:
-- content: subClassOf [itsComponent]
+- content:
+    eng: subClassOf [itsComponent]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[ITS roadside equipment](ITS roadside equipment.md) that perform [ITS
-    services](ITS service.md) by exchanging electronic [messages](message.md) with
-    nearby [connected vehicles](connected vehicle.md) and/or [personal systems](personal
-    system.md) via short-range wireless technologies"
+- content:
+    eng: "[ITS roadside equipment](ITS roadside equipment.md) that perform [ITS services](ITS
+      service.md) by exchanging electronic [messages](message.md) with nearby [connected
+      vehicles](connected vehicle.md) and/or [personal systems](personal system.md)
+      via short-range wireless technologies"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[connected vehicle roadside equipment](connected vehicle roadside equipment.md)"
-- content: portable [field system](field system.md) used by field personnel to locally
-    troubleshoot, initialize, reprogram and test infrastructure equipment
+- content:
+    eng: portable [field system](field system.md) used by field personnel to locally
+      troubleshoot, initialize, reprogram and test infrastructure equipment
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[field support equipment](field support equipment.md)"
-- content: "[field system](field system.md) that performs localized [ITS services](ITS
-    service.md)"
+- content:
+    eng: "[field system](field system.md) that performs localized [ITS services](ITS
+      service.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -39,6 +43,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: a69eddf4-8509-58fe-a02c-4e43beaa5593
 schema_version: '3'
+---
 ---
 data:
   definition:

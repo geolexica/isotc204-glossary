@@ -7,31 +7,38 @@ data:
   - ref: fig_ITS_S_reference_architecture_dot
     display: ITS-S reference architecture Diagram
 related:
-- content: aggregates [some securityEntity]
+- content:
+    eng: aggregates [some securityEntity]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: aggregates [some facilitiesLayer]
+- content:
+    eng: aggregates [some facilitiesLayer]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: aggregates [some applicationEntity]
+- content:
+    eng: aggregates [some applicationEntity]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: aggregates [some managementEntity]
+- content:
+    eng: aggregates [some managementEntity]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: aggregates [some transnetLayer]
+- content:
+    eng: aggregates [some transnetLayer]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: aggregates [some its-sAccessLayer]
+- content:
+    eng: aggregates [some its-sAccessLayer]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [referenceArchitecture]
+- content:
+    eng: subClassOf [referenceArchitecture]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -43,6 +50,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: e16a8ff3-332f-5479-ab31-3ab8007fc1b7
 schema_version: '3'
+---
 ---
 data:
   definition:

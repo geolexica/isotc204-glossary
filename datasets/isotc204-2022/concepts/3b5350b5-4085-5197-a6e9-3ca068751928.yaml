@@ -1,3 +1,4 @@
+---
 data:
   identifier: 3.7.5.6
   localized_concepts:
@@ -7,7 +8,8 @@ data:
     source: urn:iso:std:iso:ts:14812
     ref_type: domain
 related:
-- content: section-3-7
+- content:
+    eng: section-3-7
   type: broader
   ref:
     source: ISO/TS 14812
@@ -17,11 +19,12 @@ date_accepted: '2022-04-01T00:00:00+00:00'
 schema_version: '3'
 id: 3b5350b5-4085-5197-a6e9-3ca068751928
 ---
+---
 data:
   definition:
-  - content: '{{urn:iso:std:iso:14812:3.7.1.1,vehicle}} with a {{urn:iso:std:iso:14812:3.7.2.2,design
+  - content: "{{urn:iso:std:iso:14812:3.7.1.1,vehicle}} with a {{urn:iso:std:iso:14812:3.7.2.2,design
       speed}} in the range of {{urn:iso:std:iso:14812:3.7.5.12,high vehicle speed,high
-      vehicle speeds}}'
+      vehicle speeds}}"
   examples:
   - content: Racing car.
   - content: High-speed train

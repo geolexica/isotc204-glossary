@@ -7,11 +7,13 @@ data:
   - ref: fig_single_carriageway_dot
     display: single carriageway Diagram
 related:
-- content: comprises [exactly 1 owl::Thing]
+- content:
+    eng: comprises [exactly 1 owl::Thing]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [roadway]
+- content:
+    eng: subClassOf [roadway]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -23,6 +25,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 6f677598-7cda-5bf2-98bf-74d7cf71dab1
 schema_version: '3'
+---
 ---
 data:
   definition:

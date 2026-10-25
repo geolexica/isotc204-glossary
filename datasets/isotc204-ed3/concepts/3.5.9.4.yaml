@@ -7,7 +7,8 @@ data:
   - ref: fig_fixed_route_dot
     display: fixed route Diagram
 related:
-- content: subClassOf [concurrent]
+- content:
+    eng: subClassOf [concurrent]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 1bfb2dae-f2e2-5f18-ba2f-d0b0e478c3fa
 schema_version: '3'
+---
 ---
 data:
   definition:

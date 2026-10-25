@@ -7,7 +7,8 @@ data:
   - ref: fig_anonymized_vehicle_reference_dot
     display: anonymized vehicle reference Diagram
 related:
-- content: encodedReferenceFor [exactly 1 owl::Thing]
+- content:
+    eng: encodedReferenceFor [exactly 1 owl::Thing]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -15,6 +16,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 849b8db8-c83c-52d1-8030-0055a1fe4f2b
 schema_version: '3'
+---
 ---
 data:
   definition:

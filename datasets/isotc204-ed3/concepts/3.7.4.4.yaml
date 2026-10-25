@@ -7,7 +7,8 @@ data:
   - ref: fig_unequipped_dot
     display: unequipped Diagram
 related:
-- content: subClassOf [off-grid]
+- content:
+    eng: subClassOf [off-grid]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: a1de71cf-76f7-5a39-a61a-9c4d329ddc09
 schema_version: '3'
+---
 ---
 data:
   definition:

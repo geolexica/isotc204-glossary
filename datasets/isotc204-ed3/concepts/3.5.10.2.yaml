@@ -7,7 +7,8 @@ data:
   - ref: fig_station_based_roundtrip_dot
     display: station-based roundtrip Diagram
 related:
-- content: subClassOf [networkModel]
+- content:
+    eng: subClassOf [networkModel]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 34dc59fb-9ed3-5f5c-92ad-125dfeef1c9c
 schema_version: '3'
+---
 ---
 data:
   definition:
