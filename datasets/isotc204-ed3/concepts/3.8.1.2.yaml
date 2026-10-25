@@ -7,7 +7,8 @@ data:
   - ref: fig_payment_mode_dot
     display: payment mode Diagram
 related:
-- content: timingAndLocationOfRemunerationTo [some serviceProvider]
+- content:
+    eng: timingAndLocationOfRemunerationTo [some serviceProvider]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -15,6 +16,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: b9b7013b-333e-5ce7-ac97-09b98103bbdc
 schema_version: '3'
+---
 ---
 data:
   definition:

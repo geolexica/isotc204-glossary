@@ -7,11 +7,13 @@ data:
   - ref: fig_physical_viewpoint_dot
     display: physical viewpoint Diagram
 related:
-- content: governs [some physicalView]
+- content:
+    eng: governs [some physicalView]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [architectureViewpoint]
+- content:
+    eng: subClassOf [architectureViewpoint]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -23,6 +25,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 3ece8e0f-6bf9-5533-981e-8c6e9aa2a018
 schema_version: '3'
+---
 ---
 data:
   definition:

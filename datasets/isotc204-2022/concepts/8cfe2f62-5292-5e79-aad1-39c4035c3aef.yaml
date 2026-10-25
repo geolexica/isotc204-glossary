@@ -1,3 +1,4 @@
+---
 data:
   identifier: 3.1.10.1
   localized_concepts:
@@ -7,7 +8,8 @@ data:
     source: urn:iso:std:iso:ts:14812
     ref_type: domain
 related:
-- content: section-3-1
+- content:
+    eng: section-3-1
   type: broader
   ref:
     source: ISO/TS 14812
@@ -17,12 +19,13 @@ date_accepted: '2022-04-01T00:00:00+00:00'
 schema_version: '3'
 id: 8cfe2f62-5292-5e79-aad1-39c4035c3aef
 ---
+---
 data:
   definition:
-  - content: '{{urn:iso:std:iso:14812:3.1.11.1,data element}}, {{urn:iso:std:iso:14812:3.1.11.2,class}},
+  - content: "{{urn:iso:std:iso:14812:3.1.11.1,data element}}, {{urn:iso:std:iso:14812:3.1.11.2,class}},
       {{urn:iso:std:iso:14812:3.1.11.3,value domain}}, {{urn:iso:std:iso:14812:3.1.11.4,data
       frame}}, {{urn:iso:std:iso:14812:3.1.11.5,message}} or {{urn:iso:std:iso:14812:3.1.11.6,interface
-      dialogue}} defined, at a minimum, with an unambiguous identifier and a definition'
+      dialogue}} defined, at a minimum, with an unambiguous identifier and a definition"
   examples: []
   notes:
   - content: In order to exchange a value corresponding to a data concept, more information

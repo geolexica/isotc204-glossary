@@ -7,11 +7,13 @@ data:
   - ref: fig_ITS_user_dot
     display: ITS user Diagram
 related:
-- content: subClassOf [user]
+- content:
+    eng: subClassOf [user]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: uses [some surfaceTransportSystem]
+- content:
+    eng: uses [some surfaceTransportSystem]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -23,6 +25,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: e7c7cadf-9c8e-54e6-a149-f941d8bcaf34
 schema_version: '3'
+---
 ---
 data:
   definition:

@@ -7,19 +7,23 @@ data:
   - ref: fig_physical_view_dot
     display: physical view Diagram
 related:
-- content: aggregates [some physicalObject]
+- content:
+    eng: aggregates [some physicalObject]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: aggregates [some informationTransfer]
+- content:
+    eng: aggregates [some informationTransfer]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: aggregates [some functionalObject]
+- content:
+    eng: aggregates [some functionalObject]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [architectureView]
+- content:
+    eng: subClassOf [architectureView]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -31,6 +35,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 147309b1-6aa5-5a46-a239-2cff524923a5
 schema_version: '3'
+---
 ---
 data:
   definition:

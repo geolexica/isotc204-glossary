@@ -7,7 +7,8 @@ data:
   - ref: fig_non_biological_entity_dot
     display: non-biological entity Diagram
 related:
-- content: subClassOf [materialEntity]
+- content:
+    eng: subClassOf [materialEntity]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 4bcad6a3-7801-5a64-bcb1-f1377e6a4ee7
 schema_version: '3'
+---
 ---
 data:
   definition:

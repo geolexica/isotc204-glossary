@@ -7,19 +7,23 @@ data:
   - ref: fig_taxi_service_dot
     display: taxi service Diagram
 related:
-- content: attrFinancialModel [has commercial]
+- content:
+    eng: attrFinancialModel [has commercial]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: attrOperationalModel [has sequential]
+- content:
+    eng: attrOperationalModel [has sequential]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: attrTransportItem [has passengers]
+- content:
+    eng: attrTransportItem [has passengers]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [sharedTransportService]
+- content:
+    eng: subClassOf [sharedTransportService]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -31,6 +35,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: d0691448-3e9f-5065-976a-a909b993c73e
 schema_version: '3'
+---
 ---
 data:
   definition:

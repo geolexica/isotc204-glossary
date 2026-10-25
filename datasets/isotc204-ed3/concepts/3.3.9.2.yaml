@@ -7,7 +7,8 @@ data:
   - ref: fig_traffic_control_device_dot
     display: traffic control device Diagram
 related:
-- content: subClassOf [roadEquipment]
+- content:
+    eng: subClassOf [roadEquipment]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -15,6 +16,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 34547ad5-f10f-570e-a935-86db931aa581
 schema_version: '3'
+---
 ---
 data:
   definition:

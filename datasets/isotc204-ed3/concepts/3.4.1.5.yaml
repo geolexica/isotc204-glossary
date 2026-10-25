@@ -7,7 +7,8 @@ data:
   - ref: fig_linear_location_dot
     display: linear location Diagram
 related:
-- content: subClassOf [spatialLocation]
+- content:
+    eng: subClassOf [spatialLocation]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 22659788-4069-5dfd-ac79-0ec2a1e51d56
 schema_version: '3'
+---
 ---
 data:
   definition:

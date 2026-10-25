@@ -1,3 +1,4 @@
+---
 data:
   identifier: 3.3.5.6
   localized_concepts:
@@ -7,7 +8,8 @@ data:
     source: urn:iso:std:iso:ts:14812
     ref_type: domain
 related:
-- content: section-3-3
+- content:
+    eng: section-3-3
   type: broader
   ref:
     source: ISO/TS 14812
@@ -17,11 +19,12 @@ date_accepted: '2022-04-01T00:00:00+00:00'
 schema_version: '3'
 id: 36f1ce07-2e83-52dd-be0d-86dd6519ad37
 ---
+---
 data:
   definition:
-  - content: '{{urn:iso:std:iso:14812:3.3.5.5,link}} representing a contiguous length
+  - content: "{{urn:iso:std:iso:14812:3.3.5.5,link}} representing a contiguous length
       of a {{urn:iso:std:iso:14812:3.3.5.1,road}} between two {{urn:iso:std:iso:14812:3.3.5.4,node,nodes}}
-      of operational or managerial significance'
+      of operational or managerial significance"
   examples: []
   notes:
   - content: The operational characteristics of the nodes would relate to the type

@@ -7,27 +7,32 @@ data:
   - ref: fig_service_provider_dot
     display: service provider Diagram
 related:
-- content: delivers [some service]
+- content:
+    eng: delivers [some service]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [entity]
+- content:
+    eng: subClassOf [entity]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[entity](entity.md) that delivers one or more [ITS services](ITS service.md)"
+- content:
+    eng: "[entity](entity.md) that delivers one or more [ITS services](ITS service.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[ITS service provider](ITS service provider.md)"
-- content: "[ITS-SU](ITS-S unit.md) that delivers one or more [ITS-SU services](ITS-SU
-    service.md)"
+- content:
+    eng: "[ITS-SU](ITS-S unit.md) that delivers one or more [ITS-SU services](ITS-SU
+      service.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[ITS-SU service provider](ITS-SU service provider.md)"
-- content: "[entity](entity.md) that delivers one or more [transport services](transport
-    service.md)"
+- content:
+    eng: "[entity](entity.md) that delivers one or more [transport services](transport
+      service.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -40,6 +45,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 890cc389-d6b8-53cc-87dc-0791c4c8bd3e
 schema_version: '3'
+---
 ---
 data:
   definition:

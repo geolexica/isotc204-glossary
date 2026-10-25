@@ -7,11 +7,13 @@ data:
   - ref: fig_duration_dot
     display: duration Diagram
 related:
-- content: endsAt [exactly 1 owl::Thing]
+- content:
+    eng: endsAt [exactly 1 owl::Thing]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: startsAt [exactly 1 owl::Thing]
+- content:
+    eng: startsAt [exactly 1 owl::Thing]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -23,6 +25,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: b9f62e20-c957-5ddf-b5be-007d532a3e36
 schema_version: '3'
+---
 ---
 data:
   definition:

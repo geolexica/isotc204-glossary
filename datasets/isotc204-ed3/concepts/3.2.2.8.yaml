@@ -7,7 +7,8 @@ data:
   - ref: fig_transport_information_central_system_dot
     display: transport information central system Diagram
 related:
-- content: subClassOf [centralSystem]
+- content:
+    eng: subClassOf [centralSystem]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: f41822ab-037d-5f7d-9b24-670c37b583ca
 schema_version: '3'
+---
 ---
 data:
   definition:

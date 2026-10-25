@@ -7,12 +7,14 @@ data:
   - ref: fig_intersection_dot
     display: intersection Diagram
 related:
-- content: meetingOrCrossing [min 2 owl::Thing]
+- content:
+    eng: meetingOrCrossing [min 2 owl::Thing]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[junction](junction.md) with at least one [grade separated manoeuvre](grade
-    separated manoeuvre.md)"
+- content:
+    eng: "[junction](junction.md) with at least one [grade separated manoeuvre](grade
+      separated manoeuvre.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -21,8 +23,9 @@ related:
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[junction](junction.md)"
-- content: "[junction](junction.md) without any [grade separated manoeuvres](grade
-    separated manoeuvre.md)"
+- content:
+    eng: "[junction](junction.md) without any [grade separated manoeuvres](grade separated
+      manoeuvre.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -35,6 +38,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: aefc3c57-d4eb-5e53-9391-4b4cf618b44c
 schema_version: '3'
+---
 ---
 data:
   definition:

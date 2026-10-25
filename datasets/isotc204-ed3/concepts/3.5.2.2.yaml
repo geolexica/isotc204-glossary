@@ -7,11 +7,13 @@ data:
   - ref: fig_transport_provider_dot
     display: transport provider Diagram
 related:
-- content: delivers [some transportService]
+- content:
+    eng: delivers [some transportService]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [serviceProvider]
+- content:
+    eng: subClassOf [serviceProvider]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -23,6 +25,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 6bbb7324-9eff-5ade-9415-8b72c5278ba0
 schema_version: '3'
+---
 ---
 data:
   definition:

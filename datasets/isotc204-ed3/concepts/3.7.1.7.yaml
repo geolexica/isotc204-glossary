@@ -7,7 +7,8 @@ data:
   - ref: fig_remote_vehicle_input_device_dot
     display: remote vehicle input device Diagram
 related:
-- content: subClassOf [vehicleInputDevice]
+- content:
+    eng: subClassOf [vehicleInputDevice]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: f7e82577-ab9d-5bbc-a8c5-104c7fd7f7a1
 schema_version: '3'
+---
 ---
 data:
   definition:

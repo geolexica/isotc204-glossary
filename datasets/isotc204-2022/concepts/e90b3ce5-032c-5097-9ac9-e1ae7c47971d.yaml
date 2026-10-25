@@ -1,13 +1,15 @@
+---
 data:
   identifier: 3.7.3.6
   localized_concepts:
-    eng: 09c9edd6-616c-5e4a-a650-e99a5a091be1
+    eng: '09c9edd6-616c-5e4a-a650-e99a5a091be1'
   domains:
   - concept_id: section-3-7
     source: urn:iso:std:iso:ts:14812
     ref_type: domain
 related:
-- content: section-3-7
+- content:
+    eng: section-3-7
   type: broader
   ref:
     source: ISO/TS 14812
@@ -16,6 +18,7 @@ status: valid
 date_accepted: '2022-04-01T00:00:00+00:00'
 schema_version: '3'
 id: e90b3ce5-032c-5097-9ac9-e1ae7c47971d
+---
 ---
 data:
   definition:
@@ -53,4 +56,4 @@ data:
     designation: driving automation system
   language_code: eng
   entry_status: valid
-id: 09c9edd6-616c-5e4a-a650-e99a5a091be1
+id: '09c9edd6-616c-5e4a-a650-e99a5a091be1'

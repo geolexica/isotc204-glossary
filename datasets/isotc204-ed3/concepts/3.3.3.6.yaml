@@ -7,7 +7,8 @@ data:
   - ref: fig_moving_walkway_dot
     display: moving walkway Diagram
 related:
-- content: subClassOf [footpath]
+- content:
+    eng: subClassOf [footpath]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -15,6 +16,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: b5c3c90f-8828-581b-b637-66f1ab0121f8
 schema_version: '3'
+---
 ---
 data:
   definition:

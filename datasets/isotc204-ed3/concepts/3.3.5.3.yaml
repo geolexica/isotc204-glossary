@@ -7,15 +7,18 @@ data:
   - ref: fig_road_model_dot
     display: road model Diagram
 related:
-- content: constitutes [some link]
+- content:
+    eng: constitutes [some link]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: constitutes [some node]
+- content:
+    eng: constitutes [some node]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: represents [some roadNetwork]
+- content:
+    eng: represents [some roadNetwork]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -27,6 +30,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 3e49c2e5-216c-55e9-b410-8e138e05f2ac
 schema_version: '3'
+---
 ---
 data:
   definition:

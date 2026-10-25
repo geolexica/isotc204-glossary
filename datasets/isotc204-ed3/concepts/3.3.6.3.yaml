@@ -7,7 +7,8 @@ data:
   - ref: fig_ingress_lane_dot
     display: ingress lane Diagram
 related:
-- content: entryFor [some junction]
+- content:
+    eng: entryFor [some junction]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 2c299c34-ebea-509b-96ff-f592d3591555
 schema_version: '3'
+---
 ---
 data:
   definition:

@@ -7,11 +7,13 @@ data:
   - ref: fig_ITS_SU_user_need_dot
     display: ITS-SU user need Diagram
 related:
-- content: requiresProcessingWithin [some boundedSecuredManagedDomain]
+- content:
+    eng: requiresProcessingWithin [some boundedSecuredManagedDomain]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [userNeed]
+- content:
+    eng: subClassOf [userNeed]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -23,6 +25,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 2f9c6133-15a8-5a0f-9208-3ad3caf5b7ea
 schema_version: '3'
+---
 ---
 data:
   definition:

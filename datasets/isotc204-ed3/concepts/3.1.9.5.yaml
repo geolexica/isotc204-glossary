@@ -7,7 +7,8 @@ data:
   - ref: fig_ITS_reference_architecture_dot
     display: ITS reference architecture Diagram
 related:
-- content: subClassOf [referenceArchitecture]
+- content:
+    eng: subClassOf [referenceArchitecture]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 48fb27fc-4548-5081-9b87-3a205e996ace
 schema_version: '3'
+---
 ---
 data:
   definition:

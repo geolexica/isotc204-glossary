@@ -7,11 +7,13 @@ data:
   - ref: fig_ITS_user_need_dot
     display: ITS user need Diagram
 related:
-- content: desiredResultsOf [some itsUser]
+- content:
+    eng: desiredResultsOf [some itsUser]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [userNeed]
+- content:
+    eng: subClassOf [userNeed]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -23,6 +25,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: a5b32a08-78b8-5949-92fc-0a675c81698f
 schema_version: '3'
+---
 ---
 data:
   definition:

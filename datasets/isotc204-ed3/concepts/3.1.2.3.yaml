@@ -7,7 +7,8 @@ data:
   - ref: fig_surface_transport_system_dot
     display: surface transport system Diagram
 related:
-- content: subClassOf [transportSystem]
+- content:
+    eng: subClassOf [transportSystem]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 800cfae6-2027-540c-bde2-f732e9e65ed6
 schema_version: '3'
+---
 ---
 data:
   definition:

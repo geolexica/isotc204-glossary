@@ -7,11 +7,13 @@ data:
   - ref: fig_interchange_dot
     display: interchange Diagram
 related:
-- content: aggregates [some gradeSeparatedManoeuvre]
+- content:
+    eng: aggregates [some gradeSeparatedManoeuvre]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [junction]
+- content:
+    eng: subClassOf [junction]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -23,6 +25,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: da02ed72-8cfc-57ec-aff1-95e2f1b86250
 schema_version: '3'
+---
 ---
 data:
   definition:

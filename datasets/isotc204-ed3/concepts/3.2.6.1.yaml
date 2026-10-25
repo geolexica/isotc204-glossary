@@ -7,11 +7,13 @@ data:
   - ref: fig_ITS_on_board_equipment_dot
     display: ITS on-board equipment Diagram
 related:
-- content: comprises [some itsOn-boardUnit]
+- content:
+    eng: comprises [some itsOn-boardUnit]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [vehicleSystem]
+- content:
+    eng: subClassOf [vehicleSystem]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -23,6 +25,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: ab24a6b6-9d56-5bd5-bad4-5c6f564a950b
 schema_version: '3'
+---
 ---
 data:
   definition:

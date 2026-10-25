@@ -1,3 +1,4 @@
+---
 data:
   identifier: 3.5.11.7
   localized_concepts:
@@ -7,7 +8,8 @@ data:
     source: urn:iso:std:iso:ts:14812
     ref_type: domain
 related:
-- content: section-3-5
+- content:
+    eng: section-3-5
   type: broader
   ref:
     source: ISO/TS 14812
@@ -17,10 +19,11 @@ date_accepted: '2022-04-01T00:00:00+00:00'
 schema_version: '3'
 id: 97bbf5e6-9437-55f9-acaa-e04a816ab42d
 ---
+---
 data:
   definition:
-  - content: '{{urn:iso:std:iso:14812:3.5.8.2,commercial}}, {{urn:iso:std:iso:14812:3.5.7.5,peer-to-peer}}
-      {{urn:iso:std:iso:14812:3.5.6.2,shared transport service}} that transports goods'
+  - content: "{{urn:iso:std:iso:14812:3.5.8.2,commercial}}, {{urn:iso:std:iso:14812:3.5.7.5,peer-to-peer}}
+      {{urn:iso:std:iso:14812:3.5.6.2,shared transport service}} that transports goods"
   examples: []
   notes:
   - content: The goods are typically small packages, letters, food, etc.

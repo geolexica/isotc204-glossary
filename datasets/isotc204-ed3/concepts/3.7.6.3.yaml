@@ -7,11 +7,13 @@ data:
   - ref: fig_motor_vehicle_dot
     display: motor vehicle Diagram
 related:
-- content: subClassOf [motorizedVehicle]
+- content:
+    eng: subClassOf [motorizedVehicle]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [roadVehicle]
+- content:
+    eng: subClassOf [roadVehicle]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -23,6 +25,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 0bb33c44-4356-5e23-b9f6-b7de492a8b61
 schema_version: '3'
+---
 ---
 data:
   definition:

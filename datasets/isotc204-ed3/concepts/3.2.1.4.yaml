@@ -7,19 +7,23 @@ data:
   - ref: fig_support_system_dot
     display: support system Diagram
 related:
-- content: subClassOf [itsComponent]
+- content:
+    eng: subClassOf [itsComponent]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[support system](support system.md) that enables trusted communications
-    among [ITS components](ITS component.md) and protects data from unauthorized access"
+- content:
+    eng: "[support system](support system.md) that enables trusted communications
+      among [ITS components](ITS component.md) and protects data from unauthorized
+      access"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[cooperative ITS credentials management system](cooperative ITS credentials
       management system.md)"
-- content: "[support system](support system.md) that provides map databases used to
-    support [ITS services](ITS service.md)"
+- content:
+    eng: "[support system](support system.md) that provides map databases used to
+      support [ITS services](ITS service.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -32,6 +36,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 6c53f0ef-1415-5aa1-a817-69f0e249c36a
 schema_version: '3'
+---
 ---
 data:
   definition:

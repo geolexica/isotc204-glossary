@@ -7,7 +7,8 @@ data:
   - ref: fig_traffic_regulation_central_system_dot
     display: traffic regulation central system Diagram
 related:
-- content: subClassOf [centralSystem]
+- content:
+    eng: subClassOf [centralSystem]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: e019d772-151b-5e78-bc7d-2795e6417265
 schema_version: '3'
+---
 ---
 data:
   definition:

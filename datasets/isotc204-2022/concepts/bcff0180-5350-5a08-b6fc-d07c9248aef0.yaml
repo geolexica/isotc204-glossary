@@ -1,3 +1,4 @@
+---
 data:
   identifier: 3.5.10.3
   localized_concepts:
@@ -7,7 +8,8 @@ data:
     source: urn:iso:std:iso:ts:14812
     ref_type: domain
 related:
-- content: section-3-5
+- content:
+    eng: section-3-5
   type: broader
   ref:
     source: ISO/TS 14812
@@ -17,12 +19,13 @@ date_accepted: '2022-04-01T00:00:00+00:00'
 schema_version: '3'
 id: bcff0180-5350-5a08-b6fc-d07c9248aef0
 ---
+---
 data:
   definition:
-  - content: '{{urn:iso:std:iso:14812:3.5.9.1,operational model,operational mode}}
+  - content: "{{urn:iso:std:iso:14812:3.5.9.1,operational model,operational mode}}
       where the {{urn:iso:std:iso:14812:3.5.2.1,transport service}} is initiated and
       terminated at two different facilities managed by the {{urn:iso:std:iso:14812:3.5.2.2,transport
-      provider}}'
+      provider}}"
   examples: []
   notes: []
   sources:

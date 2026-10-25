@@ -7,59 +7,68 @@ data:
   - ref: fig_central_system_dot
     display: central system Diagram
 related:
-- content: subClassOf [itsComponent]
+- content:
+    eng: subClassOf [itsComponent]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[centre system](central system.md) that allows an [entity](entity.md)
-    to manage and respond to crashes, events, disasters, evacuation orders and other
-    incidents"
+- content:
+    eng: "[centre system](central system.md) that allows an [entity](entity.md) to
+      manage and respond to crashes, events, disasters, evacuation orders and other
+      incidents"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[emergency management central system](emergency management central system.md)"
-- content: "[centre system](central system.md) that allows a fleet or freight operator
-    to manage and control its personnel, equipment and/or freight"
+- content:
+    eng: "[centre system](central system.md) that allows a fleet or freight operator
+      to manage and control its personnel, equipment and/or freight"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[fleet and freight management central system](fleet and freight management
       central system.md)"
-- content: "[centre system](central system.md) that allows an [entity](entity.md)
-    to monitor and manage the construction and maintenance of [road](road.md) infrastructure"
+- content:
+    eng: "[centre system](central system.md) that allows an [entity](entity.md) to
+      monitor and manage the construction and maintenance of [road](road.md) infrastructure"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[maintenance and construction central management system](maintenance and
       construction central management system.md)"
-- content: "[centre system](central system.md) that allows an [entity](entity.md)
-    to manage financial transactions related to transportation, especially the electronic
-    transfer of funds"
+- content:
+    eng: "[centre system](central system.md) that allows an [entity](entity.md) to
+      manage financial transactions related to transportation, especially the electronic
+      transfer of funds"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[payment administration central system](payment administration central system.md)"
-- content: "[centre system](central system.md) that allows an [entity](entity.md)
-    to manage the activities of a [public transport](public transport.md) agency"
+- content:
+    eng: "[centre system](central system.md) that allows an [entity](entity.md) to
+      manage the activities of a [public transport](public transport.md) agency"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[public transport central management system](public transport central management
       system.md)"
-- content: "[centre system](central system.md) that monitors and controls traffic
-    and the [road network](road network.md)"
+- content:
+    eng: "[centre system](central system.md) that monitors and controls traffic and
+      the [road network](road network.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[traffic management central system](traffic management central system.md)"
-- content: "[centre system](central system.md) that officially records traffic regulations
-    in electronic form so that they can be distributed to other systems"
+- content:
+    eng: "[centre system](central system.md) that officially records traffic regulations
+      in electronic form so that they can be distributed to other systems"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[traffic regulation central system](traffic regulation central system.md)"
-- content: "[centre system](central system.md) that provides information of interest
-    to the travelling public"
+- content:
+    eng: "[centre system](central system.md) that provides information of interest
+      to the travelling public"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -72,6 +81,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 19ff292f-383f-57fd-9f9f-260be056e75c
 schema_version: '3'
+---
 ---
 data:
   definition:

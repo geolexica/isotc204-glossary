@@ -7,31 +7,36 @@ data:
   - ref: fig_personal_system_dot
     display: personal system Diagram
 related:
-- content: subClassOf [itsComponent]
+- content:
+    eng: subClassOf [itsComponent]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[personal information device](personal information device.md) that is
-    taken with and can be accessed by the [traveller](traveller.md) during a journey"
+- content:
+    eng: "[personal information device](personal information device.md) that is taken
+      with and can be accessed by the [traveller](traveller.md) during a journey"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[nomadic device](nomadic device.md)"
-- content: "[personal system](personal system.md) consisting of global navigation
-    satellite system (GNSS) and/or wireless [modules](module.md) that are connected
-    to a [vehicle](vehicle.md) during a trip"
+- content:
+    eng: "[personal system](personal system.md) consisting of global navigation satellite
+      system (GNSS) and/or wireless [modules](module.md) that are connected to a [vehicle](vehicle.md)
+      during a trip"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[nomadic vehicle device](nomadic vehicle device.md)"
-- content: "[personal system](personal system.md) that enables personal access to
-    [traveller](traveller.md) information"
+- content:
+    eng: "[personal system](personal system.md) that enables personal access to [traveller](traveller.md)
+      information"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[personal information device](personal information device.md)"
-- content: "[personal system](personal system.md) that provides public access to [traveller](traveller.md)
-    information"
+- content:
+    eng: "[personal system](personal system.md) that provides public access to [traveller](traveller.md)
+      information"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -44,6 +49,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 0740d4cd-91db-57db-b7d3-4d2c95f4cc6f
 schema_version: '3'
+---
 ---
 data:
   definition:

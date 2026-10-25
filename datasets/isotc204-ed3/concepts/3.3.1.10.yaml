@@ -7,7 +7,8 @@ data:
   - ref: fig_roadside_dot
     display: roadside Diagram
 related:
-- content: comprises [some verge]
+- content:
+    eng: comprises [some verge]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 7b37e3df-4594-566d-8d85-d058d869f6a6
 schema_version: '3'
+---
 ---
 data:
   definition:

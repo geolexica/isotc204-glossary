@@ -1,3 +1,4 @@
+---
 data:
   identifier: 3.5.6.5
   localized_concepts:
@@ -7,7 +8,8 @@ data:
     source: urn:iso:std:iso:ts:14812
     ref_type: domain
 related:
-- content: section-3-5
+- content:
+    eng: section-3-5
   type: broader
   ref:
     source: ISO/TS 14812
@@ -16,6 +18,7 @@ status: valid
 date_accepted: '2022-04-01T00:00:00+00:00'
 schema_version: '3'
 id: d6a69fac-3293-5db1-a83d-ded8969cea9d
+---
 ---
 data:
   definition:

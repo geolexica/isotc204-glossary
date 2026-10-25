@@ -7,13 +7,15 @@ data:
   - ref: fig_road_vehicle_dot
     display: road vehicle Diagram
 related:
-- content: subClassOf [vehicle]
+- content:
+    eng: subClassOf [vehicle]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[motorized](motorized vehicle.md) [road vehicle](road vehicle.md) allowed
-    to operate in the same [driving spaces](driving space.md) as motorized [passenger](passenger.md)
-    cars"
+- content:
+    eng: "[motorized](motorized vehicle.md) [road vehicle](road vehicle.md) allowed
+      to operate in the same [driving spaces](driving space.md) as motorized [passenger](passenger.md)
+      cars"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -26,6 +28,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: fe9fbf55-5ca8-5425-a40a-d8b704c11c2b
 schema_version: '3'
+---
 ---
 data:
   definition:

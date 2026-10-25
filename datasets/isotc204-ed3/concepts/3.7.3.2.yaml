@@ -7,7 +7,8 @@ data:
   - ref: fig_operational_design_domain_dot
     display: operational design domain Diagram
 related:
-- content: forAGiven [some drivingAutomationSystem]
+- content:
+    eng: forAGiven [some drivingAutomationSystem]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: ec6b2f59-8641-565a-8c7e-13bd2d01e891
 schema_version: '3'
+---
 ---
 data:
   definition:

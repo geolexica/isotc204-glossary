@@ -7,42 +7,49 @@ data:
   - ref: fig_architecture_viewpoint_dot
     display: architecture viewpoint Diagram
 related:
-- content: aggregates [some modelKind]
+- content:
+    eng: aggregates [some modelKind]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: frames [some concern]
+- content:
+    eng: frames [some concern]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: governs [some architectureView]
+- content:
+    eng: governs [some architectureView]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[architecture viewpoint](architecture viewpoint.md) used to frame [concerns](concern.md)
-    related to all layers of the Open Systems Interconnection (OSI) stack and related
-    management and security issues"
+- content:
+    eng: "[architecture viewpoint](architecture viewpoint.md) used to frame [concerns](concern.md)
+      related to all layers of the Open Systems Interconnection (OSI) stack and related
+      management and security issues"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[communications viewpoint](communications viewpoint.md)"
-- content: "[architecture viewpoint](architecture viewpoint.md) used to frame the
-    policies, funding incentives, working arrangements and jurisdictional structure
-    that support the technical layers of the [architecture](architecture.md)"
+- content:
+    eng: "[architecture viewpoint](architecture viewpoint.md) used to frame the policies,
+      funding incentives, working arrangements and jurisdictional structure that support
+      the technical layers of the [architecture](architecture.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[enterprise viewpoint](enterprise viewpoint.md)"
-- content: "[architecture viewpoint](architecture viewpoint.md) used to frame [concerns](concern.md)
-    related to the definition of [processes](process.md) that perform surface transport
-    functions and [data flows](data flow.md) shared between these processes"
+- content:
+    eng: "[architecture viewpoint](architecture viewpoint.md) used to frame [concerns](concern.md)
+      related to the definition of [processes](process.md) that perform surface transport
+      functions and [data flows](data flow.md) shared between these processes"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[functional viewpoint](functional viewpoint.md)"
-- content: "[architecture viewpoint](architecture viewpoint.md) used to frame [concerns](concern.md)
-    related to the assignment of functionality to [physical objects](physical object.md)
-    and the interfaces among these physical objects"
+- content:
+    eng: "[architecture viewpoint](architecture viewpoint.md) used to frame [concerns](concern.md)
+      related to the assignment of functionality to [physical objects](physical object.md)
+      and the interfaces among these physical objects"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -55,6 +62,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 16d371bc-4c88-51d8-a13b-126c1b69f232
 schema_version: '3'
+---
 ---
 data:
   definition:

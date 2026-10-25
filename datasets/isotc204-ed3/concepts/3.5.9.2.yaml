@@ -7,7 +7,8 @@ data:
   - ref: fig_sequential_dot
     display: sequential Diagram
 related:
-- content: subClassOf [operationalModel]
+- content:
+    eng: subClassOf [operationalModel]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 15c3abff-4e29-58fa-8489-41adcdcabfe7
 schema_version: '3'
+---
 ---
 data:
   definition:

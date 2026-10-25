@@ -7,7 +7,8 @@ data:
   - ref: fig_design_speed_dot
     display: design speed Diagram
 related:
-- content: maximumSustainedSpeedOf [exactly 1 owl::Thing]
+- content:
+    eng: maximumSustainedSpeedOf [exactly 1 owl::Thing]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 25ca5d54-331c-5e97-a4de-a78b50345940
 schema_version: '3'
+---
 ---
 data:
   definition:

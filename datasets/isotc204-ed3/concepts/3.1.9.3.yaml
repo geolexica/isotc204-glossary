@@ -7,12 +7,14 @@ data:
   - ref: fig_deployment_architecture_dot
     display: deployment architecture Diagram
 related:
-- content: subClassOf [architecture]
+- content:
+    eng: subClassOf [architecture]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[deployment architecture](deployment architecture.md) for one or more
-    [ITS services](ITS service.md)"
+- content:
+    eng: "[deployment architecture](deployment architecture.md) for one or more [ITS
+      services](ITS service.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -25,6 +27,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 0dd79db9-b0bc-5aad-9365-f03e7e2db764
 schema_version: '3'
+---
 ---
 data:
   definition:

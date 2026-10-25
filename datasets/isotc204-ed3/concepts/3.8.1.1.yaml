@@ -7,7 +7,8 @@ data:
   - ref: fig_payment_means_dot
     display: payment means Diagram
 related:
-- content: acceptedBy [some serviceProvider]
+- content:
+    eng: acceptedBy [some serviceProvider]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -15,6 +16,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: a6dd76f8-50e5-5c02-bf38-a9a58a0041e6
 schema_version: '3'
+---
 ---
 data:
   definition:

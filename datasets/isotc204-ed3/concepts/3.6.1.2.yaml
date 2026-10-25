@@ -7,18 +7,21 @@ data:
   - ref: fig_road_user_dot
     display: road user Diagram
 related:
-- content: locatedWithin [some roadReservation]
+- content:
+    eng: locatedWithin [some roadReservation]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[road user](road user.md) who is protected by the body of a motor vehicle
-    that meets local safety regulations"
+- content:
+    eng: "[road user](road user.md) who is protected by the body of a motor vehicle
+      that meets local safety regulations"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[protected road user](protected road user.md)"
-- content: "[road user](road user.md) who is not protected by the body of a motor
-    vehicle that meets local safety regulations"
+- content:
+    eng: "[road user](road user.md) who is not protected by the body of a motor vehicle
+      that meets local safety regulations"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -31,6 +34,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 15de8f1c-44b3-5d84-b3dc-9aeed5b2425d
 schema_version: '3'
+---
 ---
 data:
   definition:

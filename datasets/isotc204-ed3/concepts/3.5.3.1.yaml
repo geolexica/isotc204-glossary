@@ -7,15 +7,18 @@ data:
   - ref: fig_ITS_service_dot
     display: ITS service Diagram
 related:
-- content: for [some itsUser]
+- content:
+    eng: for [some itsUser]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: fulfils [some itsUserNeed]
+- content:
+    eng: fulfils [some itsUserNeed]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [service]
+- content:
+    eng: subClassOf [service]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -27,6 +30,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 5476d436-4350-5bf4-8805-5d31bb29c4e7
 schema_version: '3'
+---
 ---
 data:
   definition:

@@ -7,7 +7,8 @@ data:
   - ref: fig_built_in_vehicle_input_device_dot
     display: built-in vehicle input device Diagram
 related:
-- content: subClassOf [vehicleInputDevice]
+- content:
+    eng: subClassOf [vehicleInputDevice]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 0be1d343-4eab-5f9e-beac-7fb74c3d5610
 schema_version: '3'
+---
 ---
 data:
   definition:

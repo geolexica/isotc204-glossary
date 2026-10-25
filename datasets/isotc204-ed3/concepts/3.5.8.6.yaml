@@ -7,7 +7,8 @@ data:
   - ref: fig_fractional_ownership_dot
     display: fractional ownership Diagram
 related:
-- content: subClassOf [cooperative]
+- content:
+    eng: subClassOf [cooperative]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: d51b52ff-6a11-58f5-a716-4078bce364fc
 schema_version: '3'
+---
 ---
 data:
   definition:

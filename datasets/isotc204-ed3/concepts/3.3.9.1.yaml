@@ -7,8 +7,9 @@ data:
   - ref: fig_road_equipment_dot
     display: road equipment Diagram
 related:
-- content: "[road equipment](road equipment.md) used to visually, audibly, or tangibly
-    convey regulatory, advisory, or guidance information to [road users](road user.md)"
+- content:
+    eng: "[road equipment](road equipment.md) used to visually, audibly, or tangibly
+      convey regulatory, advisory, or guidance information to [road users](road user.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -17,6 +18,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: a34b40d7-2961-51c9-a057-f3700c15334e
 schema_version: '3'
+---
 ---
 data:
   definition:

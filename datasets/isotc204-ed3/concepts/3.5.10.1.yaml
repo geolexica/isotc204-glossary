@@ -7,23 +7,26 @@ data:
   - ref: fig_network_model_dot
     display: network model Diagram
 related:
-- content: "<transport service> [network model](network model.md) where the [transport
-    service](transport service.md) may be initiated and terminated at any [spatial
-    location](spatial location.md) meeting basic criteria"
+- content:
+    eng: "<transport service> [network model](network model.md) where the [transport
+      service](transport service.md) may be initiated and terminated at any [spatial
+      location](spatial location.md) meeting basic criteria"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[free-floating](free-floating.md)"
-- content: "<transport service> [operational mode](operational mode.md) where the
-    [transport service](transport service.md) is initiated and terminated at two different
-    facilities managed by the [transport provider](transport provider.md)"
+- content:
+    eng: "<transport service> [operational mode](operational mode.md) where the [transport
+      service](transport service.md) is initiated and terminated at two different
+      facilities managed by the [transport provider](transport provider.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[station-based one-way](station-based one-way.md)"
-- content: "<transport service> [operational mode](operational mode.md) where the
-    [transport service](transport service.md) is initiated and terminated at the same
-    facility managed by the [transport provider](transport provider.md)"
+- content:
+    eng: "<transport service> [operational mode](operational mode.md) where the [transport
+      service](transport service.md) is initiated and terminated at the same facility
+      managed by the [transport provider](transport provider.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -36,6 +39,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 1ccbd19b-8cc1-529f-a92e-be614e55098c
 schema_version: '3'
+---
 ---
 data:
   definition:

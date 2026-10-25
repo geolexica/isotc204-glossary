@@ -7,7 +7,8 @@ data:
   - ref: fig_central_reservation_dot
     display: central reservation Diagram
 related:
-- content: subClassOf [physicalTrafficSeparator]
+- content:
+    eng: subClassOf [physicalTrafficSeparator]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 11b6ff63-a4f4-5df2-ad85-683ad8c4f9b1
 schema_version: '3'
+---
 ---
 data:
   definition:

@@ -7,12 +7,14 @@ data:
   - ref: fig_pre_coded_spatial_reference_dot
     display: pre-coded spatial reference Diagram
 related:
-- content: subClassOf [spatialReference]
+- content:
+    eng: subClassOf [spatialReference]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[pre-coded spatial reference](pre-coded spatial reference.md) defined
-    within the [road network](road network.md) database"
+- content:
+    eng: "[pre-coded spatial reference](pre-coded spatial reference.md) defined within
+      the [road network](road network.md) database"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -25,6 +27,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 67174602-353d-545c-8bcb-77a5b945e349
 schema_version: '3'
+---
 ---
 data:
   definition:

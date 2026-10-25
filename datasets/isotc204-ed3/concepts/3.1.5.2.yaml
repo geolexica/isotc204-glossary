@@ -7,9 +7,10 @@ data:
   - ref: fig_access_layer_dot
     display: access layer Diagram
 related:
-- content: communications layer in the [ITS station reference architecture](ITS-S
-    reference architecture.md) corresponding to the physical and data link layers
-    of the OSI model for ITS communications
+- content:
+    eng: communications layer in the [ITS station reference architecture](ITS-S reference
+      architecture.md) corresponding to the physical and data link layers of the OSI
+      model for ITS communications
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -22,6 +23,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 938186ea-bbef-5309-8af5-01b54c766c3a
 schema_version: '3'
+---
 ---
 data:
   definition:

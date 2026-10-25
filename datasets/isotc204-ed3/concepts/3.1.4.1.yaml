@@ -7,11 +7,13 @@ data:
   - ref: fig_communications_view_dot
     display: communications view Diagram
 related:
-- content: basedOn [some its-sReferenceArchitecture]
+- content:
+    eng: basedOn [some its-sReferenceArchitecture]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [architectureView]
+- content:
+    eng: subClassOf [architectureView]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -23,6 +25,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 5e7b7124-f917-57d2-abae-ab0821f5923d
 schema_version: '3'
+---
 ---
 data:
   definition:

@@ -7,7 +7,8 @@ data:
   - ref: fig_dynamic_route_dot
     display: dynamic route Diagram
 related:
-- content: subClassOf [concurrent]
+- content:
+    eng: subClassOf [concurrent]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 93af14d0-9484-5580-9e96-ecee2c08efcd
 schema_version: '3'
+---
 ---
 data:
   definition:

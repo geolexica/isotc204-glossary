@@ -7,11 +7,13 @@ data:
   - ref: fig_ITS_SU_user_dot
     display: ITS-SU user Diagram
 related:
-- content: has [some its-suUserNeed]
+- content:
+    eng: has [some its-suUserNeed]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [user]
+- content:
+    eng: subClassOf [user]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -23,6 +25,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: de982b94-884d-5c82-8a29-021661be17c2
 schema_version: '3'
+---
 ---
 data:
   definition:

@@ -7,7 +7,8 @@ data:
   - ref: fig_junction_at_grade_dot
     display: junction at grade Diagram
 related:
-- content: subClassOf [junction]
+- content:
+    eng: subClassOf [junction]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: f4468da0-c4a9-5ec3-88a3-e839d62c0830
 schema_version: '3'
+---
 ---
 data:
   definition:

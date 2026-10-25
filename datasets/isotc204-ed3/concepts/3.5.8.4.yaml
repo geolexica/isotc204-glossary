@@ -7,19 +7,22 @@ data:
   - ref: fig_cooperative_dot
     display: cooperative Diagram
 related:
-- content: subClassOf [financialModel]
+- content:
+    eng: subClassOf [financialModel]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "<transport service> [cooperative](cooperative.md) [financial model](financial
-    model.md) where [users](user.md) partner to support the purchase, maintenance
-    and overhead costs associated with a [service](service.md)"
+- content:
+    eng: "<transport service> [cooperative](cooperative.md) [financial model](financial
+      model.md) where [users](user.md) partner to support the purchase, maintenance
+      and overhead costs associated with a [service](service.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[fractional ownership](fractional ownership.md)"
-- content: "[cooperative](cooperative.md) [financial model](financial model.md) where
-    [users](user.md) partner on a per-use basis"
+- content:
+    eng: "[cooperative](cooperative.md) [financial model](financial model.md) where
+      [users](user.md) partner on a per-use basis"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -32,6 +35,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: e485b985-d591-589b-9398-9cf0bf1a2bc3
 schema_version: '3'
+---
 ---
 data:
   definition:

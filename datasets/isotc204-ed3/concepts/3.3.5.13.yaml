@@ -7,7 +7,8 @@ data:
   - ref: fig_service_road_dot
     display: service road Diagram
 related:
-- content: subClassOf [road]
+- content:
+    eng: subClassOf [road]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -15,6 +16,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 73fe814a-392c-506b-95a4-b3e61d9f6e4b
 schema_version: '3'
+---
 ---
 data:
   definition:

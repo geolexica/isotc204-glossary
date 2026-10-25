@@ -7,12 +7,14 @@ data:
   - ref: fig_coordinate_tuple_dot
     display: coordinate tuple Diagram
 related:
-- content: designates [some pointLocation]
+- content:
+    eng: designates [some pointLocation]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: coordinate tuple defining the geodetic position of a single [point location](point
-    location.md) using a known geodetic reference system
+- content:
+    eng: coordinate tuple defining the geodetic position of a single [point location](point
+      location.md) using a known geodetic reference system
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -21,6 +23,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 1bf653d3-a2e3-56ca-9d93-2e34aef47247
 schema_version: '3'
+---
 ---
 data:
   definition:

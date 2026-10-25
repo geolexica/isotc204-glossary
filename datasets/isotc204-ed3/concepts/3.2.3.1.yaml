@@ -7,7 +7,8 @@ data:
   - ref: fig_field_support_equipment_dot
     display: field support equipment Diagram
 related:
-- content: subClassOf [fieldSystem]
+- content:
+    eng: subClassOf [fieldSystem]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: f629c3a2-27d3-5e8c-be5c-3b3138afb4b6
 schema_version: '3'
+---
 ---
 data:
   definition:

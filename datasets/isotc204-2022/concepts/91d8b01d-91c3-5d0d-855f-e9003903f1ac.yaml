@@ -1,3 +1,4 @@
+---
 data:
   identifier: 3.6.1.1
   localized_concepts:
@@ -7,7 +8,8 @@ data:
     source: urn:iso:std:iso:ts:14812
     ref_type: domain
 related:
-- content: section-3-6
+- content:
+    eng: section-3-6
   type: broader
   ref:
     source: ISO/TS 14812
@@ -17,9 +19,10 @@ date_accepted: '2022-04-01T00:00:00+00:00'
 schema_version: '3'
 id: 91d8b01d-91c3-5d0d-855f-e9003903f1ac
 ---
+---
 data:
   definition:
-  - content: '{{urn:iso:std:iso:14812:3.1.1.6,person}} who is headed to a destination'
+  - content: "{{urn:iso:std:iso:14812:3.1.1.6,person}} who is headed to a destination"
   examples: []
   notes: []
   sources:

@@ -7,7 +7,8 @@ data:
   - ref: fig_terminator_dot
     display: terminator Diagram
 related:
-- content: subClassOf [physicalObject]
+- content:
+    eng: subClassOf [physicalObject]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 92653fa1-deb1-5411-a3af-3809889efa2b
 schema_version: '3'
+---
 ---
 data:
   definition:

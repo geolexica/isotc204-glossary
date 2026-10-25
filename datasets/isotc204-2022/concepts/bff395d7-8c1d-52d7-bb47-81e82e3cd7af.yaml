@@ -1,3 +1,4 @@
+---
 data:
   identifier: 3.5.9.5
   localized_concepts:
@@ -7,7 +8,8 @@ data:
     source: urn:iso:std:iso:ts:14812
     ref_type: domain
 related:
-- content: section-3-5
+- content:
+    eng: section-3-5
   type: broader
   ref:
     source: ISO/TS 14812
@@ -17,11 +19,12 @@ date_accepted: '2022-04-01T00:00:00+00:00'
 schema_version: '3'
 id: bff395d7-8c1d-52d7-bb47-81e82e3cd7af
 ---
+---
 data:
   definition:
-  - content: '{{urn:iso:std:iso:14812:3.5.9.3,concurrent}} operation where transported
+  - content: "{{urn:iso:std:iso:14812:3.5.9.3,concurrent}} operation where transported
       items can only be received or delivered at stopping points within a pre-defined
-      {{urn:iso:std:iso:14812:3.5.2.1,service}} corridor'
+      {{urn:iso:std:iso:14812:3.5.2.1,service}} corridor"
   examples:
   - content: Airport shuttle.
   notes:

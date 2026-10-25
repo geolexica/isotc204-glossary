@@ -7,7 +7,8 @@ data:
   - ref: fig_vulnerable_road_user_dot
     display: vulnerable road user Diagram
 related:
-- content: subClassOf [roadUser]
+- content:
+    eng: subClassOf [roadUser]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -15,6 +16,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 73eaa6f1-c384-5f00-b108-c73b36ba02fe
 schema_version: '3'
+---
 ---
 data:
   definition:

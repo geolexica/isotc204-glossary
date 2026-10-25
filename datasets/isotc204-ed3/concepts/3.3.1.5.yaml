@@ -7,7 +7,8 @@ data:
   - ref: fig_carriageway_dot
     display: carriageway Diagram
 related:
-- content: comprises [some usableWidth]
+- content:
+    eng: comprises [some usableWidth]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 31975088-0c18-5fa2-a8b4-24c8b24ce621
 schema_version: '3'
+---
 ---
 data:
   definition:

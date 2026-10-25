@@ -7,7 +7,8 @@ data:
   - ref: fig_cross_section_dot
     display: cross-section Diagram
 related:
-- content: comprises [some roadReservation]
+- content:
+    eng: comprises [some roadReservation]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 03dae878-f028-578a-94e6-2e2e1e328e49
 schema_version: '3'
+---
 ---
 data:
   definition:

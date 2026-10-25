@@ -7,7 +7,8 @@ data:
   - ref: fig_bikesharing_service_dot
     display: bikesharing service Diagram
 related:
-- content: subClassOf [sharedVehicleService]
+- content:
+    eng: subClassOf [sharedVehicleService]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 22c9257c-1fe1-5b30-9362-80391f678265
 schema_version: '3'
+---
 ---
 data:
   definition:

@@ -7,12 +7,14 @@ data:
   - ref: fig_bridge_dot
     display: bridge Diagram
 related:
-- content: subClassOf [transportFacility]
+- content:
+    eng: subClassOf [transportFacility]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[bridge](bridge.md) with a deck that can be moved in a way that disrupts
-    the continuous travel path"
+- content:
+    eng: "[bridge](bridge.md) with a deck that can be moved in a way that disrupts
+      the continuous travel path"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -21,6 +23,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 77467bfe-c092-5fcb-b4ef-e5ff970ff4f2
 schema_version: '3'
+---
 ---
 data:
   definition:

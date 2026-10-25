@@ -7,7 +7,8 @@ data:
   - ref: fig_movable_bridge_dot
     display: movable bridge Diagram
 related:
-- content: subClassOf [bridge]
+- content:
+    eng: subClassOf [bridge]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -15,6 +16,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 22757baa-ce2f-551b-9e86-ae421c830703
 schema_version: '3'
+---
 ---
 data:
   definition:

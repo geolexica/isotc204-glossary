@@ -7,7 +7,8 @@ data:
   - ref: fig_connected_dot
     display: connected Diagram
 related:
-- content: characteristicOf [some materialEntity]
+- content:
+    eng: characteristicOf [some materialEntity]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: af84c3da-46f0-5d67-94d7-e4833bc8b251
 schema_version: '3'
+---
 ---
 data:
   definition:

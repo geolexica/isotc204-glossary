@@ -7,7 +7,8 @@ data:
   - ref: fig_cycleway_dot
     display: cycleway Diagram
 related:
-- content: comprises [some cycleLane]
+- content:
+    eng: comprises [some cycleLane]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: b475bdbd-419c-53e6-8627-e06002cb70cc
 schema_version: '3'
+---
 ---
 data:
   definition:

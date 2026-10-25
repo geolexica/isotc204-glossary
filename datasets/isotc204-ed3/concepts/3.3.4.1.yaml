@@ -7,7 +7,8 @@ data:
   - ref: fig_hard_shoulder_for_emergency_use_dot
     display: hard shoulder for emergency use Diagram
 related:
-- content: operatingModeOf [some hardShoulder]
+- content:
+    eng: operatingModeOf [some hardShoulder]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: '0149dd8b-be06-560b-a252-6743c7d1131f'
 schema_version: '3'
+---
 ---
 data:
   definition:

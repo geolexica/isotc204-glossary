@@ -7,15 +7,18 @@ data:
   - ref: fig_road_link_dot
     display: road link Diagram
 related:
-- content: aggregates [some laneLink]
+- content:
+    eng: aggregates [some laneLink]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: constitutes [some roadSegment]
+- content:
+    eng: constitutes [some roadSegment]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [link]
+- content:
+    eng: subClassOf [link]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -27,6 +30,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: c692f2e1-3710-564a-a8ae-703cf09e4069
 schema_version: '3'
+---
 ---
 data:
   definition:

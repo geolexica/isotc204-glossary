@@ -1,3 +1,4 @@
+---
 data:
   identifier: 3.2.7.8
   localized_concepts:
@@ -7,7 +8,8 @@ data:
     source: urn:iso:std:iso:ts:14812
     ref_type: domain
 related:
-- content: section-3-2
+- content:
+    eng: section-3-2
   type: broader
   ref:
     source: ISO/TS 14812
@@ -17,12 +19,13 @@ date_accepted: '2022-04-01T00:00:00+00:00'
 schema_version: '3'
 id: 48610da4-77c3-57eb-892a-bba29557a44c
 ---
+---
 data:
   definition:
-  - content: '{{urn:iso:std:iso:14812:3.3.5.4,node}} comprised of a set of functionalities
+  - content: "{{urn:iso:std:iso:14812:3.3.5.4,node}} comprised of a set of functionalities
       in an {{urn:iso:std:iso:14812:3.2.7.4,ITS-S unit}} that is {{urn:iso:std:iso:14812:3.2.3.6,connected}}
       to the {{urn:iso:std:iso:14812:3.2.7.3,ITS station}}-internal network or comprises
-      an entire ITS-S unit'
+      an entire ITS-S unit"
   examples: []
   notes: []
   sources:

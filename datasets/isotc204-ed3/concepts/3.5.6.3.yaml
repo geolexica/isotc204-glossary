@@ -7,25 +7,30 @@ data:
   - ref: fig_shared_vehicle_service_dot
     display: shared vehicle service Diagram
 related:
-- content: attrOperationalModel [has sequential]
+- content:
+    eng: attrOperationalModel [has sequential]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: attrVehicleOperator [has transport consumer]
+- content:
+    eng: attrVehicleOperator [has transport consumer]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [transportService]
+- content:
+    eng: subClassOf [transportService]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[shared vehicle service](shared vehicle service.md) that shares bicycles"
+- content:
+    eng: "[shared vehicle service](shared vehicle service.md) that shares bicycles"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[bikesharing service](bikesharing service.md)"
-- content: "[shared vehicle service](shared vehicle service.md) that shares [passenger](passenger.md)
-    cars"
+- content:
+    eng: "[shared vehicle service](shared vehicle service.md) that shares [passenger](passenger.md)
+      cars"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -38,6 +43,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 74d94445-260c-53d5-9812-338fb853befd
 schema_version: '3'
+---
 ---
 data:
   definition:

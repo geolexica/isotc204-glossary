@@ -7,7 +7,8 @@ data:
   - ref: fig_ITS_S_host_dot
     display: ITS-S host Diagram
 related:
-- content: subClassOf [its-sNode]
+- content:
+    eng: subClassOf [its-sNode]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: e9e05419-52f4-5ea7-9468-3b4730938a44
 schema_version: '3'
+---
 ---
 data:
   definition:

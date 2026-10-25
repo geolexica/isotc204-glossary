@@ -7,15 +7,18 @@ data:
   - ref: fig_information_transfer_dot
     display: information transfer Diagram
 related:
-- content: contentsOf [some informationFlow]
+- content:
+    eng: contentsOf [some informationFlow]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: sentFrom [some physicalObject]
+- content:
+    eng: sentFrom [some physicalObject]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: sentTo [some physicalObject]
+- content:
+    eng: sentTo [some physicalObject]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -27,6 +30,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 2ff9362f-7e1f-55a3-9fab-504fdead3191
 schema_version: '3'
+---
 ---
 data:
   definition:

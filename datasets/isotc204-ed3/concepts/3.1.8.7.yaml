@@ -7,7 +7,8 @@ data:
   - ref: fig_module_dot
     display: module Diagram
 related:
-- content: subClassOf [functionalObject]
+- content:
+    eng: subClassOf [functionalObject]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: b569a31d-d11c-5540-b0a6-fcbd26906e1f
 schema_version: '3'
+---
 ---
 data:
   definition:

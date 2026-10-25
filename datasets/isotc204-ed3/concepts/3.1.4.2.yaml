@@ -7,11 +7,13 @@ data:
   - ref: fig_communications_viewpoint_dot
     display: communications viewpoint Diagram
 related:
-- content: governs [some communicationsView]
+- content:
+    eng: governs [some communicationsView]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [architectureViewpoint]
+- content:
+    eng: subClassOf [architectureViewpoint]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -23,6 +25,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: c632a9c7-0e85-5df5-8061-dc83c7606cc6
 schema_version: '3'
+---
 ---
 data:
   definition:

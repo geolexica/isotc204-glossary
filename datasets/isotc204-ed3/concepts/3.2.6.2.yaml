@@ -7,7 +7,8 @@ data:
   - ref: fig_ITS_on_board_unit_dot
     display: ITS on-board unit Diagram
 related:
-- content: subClassOf [connectedUnit]
+- content:
+    eng: subClassOf [connectedUnit]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 61316593-0955-5d15-bf1b-5c1d740f6655
 schema_version: '3'
+---
 ---
 data:
   definition:

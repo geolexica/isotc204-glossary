@@ -1,3 +1,4 @@
+---
 data:
   identifier: 3.4.2.5
   localized_concepts:
@@ -7,7 +8,8 @@ data:
     source: urn:iso:std:iso:ts:14812
     ref_type: domain
 related:
-- content: section-3-4
+- content:
+    eng: section-3-4
   type: broader
   ref:
     source: ISO/TS 14812
@@ -17,10 +19,11 @@ date_accepted: '2022-04-01T00:00:00+00:00'
 schema_version: '3'
 id: e63b38b7-9356-5f7f-8589-4558658b2985
 ---
+---
 data:
   definition:
-  - content: '{{urn:iso:std:iso:14812:3.4.2.4,pre-coded spatial reference}} defined
-      within the {{urn:iso:std:iso:14812:3.3.5.2,road network}} database'
+  - content: "{{urn:iso:std:iso:14812:3.4.2.4,pre-coded spatial reference}} defined
+      within the {{urn:iso:std:iso:14812:3.3.5.2,road network}} database"
   examples: []
   notes: []
   sources:

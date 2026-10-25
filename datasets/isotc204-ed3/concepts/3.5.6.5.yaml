@@ -7,7 +7,8 @@ data:
   - ref: fig_vehicle_sharing_dot
     display: vehicle sharing Diagram
 related:
-- content: using [some sharedVehicleService]
+- content:
+    eng: using [some sharedVehicleService]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: ac0fe7d7-12f7-554a-846e-11e7f87facea
 schema_version: '3'
+---
 ---
 data:
   definition:

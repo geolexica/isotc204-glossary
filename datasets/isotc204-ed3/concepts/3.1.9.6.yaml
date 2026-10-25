@@ -7,7 +7,8 @@ data:
   - ref: fig_ITS_planning_architecture_dot
     display: ITS planning architecture Diagram
 related:
-- content: subClassOf [planningArchitecture]
+- content:
+    eng: subClassOf [planningArchitecture]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 7ead800b-5e9e-59dc-9182-b5a0e9ebee82
 schema_version: '3'
+---
 ---
 data:
   definition:

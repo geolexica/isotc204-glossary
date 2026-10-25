@@ -7,7 +7,8 @@ data:
   - ref: fig_station_based_one_way_dot
     display: station-based one-way Diagram
 related:
-- content: subClassOf [networkModel]
+- content:
+    eng: subClassOf [networkModel]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 3db4d664-f1b6-56a4-8199-574740a72692
 schema_version: '3'
+---
 ---
 data:
   definition:

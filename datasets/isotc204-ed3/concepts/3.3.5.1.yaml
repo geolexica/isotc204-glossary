@@ -7,24 +7,28 @@ data:
   - ref: fig_road_dot
     display: road Diagram
 related:
-- content: "[road](road.md) that has buildings, walls or fences on each side"
+- content:
+    eng: "[road](road.md) that has buildings, walls or fences on each side"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[alley](alley.md)"
-- content: "[road](road.md) with separate carriageways for each direction, with limited
-    access that prevents cross traffic on the same level, and for the exclusive use
-    of certain classes of motor vehicles"
+- content:
+    eng: "[road](road.md) with separate carriageways for each direction, with limited
+      access that prevents cross traffic on the same level, and for the exclusive
+      use of certain classes of motor vehicles"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[motorway](motorway.md)"
-- content: alley designed to facilitate the provision of services for adjacent locations
+- content:
+    eng: alley designed to facilitate the provision of services for adjacent locations
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[service alley](service alley.md)"
-- content: road designed to facilitate the provision of services to customers
+- content:
+    eng: road designed to facilitate the provision of services to customers
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -37,6 +41,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 8a0f51b3-bd46-5af0-91b4-af7169c9b80f
 schema_version: '3'
+---
 ---
 data:
   definition:

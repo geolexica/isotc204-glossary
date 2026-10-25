@@ -7,19 +7,22 @@ data:
   - ref: fig_connected_unit_dot
     display: connected unit Diagram
 related:
-- content: is [some connected]
+- content:
+    eng: is [some connected]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: part of [on-board equipment](on-board equipment.md) that provides wireless
-    connectivity to other [ITS components](ITS component.md) external to the [vehicle](vehicle.md)
+- content:
+    eng: part of [on-board equipment](on-board equipment.md) that provides wireless
+      connectivity to other [ITS components](ITS component.md) external to the [vehicle](vehicle.md)
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[ITS on-board unit](ITS on-board unit.md)"
-- content: part of [connected vehicle roadside equipment](connected vehicle roadside
-    equipment.md) that provides wireless connectivity to [vehicle systems](vehicle
-    system.md) and/or [personal systems](personal system.md)
+- content:
+    eng: part of [connected vehicle roadside equipment](connected vehicle roadside
+      equipment.md) that provides wireless connectivity to [vehicle systems](vehicle
+      system.md) and/or [personal systems](personal system.md)
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -32,6 +35,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: c5a3eaf4-255a-5e6f-961c-3bcae58040d0
 schema_version: '3'
+---
 ---
 data:
   definition:

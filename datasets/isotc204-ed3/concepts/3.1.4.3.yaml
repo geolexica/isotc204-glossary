@@ -7,31 +7,38 @@ data:
   - ref: fig_enterprise_view_dot
     display: enterprise view Diagram
 related:
-- content: aggregates [some resource]
+- content:
+    eng: aggregates [some resource]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: aggregates [some enterpriseObject]
+- content:
+    eng: aggregates [some enterpriseObject]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: aggregates [some role]
+- content:
+    eng: aggregates [some role]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: aggregates [some relationship]
+- content:
+    eng: aggregates [some relationship]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: aggregates [some interaction]
+- content:
+    eng: aggregates [some interaction]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: aggregates [some informationFlow]
+- content:
+    eng: aggregates [some informationFlow]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [architectureView]
+- content:
+    eng: subClassOf [architectureView]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -43,6 +50,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 2e847b1b-761b-5e22-92fa-ae984db05184
 schema_version: '3'
+---
 ---
 data:
   definition:

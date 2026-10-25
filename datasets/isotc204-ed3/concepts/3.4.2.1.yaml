@@ -7,7 +7,8 @@ data:
   - ref: fig_location_referencing_dot
     display: location referencing Diagram
 related:
-- content: processToDevelop [some spatialReference]
+- content:
+    eng: processToDevelop [some spatialReference]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: aefc1e4f-a48a-5056-af89-51ed4fcbc20a
 schema_version: '3'
+---
 ---
 data:
   definition:

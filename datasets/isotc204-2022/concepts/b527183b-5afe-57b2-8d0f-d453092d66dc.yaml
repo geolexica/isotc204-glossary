@@ -1,3 +1,4 @@
+---
 data:
   identifier: 3.7.3.15
   localized_concepts:
@@ -7,7 +8,8 @@ data:
     source: urn:iso:std:iso:ts:14812
     ref_type: domain
 related:
-- content: section-3-7
+- content:
+    eng: section-3-7
   type: broader
   ref:
     source: ISO/TS 14812
@@ -17,9 +19,10 @@ date_accepted: '2022-04-01T00:00:00+00:00'
 schema_version: '3'
 id: b527183b-5afe-57b2-8d0f-d453092d66dc
 ---
+---
 data:
   definition:
-  - content: '{{urn:iso:std:iso:14812:3.7.1.1,vehicle}} integrated with an {{urn:iso:std:iso:14812:3.7.3.10,ADS}}'
+  - content: "{{urn:iso:std:iso:14812:3.7.1.1,vehicle}} integrated with an {{urn:iso:std:iso:14812:3.7.3.10,ADS}}"
   examples: []
   notes:
   - content: The terms "automated vehicle" and "AV" are often used in a colloquial

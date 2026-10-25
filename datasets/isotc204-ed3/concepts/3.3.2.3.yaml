@@ -7,7 +7,8 @@ data:
   - ref: fig_Jersey_barrier_dot
     display: Jersey barrier Diagram
 related:
-- content: subClassOf [physicalTrafficSeparator]
+- content:
+    eng: subClassOf [physicalTrafficSeparator]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 7270fc44-86ce-5f58-b63d-00969b4bb01b
 schema_version: '3'
+---
 ---
 data:
   definition:

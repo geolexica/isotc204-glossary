@@ -7,7 +7,8 @@ data:
   - ref: fig_ridesourcing_app_dot
     display: ridesourcing app Diagram
 related:
-- content: subClassOf [p2pMobilitySharingApp]
+- content:
+    eng: subClassOf [p2pMobilitySharingApp]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -15,6 +16,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: cd96a877-2589-5730-9ac7-496181fa39a2
 schema_version: '3'
+---
 ---
 data:
   definition:

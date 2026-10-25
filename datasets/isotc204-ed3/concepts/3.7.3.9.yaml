@@ -7,11 +7,13 @@ data:
   - ref: fig_level_2_driving_automation_dot
     display: level 2 driving automation Diagram
 related:
-- content: operatesWithinA [some operationalDesignDomain]
+- content:
+    eng: operatesWithinA [some operationalDesignDomain]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [driverSupportSystem]
+- content:
+    eng: subClassOf [driverSupportSystem]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -23,6 +25,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: c9b052ea-598e-5013-a350-bf18f179c931
 schema_version: '3'
+---
 ---
 data:
   definition:

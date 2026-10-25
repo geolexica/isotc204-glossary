@@ -7,11 +7,13 @@ data:
   - ref: fig_interoperability_design_dot
     display: interoperability design Diagram
 related:
-- content: definesHowToProvide [some service]
+- content:
+    eng: definesHowToProvide [some service]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: using [some physicalObject]
+- content:
+    eng: using [some physicalObject]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -23,6 +25,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 6b972713-8a32-5d65-99d0-b4bb1953f52f
 schema_version: '3'
+---
 ---
 data:
   definition:

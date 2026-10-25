@@ -7,15 +7,18 @@ data:
   - ref: fig_level_5_ADS_dot
     display: level 5 ADS Diagram
 related:
-- content: operatesWithinA [some operationalDesignDomain]
+- content:
+    eng: operatesWithinA [some operationalDesignDomain]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: providesItsOwn [some fallback]
+- content:
+    eng: providesItsOwn [some fallback]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [ads]
+- content:
+    eng: subClassOf [ads]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -27,6 +30,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 85b3059e-a731-5668-8105-d40b4fcaa8ea
 schema_version: '3'
+---
 ---
 data:
   definition:

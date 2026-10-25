@@ -7,7 +7,8 @@ data:
   - ref: fig_vehicle_registration_plate_identifier_dot
     display: vehicle registration plate identifier Diagram
 related:
-- content: identifierUniqueWithinRegionFor [exactly 1 owl::Thing]
+- content:
+    eng: identifierUniqueWithinRegionFor [exactly 1 owl::Thing]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -15,6 +16,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: e76aa771-0c18-5f1f-b8b4-4511fa02b3e5
 schema_version: '3'
+---
 ---
 data:
   definition:

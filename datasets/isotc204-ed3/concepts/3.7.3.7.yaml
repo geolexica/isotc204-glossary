@@ -7,28 +7,32 @@ data:
   - ref: fig_driver_support_system_dot
     display: driver support system Diagram
 related:
-- content: performsPartOf [some dynamicDrivingTask]
+- content:
+    eng: performsPartOf [some dynamicDrivingTask]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [drivingAutomationSystem]
+- content:
+    eng: subClassOf [drivingAutomationSystem]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[driver support system](driver support system.md) that provides either
-    sustained lateral or sustained longitudinal [vehicle](vehicle.md) motion control
-    within a specific [operational design domain](operational design domain.md) with
-    the expectation that a conventional [driver](driver.md) completes the [dynamic
-    driving task](dynamic driving task.md)"
+- content:
+    eng: "[driver support system](driver support system.md) that provides either sustained
+      lateral or sustained longitudinal [vehicle](vehicle.md) motion control within
+      a specific [operational design domain](operational design domain.md) with the
+      expectation that a conventional [driver](driver.md) completes the [dynamic driving
+      task](dynamic driving task.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[level 1 driving automation](level 1 driving automation.md)"
-- content: "[driver support system](driver support system.md) that provides sustained
-    lateral and longitudinal [vehicle](vehicle.md) motion control within a specific
-    [operational design domain](operational design domain.md) with the expectation
-    that a conventional [driver](driver.md) completes the object and event detection
-    and response"
+- content:
+    eng: "[driver support system](driver support system.md) that provides sustained
+      lateral and longitudinal [vehicle](vehicle.md) motion control within a specific
+      [operational design domain](operational design domain.md) with the expectation
+      that a conventional [driver](driver.md) completes the object and event detection
+      and response"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -41,6 +45,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 68dcf19d-ccb3-5dc7-866c-01499253187a
 schema_version: '3'
+---
 ---
 data:
   definition:

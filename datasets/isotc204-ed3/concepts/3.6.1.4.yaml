@@ -7,7 +7,8 @@ data:
   - ref: fig_pedestrian_dot
     display: pedestrian Diagram
 related:
-- content: subClassOf [traveller]
+- content:
+    eng: subClassOf [traveller]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 4269b7c7-e3f8-52fc-8909-76d5842ee0cb
 schema_version: '3'
+---
 ---
 data:
   definition:

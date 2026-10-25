@@ -7,7 +7,8 @@ data:
   - ref: fig_use_case_dot
     display: use case Diagram
 related:
-- content: aggregates [some scenario]
+- content:
+    eng: aggregates [some scenario]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: dfca25f0-41f0-5462-8fe0-a224cbd790d2
 schema_version: '3'
+---
 ---
 data:
   definition:

@@ -7,7 +7,8 @@ data:
   - ref: fig_B2C_mobility_sharing_app_dot
     display: B2C mobility sharing app Diagram
 related:
-- content: subClassOf [mobilityApp]
+- content:
+    eng: subClassOf [mobilityApp]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: cd262d4f-d776-50af-a462-85692302ac65
 schema_version: '3'
+---
 ---
 data:
   definition:

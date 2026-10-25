@@ -7,11 +7,13 @@ data:
   - ref: fig_ITS_application_dot
     display: ITS application Diagram
 related:
-- content: involves [min 2 owl::Thing]
+- content:
+    eng: involves [min 2 owl::Thing]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: realizationOf [some itsService]
+- content:
+    eng: realizationOf [some itsService]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -23,6 +25,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: a5529351-3ca8-5b71-947c-7bf3302f762a
 schema_version: '3'
+---
 ---
 data:
   definition:

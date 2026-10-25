@@ -7,26 +7,30 @@ data:
   - ref: fig_contractual_model_dot
     display: contractual model Diagram
 related:
-- content: "[contractual model](contractual model.md) where the [user](user.md) is
-    a [commercial](commercial.md) [entity](entity.md)"
+- content:
+    eng: "[contractual model](contractual model.md) where the [user](user.md) is a
+      [commercial](commercial.md) [entity](entity.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[corporate customer model](corporate customer model.md)"
-- content: "[contractual model](contractual model.md) where the [user](user.md) is
-    a governmental [entity](entity.md)"
+- content:
+    eng: "[contractual model](contractual model.md) where the [user](user.md) is a
+      governmental [entity](entity.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[government customer model](government customer model.md)"
-- content: "<transport service> [private customer model](private customer model.md)
-    where the [service provider](service provider.md) is an individual"
+- content:
+    eng: "<transport service> [private customer model](private customer model.md)
+      where the [service provider](service provider.md) is an individual"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[peer-to-peer](peer-to-peer.md)"
-- content: "[contractual model](contractual model.md) where the [user](user.md) is
-    an individual"
+- content:
+    eng: "[contractual model](contractual model.md) where the [user](user.md) is an
+      individual"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -39,6 +43,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 51970fa6-62ff-56b1-aca8-e4257f3e3774
 schema_version: '3'
+---
 ---
 data:
   definition:

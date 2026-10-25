@@ -7,11 +7,13 @@ data:
   - ref: fig_vehicle_occupant_dot
     display: vehicle occupant Diagram
 related:
-- content: isA [some person]
+- content:
+    eng: isA [some person]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: isIn [some vehicle]
+- content:
+    eng: isIn [some vehicle]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -23,6 +25,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: '011080c0-c2e1-5f2c-9cbb-302a238d03df'
 schema_version: '3'
+---
 ---
 data:
   definition:

@@ -7,21 +7,24 @@ data:
   - ref: fig_physical_traffic_separator_dot
     display: physical traffic separator Diagram
 related:
-- content: part of the [road reservation](road reservation.md) between [carriageways](carriageway.md)
-    designed for travel safety purposes
+- content:
+    eng: part of the [road reservation](road reservation.md) between [carriageways](carriageway.md)
+      designed for travel safety purposes
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[central reservation](central reservation.md)"
-- content: "[physical traffic separator](physical traffic separator.md) that consists
-    of a wall with a wide, sloped base designed to divert [vehicles](vehicle.md) back
-    into their [traffic lane](traffic lane.md)"
+- content:
+    eng: "[physical traffic separator](physical traffic separator.md) that consists
+      of a wall with a wide, sloped base designed to divert [vehicles](vehicle.md)
+      back into their [traffic lane](traffic lane.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[Jersey barrier](Jersey barrier.md)"
-- content: 'physical traffic separator, usually upstanding, at the edge of a carriageway,
-    hard strip, hard shoulder, or footway Note 1 to entry: "Curb" is the US spelling.'
+- content:
+    eng: 'physical traffic separator, usually upstanding, at the edge of a carriageway,
+      hard strip, hard shoulder, or footway Note 1 to entry: "Curb" is the US spelling.'
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -34,6 +37,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: '090dda7f-e3c2-54f1-ad16-50fb01491fd8'
 schema_version: '3'
+---
 ---
 data:
   definition:

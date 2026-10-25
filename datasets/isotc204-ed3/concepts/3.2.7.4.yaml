@@ -7,11 +7,13 @@ data:
   - ref: fig_ITS_S_unit_dot
     display: ITS-S unit Diagram
 related:
-- content: comprises [some its-sCommunicationUnit]
+- content:
+    eng: comprises [some its-sCommunicationUnit]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: instantiationOf [some itsStation]
+- content:
+    eng: instantiationOf [some itsStation]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -23,6 +25,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 50540bcf-a02d-5d09-9d36-b5fe22ec1384
 schema_version: '3'
+---
 ---
 data:
   definition:

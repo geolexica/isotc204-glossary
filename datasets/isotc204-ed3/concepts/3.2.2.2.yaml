@@ -7,7 +7,8 @@ data:
   - ref: fig_fleet_and_freight_management_central_system_dot
     display: fleet and freight management central system Diagram
 related:
-- content: subClassOf [centralSystem]
+- content:
+    eng: subClassOf [centralSystem]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 4e5d3352-96bf-55b0-9d81-90cde973801a
 schema_version: '3'
+---
 ---
 data:
   definition:

@@ -7,27 +7,33 @@ data:
   - ref: fig_architecture_description_dot
     display: architecture description Diagram
 related:
-- content: aggregates [some architectureViewpoint]
+- content:
+    eng: aggregates [some architectureViewpoint]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: aggregates [some architectureView]
+- content:
+    eng: aggregates [some architectureView]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: expresses [some architecture]
+- content:
+    eng: expresses [some architecture]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: identifies [some stakeholder]
+- content:
+    eng: identifies [some stakeholder]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: identifies [some concern]
+- content:
+    eng: identifies [some concern]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: identifies [some system]
+- content:
+    eng: identifies [some system]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -39,6 +45,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 6a6dea1c-7e9f-5a9d-9e5f-62fd51a737f5
 schema_version: '3'
+---
 ---
 data:
   definition:

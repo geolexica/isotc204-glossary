@@ -7,7 +7,8 @@ data:
   - ref: fig_parking_space_for_permit_holders_dot
     display: parking space for permit holders Diagram
 related:
-- content: subClassOf [designatedParkingSpace]
+- content:
+    eng: subClassOf [designatedParkingSpace]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -15,6 +16,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 48d3b458-5196-50d9-a93f-2cdfdeb9f71b
 schema_version: '3'
+---
 ---
 data:
   definition:

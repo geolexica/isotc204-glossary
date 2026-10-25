@@ -7,11 +7,13 @@ data:
   - ref: fig_interface_dialogue_dot
     display: interface dialogue Diagram
 related:
-- content: subClassOf [dataConcept]
+- content:
+    eng: subClassOf [dataConcept]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: uses [some message]
+- content:
+    eng: uses [some message]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -23,6 +25,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 8b998e2b-163d-5e17-a60a-e8855284865a
 schema_version: '3'
+---
 ---
 data:
   definition:

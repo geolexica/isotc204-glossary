@@ -7,17 +7,20 @@ data:
   - ref: fig_intelligent_transport_system_dot
     display: intelligent transport system Diagram
 related:
-- content: designedToBenefit [some surfaceTransportSystem]
+- content:
+    eng: designedToBenefit [some surfaceTransportSystem]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [system]
+- content:
+    eng: subClassOf [system]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subset of [ITS](intelligent transport system.md) where information is shared
-    among [ITS stations](ITS station.md) in a manner that enables its use by multiple
-    ITS services [ITS service.md]
+- content:
+    eng: subset of [ITS](intelligent transport system.md) where information is shared
+      among [ITS stations](ITS station.md) in a manner that enables its use by multiple
+      ITS services [ITS service.md]
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -30,6 +33,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 1d067383-be36-5861-ac4a-ddb304a31545
 schema_version: '3'
+---
 ---
 data:
   definition:

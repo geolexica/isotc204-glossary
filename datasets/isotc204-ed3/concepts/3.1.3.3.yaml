@@ -7,7 +7,8 @@ data:
   - ref: fig_architecture_framework_dot
     display: architecture framework Diagram
 related:
-- content: conventionsPrinciplesAndPracticesFor [some architectureDescription]
+- content:
+    eng: conventionsPrinciplesAndPracticesFor [some architectureDescription]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 3bd45555-3ad5-5933-8d1a-68c82e4867d0
 schema_version: '3'
+---
 ---
 data:
   definition:

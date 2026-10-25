@@ -7,14 +7,16 @@ data:
   - ref: fig_ITS_roadside_equipment_dot
     display: ITS roadside equipment Diagram
 related:
-- content: subClassOf [fieldSystem]
+- content:
+    eng: subClassOf [fieldSystem]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[ITS roadside equipment](ITS roadside equipment.md) that perform [ITS
-    services](ITS service.md) by exchanging electronic [messages](message.md) with
-    nearby [connected vehicles](connected vehicle.md) and/or [personal systems](personal
-    system.md) via short-range wireless technologies"
+- content:
+    eng: "[ITS roadside equipment](ITS roadside equipment.md) that perform [ITS services](ITS
+      service.md) by exchanging electronic [messages](message.md) with nearby [connected
+      vehicles](connected vehicle.md) and/or [personal systems](personal system.md)
+      via short-range wireless technologies"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -27,6 +29,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: e02b2e03-d220-565c-af95-51e47f1c4999
 schema_version: '3'
+---
 ---
 data:
   definition:

@@ -7,15 +7,18 @@ data:
   - ref: fig_dual_carriageway_dot
     display: dual carriageway Diagram
 related:
-- content: comprises [exactly 2 owl::Thing]
+- content:
+    eng: comprises [exactly 2 owl::Thing]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: has [exactly 1 owl::Thing]
+- content:
+    eng: has [exactly 1 owl::Thing]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [roadway]
+- content:
+    eng: subClassOf [roadway]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -27,6 +30,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: fc9ce955-fc7e-5f90-ab07-3490a341e58e
 schema_version: '3'
+---
 ---
 data:
   definition:

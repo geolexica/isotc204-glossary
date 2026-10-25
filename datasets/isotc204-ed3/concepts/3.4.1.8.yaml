@@ -7,7 +7,8 @@ data:
   - ref: fig_point_destination_dot
     display: point destination Diagram
 related:
-- content: subClassOf [pointLocation]
+- content:
+    eng: subClassOf [pointLocation]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -15,6 +16,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: b0a3de59-b7be-5b69-91c6-fdf68465acc7
 schema_version: '3'
+---
 ---
 data:
   definition:

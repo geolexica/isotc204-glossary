@@ -7,7 +7,8 @@ data:
   - ref: fig_ITS_deployment_dot
     display: ITS deployment Diagram
 related:
-- content: installationOf [some itsImplementation]
+- content:
+    eng: installationOf [some itsImplementation]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: c2340f25-36e6-5a59-aced-937fa839eba6
 schema_version: '3'
+---
 ---
 data:
   definition:

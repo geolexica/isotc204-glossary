@@ -7,7 +7,8 @@ data:
   - ref: fig_hard_shoulder_running_dot
     display: hard shoulder running Diagram
 related:
-- content: operatingModeOf [some hardShoulder]
+- content:
+    eng: operatingModeOf [some hardShoulder]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 57cf19a5-3ec8-56ae-9a1e-b4d27b4c54b4
 schema_version: '3'
+---
 ---
 data:
   definition:

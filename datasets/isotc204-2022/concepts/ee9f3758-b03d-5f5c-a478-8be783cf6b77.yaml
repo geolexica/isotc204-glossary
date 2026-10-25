@@ -1,3 +1,4 @@
+---
 data:
   identifier: 3.3.6.2
   localized_concepts:
@@ -7,7 +8,8 @@ data:
     source: urn:iso:std:iso:ts:14812
     ref_type: domain
 related:
-- content: section-3-3
+- content:
+    eng: section-3-3
   type: broader
   ref:
     source: ISO/TS 14812
@@ -17,10 +19,11 @@ date_accepted: '2022-04-01T00:00:00+00:00'
 schema_version: '3'
 id: ee9f3758-b03d-5f5c-a478-8be783cf6b77
 ---
+---
 data:
   definition:
-  - content: '{{urn:iso:std:iso:14812:3.3.6.1,intersection}} that allows {{urn:iso:std:iso:14812:3.6.1.1,traveller,travellers}}
-      to change {{urn:iso:std:iso:14812:3.3.5.1,road,roads}}'
+  - content: "{{urn:iso:std:iso:14812:3.3.6.1,intersection}} that allows {{urn:iso:std:iso:14812:3.6.1.1,traveller,travellers}}
+      to change {{urn:iso:std:iso:14812:3.3.5.1,road,roads}}"
   examples: []
   notes: []
   sources:

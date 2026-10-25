@@ -7,7 +7,8 @@ data:
   - ref: fig_cycle_lane_dot
     display: cycle lane Diagram
 related:
-- content: subClassOf [lane]
+- content:
+    eng: subClassOf [lane]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 2fbea96e-8081-52b7-b83d-4c6de98a6a6e
 schema_version: '3'
+---
 ---
 data:
   definition:

@@ -7,7 +7,8 @@ data:
   - ref: fig_model_kind_dot
     display: model kind Diagram
 related:
-- content: governs [some architectureModel]
+- content:
+    eng: governs [some architectureModel]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 73c90b7a-997e-5f30-807e-d61150de4721
 schema_version: '3'
+---
 ---
 data:
   definition:

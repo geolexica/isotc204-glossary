@@ -7,7 +7,8 @@ data:
   - ref: fig_nomadic_vehicle_input_device_dot
     display: nomadic vehicle input device Diagram
 related:
-- content: subClassOf [vehicleInputDevice]
+- content:
+    eng: subClassOf [vehicleInputDevice]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -19,6 +20,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 71386537-a982-51e8-9b15-e43ad3b042c2
 schema_version: '3'
+---
 ---
 data:
   definition:

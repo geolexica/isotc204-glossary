@@ -7,16 +7,19 @@ data:
   - ref: fig_intersection_manoeuvre_dot
     display: intersection manoeuvre Diagram
 related:
-- content: from [some ingressLane]
+- content:
+    eng: from [some ingressLane]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: to [some egressLane]
+- content:
+    eng: to [some egressLane]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: manoeuvre that is vertically separated from one or more manoeuvres that
-    cross its two-dimensional path
+- content:
+    eng: manoeuvre that is vertically separated from one or more manoeuvres that cross
+      its two-dimensional path
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -29,6 +32,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: cf6db907-cd96-5196-9f74-6ca3a1972aef
 schema_version: '3'
+---
 ---
 data:
   definition:

@@ -7,16 +7,19 @@ data:
   - ref: fig_ITS_S_application_process_dot
     display: ITS-S application process Diagram
 related:
-- content: elementIn [some itsStation]
+- content:
+    eng: elementIn [some itsStation]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: performsInformationProcessingFor [some its-sService]
+- content:
+    eng: performsInformationProcessingFor [some its-sService]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[ITS-S application process](ITS-S application process.md) residing in
-    the [application entity](application entity.md)"
+- content:
+    eng: "[ITS-S application process](ITS-S application process.md) residing in the
+      [application entity](application entity.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -29,6 +32,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 484bc81e-dd9e-5ada-b997-31adeb7052bf
 schema_version: '3'
+---
 ---
 data:
   definition:

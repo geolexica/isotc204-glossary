@@ -7,7 +7,8 @@ data:
   - ref: fig_vehicle_identifier_dot
     display: vehicle identifier Diagram
 related:
-- content: globallyUniqueIdentifierFor [exactly 1 owl::Thing]
+- content:
+    eng: globallyUniqueIdentifierFor [exactly 1 owl::Thing]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -15,6 +16,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 45b3126e-fef1-5665-bb7d-84fa0b415824
 schema_version: '3'
+---
 ---
 data:
   definition:

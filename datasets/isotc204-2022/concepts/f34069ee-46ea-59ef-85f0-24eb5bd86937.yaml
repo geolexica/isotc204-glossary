@@ -1,3 +1,4 @@
+---
 data:
   identifier: 3.5.7.2
   localized_concepts:
@@ -7,7 +8,8 @@ data:
     source: urn:iso:std:iso:ts:14812
     ref_type: domain
 related:
-- content: section-3-5
+- content:
+    eng: section-3-5
   type: broader
   ref:
     source: ISO/TS 14812
@@ -17,10 +19,11 @@ date_accepted: '2022-04-01T00:00:00+00:00'
 schema_version: '3'
 id: f34069ee-46ea-59ef-85f0-24eb5bd86937
 ---
+---
 data:
   definition:
-  - content: '{{urn:iso:std:iso:14812:3.5.7.1,contractual model}} where the {{urn:iso:std:iso:14812:3.5.3.4,user}}
-      is a {{urn:iso:std:iso:14812:3.5.8.2,commercial}} {{urn:iso:std:iso:14812:3.1.1.1,entity}}'
+  - content: "{{urn:iso:std:iso:14812:3.5.7.1,contractual model}} where the {{urn:iso:std:iso:14812:3.5.3.4,user}}
+      is a {{urn:iso:std:iso:14812:3.5.8.2,commercial}} {{urn:iso:std:iso:14812:3.1.1.1,entity}}"
   examples:
   - content: A business purchasing monthly {{urn:iso:std:iso:14812:3.5.6.1,public
       transport}} passes for its employees.

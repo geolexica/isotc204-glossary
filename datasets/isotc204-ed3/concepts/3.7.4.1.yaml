@@ -7,28 +7,32 @@ data:
   - ref: fig_off_grid_dot
     display: off-grid Diagram
 related:
-- content: characteristicOf [some materialEntity]
+- content:
+    eng: characteristicOf [some materialEntity]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: characteristic of a [material entity](material entity.md) that is or was
-    equipped with communications equipment that is sufficiently physically disconnected
-    such that the material entity is no longer able to send data to or receive data
-    from [connected](connected.md) entities
+- content:
+    eng: characteristic of a [material entity](material entity.md) that is or was
+      equipped with communications equipment that is sufficiently physically disconnected
+      such that the material entity is no longer able to send data to or receive data
+      from [connected](connected.md) entities
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[disconnected](disconnected.md)"
-- content: characteristic of a [material entity](material entity.md) that is equipped
-    with communications equipment that is not active or is otherwise unable to send
-    data to or receive data from [connected](connected.md) entities
+- content:
+    eng: characteristic of a [material entity](material entity.md) that is equipped
+      with communications equipment that is not active or is otherwise unable to send
+      data to or receive data from [connected](connected.md) entities
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[unconnected](unconnected.md)"
-- content: characteristic of a [material entity](material entity.md) that is not and
-    has never been equipped with communications equipment for sending data to or receiving
-    data from [connected](connected.md) entities
+- content:
+    eng: characteristic of a [material entity](material entity.md) that is not and
+      has never been equipped with communications equipment for sending data to or
+      receiving data from [connected](connected.md) entities
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -41,6 +45,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: c8430153-f269-5a47-894c-9152537a5d7c
 schema_version: '3'
+---
 ---
 data:
   definition:

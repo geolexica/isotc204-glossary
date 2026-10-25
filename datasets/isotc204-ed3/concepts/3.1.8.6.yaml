@@ -7,16 +7,19 @@ data:
   - ref: fig_functional_object_dot
     display: functional object Diagram
 related:
-- content: groups [some process]
+- content:
+    eng: groups [some process]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [resource]
+- content:
+    eng: subClassOf [resource]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[functional object](functional object.md) that can be replaced and has
-    defined interfaces"
+- content:
+    eng: "[functional object](functional object.md) that can be replaced and has defined
+      interfaces"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -29,6 +32,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 3ced41ee-499f-52aa-bf15-bdf9c5343ec4
 schema_version: '3'
+---
 ---
 data:
   definition:

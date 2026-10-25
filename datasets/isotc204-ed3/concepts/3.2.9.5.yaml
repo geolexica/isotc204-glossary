@@ -7,12 +7,14 @@ data:
   - ref: fig_ITS_S_application_process_installation_dot
     display: ITS-S application process installation Diagram
 related:
-- content: installationOf [some its-sApplicationProcess]
+- content:
+    eng: installationOf [some its-sApplicationProcess]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[ITS-S application process installation](ITS-S application process installation.md)
-    within the [application entity](application entity.md)"
+- content:
+    eng: "[ITS-S application process installation](ITS-S application process installation.md)
+      within the [application entity](application entity.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -25,6 +27,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: b1736d2d-2de4-52fb-a81c-a9839472f887
 schema_version: '3'
+---
 ---
 data:
   definition:

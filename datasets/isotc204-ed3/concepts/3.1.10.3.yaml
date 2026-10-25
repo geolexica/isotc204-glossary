@@ -7,8 +7,9 @@ data:
   - ref: fig_data_dictionary_dot
     display: data dictionary Diagram
 related:
-- content: electronic [data dictionary](data dictionary.md) that follows precise documented
-    rules for the registration and management of stored [data concepts](data concept.md)
+- content:
+    eng: electronic [data dictionary](data dictionary.md) that follows precise documented
+      rules for the registration and management of stored [data concepts](data concept.md)
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -21,6 +22,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: c1003ea4-55cb-5012-b07c-17dc8b25f292
 schema_version: '3'
+---
 ---
 data:
   definition:

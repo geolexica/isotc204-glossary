@@ -7,19 +7,23 @@ data:
   - ref: fig_rideshare_service_dot
     display: rideshare service Diagram
 related:
-- content: attrFinancialModel [has cooperative]
+- content:
+    eng: attrFinancialModel [has cooperative]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: attrOperationalModel [has concurrent]
+- content:
+    eng: attrOperationalModel [has concurrent]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: attrTransportItem [has passengers]
+- content:
+    eng: attrTransportItem [has passengers]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: subClassOf [sharedTransportService]
+- content:
+    eng: subClassOf [sharedTransportService]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -31,6 +35,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 2254b7d4-87ed-59cb-864f-45d4739bd6a4
 schema_version: '3'
+---
 ---
 data:
   definition:

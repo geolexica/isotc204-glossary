@@ -1,3 +1,4 @@
+---
 data:
   identifier: 3.7.6.4
   localized_concepts:
@@ -7,7 +8,8 @@ data:
     source: urn:iso:std:iso:ts:14812
     ref_type: domain
 related:
-- content: section-3-7
+- content:
+    eng: section-3-7
   type: broader
   ref:
     source: ISO/TS 14812
@@ -17,12 +19,13 @@ date_accepted: '2022-04-01T00:00:00+00:00'
 schema_version: '3'
 id: f6fe113f-c79b-58b3-aa37-adc42a690405
 ---
+---
 data:
   definition:
-  - content: '{{urn:iso:std:iso:14812:3.7.1.1,vehicle}} not meeting the legal requirements
+  - content: "{{urn:iso:std:iso:14812:3.7.1.1,vehicle}} not meeting the legal requirements
       to be driven in {{urn:iso:std:iso:14812:3.3.1.13,traffic lane,traffic lanes}}
       or {{urn:iso:std:iso:14812:3.3.3.1,cycle lane,cycle lanes}} of a {{urn:iso:std:iso:14812:3.3.5.2,road
-      network}}'
+      network}}"
   examples: []
   notes: []
   sources:

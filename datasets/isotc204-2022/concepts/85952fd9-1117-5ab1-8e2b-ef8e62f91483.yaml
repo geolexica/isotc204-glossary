@@ -1,3 +1,4 @@
+---
 data:
   identifier: 3.5.9.6
   localized_concepts:
@@ -7,7 +8,8 @@ data:
     source: urn:iso:std:iso:ts:14812
     ref_type: domain
 related:
-- content: section-3-5
+- content:
+    eng: section-3-5
   type: broader
   ref:
     source: ISO/TS 14812
@@ -17,12 +19,13 @@ date_accepted: '2022-04-01T00:00:00+00:00'
 schema_version: '3'
 id: 85952fd9-1117-5ab1-8e2b-ef8e62f91483
 ---
+---
 data:
   definition:
-  - content: '{{urn:iso:std:iso:14812:3.5.9.3,concurrent}} operation where the {{urn:iso:std:iso:14812:3.5.2.2,transport
+  - content: "{{urn:iso:std:iso:14812:3.5.9.3,concurrent}} operation where the {{urn:iso:std:iso:14812:3.5.2.2,transport
       provider}} may choose to divert from its path to service a new request from
       another {{urn:iso:std:iso:14812:3.5.2.3,transport user,transport users}} while
-      servicing an earlier transport user'
+      servicing an earlier transport user"
   examples:
   - content: Ridesplitting.
   notes: []

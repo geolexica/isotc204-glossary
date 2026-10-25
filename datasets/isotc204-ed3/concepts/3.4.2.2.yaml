@@ -7,25 +7,29 @@ data:
   - ref: fig_spatial_reference_dot
     display: spatial reference Diagram
 related:
-- content: specificationOf [some spatialLocation]
+- content:
+    eng: specificationOf [some spatialLocation]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[spatial reference](spatial reference.md) generated on-the-fly based on
-    geographic properties in a digital map database"
+- content:
+    eng: "[spatial reference](spatial reference.md) generated on-the-fly based on
+      geographic properties in a digital map database"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[dynamic spatial reference](dynamic spatial reference.md)"
-- content: "[pre-coded spatial reference](pre-coded spatial reference.md) defined
-    within the [road network](road network.md) database"
+- content:
+    eng: "[pre-coded spatial reference](pre-coded spatial reference.md) defined within
+      the [road network](road network.md) database"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[link location](link location.md)"
-- content: "[spatial reference](spatial reference.md) using a unique identifier that
-    is agreed upon in both the sender and receiver [system](system.md) to select a
-    [location](location.md) from a set of pre-coded locations"
+- content:
+    eng: "[spatial reference](spatial reference.md) using a unique identifier that
+      is agreed upon in both the sender and receiver [system](system.md) to select
+      a [location](location.md) from a set of pre-coded locations"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -38,6 +42,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: aaa8c35c-f621-5f93-a8f5-20ced8563738
 schema_version: '3'
+---
 ---
 data:
   definition:

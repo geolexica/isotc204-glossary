@@ -1,3 +1,4 @@
+---
 data:
   identifier: 3.6.2.5
   localized_concepts:
@@ -7,7 +8,8 @@ data:
     source: urn:iso:std:iso:ts:14812
     ref_type: domain
 related:
-- content: section-3-6
+- content:
+    eng: section-3-6
   type: broader
   ref:
     source: ISO/TS 14812
@@ -17,12 +19,13 @@ date_accepted: '2022-04-01T00:00:00+00:00'
 schema_version: '3'
 id: 3d149712-7c47-5858-9016-b2eb20a71818
 ---
+---
 data:
   definition:
-  - content: '{{urn:iso:std:iso:14812:3.6.2.3,driver}} that performs the {{urn:iso:std:iso:14812:3.7.3.1,dynamic
-      driving task}} without using the {{urn:iso:std:iso:14812:3.7.1.1,vehicle,vehicle''s}}
+  - content: "{{urn:iso:std:iso:14812:3.6.2.3,driver}} that performs the {{urn:iso:std:iso:14812:3.7.3.1,dynamic
+      driving task}} without using the {{urn:iso:std:iso:14812:3.7.1.1,vehicle,vehicle's}}
       {{urn:iso:std:iso:14812:3.7.1.5,built-in vehicle input device,built-in input
-      devices}} to control the longitudinal and lateral movement of the vehicle'
+      devices}} to control the longitudinal and lateral movement of the vehicle"
   examples: []
   notes:
   - content: A remote driver can use a variety of physical input devices, but none

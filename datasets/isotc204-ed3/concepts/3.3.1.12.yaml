@@ -7,24 +7,28 @@ data:
   - ref: fig_lane_dot
     display: lane Diagram
 related:
-- content: "[lane](lane.md) designed for the through movement of cycles"
+- content:
+    eng: "[lane](lane.md) designed for the through movement of cycles"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[cycle lane](cycle lane.md)"
-- content: "[traffic lane](traffic lane.md) restricted to a specific subset of [road
-    vehicles](road vehicle.md) or [user](user.md) categories"
+- content:
+    eng: "[traffic lane](traffic lane.md) restricted to a specific subset of [road
+      vehicles](road vehicle.md) or [user](user.md) categories"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[reserved lane](reserved lane.md)"
-- content: "[footpath](footpath.md) along a [roadside](roadside.md)"
+- content:
+    eng: "[footpath](footpath.md) along a [roadside](roadside.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[sidewalk](sidewalk.md)"
-- content: portion of [carriageway](carriageway.md) designed to accommodate a single
-    line of moving [road vehicles](road vehicle.md)
+- content:
+    eng: portion of [carriageway](carriageway.md) designed to accommodate a single
+      line of moving [road vehicles](road vehicle.md)
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -37,6 +41,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: 3efcd430-ad87-5f57-891f-4b3a6008d52f
 schema_version: '3'
+---
 ---
 data:
   definition:

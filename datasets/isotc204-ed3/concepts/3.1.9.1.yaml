@@ -7,18 +7,21 @@ data:
   - ref: fig_reference_architecture_dot
     display: reference architecture Diagram
 related:
-- content: subClassOf [architecture]
+- content:
+    eng: subClassOf [architecture]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
-- content: "[reference architecture](reference architecture.md) for one or more [ITS
-    services](ITS service.md)"
+- content:
+    eng: "[reference architecture](reference architecture.md) for one or more [ITS
+      services](ITS service.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
     id: "[ITS reference architecture](ITS reference architecture.md)"
-- content: "[reference architecture](reference architecture.md) for handling communications
-    within a [physical object](physical object.md) as defined in ISO 21217"
+- content:
+    eng: "[reference architecture](reference architecture.md) for handling communications
+      within a [physical object](physical object.md) as defined in ISO 21217"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
@@ -31,6 +34,7 @@ date_accepted: '2026-06-01'
 status: valid
 id: f5b65524-4679-50f0-b25d-e7778846f2fb
 schema_version: '3'
+---
 ---
 data:
   definition:
