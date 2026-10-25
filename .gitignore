@@ -1,12 +1,4 @@
-/.bundle/
-/.yardoc/
-/.cache/
+/.cb-content/
 /.datasets/
-/coverage/
-/db/
-/Gemfile.lock
-/pkg/
-/spec/reports/
-/spec/tmp/
-/tmp/
-*.gcr
+/dist/
+/node_modules/

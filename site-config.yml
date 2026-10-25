@@ -1,0 +1,29 @@
+id: isotc204
+domain: isotc204.geolexica.org
+uri_base: https://isotc204.geolexica.org
+base_path: /
+title: ISO/TC 204 Glossary
+subtitle: Intelligent transport systems — Geographic Data Files directory
+description: >-
+  Terminology from ISO/TC 204 (Intelligent transport systems) editions
+  hosted by the Geolexica community.
+ui_languages:
+- code: eng
+  label: English
+datasets:
+- id: isotc204-2025
+  title: ISO/TC 204 Glossary (2025)
+  local_path: datasets/isotc204-2025
+  owner: ISO/TC 204
+  color: '#005ea5'
+- id: isotc204-2022
+  title: ISO/TC 204 Glossary (2022)
+  local_path: datasets/isotc204-2022
+  owner: ISO/TC 204
+  color: '#4a5d23'
+- id: isotc204-ed3
+  title: ISO/TC 204 Glossary (Edition 3)
+  local_path: datasets/isotc204-ed3
+  owner: ISO/TC 204
+  color: '#7a4f00'
+routing: []
