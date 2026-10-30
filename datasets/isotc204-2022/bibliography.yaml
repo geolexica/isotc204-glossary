@@ -84,28 +84,52 @@ bibliography:
   link: http://htg7.org
 - id: iso_std_iso_15704_en
   reference: ISO 15704
+  title: 'Enterprise modelling and architecture — Requirements for enterprise-referencing architectures and methodologies'
+  link: https://www.iso.org/standard/71890.html
 - id: iso_std_iso_iec_10746_en
   reference: ISO/IEC 10746 (all parts)
+  title: 'Information technology — Open distributed processing — Reference model (all parts)'
+  link: https://www.iso.org/standard/20696.html
 - id: ISO_11179_1
   reference: ISO 11179-1
+  title: 'Information technology — Metadata registries (MDR) — Part 1: Framework'
+  link: https://www.iso.org/standard/61932.html
 - id: ISO19505_2_2012
   reference: ISO 19505-2:2012
+  title: 'Information technology — Object Management Group Unified Modeling Language (OMG UML) — Part 2: Superstructure'
+  link: https://www.iso.org/standard/52854.html
 - id: SAE_J3194
   reference: SAE J3194
+  title: 'Taxonomy and Classification of Powered Micromobility Vehicles'
+  link: https://www.sae.org/standards/content/j3194_201911/
 - id: ISO_SAE_22736
   reference: ISO/SAE 22736
+  title: 'Taxonomy and definitions for terms related to driving automation systems for on-road motor vehicles'
+  link: https://www.iso.org/standard/73766.html
 - id: SAE_J3016
   reference: SAE J3016
+  title: 'Taxonomy and Definitions for Terms Related to Driving Automation Systems for On-Road Motor Vehicles'
+  link: https://www.sae.org/standards/content/j3016_202104/
 - id: ISO_IEC_11179_3_2013
   reference: ISO/IEC 11179-3:2013
+  title: 'Information technology — Metadata registries (MDR) — Part 3: Registry metamodel and basic attributes'
+  link: https://www.iso.org/standard/50340.html
 - id: ref_10
   reference: ISO/IEC/IEEE 15288:2015
+  title: 'Systems and software engineering — System life cycle processes'
+  link: https://www.iso.org/standard/63711.html
 - id: ref_11
   reference: ISO/IEC/IEEE 15289:2019
+  title: 'Systems and software engineering — Content of life-cycle information items (documentation)'
+  link: https://www.iso.org/standard/74909.html
 - id: ref_21
   reference: ISO/IEC/IEEE 26515:2018
+  title: 'Systems and software engineering — Developing information for users in an agile environment'
+  link: https://www.iso.org/standard/70880.html
 - id: ref_22
   reference: ISO/IEC/IEEE 42010:2011
+  title: 'Systems and software engineering — Architecture description'
+  link: https://www.iso.org/standard/50508.html
 - id: ref_24
   reference: CCSDS 311.0-M-1:2008
   title: Reference Architecture for Space Data Systems
