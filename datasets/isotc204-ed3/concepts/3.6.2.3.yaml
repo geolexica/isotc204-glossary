@@ -12,6 +12,7 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.1.6
 - content:
     eng: "[driver](driver.md) that performs the [dynamic driving task](dynamic driving
       task.md) using the [vehicle's](vehicle.md) built-in [input devices](input device.md)
@@ -19,7 +20,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[in-vehicle driver](in-vehicle driver.md)"
+    id: 3.6.2.4
 - content:
     eng: "[driver](driver.md) that performs the [dynamic driving task](dynamic driving
       task.md) without using the [vehicle's](vehicle.md) built-in [input devices](input
@@ -27,7 +28,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[remote driver](remote driver.md)"
+    id: 3.6.2.5
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

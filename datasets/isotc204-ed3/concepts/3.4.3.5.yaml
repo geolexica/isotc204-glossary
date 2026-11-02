@@ -12,6 +12,7 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.4.3.7
 - content:
     eng: "[jurisdictional area](jurisdictional area.md) with a [jurisdictional entity](jurisdictional
       entity.md) who is the owner of the area but excluding transport facilities managed
@@ -19,14 +20,14 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[campus](campus.md)"
+    id: 3.4.3.1
 - content:
     eng: transport-related, [jurisdictional area](jurisdictional area.md) whose only
       [jurisdictional entities](jurisdictional entity.md) are governmental entities
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[governmental area](governmental area.md)"
+    id: 3.4.3.2
 date_accepted: '2026-06-01'
 status: valid
 id: 5edfea40-bf5c-5897-9334-ac9481b24c3b

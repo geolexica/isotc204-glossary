@@ -12,6 +12,7 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.7.1.1
 - content:
     eng: "[motorized](motorized vehicle.md) [road vehicle](road vehicle.md) allowed
       to operate in the same [driving spaces](driving space.md) as motorized [passenger](passenger.md)
@@ -19,7 +20,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[motor vehicle](motor vehicle.md)"
+    id: 3.7.6.3
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

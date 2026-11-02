@@ -12,36 +12,43 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.5.7
 - content:
     eng: aggregates [some facilitiesLayer]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.5.5
 - content:
     eng: aggregates [some applicationEntity]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.5.1
 - content:
     eng: aggregates [some managementEntity]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.5.6
 - content:
     eng: aggregates [some transnetLayer]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.5.4
 - content:
     eng: aggregates [some its-sAccessLayer]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.5.3
 - content:
     eng: subClassOf [referenceArchitecture]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.9.1
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

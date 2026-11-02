@@ -12,20 +12,21 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.4.1.2
 - content:
     eng: "[spatial reference](spatial reference.md) generated on-the-fly based on
       geographic properties in a digital map database"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[dynamic spatial reference](dynamic spatial reference.md)"
+    id: 3.4.2.3
 - content:
     eng: "[pre-coded spatial reference](pre-coded spatial reference.md) defined within
       the [road network](road network.md) database"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[link location](link location.md)"
+    id: 3.4.2.5
 - content:
     eng: "[spatial reference](spatial reference.md) using a unique identifier that
       is agreed upon in both the sender and receiver [system](system.md) to select
@@ -33,7 +34,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[pre-coded spatial reference](pre-coded spatial reference.md)"
+    id: 3.4.2.4
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

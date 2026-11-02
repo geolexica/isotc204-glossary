@@ -12,69 +12,73 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.5.2.3
 - content:
     eng: fulfils [some transportUserNeed]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.5.2.4
 - content:
     eng: subClassOf [service]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.5.1.1
 - content:
     eng: transports [some materialEntity]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.1.3
 - content:
     eng: "[shared vehicle service](shared vehicle service.md) that shares bicycles"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[bikesharing service](bikesharing service.md)"
+    id: 3.5.12.1
 - content:
     eng: "[shared vehicle service](shared vehicle service.md) that shares [passenger](passenger.md)
       cars"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[carsharing service](carsharing service.md)"
+    id: 3.5.12.2
 - content:
     eng: "[commercial](commercial.md), [peer-to-peer](peer-to-peer.md) [shared transport
       service](shared transport service.md) that transports goods"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[courier network service](courier network service.md)"
+    id: 3.5.11.7
 - content:
     eng: "[transport service](transport service.md) that is publicly accessible enabling
       the movement of one or more [persons](person.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[public transport](public transport.md)"
+    id: 3.5.6.1
 - content:
     eng: "[cooperative](cooperative.md) [shared transport service](shared transport
       service.md) that transports [passengers](passenger.md) [concurrently](concurrent.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[rideshare service](rideshare service.md)"
+    id: 3.5.11.4
 - content:
     eng: "[commercial](commercial.md), [peer-to-peer](peer-to-peer.md) [shared transport
       service](shared transport service.md) that transports [passengers](passenger.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[ridesourced service](ridesourced service.md)"
+    id: 3.5.11.5
 - content:
     eng: "[ridesourced service](ridesourced service.md) that serves [passengers](passenger.md)
       [concurrently](concurrent.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[ridesplit service](ridesplit service.md)"
+    id: 3.5.11.6
 - content:
     eng: "[transport service](transport service.md) that relies upon the same [resources](resource.md)
       to fulfil the [transport needs](transport need.md) of multiple unrelated [transport
@@ -83,7 +87,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[shared transport service](shared transport service.md)"
+    id: 3.5.6.2
 - content:
     eng: "[transport service](transport service.md) that [sequentially](sequential.md)
       provides the same [vehicles](vehicle.md) to multiple unrelated [transport users](transport
@@ -92,7 +96,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[shared vehicle service](shared vehicle service.md)"
+    id: 3.5.6.3
 - content:
     eng: "[shared transport service](shared transport service.md) that transports
       [passengers](passenger.md) between two specified [spatial locations](spatial
@@ -100,21 +104,21 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[shuttle service](shuttle service.md)"
+    id: 3.5.11.1
 - content:
     eng: "[commercial](commercial.md) [shared transport service](shared transport
       service.md) that transports [passengers](passenger.md) [sequentially](sequential.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[taxi service](taxi service.md)"
+    id: 3.5.11.2
 - content:
     eng: "[commercial](commercial.md) [shared transport service](shared transport
       service.md) that transports [passengers](passenger.md) [concurrently](concurrent.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[taxi-share service](taxi-share service.md)"
+    id: 3.5.11.3
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

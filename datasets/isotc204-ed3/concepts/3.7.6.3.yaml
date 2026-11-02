@@ -12,11 +12,13 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.7.6.2
 - content:
     eng: subClassOf [roadVehicle]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.7.6.1
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

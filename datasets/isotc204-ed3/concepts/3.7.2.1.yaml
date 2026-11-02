@@ -18,14 +18,14 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[high vehicle speed](high vehicle speed.md)"
+    id: 3.7.5.12
 - content:
     eng: "[speed](speed.md) of a [vehicle](vehicle.md) that exceeds [pedestrian](pedestrian.md)
       speeds and is more typical of pedal cycles"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[low vehicle speed](low vehicle speed.md)"
+    id: 3.7.5.8
 - content:
     eng: "[speed](speed.md) of a [vehicle](vehicle.md) that exceeds [moderately-low
       vehicle speeds](moderately-low vehicle speed.md) but does not reach free-flow
@@ -33,14 +33,14 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[moderate vehicle speed](moderate vehicle speed.md)"
+    id: 3.7.5.10
 - content:
     eng: "[speed](speed.md) of a [vehicle](vehicle.md) that is typical of free-flow
       motorway speeds to twice that speed"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[moderately-high vehicle speed](moderately-high vehicle speed.md)"
+    id: 3.7.5.11
 - content:
     eng: "[speed](speed.md) of a [vehicle](vehicle.md) that exceeds speeds typical
       of pedal cycles but can be reached on performance pedal cycles in short bursts
@@ -48,14 +48,14 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[moderately-low vehicle speed](moderately-low vehicle speed.md)"
+    id: 3.7.5.9
 - content:
     eng: "[speed](speed.md) of a [vehicle](vehicle.md) that does not greatly exceed
       typical [pedestrian](pedestrian.md) speeds"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[ultra-low vehicle speed](ultra-low vehicle speed.md)"
+    id: 3.7.5.7
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

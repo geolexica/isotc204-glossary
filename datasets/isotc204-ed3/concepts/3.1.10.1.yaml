@@ -12,11 +12,13 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.1.1
 - content:
     eng: storedIn [some dataDictionary]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.10.3
 - content:
     eng: set of ideas, abstractions or things in the real world that are identified
       with explicit boundaries and meaning and whose properties and behaviour follow
@@ -24,14 +26,14 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[class](class.md)"
+    id: 3.1.11.2
 - content:
     eng: unit of data that is considered in a given context to be indivisible and
       which includes an unambiguous representational form
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[data element](data element.md)"
+    id: 3.1.11.1
 - content:
     eng: specific grouping of [data elements](data element.md) that describes information
       of interest through a useful grouping of more atomic properties about one or
@@ -39,27 +41,27 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[data frame](data frame.md)"
+    id: 3.1.11.4
 - content:
     eng: bi-directional communication sequence between two parties in accordance with
       predetermined protocols
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[interface dialogue](interface dialogue.md)"
+    id: 3.1.11.6
 - content:
     eng: grouping of [data elements](data element.md), [data frames](data frame.md),
       or data elements and data frames that is used to convey information
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[message](message.md)"
+    id: 3.1.11.5
 - content:
     eng: a set of permissible values
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[value domain](value domain.md)"
+    id: 3.1.11.3
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

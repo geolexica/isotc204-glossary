@@ -12,13 +12,14 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.2.1.3
 - content:
     eng: "[personal information device](personal information device.md) that is taken
       with and can be accessed by the [traveller](traveller.md) during a journey"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[nomadic device](nomadic device.md)"
+    id: 3.2.4.3
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

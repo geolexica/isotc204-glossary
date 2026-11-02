@@ -18,28 +18,28 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[lane link](lane link.md)"
+    id: 3.3.5.9
 - content:
     eng: "[link](link.md) that represents a contiguous length of a [lane link](lane
       link.md) characterized by the same physical characteristics"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[lane segment](lane segment.md)"
+    id: 3.3.5.10
 - content:
     eng: "[link](link.md) representing a contiguous length of a [road](road.md) between
       two [nodes](node.md) of operational or managerial significance"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[road link](road link.md)"
+    id: 3.3.5.6
 - content:
     eng: "[link](link.md) that represents a contiguous length of a [road link](road
       link.md) characterized by the same physical characteristics"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[road segment](road segment.md)"
+    id: 3.3.5.8
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

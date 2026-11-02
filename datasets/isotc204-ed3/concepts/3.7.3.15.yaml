@@ -12,18 +12,20 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.7.3.10
 - content:
     eng: subClassOf [vehicle]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.7.1.1
 - content:
     eng: "[ADS-equipped vehicle](ADS-equipped vehicle.md) designed for only driverless
       operation for complete trips"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[ADS-dedicated vehicle](ADS-dedicated vehicle.md)"
+    id: 3.7.3.17
 - content:
     eng: "<driving automation> [ADS-equipped vehicle](ADS-equipped vehicle.md) designed
       for both driverless operation and operation by a conventional [driver](driver.md)
@@ -31,7 +33,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[dual-mode vehicle](dual-mode vehicle.md)"
+    id: 3.7.3.16
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

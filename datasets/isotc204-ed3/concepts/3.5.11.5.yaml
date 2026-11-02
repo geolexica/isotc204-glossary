@@ -12,11 +12,13 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.5.7.5
 - content:
     eng: attrFinancialModel [has commercial]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.5.8.2
 - content:
     eng: attrTransportItem [has passengers]
   type: related_concept
@@ -27,13 +29,14 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.5.6.2
 - content:
     eng: "[ridesourced service](ridesourced service.md) that serves [passengers](passenger.md)
       [concurrently](concurrent.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[ridesplit service](ridesplit service.md)"
+    id: 3.5.11.6
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

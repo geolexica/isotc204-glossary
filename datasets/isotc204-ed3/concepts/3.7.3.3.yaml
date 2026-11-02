@@ -12,11 +12,13 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.7.3.5
 - content:
     eng: mayBeCausedByAViolationOf [some operationalDesignDomain]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.7.3.2
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

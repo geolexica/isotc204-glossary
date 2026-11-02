@@ -13,7 +13,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[data concept registry](data concept registry.md)"
+    id: 3.1.10.4
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

@@ -12,6 +12,7 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.5.9.2
 - content:
     eng: attrVehicleOperator [has transport consumer]
   type: related_concept
@@ -22,19 +23,20 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.5.2.1
 - content:
     eng: "[shared vehicle service](shared vehicle service.md) that shares bicycles"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[bikesharing service](bikesharing service.md)"
+    id: 3.5.12.1
 - content:
     eng: "[shared vehicle service](shared vehicle service.md) that shares [passenger](passenger.md)
       cars"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[carsharing service](carsharing service.md)"
+    id: 3.5.12.2
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

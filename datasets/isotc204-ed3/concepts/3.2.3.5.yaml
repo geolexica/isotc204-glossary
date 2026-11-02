@@ -12,13 +12,14 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.2.3.6
 - content:
     eng: part of [on-board equipment](on-board equipment.md) that provides wireless
       connectivity to other [ITS components](ITS component.md) external to the [vehicle](vehicle.md)
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[ITS on-board unit](ITS on-board unit.md)"
+    id: 3.2.6.2
 - content:
     eng: part of [connected vehicle roadside equipment](connected vehicle roadside
       equipment.md) that provides wireless connectivity to [vehicle systems](vehicle
@@ -26,7 +27,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[roadside unit](roadside unit.md)"
+    id: 3.2.3.4
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

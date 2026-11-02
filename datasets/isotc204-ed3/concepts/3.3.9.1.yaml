@@ -13,7 +13,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[traffic control device](traffic control device.md)"
+    id: 3.3.9.2
 date_accepted: '2026-06-01'
 status: valid
 id: a34b40d7-2961-51c9-a057-f3700c15334e

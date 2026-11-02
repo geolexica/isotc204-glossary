@@ -14,7 +14,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[free-floating](free-floating.md)"
+    id: 3.5.10.4
 - content:
     eng: "<transport service> [operational mode](operational mode.md) where the [transport
       service](transport service.md) is initiated and terminated at two different
@@ -22,7 +22,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[station-based one-way](station-based one-way.md)"
+    id: 3.5.10.3
 - content:
     eng: "<transport service> [operational mode](operational mode.md) where the [transport
       service](transport service.md) is initiated and terminated at the same facility
@@ -30,7 +30,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[station-based roundtrip](station-based roundtrip.md)"
+    id: 3.5.10.2
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

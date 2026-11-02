@@ -12,6 +12,7 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.7.2.1
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

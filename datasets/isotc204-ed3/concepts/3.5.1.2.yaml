@@ -12,31 +12,33 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.5.1.1
 - content:
     eng: subClassOf [entity]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.1.1
 - content:
     eng: "[entity](entity.md) that delivers one or more [ITS services](ITS service.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[ITS service provider](ITS service provider.md)"
+    id: 3.5.3.2
 - content:
     eng: "[ITS-SU](ITS-S unit.md) that delivers one or more [ITS-SU services](ITS-SU
       service.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[ITS-SU service provider](ITS-SU service provider.md)"
+    id: 3.5.4.2
 - content:
     eng: "[entity](entity.md) that delivers one or more [transport services](transport
       service.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[transport provider](transport provider.md)"
+    id: 3.5.2.2
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

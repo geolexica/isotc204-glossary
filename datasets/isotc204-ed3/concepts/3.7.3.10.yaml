@@ -12,23 +12,26 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.7.3.15
 - content:
     eng: performsAllOf [some dynamicDrivingTask]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.7.3.1
 - content:
     eng: subClassOf [drivingAutomationSystem]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.7.3.6
 - content:
     eng: "[ADS](ADS.md) designed with the expectation that the [fallback-ready user](fallback-ready
       user.md) is available to intervene"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[level 3 ADS](level 3 ADS.md)"
+    id: 3.7.3.11
 - content:
     eng: "[ADS](ADS.md) that is capable of operating within a specific [operational
       design domain](operational design domain.md) and providing its own [fallback](fallback.md),
@@ -37,7 +40,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[level 4 ADS](level 4 ADS.md)"
+    id: 3.7.3.12
 - content:
     eng: "[ADS](ADS.md) that is capable of unconditional (i.e. not [operational design
       domain](operational design domain.md)-specific) operation and providing its
@@ -46,7 +49,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[level 5 ADS](level 5 ADS.md)"
+    id: 3.7.3.13
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

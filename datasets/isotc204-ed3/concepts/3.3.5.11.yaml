@@ -12,12 +12,13 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.3.5.1
 - content:
     eng: alley designed to facilitate the provision of services for adjacent locations
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[service alley](service alley.md)"
+    id: 3.3.5.14
 date_accepted: '2026-06-01'
 status: valid
 id: 6783878f-3b64-5f50-b4ad-42a794603596

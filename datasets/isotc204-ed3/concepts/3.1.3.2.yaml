@@ -12,31 +12,37 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.3.6
 - content:
     eng: aggregates [some architectureView]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.3.7
 - content:
     eng: expresses [some architecture]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.3.1
 - content:
     eng: identifies [some stakeholder]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.3.4
 - content:
     eng: identifies [some concern]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.3.5
 - content:
     eng: identifies [some system]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.2.1
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

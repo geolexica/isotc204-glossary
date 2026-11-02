@@ -12,13 +12,14 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.2.9.2
 - content:
     eng: "[ITS-S application process installation](ITS-S application process installation.md)
       within the [application entity](application entity.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[ITS-S application installation](ITS-S application installation.md)"
+    id: 3.2.9.6
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

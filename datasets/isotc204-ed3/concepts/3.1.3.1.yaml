@@ -12,41 +12,42 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.3.10
 - content:
     eng: "[architecture](architecture.md) that provides a vision of a specific deployment
       of a [system](system.md) within a geographic area"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[deployment architecture](deployment architecture.md)"
+    id: 3.1.9.3
 - content:
     eng: "[deployment architecture](deployment architecture.md) for one or more [ITS
       services](ITS service.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[ITS deployment architecture](ITS deployment architecture.md)"
+    id: 3.1.9.7
 - content:
     eng: "[planning architecture](planning architecture.md) for one or more [ITS services](ITS
       service.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[ITS planning architecture](ITS planning architecture.md)"
+    id: 3.1.9.6
 - content:
     eng: "[reference architecture](reference architecture.md) for one or more [ITS
       services](ITS service.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[ITS reference architecture](ITS reference architecture.md)"
+    id: 3.1.9.5
 - content:
     eng: "[reference architecture](reference architecture.md) for handling communications
       within a [physical object](physical object.md) as defined in ISO 21217"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[ITS-S reference architecture](ITS-S reference architecture.md)"
+    id: 3.1.9.4
 - content:
     eng: "[architecture](architecture.md) that provides a long-term vision of system
       [elements](element.md) that may be deployed and managed by different projects
@@ -54,14 +55,14 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[planning architecture](planning architecture.md)"
+    id: 3.1.9.2
 - content:
     eng: "[architecture](architecture.md) that provides a template solution for [planning](planning
       architecture.md) and [deployment architectures](deployment architecture.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[reference architecture](reference architecture.md)"
+    id: 3.1.9.1
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

@@ -18,18 +18,18 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[interchange](interchange.md)"
+    id: 3.3.6.9
 - type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[junction](junction.md)"
+    id: 3.3.6.2
 - content:
     eng: "[junction](junction.md) without any [grade separated manoeuvres](grade separated
       manoeuvre.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[junction at grade](junction at grade.md)"
+    id: 3.3.6.8
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

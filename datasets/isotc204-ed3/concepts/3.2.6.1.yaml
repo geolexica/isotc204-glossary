@@ -12,11 +12,13 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.2.6.2
 - content:
     eng: subClassOf [vehicleSystem]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.2.1.5
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

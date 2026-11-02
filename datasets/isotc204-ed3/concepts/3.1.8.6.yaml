@@ -12,18 +12,20 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.7.2
 - content:
     eng: subClassOf [resource]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.6.2
 - content:
     eng: "[functional object](functional object.md) that can be replaced and has defined
       interfaces"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[module](module.md)"
+    id: 3.1.8.7
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

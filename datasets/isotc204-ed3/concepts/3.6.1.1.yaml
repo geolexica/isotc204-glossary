@@ -12,12 +12,13 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.1.6
 - content:
     eng: "[person](person.md) who is travelling on foot"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[pedestrian](pedestrian.md)"
+    id: 3.6.1.4
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

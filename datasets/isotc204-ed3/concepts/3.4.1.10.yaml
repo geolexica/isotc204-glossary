@@ -12,13 +12,14 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.4.1.3
 - content:
     eng: coordinate tuple defining the geodetic position of a single [point location](point
       location.md) using a known geodetic reference system
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[point coordinates](point coordinates.md)"
+    id: 3.4.1.11
 date_accepted: '2026-06-01'
 status: valid
 id: 1bf653d3-a2e3-56ca-9d93-2e34aef47247

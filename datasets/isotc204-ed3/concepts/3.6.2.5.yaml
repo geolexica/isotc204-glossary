@@ -12,6 +12,7 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.6.2.3
 - content:
     eng: uses [min 1 owl::Thing]
   type: related_concept

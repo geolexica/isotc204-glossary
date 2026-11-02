@@ -12,13 +12,14 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.2.1
 - content:
     eng: "[transport system](transport system.md) designed to move [material entities](material
       entity.md) across the surface or near-surface of the Earth"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[surface transport system](surface transport system.md)"
+    id: 3.1.2.3
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

@@ -17,6 +17,7 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.2.7.4
 - content:
     eng: "[ITS-S node](ITS-S node.md) comprised of [ITS-S](ITS station.md) functionalities
       other than the functionalities of an [ITS-S router](ITS-S router.md), ITS-S
@@ -24,7 +25,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[ITS-S host](ITS-S host.md)"
+    id: 3.2.7.6
 - content:
     eng: "[ITS-S node](ITS-S node.md) comprised of routing functionalities of an [ITS
       station unit](ITS-S unit.md) used to connect two networks and to forward packets
@@ -32,7 +33,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[ITS-S router](ITS-S router.md)"
+    id: 3.2.7.7
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

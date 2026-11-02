@@ -12,6 +12,7 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.2.9.4
 - content:
     eng: "[mobility app](mobility app.md) that assists a [transport user](transport
       user.md) in acquiring a [transport service](transport service.md) from a specific
@@ -19,14 +20,14 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[B2C mobility sharing app](B2C mobility sharing app.md)"
+    id: 3.5.5.2
 - content:
     eng: "[mobility app](mobility app.md) that assists a [transport user](transport
       user.md) to determine the best route to a destination"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[navigation app](navigation app.md)"
+    id: 3.5.5.4
 - content:
     eng: "[mobility app](mobility app.md) that assists a [transport user](transport
       user.md) in acquiring [transport service](transport service.md) from an individual
@@ -34,35 +35,35 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[P2P mobility sharing app](P2P mobility sharing app.md)"
+    id: 3.5.5.5
 - content:
     eng: "[mobility app](mobility app.md) that assists a [transport user](transport
       user.md) in using a [public transport](public transport.md) [system](system.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[public transport app](public transport app.md)"
+    id: 3.5.5.7
 - content:
     eng: "[mobility app](mobility app.md) that provides information about current
       travel conditions to a [transport user](transport user.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[real-time traveller information app](real-time traveller information app.md)"
+    id: 3.5.5.8
 - content:
     eng: "[P2P mobility sharing app](P2P mobility sharing app.md) for acquiring a
       [ridesourced service](ridesourced service.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[ridesourcing app](ridesourcing app.md)"
+    id: 3.5.5.6
 - content:
     eng: "[mobility app](mobility app.md) that assists a [transport user](transport
       user.md) in electronically requesting a taxi"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[taxi hailing app](taxi hailing app.md)"
+    id: 3.5.5.9
 - content:
     eng: "[mobility app](mobility app.md) that assists a [transport user](transport
       user.md) in planning trips that may span multiple vehicle modes or [transport
@@ -70,7 +71,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[trip aggregator app](trip aggregator app.md)"
+    id: 3.5.5.10
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

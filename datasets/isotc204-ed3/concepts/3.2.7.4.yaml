@@ -12,11 +12,13 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.2.7.5
 - content:
     eng: instantiationOf [some itsStation]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.2.7.3
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

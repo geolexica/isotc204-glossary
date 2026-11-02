@@ -12,20 +12,21 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.3.1.2
 - content:
     eng: "[road user](road user.md) who is protected by the body of a motor vehicle
       that meets local safety regulations"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[protected road user](protected road user.md)"
+    id: 3.6.1.6
 - content:
     eng: "[road user](road user.md) who is not protected by the body of a motor vehicle
       that meets local safety regulations"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[vulnerable road user](vulnerable road user.md)"
+    id: 3.6.1.5
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

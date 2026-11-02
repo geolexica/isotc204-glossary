@@ -12,6 +12,7 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.8.2
 - content:
     eng: "[support system](support system.md) that enables trusted communications
       among [ITS components](ITS component.md) and protects data from unauthorized
@@ -19,15 +20,14 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[cooperative ITS credentials management system](cooperative ITS credentials
-      management system.md)"
+    id: 3.2.5.1
 - content:
     eng: "[support system](support system.md) that provides map databases used to
       support [ITS services](ITS service.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[map provision system](map provision system.md)"
+    id: 3.2.5.2
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

@@ -12,12 +12,13 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.4.1.2
 - content:
     eng: area location, which is the destination of a defined route or itinerary
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[area destination](area destination.md)"
+    id: 3.4.1.9
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

@@ -13,7 +13,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[concurrent](concurrent.md)"
+    id: 3.5.9.3
 - content:
     eng: "<transport service> [concurrent](concurrent.md) operation where transported
       items can only be received or delivered at stopping points within a pre-defined
@@ -21,7 +21,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[dynamic route](dynamic route.md)"
+    id: 3.5.9.5
 - content:
     eng: "<transport service> [concurrent](concurrent.md) operation where transported
       items can only be received or delivered at stopping points contained in a pre-defined
@@ -29,7 +29,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[fixed route](fixed route.md)"
+    id: 3.5.9.4
 - content:
     eng: "<transport service> [concurrent](concurrent.md) operation where the [transport
       provider](transport provider.md) may choose to divert from its path to service
@@ -38,14 +38,14 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[paired on-demand](paired on-demand.md)"
+    id: 3.5.9.6
 - content:
     eng: "[operational model](operational model.md) where [services](service.md) are
       provided to a single [user](user.md) at any one time"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[sequential](sequential.md)"
+    id: 3.5.9.2
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

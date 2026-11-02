@@ -12,13 +12,14 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.8.2
 - content:
     eng: "[vehicle system](vehicle system.md) that provides all ITS functionality
       on-board the [vehicle](vehicle.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[ITS on-board equipment](ITS on-board equipment.md)"
+    id: 3.2.6.1
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

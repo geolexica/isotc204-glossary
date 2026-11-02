@@ -27,6 +27,7 @@ module Iso14812Import
         edition: edition,
         content_converter: content_converter,
         figure_registry: figure_registry,
+        source_index: index,
       )
       bibliography = BibliographyBuilder.new
 
@@ -128,7 +129,8 @@ module Iso14812Import
       conv = ContentConverter.new(
         edition: an_edition, source_index: index, figure_registry: fig_reg,
       )
-      ConceptBuilder.new(edition: an_edition, content_converter: conv, figure_registry: fig_reg)
+      ConceptBuilder.new(edition: an_edition, content_converter: conv, figure_registry: fig_reg,
+                         source_index: index)
     end
 
     def register_bibliography(bib, doc)

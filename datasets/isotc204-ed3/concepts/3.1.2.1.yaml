@@ -12,16 +12,19 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.5.1.3
 - content:
     eng: exhibits [some architecture]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.3.1
 - content:
     eng: situatedIn [some environment]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.3.11
 - content:
     eng: "[ITS component](ITS component.md) that provides application, management,
       and/or administrative functions from a centralized [location](location.md) [i.e.
@@ -29,7 +32,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[central system](central system.md)"
+    id: 3.2.1.1
 - content:
     eng: "[ITS roadside equipment](ITS roadside equipment.md) that perform [ITS services](ITS
       service.md) by exchanging electronic [messages](message.md) with nearby [connected
@@ -38,7 +41,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[connected vehicle roadside equipment](connected vehicle roadside equipment.md)"
+    id: 3.2.3.3
 - content:
     eng: subset of [ITS](intelligent transport system.md) where information is shared
       among [ITS stations](ITS station.md) in a manner that enables its use by multiple
@@ -46,7 +49,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[cooperative ITS](cooperative ITS.md)"
+    id: 3.1.2.5
 - content:
     eng: "[support system](support system.md) that enables trusted communications
       among [ITS components](ITS component.md) and protects data from unauthorized
@@ -54,8 +57,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[cooperative ITS credentials management system](cooperative ITS credentials
-      management system.md)"
+    id: 3.2.5.1
 - content:
     eng: "[centre system](central system.md) that allows an [entity](entity.md) to
       manage and respond to crashes, events, disasters, evacuation orders and other
@@ -63,14 +65,14 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[emergency management central system](emergency management central system.md)"
+    id: 3.2.2.1
 - content:
     eng: portable [field system](field system.md) used by field personnel to locally
       troubleshoot, initialize, reprogram and test infrastructure equipment
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[field support equipment](field support equipment.md)"
+    id: 3.2.3.1
 - content:
     eng: infrastructure-based [ITS component](ITS component.md) located outside of
       a data centre that is designed to provide local processing or routing services
@@ -78,15 +80,14 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[field system](field system.md)"
+    id: 3.2.1.2
 - content:
     eng: "[centre system](central system.md) that allows a fleet or freight operator
       to manage and control its personnel, equipment and/or freight"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[fleet and freight management central system](fleet and freight management
-      central system.md)"
+    id: 3.2.2.2
 - content:
     eng: "[system](system.md) comprised of information, communication, sensor and
       control technologies and that is designed to benefit a [surface transport system](surface
@@ -94,7 +95,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[intelligent transport system](intelligent transport system.md)"
+    id: 3.1.2.4
 - content:
     eng: "[physical object](physical object.md) that has been assigned one or more
       [functional objects](functional object.md) in the provision of one or more [ITS
@@ -102,43 +103,42 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[ITS component](ITS component.md)"
+    id: 3.1.8.2
 - content:
     eng: "[vehicle system](vehicle system.md) that provides all ITS functionality
       on-board the [vehicle](vehicle.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[ITS on-board equipment](ITS on-board equipment.md)"
+    id: 3.2.6.1
 - content:
     eng: "[field system](field system.md) that performs localized [ITS services](ITS
       service.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[ITS roadside equipment](ITS roadside equipment.md)"
+    id: 3.2.3.2
 - content:
     eng: "[centre system](central system.md) that allows an [entity](entity.md) to
       monitor and manage the construction and maintenance of [road](road.md) infrastructure"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[maintenance and construction central management system](maintenance and
-      construction central management system.md)"
+    id: 3.2.2.3
 - content:
     eng: "[support system](support system.md) that provides map databases used to
       support [ITS services](ITS service.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[map provision system](map provision system.md)"
+    id: 3.2.5.2
 - content:
     eng: "[personal information device](personal information device.md) that is taken
       with and can be accessed by the [traveller](traveller.md) during a journey"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[nomadic device](nomadic device.md)"
+    id: 3.2.4.3
 - content:
     eng: "[personal system](personal system.md) consisting of global navigation satellite
       system (GNSS) and/or wireless [modules](module.md) that are connected to a [vehicle](vehicle.md)
@@ -146,7 +146,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[nomadic vehicle device](nomadic vehicle device.md)"
+    id: 3.2.4.1
 - content:
     eng: "[centre system](central system.md) that allows an [entity](entity.md) to
       manage financial transactions related to transportation, especially the electronic
@@ -154,14 +154,14 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[payment administration central system](payment administration central system.md)"
+    id: 3.2.2.4
 - content:
     eng: "[personal system](personal system.md) that enables personal access to [traveller](traveller.md)
       information"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[personal information device](personal information device.md)"
+    id: 3.2.4.2
 - content:
     eng: "[ITS component](ITS component.md), other than a [vehicle system](vehicle
       system.md), that is used by a [person](person.md) in relation to a past, current
@@ -169,7 +169,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[personal system](personal system.md)"
+    id: 3.2.1.3
 - content:
     eng: "<physical view> abstraction of a [material entity](material entity.md) that
       interacts with other abstract material entities in the provision of [ITS services](ITS
@@ -177,36 +177,35 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[physical object](physical object.md)"
+    id: 3.1.8.1
 - content:
     eng: "[personal system](personal system.md) that provides public access to [traveller](traveller.md)
       information"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[public information device](public information device.md)"
+    id: 3.2.4.4
 - content:
     eng: "[centre system](central system.md) that allows an [entity](entity.md) to
       manage the activities of a [public transport](public transport.md) agency"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[public transport central management system](public transport central management
-      system.md)"
+    id: 3.2.2.5
 - content:
     eng: "[ITS component](ITS component.md) that provides services in support of one
       or more other ITS components"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[support system](support system.md)"
+    id: 3.2.1.4
 - content:
     eng: "[transport system](transport system.md) designed to move [material entities](material
       entity.md) across the surface or near-surface of the Earth"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[surface transport system](surface transport system.md)"
+    id: 3.1.2.3
 - content:
     eng: "[entity](entity.md) that is external to the [ITS service](ITS service.md)
       implementation but with which the implementation communicates either to obtain
@@ -214,35 +213,35 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[terminator](terminator.md)"
+    id: 3.1.8.3
 - content:
     eng: "[centre system](central system.md) that monitors and controls traffic and
       the [road network](road network.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[traffic management central system](traffic management central system.md)"
+    id: 3.2.2.6
 - content:
     eng: "[centre system](central system.md) that officially records traffic regulations
       in electronic form so that they can be distributed to other systems"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[traffic regulation central system](traffic regulation central system.md)"
+    id: 3.2.2.7
 - content:
     eng: "[centre system](central system.md) that provides information of interest
       to the travelling public"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[transport information central system](transport information central system.md)"
+    id: 3.2.2.8
 - content:
     eng: system of [transport facilities](transport facility.md) and equipment needed
       for a transport system
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[transport infrastructure](transport infrastructure.md)"
+    id: 3.3.7.2
 - content:
     eng: "[system](system.md) of infrastructure [elements](element.md) and optionally
       [vehicles](vehicle.md) that are jointly designed to move [material entities](material
@@ -250,14 +249,14 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[transport system](transport system.md)"
+    id: 3.1.2.2
 - content:
     eng: "[ITS component](ITS component.md) that is installed as a component of a
       [vehicle](vehicle.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[vehicle system](vehicle system.md)"
+    id: 3.2.1.5
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025
