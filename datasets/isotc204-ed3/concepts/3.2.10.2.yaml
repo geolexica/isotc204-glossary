@@ -12,6 +12,7 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.1.3
 date_accepted: '2026-06-01'
 status: valid
 id: a0473baf-8d1c-54ca-b2a4-5ab0062cc56d

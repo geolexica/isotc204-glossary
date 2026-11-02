@@ -12,6 +12,7 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.1.1
 - content:
     eng: "[entity](entity.md) that uses information, communication, and transducer
       technologies to achieve benefits when using a [surface transport system](surface
@@ -19,21 +20,21 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[ITS user](ITS user.md)"
+    id: 3.5.3.3
 - content:
     eng: "[entity](entity.md) that has a need to perform processing within a [bounded,
       secure, managed domain](bounded secured managed domain.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[ITS-SU user](ITS-SU user.md)"
+    id: 3.5.4.3
 - content:
     eng: "[entity](entity.md) that has a desire to transport a [material entity](material
       entity.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[transport user](transport user.md)"
+    id: 3.5.2.3
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

@@ -13,28 +13,28 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[corporate customer model](corporate customer model.md)"
+    id: 3.5.7.2
 - content:
     eng: "[contractual model](contractual model.md) where the [user](user.md) is a
       governmental [entity](entity.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[government customer model](government customer model.md)"
+    id: 3.5.7.4
 - content:
     eng: "<transport service> [private customer model](private customer model.md)
       where the [service provider](service provider.md) is an individual"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[peer-to-peer](peer-to-peer.md)"
+    id: 3.5.7.5
 - content:
     eng: "[contractual model](contractual model.md) where the [user](user.md) is an
       individual"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[private customer model](private customer model.md)"
+    id: 3.5.7.3
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

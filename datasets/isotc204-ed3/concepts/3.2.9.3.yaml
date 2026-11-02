@@ -12,11 +12,13 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.5.1
 - content:
     eng: subClassOf [its-sApplicationProcess]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.2.9.2
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

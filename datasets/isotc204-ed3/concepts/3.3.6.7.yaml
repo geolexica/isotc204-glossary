@@ -12,18 +12,20 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.3.6.3
 - content:
     eng: to [some egressLane]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.3.6.5
 - content:
     eng: manoeuvre that is vertically separated from one or more manoeuvres that cross
       its two-dimensional path
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[grade separated manoeuvre](grade separated manoeuvre.md)"
+    id: 3.3.6.10
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

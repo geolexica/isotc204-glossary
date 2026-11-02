@@ -12,11 +12,13 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.5.4.4
 - content:
     eng: subClassOf [user]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.5.1.3
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

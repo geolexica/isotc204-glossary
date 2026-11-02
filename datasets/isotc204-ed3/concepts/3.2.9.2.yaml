@@ -12,18 +12,20 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.2.7.3
 - content:
     eng: performsInformationProcessingFor [some its-sService]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.5.4.5
 - content:
     eng: "[ITS-S application process](ITS-S application process.md) residing in the
       [application entity](application entity.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[ITS-S application](ITS-S application.md)"
+    id: 3.2.9.3
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

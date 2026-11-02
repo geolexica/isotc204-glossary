@@ -12,11 +12,13 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.5.9.3
 - content:
     eng: subClassOf [ridesourcedService]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.5.11.5
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

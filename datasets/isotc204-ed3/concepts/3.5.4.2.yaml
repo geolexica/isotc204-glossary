@@ -12,16 +12,19 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.5.4.1
 - content:
     eng: isA [some its-sUnit]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.2.7.4
 - content:
     eng: subClassOf [serviceProvider]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.5.1.2
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

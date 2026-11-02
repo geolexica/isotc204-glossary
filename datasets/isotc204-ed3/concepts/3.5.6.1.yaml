@@ -12,6 +12,7 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.5.8.3
 - content:
     eng: attrTransportItem [has passengers]
   type: related_concept
@@ -22,6 +23,7 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.5.2.1
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

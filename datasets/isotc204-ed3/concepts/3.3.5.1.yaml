@@ -12,7 +12,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[alley](alley.md)"
+    id: 3.3.5.11
 - content:
     eng: "[road](road.md) with separate carriageways for each direction, with limited
       access that prevents cross traffic on the same level, and for the exclusive
@@ -20,19 +20,19 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[motorway](motorway.md)"
+    id: 3.3.1.21
 - content:
     eng: alley designed to facilitate the provision of services for adjacent locations
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[service alley](service alley.md)"
+    id: 3.3.5.14
 - content:
     eng: road designed to facilitate the provision of services to customers
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[service road](service road.md)"
+    id: 3.3.5.13
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

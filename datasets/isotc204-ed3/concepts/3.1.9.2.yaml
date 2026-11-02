@@ -12,13 +12,14 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.3.1
 - content:
     eng: "[planning architecture](planning architecture.md) for one or more [ITS services](ITS
       service.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[ITS planning architecture](ITS planning architecture.md)"
+    id: 3.1.9.6
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

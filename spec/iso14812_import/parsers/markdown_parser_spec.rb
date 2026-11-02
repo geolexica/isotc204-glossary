@@ -60,11 +60,17 @@ RSpec.describe Iso14812Import::Parsers::MarkdownParser do
     expect(predicates).to include("involves", "realizationOf")
   end
 
+  it "takes a relationship's target class from the end of its constraint" do
+    doc = parser.documents.first
+    targets = doc.relationships.to_h { |r| [r.predicate, r.target_name] }
+    expect(targets).to include("realizationOf" => "itsService", "involves" => "owl::Thing")
+  end
+
   it "extracts the specialization table" do
     doc = parser.documents.first
     expect(doc.specializations.length).to eq(1)
     spec = doc.specializations.first
-    expect(spec.target_name).to include("Personal ITS application")
+    expect(spec.target_name).to eq("Personal ITS application")
     expect(spec.description).to include("for a single")
   end
 end

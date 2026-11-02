@@ -13,7 +13,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[central reservation](central reservation.md)"
+    id: 3.3.2.2
 - content:
     eng: "[physical traffic separator](physical traffic separator.md) that consists
       of a wall with a wide, sloped base designed to divert [vehicles](vehicle.md)
@@ -21,14 +21,14 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[Jersey barrier](Jersey barrier.md)"
+    id: 3.3.2.3
 - content:
     eng: 'physical traffic separator, usually upstanding, at the edge of a carriageway,
       hard strip, hard shoulder, or footway Note 1 to entry: "Curb" is the US spelling.'
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[kerb](kerb.md)"
+    id: 3.3.2.4
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

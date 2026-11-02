@@ -13,14 +13,14 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[hard shoulder](hard shoulder.md)"
+    id: 3.3.1.19
 - content:
     eng: unpaved part of the [road reservation](road reservation.md) not belonging
       to the [carriageway](carriageway.md) but providing lateral support to it
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[soft shoulder](soft shoulder.md)"
+    id: 3.3.1.20
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

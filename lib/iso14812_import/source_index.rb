@@ -2,7 +2,7 @@
 
 module Iso14812Import
   class SourceIndex
-    attr_reader :edition_id, :by_clause, :by_name, :by_guid
+    attr_reader :edition_id, :by_clause, :by_name, :by_guid, :by_key
 
     def self.build(edition, documents)
       new(
@@ -19,6 +19,17 @@ module Iso14812Import
       @by_clause = by_clause
       @by_name = by_name
       @by_guid = by_guid
+      @by_key = by_name.values.each_with_object({}) { |d, h| h[self.class.key(d.name)] ||= d }
+    end
+
+    # Resolves a concept name as it appears in a link label or an OWL
+    # class name ("material entity", "materialEntity") to its clause.
+    def clause_for(name)
+      by_key[self.class.key(name)]&.clause
+    end
+
+    def self.key(name)
+      name.to_s.downcase.gsub(/[^a-z0-9]/, "")
     end
 
     def lookup(clause: nil, name: nil, guid: nil)

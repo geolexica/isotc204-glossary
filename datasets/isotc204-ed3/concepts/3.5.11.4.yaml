@@ -12,11 +12,13 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.5.8.4
 - content:
     eng: attrOperationalModel [has concurrent]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.5.9.3
 - content:
     eng: attrTransportItem [has passengers]
   type: related_concept
@@ -27,6 +29,7 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.5.6.2
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

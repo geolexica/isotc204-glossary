@@ -12,6 +12,7 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.2.1.2
 - content:
     eng: "[ITS roadside equipment](ITS roadside equipment.md) that perform [ITS services](ITS
       service.md) by exchanging electronic [messages](message.md) with nearby [connected
@@ -20,7 +21,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[connected vehicle roadside equipment](connected vehicle roadside equipment.md)"
+    id: 3.2.3.3
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

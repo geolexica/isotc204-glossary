@@ -12,6 +12,7 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.5.1.3
 - content:
     eng: "[user need](user need.md) for a [surface transport system](surface transport
       system.md) benefit that can be met with the use of information, communication,
@@ -19,21 +20,21 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[ITS user need](ITS user need.md)"
+    id: 3.5.3.4
 - content:
     eng: "[user need](user need.md) for processing within a [bounded, secure, managed
       domain](bounded secured managed domain.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[ITS-SU user need](ITS-SU user need.md)"
+    id: 3.5.4.4
 - content:
     eng: "[user need](user need.md) to transport one or more [material entities](material
       entity.md) to a different [spatial location](spatial location.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[transport user need](transport user need.md)"
+    id: 3.5.2.4
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

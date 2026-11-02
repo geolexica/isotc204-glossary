@@ -13,14 +13,14 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[bridge](bridge.md)"
+    id: 3.3.7.3
 - content:
     eng: "[bridge](bridge.md) with a deck that can be moved in a way that disrupts
       the continuous travel path"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[movable bridge](movable bridge.md)"
+    id: 3.3.7.4
 date_accepted: '2026-06-01'
 status: valid
 id: 8ac6acd5-e846-5e98-b21f-a7a0f6b96dd8

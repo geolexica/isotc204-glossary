@@ -12,16 +12,19 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.7.3.4
 - content:
     eng: operatesWithinA [some operationalDesignDomain]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.7.3.2
 - content:
     eng: subClassOf [ads]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.7.3.10
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

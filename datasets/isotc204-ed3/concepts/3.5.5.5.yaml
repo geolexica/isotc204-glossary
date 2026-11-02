@@ -12,13 +12,14 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.5.5.1
 - content:
     eng: "[P2P mobility sharing app](P2P mobility sharing app.md) for acquiring a
       [ridesourced service](ridesourced service.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[ridesourcing app](ridesourcing app.md)"
+    id: 3.5.5.6
 date_accepted: '2026-06-01'
 status: valid
 id: 8cd77fd8-b1d8-5453-aad9-78f26726b1be

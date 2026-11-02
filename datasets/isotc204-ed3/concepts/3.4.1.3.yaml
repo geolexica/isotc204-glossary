@@ -12,18 +12,19 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.4.1.2
 - content:
     eng: well defined geographic place described by one coordinate tuple
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[geographic point location](geographic point location.md)"
+    id: 3.4.1.4
 - content:
     eng: point location, which is the destination of a defined route or itinerary
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[point destination](point destination.md)"
+    id: 3.4.1.8
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

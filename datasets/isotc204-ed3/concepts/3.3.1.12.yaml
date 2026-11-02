@@ -12,27 +12,27 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[cycle lane](cycle lane.md)"
+    id: 3.3.3.1
 - content:
     eng: "[traffic lane](traffic lane.md) restricted to a specific subset of [road
       vehicles](road vehicle.md) or [user](user.md) categories"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[reserved lane](reserved lane.md)"
+    id: 3.3.1.14
 - content:
     eng: "[footpath](footpath.md) along a [roadside](roadside.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[sidewalk](sidewalk.md)"
+    id: 3.3.3.4
 - content:
     eng: portion of [carriageway](carriageway.md) designed to accommodate a single
       line of moving [road vehicles](road vehicle.md)
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[traffic lane](traffic lane.md)"
+    id: 3.3.1.13
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

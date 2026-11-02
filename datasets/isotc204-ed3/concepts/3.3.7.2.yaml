@@ -12,11 +12,13 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.2.1
 - content:
     eng: systemOf [some transportFacility]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.3.7.1
 date_accepted: '2026-06-01'
 status: valid
 id: 9f8666cc-4134-5926-8108-7e7b61927389

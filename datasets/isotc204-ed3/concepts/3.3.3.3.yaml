@@ -12,7 +12,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[escalator](escalator.md)"
+    id: 3.3.3.5
 - content:
     eng: 'footpath consisting of a conveyor belt for pedestrians Note 1 to entry:
       Moving walkways are often used in airports with long footpaths Note 2 to entry:
@@ -21,20 +21,20 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[moving walkway](moving walkway.md)"
+    id: 3.3.3.6
 - content:
     eng: physically marked location to enhance the safety of pedestrians crossing
       one or more lanes of a different mode of travel
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[pedestrian crossing](pedestrian crossing.md)"
+    id: 3.3.3.7
 - content:
     eng: "[footpath](footpath.md) along a [roadside](roadside.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[sidewalk](sidewalk.md)"
+    id: 3.3.3.4
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

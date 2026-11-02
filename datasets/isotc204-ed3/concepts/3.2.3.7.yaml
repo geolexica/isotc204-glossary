@@ -12,11 +12,13 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.2.3.6
 - content:
     eng: subClassOf [vehicle]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.7.1.1
 date_accepted: '2026-06-01'
 status: valid
 id: 8542d2f2-5101-57cf-ae26-e038b26eae04

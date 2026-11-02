@@ -10,12 +10,13 @@ module Iso14812Import
     # files that lose UUID-vs-identifier distinction on round-trip.
     V3 = Glossarist::V3
 
-    attr_reader :edition, :content_converter, :figure_registry
+    attr_reader :edition, :content_converter, :figure_registry, :source_index
 
-    def initialize(edition:, content_converter:, figure_registry:)
+    def initialize(edition:, content_converter:, figure_registry:, source_index: nil)
       @edition = edition
       @content_converter = content_converter
       @figure_registry = figure_registry
+      @source_index = source_index
     end
 
     def build(document)
@@ -133,25 +134,37 @@ module Iso14812Import
       rels = Array(document.relationships).map do |raw|
         attrs = RelationshipMapper.map(
           raw.predicate,
-          target_clause: raw.target_name,
+          target_clause: target_clause(raw.target_name),
           edition_urn: edition.urn,
           description: raw.description,
           constraint: raw.constraint,
         )
         ref_hash = attrs.delete(:ref) || {}
         attrs[:ref] = Glossarist::V3::ConceptRef.new(source: ref_hash[:source], id: ref_hash[:id])
+        attrs[:content] = localized(attrs[:content]) if attrs.key?(:content)
         V3::RelatedConcept.new(**attrs)
       end
 
       specs = Array(document.specializations).map do |spec|
         V3::RelatedConcept.new(
           type: "narrower",
-          ref: Glossarist::V3::ConceptRef.new(source: edition.urn, id: spec.target_name),
-          content: spec.description,
+          ref: Glossarist::V3::ConceptRef.new(source: edition.urn, id: target_clause(spec.target_name)),
+          content: localized(spec.description),
         )
       end
 
-      rels + specs
+      (rels + specs).uniq { |r| [r.type, r.ref&.id, r.content] }
+    end
+
+    # RelatedConcept#content is lang-keyed since glossarist 2.13.
+    def localized(text)
+      text && { LANGUAGE_ENG => text }
+    end
+
+    # A target with no concept in this edition (e.g. "owl::Thing") keeps
+    # only its content, never a name posing as a clause id.
+    def target_clause(name)
+      source_index&.clause_for(name)
     end
 
     def domain_refs(document)

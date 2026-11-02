@@ -12,13 +12,14 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.3.8.3
 - content:
     eng: "[designated parking space](designated parking space.md) that requires a
       special permit from an appropriate authority"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[parking space for permit holders](parking space for permit holders.md)"
+    id: 3.3.8.4
 date_accepted: '2026-06-01'
 status: valid
 id: 3eb55395-dd91-5c75-bc08-122a4868c863

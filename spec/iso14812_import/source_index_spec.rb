@@ -56,6 +56,37 @@ RSpec.describe Iso14812Import::SourceIndex do
     end
   end
 
+  describe "#clause_for" do
+    let(:docs) do
+      [
+        Iso14812Import::Document.new(
+          edition: edition, clause: "3.1.1.3", name: "material entity",
+          alt_names: [], examples: [], notes: [], sources: [], relationships: [],
+          specializations: [], figures: [], breadcrumb_sections: [], history_notes: [],
+        ),
+        Iso14812Import::Document.new(
+          edition: edition, clause: "3.7.3.15", name: "ADS-equipped vehicle",
+          alt_names: [], examples: [], notes: [], sources: [], relationships: [],
+          specializations: [], figures: [], breadcrumb_sections: [], history_notes: [],
+        ),
+      ]
+    end
+
+    it "resolves a link label" do
+      expect(index.clause_for("ADS-equipped vehicle")).to eq("3.7.3.15")
+    end
+
+    it "resolves an OWL class name" do
+      expect(index.clause_for("materialEntity")).to eq("3.1.1.3")
+      expect(index.clause_for("adsEquippedVehicle")).to eq("3.7.3.15")
+    end
+
+    it "returns nil for a class with no concept" do
+      expect(index.clause_for("owl::Thing")).to be_nil
+      expect(index.clause_for(nil)).to be_nil
+    end
+  end
+
   describe "#clauses, #names, #size" do
     it "returns the expected sets" do
       expect(index.clauses).to contain_exactly("3.1.1.5", "3.1.1.1")

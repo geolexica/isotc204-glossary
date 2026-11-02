@@ -12,16 +12,19 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.7.3.2
 - content:
     eng: providesItsOwn [some fallback]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.7.3.3
 - content:
     eng: subClassOf [ads]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.7.3.10
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

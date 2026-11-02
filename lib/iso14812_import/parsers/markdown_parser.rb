@@ -271,9 +271,9 @@ module Iso14812Import
           rows = parse_markdown_table(@table_buffer)
           case @table_kind
           when :specialization
-            rows.each { |row| @specializations << Iso14812Import::Specialization.new(target_name: row[0], description: row[1]) }
+            rows.each { |row| @specializations << Iso14812Import::Specialization.new(target_name: link_label(row[0]), description: row[1]) }
           when :relationship
-            rows.each { |row| @relationships << Iso14812Import::RawRelationship.new(predicate: row[0], target_name: nil, constraint: row[1], description: nil) }
+            rows.each { |row| @relationships << Iso14812Import::RawRelationship.new(predicate: row[0], target_name: constraint_class(row[1]), constraint: row[1], description: nil) }
           when :skip
             # "## References to X" table — reverse relationships; data is
             # derivable from forward relationships in other concepts.
@@ -307,6 +307,17 @@ module Iso14812Import
 
         def split_alt_terms(text)
           text.split(/,|;|\bor\b/i).map(&:strip).reject(&:empty?)
+        end
+
+        # "[ADS-equipped vehicle](ADS-equipped vehicle.md)" -> "ADS-equipped vehicle"
+        def link_label(cell)
+          cell.to_s[/\A\s*\[([^\]]+)\]/, 1] || cell.to_s.strip
+        end
+
+        # The class is the last word of an OWL constraint:
+        # "some materialEntity" -> "materialEntity", "exactly 1 owl::Thing" -> "owl::Thing"
+        def constraint_class(cell)
+          cell.to_s.split.last
         end
 
         def parse_markdown_table(rows)

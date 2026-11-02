@@ -13,14 +13,14 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[commercial](commercial.md)"
+    id: 3.5.8.2
 - content:
     eng: type of [financial model](financial model.md) where [users](user.md) partner
       to defray the costs of [services](service.md)
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[cooperative](cooperative.md)"
+    id: 3.5.8.4
 - content:
     eng: "<transport service> [cooperative](cooperative.md) [financial model](financial
       model.md) where [users](user.md) partner to support the purchase, maintenance
@@ -28,21 +28,21 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[fractional ownership](fractional ownership.md)"
+    id: 3.5.8.6
 - content:
     eng: "[cooperative](cooperative.md) [financial model](financial model.md) where
       [users](user.md) partner on a per-use basis"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[mutual benefit](mutual benefit.md)"
+    id: 3.5.8.5
 - content:
     eng: "<transport service> [financial model](financial model.md) where [services](service.md)
       are provided to members of the owning organization without usage fees"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[private](private.md)"
+    id: 3.5.8.7
 - content:
     eng: type of [financial model](financial model.md) where [services](service.md)
       are provided by an administrative authority in an attempt to better serve societal
@@ -50,7 +50,7 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[public](public.md)"
+    id: 3.5.8.3
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

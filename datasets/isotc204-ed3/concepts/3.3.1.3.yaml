@@ -12,24 +12,25 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.3.1.6
 - content:
     eng: having exactly two [carriageways](carriageway.md)
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[dual carriageway](dual carriageway.md)"
+    id: 3.3.1.8
 - content:
     eng: having more than one [carriageway](carriageway.md)
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[multiple carriageway](multiple carriageway.md)"
+    id: 3.3.1.9
 - content:
     eng: having exactly one [carriageway](carriageway.md)
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[single carriageway](single carriageway.md)"
+    id: 3.3.1.7
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

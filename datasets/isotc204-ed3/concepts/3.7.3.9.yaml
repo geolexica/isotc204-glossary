@@ -12,11 +12,13 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.7.3.2
 - content:
     eng: subClassOf [driverSupportSystem]
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.7.3.7
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

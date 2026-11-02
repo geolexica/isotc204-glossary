@@ -12,20 +12,21 @@ related:
   type: broader
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.1.3.1
 - content:
     eng: "[reference architecture](reference architecture.md) for one or more [ITS
       services](ITS service.md)"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[ITS reference architecture](ITS reference architecture.md)"
+    id: 3.1.9.5
 - content:
     eng: "[reference architecture](reference architecture.md) for handling communications
       within a [physical object](physical object.md) as defined in ISO 21217"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[ITS-S reference architecture](ITS-S reference architecture.md)"
+    id: 3.1.9.4
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

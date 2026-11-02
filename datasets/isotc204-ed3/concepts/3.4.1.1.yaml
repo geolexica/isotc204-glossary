@@ -12,46 +12,46 @@ related:
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[area destination](area destination.md)"
+    id: 3.4.1.9
 - content:
     eng: "[spatial location](spatial location.md) enclosed within a two-dimensional
       boundary or boundaries across a defined surface"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[area location](area location.md)"
+    id: 3.4.1.6
 - content:
     eng: well defined geographic place described by one coordinate tuple
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[geographic point location](geographic point location.md)"
+    id: 3.4.1.4
 - content:
     eng: "[spatial location](spatial location.md) that extends between two [point
       locations](point location.md) along a defined path"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[linear location](linear location.md)"
+    id: 3.4.1.5
 - content:
     eng: point location, which is the destination of a defined route or itinerary
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[point destination](point destination.md)"
+    id: 3.4.1.8
 - content:
     eng: "[spatial location](spatial location.md) with no length in any of the spatial
       dimensions"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[point location](point location.md)"
+    id: 3.4.1.3
 - content:
     eng: "[location](location.md) within three-dimensional space"
   type: narrower
   ref:
     source: urn:iso:std:iso:14812:ed3
-    id: "[spatial location](spatial location.md)"
+    id: 3.4.1.2
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025

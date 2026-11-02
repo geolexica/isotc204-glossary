@@ -12,16 +12,19 @@ related:
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.3.5.5
 - content:
     eng: constitutes [some node]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.3.5.4
 - content:
     eng: represents [some roadNetwork]
   type: related_concept
   ref:
     source: urn:iso:std:iso:14812:ed3
+    id: 3.3.5.2
 - type: supersedes
   ref:
     source: urn:iso:std:iso:14812:2025
